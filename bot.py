@@ -1,11 +1,14 @@
+import os
 import discord
 from discord.ext import commands
 import json
 
+TOKEN = os.getenv("DISCORD_TOKEN")
+
 intents = discord.Intents.default()
+intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-# Load mob data
 with open("mobs.json", "r") as f:
     mobs = json.load(f)
 
@@ -13,7 +16,6 @@ with open("mobs.json", "r") as f:
 async def on_ready():
     print(f"Logged in as {bot.user}")
 
-# Command: !boss gelebron
 @bot.command()
 async def boss(ctx, *, name: str):
     name = name.lower()
@@ -33,7 +35,7 @@ async def boss(ctx, *, name: str):
             dmg = mob.get("damage", {})
             embed.add_field(
                 name="Damage",
-                value=f"Magic: {dmg.get('magic',0)} | Chaos: {dmg.get('chaos',0)}",
+                value=f"Magic: {dmg.get('magic', 0)} | Chaos: {dmg.get('chaos', 0)}",
                 inline=False
             )
 
@@ -42,4 +44,4 @@ async def boss(ctx, *, name: str):
 
     await ctx.send("Boss not found 😢")
 
-bot.run("YOUR_TOKEN_HERE")
+bot.run(TOKEN)
