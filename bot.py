@@ -104,7 +104,7 @@ combat_stats = (
 
 misc_stats = f"😠 **Opinion:** {str(mob.get('opinion', 'N/A')).title()}"
 
-   damage_resist = (
+damage_resist = (
     f"🗡️ **Pierce:** {fmt_num(damage.get('pierce'))} / {fmt_resist(resist.get('pierce'))}\n"
     f"⚔️ **Slash:** {fmt_num(damage.get('slash'))} / {fmt_resist(resist.get('slash'))}\n"
     f"🔨 **Crush:** {fmt_num(damage.get('crush'))} / {fmt_resist(resist.get('crush'))}\n"
