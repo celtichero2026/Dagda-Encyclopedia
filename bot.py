@@ -152,5 +152,64 @@ async def dbstats(ctx):
         drops = conn.execute('SELECT COUNT(*) FROM mob_drops').fetchone()[0]
     await ctx.send(f'📚 Grimoire DB: **{mobs:,} mobs**, **{spawns:,} spawns**, **{drops:,} drop rows**')
 
+@bot.command()
+async def drops(ctx, *, name: str):
+    mob_data = find_mob(name)
+
+    if not mob_data:
+        await ctx.send("Mob not found.")
+        return
+
+    with get_db() as conn:
+        rows = conn.execute(
+            """
+            SELECT item_name, item_id
+            FROM mob_drops
+            WHERE mob_id = ?
+            ORDER BY item_name
+            """,
+            (mob_data["id"],),
+        ).fetchall()
+
+    if not rows:
+        await ctx.send(f"No drops found for **{mob_data['name']}**.")
+        return
+
+    # Remove duplicate drops
+    seen = set()
+    drops = []
+    for row in rows:
+        key = (row["item_name"], row["item_id"])
+        if key not in seen:
+            seen.add(key)
+            drops.append(f"• **{row['item_name']}** `{row['item_id']}`")
+
+    # Discord embed fields max around 1024 chars, so chunk it
+    chunks = []
+    current = ""
+
+    for drop in drops:
+        if len(current) + len(drop) + 1 > 1000:
+            chunks.append(current)
+            current = drop
+        else:
+            current += "\n" + drop if current else drop
+
+    if current:
+        chunks.append(current)
+
+    embed = discord.Embed(
+        title=f"Drops: {mob_data['name']}",
+        description=f"Mob ID: `{mob_data['id']}`\nUnique drops: **{len(drops):,}**",
+        color=discord.Color.gold()
+    )
+
+    for i, chunk in enumerate(chunks[:5], start=1):
+        embed.add_field(name=f"Drop List {i}", value=chunk, inline=False)
+
+    if len(chunks) > 5:
+        embed.set_footer(text=f"Showing first 5 pages. {len(drops):,} total unique drops.")
+
+    await ctx.send(embed=embed)
 
 bot.run(TOKEN)
