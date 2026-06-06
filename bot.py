@@ -21,6 +21,39 @@ ALIASES = {
     "crom": "crom",
 }
 
+BOSSES = {
+    "mordris": {"id": 73000, "name": "Mordris", "aliases": ["mord"], "window": "20h - 36h"},
+    "hrungnir": {"id": 73708, "name": "Hrungnir", "aliases": ["hrung"], "window": "22h - 38h"},
+    "efnisien": {"id": 100002, "name": "Efnisien The Necromancer", "aliases": ["necro", "necromancer"], "window": "22h - 38h"},
+    "gelebron": {"id": 102982, "name": "Gelebron", "aliases": ["gele"], "window": "32h - 60h"},
+    "proteus base": {"id": 103027, "name": "Proteus Base", "aliases": ["prot base", "base"], "window": "18h - 18h 15m"},
+    "proteus prime": {"id": 103028, "name": "Proteus Prime", "aliases": ["prot prime", "prime"], "window": "18h - 18h 15m"},
+    "bloodthorn": {"id": 141966, "name": "Bloodthorn The Ravenous", "aliases": ["bt"], "window": "34h - 62h"},
+    "dhiothu": {"id": 142027, "name": "Dhiothu", "aliases": ["dhio", "dino"], "window": "34h - 62h"},
+    "crom": {"id": 200490, "name": "Crom's Hellborne Manikin", "aliases": ["manikin", "hellborne"], "window": "96h - 104h"},
+}
+
+
+def find_boss(query: str):
+    search = query.lower().strip()
+    search = ALIASES.get(search, search)
+
+    for key, boss in BOSSES.items():
+        if search == key or search == str(boss["id"]):
+            return boss
+
+        if search == boss["name"].lower():
+            return boss
+
+        if search in boss.get("aliases", []):
+            return boss
+
+    for key, boss in BOSSES.items():
+        if search in key or search in boss["name"].lower():
+            return boss
+
+    return None
+
 if not TOKEN:
     raise ValueError('Missing DISCORD_TOKEN environment variable')
 
@@ -294,5 +327,58 @@ async def item_lookup(ctx, *, query: str):
 @bot.command(name="who_drops", aliases=["whodrops", "source", "sources"])
 async def who_drops(ctx, *, query: str):
     await item_lookup(ctx, query=query)
+
+@bot.command()
+async def boss(ctx, *, query: str):
+    boss_info = find_boss(query)
+
+    if not boss_info:
+        await ctx.send("Boss not found.")
+        return
+
+    mob_data = find_mob(boss_info["name"])
+
+    with get_db() as conn:
+        drop_count = conn.execute(
+            """
+            SELECT COUNT(DISTINCT item_id)
+            FROM mob_drops
+            WHERE mob_id = ?
+            """,
+            (boss_info["id"],),
+        ).fetchone()[0]
+
+    embed = discord.Embed(
+        title=boss_info["name"],
+        color=discord.Color.dark_gold()
+    )
+
+    embed.add_field(name="Boss ID", value=f"`{boss_info['id']}`", inline=True)
+    embed.add_field(name="Respawn Window", value=boss_info["window"], inline=True)
+    embed.add_field(name="Known Unique Drops", value=f"{drop_count:,}", inline=True)
+
+    if mob_data:
+        embed.add_field(
+            name="Stats",
+            value=(
+                f"Level: **{fmt_num(mob_data.get('level'))}**\n"
+                f"HP: **{fmt_num(mob_data.get('health'))}**\n"
+                f"Attack: **{fmt_num(mob_data.get('attack'))}**\n"
+                f"Defence: **{fmt_num(mob_data.get('defence'))}**"
+            ),
+            inline=True
+        )
+
+    embed.add_field(
+        name="Commands",
+        value=(
+            f"`!mob {boss_info['name']}`\n"
+            f"`!drops {boss_info['name']}`\n"
+            f"`!item <item name or id>`"
+        ),
+        inline=False
+    )
+
+    await ctx.send(embed=embed)
 
 bot.run(TOKEN)
