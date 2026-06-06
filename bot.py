@@ -369,15 +369,18 @@ async def boss(ctx, *, query: str):
             inline=True
         )
 
-    embed.add_field(
-        name="Commands",
-        value=(
-            f"`!mob {boss_info['name']}`\n"
-            f"`!drops {boss_info['name']}`\n"
-            f"`!item <item name or id>`"
-        ),
-        inline=False
-    )
+        user_alias = query.lower().strip()
+        
+        embed.add_field(
+            name="Useful Commands",
+            value=(
+                f"• `!mob {user_alias}`\n"
+                f"• `!drops {user_alias}`\n"
+                f"• `!boss {user_alias}`\n"
+                f"• `!item <item name or id>`"
+            ),
+            inline=False
+        )
 
     await ctx.send(embed=embed)
 
