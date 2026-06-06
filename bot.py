@@ -6,6 +6,21 @@ from discord.ext import commands
 TOKEN = os.getenv('DISCORD_TOKEN')
 DB_PATH = os.getenv('GRIMOIRE_DB', 'grimoire.db')
 
+ALIASES = {
+    "smol": "smolach",
+    "bt": "bloodthorn",
+    "dhio": "dhiothu",
+    "dino": "dhiothu",
+    "gele": "gelebron",
+    "prot": "proteus",
+    "prime": "proteus prime",
+    "base": "proteus base",
+    "necro": "efnisien",
+    "mord": "mordris",
+    "hrung": "hrungnir",
+    "crom": "crom",
+}
+
 if not TOKEN:
     raise ValueError('Missing DISCORD_TOKEN environment variable')
 
@@ -41,9 +56,11 @@ def row_to_mob(row: sqlite3.Row) -> dict:
 
 
 def find_mob(name: str):
+def find_mob(name: str):
     search = name.lower().strip()
+    search = ALIASES.get(search, search)
+
     with get_db() as conn:
-        # Exact match first, then partial. Sort like your JSON version did.
         row = conn.execute(
             '''
             SELECT * FROM mobs
