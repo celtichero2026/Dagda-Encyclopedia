@@ -1,0 +1,2035 @@
+﻿1~Pummel~Enemy~0~0~2~Crush~Melee Combat~None~0~0~0~Strength~8~No~Physical
+2~Protective Stance~Self~1~0~0~None~Melee Combat~None~0~0~0.8~Vitality~8~No~None
+3~Recuperate~Self~2~0~0~None~First Aid~None~0~1~0.8~Vitality~10~No~None
+4~Bandage Wounds~Friendly~0~0~1~None~First Aid~None~0~1.8~0.8~Vitality~4~No~None
+5~Natures Touch~Friendly~0~0~8~None~Nature Magic~None~0~1.8~0.8~Focus~10~No~None
+6~Instant Heal 100~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7~Instant Energy 100~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8~Strangling Vines~Enemy~3~0~8~Magic~Nature Magic~None~0~1~1~Focus~10~No~Wounding
+9~Grasping Roots~Enemy~5~0~10~Pierce~Nature Magic~None~0~1~1~None~0~No~Movement
+10~Howling Wind~Enemy~4~0~8~None~Nature Magic~None~7~1~1~Focus~8~No~Weakening
+11~Fire Bolt~Enemy~0~0~10~Heat~Fire Magic~None~11~1.01~1~Focus~8~No~Spell
+12~Cloak of Fire~Friendly~6~0~4~Heat~Fire Magic~None~0~1~0.8~Focus~10~No~None
+13~Sharp Shot~Enemy~0~0~14~Pierce~Ranged Combat~Bow~20~0.2~0.2~Dexterity~6~No~Physical
+14~Steady Aim~Self~7~0~0~None~Ranged Combat~Bow~0~0~0~Dexterity~16~No~None
+15~Bolas~Enemy~76~0~12~Crush~Ranged Combat~None~15~1.1~1.1~None~0~No~Movement
+16~Sneaky Attack~Enemy~0~0~3~Pierce~Cunning~Dagger~0~1.5~0.5~Strength~20~Yes~None
+17~Hide~Self~9~0~0~None~Cunning~None~0~0~0.8~None~0~No~None
+18~Rend~Enemy~10~0~3~Pierce~Cunning~None~0~1.9~1~Strength~10~Yes~Wounding
+19~Eat Apple~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+20~Drink Water~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+21~Drink Beer~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+22~Crows Tear~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+23~Eat Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+24~Eat Mutton~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+25~Temp Health Regen Boost~Self~11~0~0~None~None~None~0~0~0~None~0~No~None
+26~Temp Energy Regen Boost~Self~12~0~0~None~None~None~0~0~0~None~0~No~None
+27~Instant Heal 500~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+28~Instant Energy 500~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+29~Burrowers Brew~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+30~Centaury~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+31~Herbal Salve~Self~2~0~0~None~None~None~0~0~0~None~0~No~None
+32~Calm~Friendly~0~0~8~None~Nature Magic~None~0~0~0.8~Focus~10~No~None
+33~Taunt~Enemy~0~0~5~None~Melee Combat~None~0~0~0.05~Vitality~8~No~Mental
+34~Distract~Enemy~0~0~4~None~Cunning~None~0~0~1~Dexterity~10~No~Mental
+35~Instant Heal 25~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+36~Shield of Bark~Friendly~14~0~8~None~Nature Magic~None~0~1~1.5~Focus~10~No~None
+37~Natures Embrace~Friendly~15~0~8~None~Nature Magic~None~0~1~0.8~Focus~20~No~None
+38~Lightning Strike~Enemy~0~0~10~Magic~Nature Magic~None~20~1~1~Focus~8~No~Spell
+39~Abundance~Friendly~13~0~8~None~Nature Magic~None~0~1~0.8~Focus~10~No~None
+40~Lure of Fire~Enemy~16~0~10~Heat~Fire Magic~None~0~1~0.8~Focus~10~No~Weakening
+41~Lure of Ice~Enemy~17~0~10~None~Ice Magic~None~0~1~0.8~Focus~10~No~Weakening
+42~Ice Shards~Enemy~0~0~9~Cold~Ice Magic~None~11~1.01~1~Focus~10~No~Spell
+43~Energy Shield~Self~77~0~0~None~Ice Magic~None~0~1~0.8~Focus~20~No~None
+44~Energy Well~Friendly~19~0~5~None~Ice Magic~None~0~1~0.8~Focus~20~No~None
+45~Frenzy~Self~20~0~0~None~Melee Combat~None~0~0~0.8~Strength~20~No~None
+46~Shield Bash~Enemy~85~0~3~Crush~Melee Combat~Shield~10~0.9~0~Strength~8~No~Movement
+47~Giant Swing~Enemy~0~0~2~Crush~Melee Combat~None~0~1.35~0.45~Strength~20~Yes~Physical
+48~Fast Reflexes~Self~21~0~0~None~Cunning~None~0~0~0.8~Dexterity~10~No~None
+49~Poison Weapon~Friendly~22~0~4~None~Cunning~None~0~1~0.3~Dexterity~10~No~None
+50~Camouflage~Friendly~75~0~4~None~Ranged Combat~None~0~0~0.8~None~0~No~None
+51~Rapid Shot~Self~24~0~0~None~Ranged Combat~Bow/Spear~0~0~0~None~0~No~None
+52~Barbed Shot~Enemy~25~0~15~Pierce~Ranged Combat~Bow~20~0.87~0.87~Dexterity~8~Yes~Wounding
+53~Quick Strike~Enemy~0~0~2~Pierce~Cunning~None~0~0.02~0.01~Strength~8~No~Physical
+54~Light heal~Friendly~0~0~5~None~First Aid~None~0~1.8~0.8~Dexterity~8~No~None
+55~Meditate~Self~27~0~0~None~First Aid~None~0~1~1.5~Focus~10~No~None
+56~Energy Boost~Friendly~28~0~5~None~Ice Magic~None~0~1~0.8~Focus~2~No~None
+57~Instant Energy 25~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+58~Invisibility Potion~Self~29~0~0~None~None~None~0~0~0~None~0~No~None
+59~Invisibility Elixir~Self~30~0~0~None~None~None~0~0~0~None~0~No~None
+60~Shrink Potion~Self~31~0~0~None~None~None~0~0~0~None~0~No~None
+61~Shrink Elixir~Self~32~0~0~None~None~None~0~0~0~None~0~No~None
+62~Growth Potion~Self~33~0~0~None~None~None~0~0~0~None~0~No~None
+63~Growth Elixir~Self~34~0~0~None~None~None~0~0~0~None~0~No~None
+64~Defence Boost Potion~Self~35~0~0~None~None~None~0~0~0~None~0~No~None
+65~Defence Boost Elixir~Self~36~0~0~None~None~None~0~0~0~None~0~No~None
+66~Armour Boost Potion~Self~37~0~0~None~None~None~0~0~0~None~0~No~None
+67~Armour Boost Elixir~Self~38~0~0~None~None~None~0~0~0~None~0~No~None
+68~Max Health Boost Potion~Self~39~0~0~None~None~None~0~0~0~None~0~No~None
+69~Max Health Boost Elixir~Self~40~0~0~None~None~None~0~0~0~None~0~No~None
+70~Max Energy Boost Potion~Self~41~0~0~None~None~None~0~0~0~None~0~No~None
+71~Max Energy Boost Elixir~Self~42~0~0~None~None~None~0~0~0~None~0~No~None
+72~Attack Boost Potion~Self~43~0~0~None~None~None~0~0~0~None~0~No~None
+73~Attack Boost Elixir~Self~44~0~0~None~None~None~0~0~0~None~0~No~None
+74~Attack Speed Boost Potion~Self~45~0~0~None~None~None~0~0~0~None~0~No~None
+75~Attack Speed Boost Elixir~Self~46~0~0~None~None~None~0~0~0~None~0~No~None
+76~Run Speed Boost Potion~Self~47~0~0~None~None~None~0~0~0~None~0~No~None
+77~Run Speed Boost Elixir~Self~48~0~0~None~None~None~0~0~0~None~0~No~None
+78~Experience Boost Potion~Self~49~0~0~None~None~None~0~0~0~None~0~No~None
+79~Experience Boost Elixir~Self~50~0~0~None~None~None~0~0~0~None~0~No~None
+80~Health Regen Boost Potion~Self~51~0~0~None~None~None~0~0~0~None~0~No~None
+81~Health Regen Boost Elixir~Self~52~0~0~None~None~None~0~0~0~None~0~No~None
+82~Energy Regen Boost Potion~Self~53~0~0~None~None~None~0~0~0~None~0~No~None
+83~Energy Regen Boost Elixir~Self~54~0~0~None~None~None~0~0~0~None~0~No~None
+84~Combination Potion~Self~55~0~0~None~None~None~0~0~0~None~0~No~None
+85~Combination Elixir~Self~56~0~0~None~None~None~0~0~0~None~0~No~None
+86~Root Scroll~Enemy~57~0~8~None~None~None~0~0~0~None~0~No~None
+87~Fireball Scroll~Enemy~0~0~8~Heat~None~None~11~1.01~1~None~0~No~None
+88~Restoration Potion~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+89~Fettlecap Mushroom~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+90~Milkstalk Mushroom~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+91~Yellow Giant Mushroom~Self~59~0~0~None~None~None~0~0~0~None~0~No~None
+92~Black Gill Mushroom~Self~0~0~0~Poison~None~None~0~0~0~None~0~No~None
+93~Poisonous Fungus~Self~58~0~0~None~None~None~0~0~0~None~0~No~None
+94~Death Cap Mushroom~Self~0~0~0~Poison~None~None~0~0~0~None~0~No~None
+95~Gore~Enemy~0~0~3~Pierce~Melee Combat~None~0~0~0~None~0~No~Physical
+96~Hog Maul~Enemy~0~0~4~Pierce~Melee Combat~None~0~0~0~None~0~No~Physical
+97~Firestrike~Enemy~0~0~10~Heat~Fire Magic~None~11~1.01~1~None~0~No~Spell
+98~Impale~Enemy~10~0~4~Pierce~Cunning~None~0~1.9~1~None~0~No~Wounding
+99~Death Charge~Enemy~10~0~4~Pierce~Cunning~None~0~1.9~1~None~0~No~Wounding
+100~Finishing Blow~Enemy~0~0~4~Slash~Melee Combat~None~0~1.35~0.45~None~0~No~Physical
+101~Frost Lance~Enemy~0~0~10~Cold~Ice Magic~None~11~1.01~1~None~0~No~Spell
+102~Storm of Wrath~Enemy~0~0~10~Magic~Nature Magic~None~20~1~1~None~0~No~Spell
+103~Boon of Crom~Friendly~0~0~8~None~Nature Magic~None~0~1~0.8~None~0~No~None
+104~Ability Boost Elixir~Self~64~0~0~None~None~None~0~0~0~None~0~No~None
+105~Poison Cloud~Enemy~0~0~9~Poison~Cunning~None~0~0.5~0.3~None~0~No~Physical
+106~Vampire Kiss~Enemy~5~0~2~Pierce~Cunning~None~0~0~0~None~0~No~Movement
+107~Void Blast~Enemy~8~0~10~Magic~Nature Magic~None~20~1~1~None~0~No~Movement
+108~Scorcher~Enemy~0~0~10~Heat~Fire Magic~None~11~1.01~1~None~0~No~Spell
+109~Frozen Spear~Enemy~0~0~9~Cold~Ice Magic~None~11~1.01~1~None~0~No~Spell
+110~Electroshocker~Enemy~0~0~10~Magic~Nature Magic~None~20~1~1~None~0~No~Spell
+111~Horn Lance~Enemy~10~0~4~Pierce~Cunning~None~0~1.9~1~None~0~No~Wounding
+112~Eldritch Regeneration~Self~0~0~1~Heat~Fire Magic~None~0~1.8~0.8~None~0~No~None
+113~Meteoric Scourge~Enemy~8~0~12~Heat~Fire Magic~None~11~1.01~1~None~0~No~Movement
+114~Meteoric Blast~Enemy~0~0~12~Heat~Fire Magic~None~11~1.01~1~None~0~No~Spell
+115~Astral Rays~Enemy~10~0~15~Magic~Fire Magic~None~0~0.02~0.01~None~0~No~Wounding
+116~Meteoric Strike~Enemy~0~0~3~Magic~Fire Magic~None~0~1.35~0.45~None~0~No~Physical
+117~Meteoric Smash~Enemy~4~0~3~Magic~Fire Magic~None~0~0~0~None~0~No~Weakening
+118~Warp Bolt~Enemy~0~0~10~Magic~Fire Magic~None~20~1~1~None~0~No~Spell
+119~Cosmic Barrier~Self~18~0~0~None~Fire Magic~None~0~1~0.8~None~0~No~None
+120~Cloak of the Remnant~Self~6~0~1~Heat~Novelty~None~0~1~0.8~None~0~No~None
+121~Withering Beam~Enemy~0~0~11~Cold~Fire Magic~None~11~1.01~1~None~0~No~Spell
+122~Bolt of Lethargy~Enemy~78~0~11~Magic~Fire Magic~None~20~1~1~None~0~No~Movement
+123~Magic Barrier~Self~18~0~0~None~Ice Magic~None~0~1~0.8~None~0~No~None
+124~Natures Breath~Group~0~8~8~None~Nature Magic~None~0~2.2~1.2~Focus~10~No~None
+125~Sweeping Blow~Enemy~0~4~2~Crush~Melee Combat~None~0~0.1~0.1~Strength~20~Yes~Physical
+126~Firestorm~Enemy~0~6~10~Heat~Fire Magic~None~10~1.01~1~Focus~8~No~Spell
+127~Smoke Bomb~Enemy~83~0~3~Heat~Cunning~None~10~1.01~1~Dexterity~20~No~Weakening
+128~Warcry~Enemy~0~8~5~None~Melee Combat~None~0~1~0.3~Vitality~8~No~Mental
+129~Conceal~Group~99~6~1~None~Ranged Combat~None~0~1~0.8~None~0~No~None
+130~Defensive Spikes~Group~79~4~4~Pierce~Ranged Combat~None~0~2~0.8~Dexterity~16~No~None
+131~OVERWRITE~Friendly~0~0~0~None~Ranged Combat~None~0~0~0~Focus~20~No~None
+132~Entangle~Enemy~81~0~8~None~Ranged Combat~None~15~1~1~Dexterity~10~No~Movement
+133~Incinerate~Enemy~82~0~8~Magic~Fire Magic~None~0~1~1~Focus~20~No~Wounding
+134~Storm Touch~Enemy~0~0~1~Magic~Nature Magic~None~10~1~1~Focus~10~No~Spell
+135~Freeze~Enemy~84~0~8~None~Ice Magic~None~0~1~0.01~None~0~No~Movement
+136~Play Dead~Self~86~0~0~None~Cunning~None~0~0~0~None~0~No~None
+137~Lure of Magic~Enemy~87~0~10~None~Ice Magic~None~0~1~0.8~Focus~10~No~Weakening
+138~Lure of Soldiers~Enemy~88~0~10~None~Fire Magic~None~0~1~0.8~Focus~10~No~Weakening
+139~Lure of Assassins~Enemy~89~0~10~None~Fire Magic~None~0~1~0.8~Focus~10~No~Weakening
+140~Lure of Giants~Enemy~90~0~10~None~Ice Magic~None~0~1~0.8~Focus~10~No~Weakening
+141~OVERWRITE~Group~0~6~8~None~Nature Magic~None~0~1~1.5~Focus~10~No~None
+142~Abundant Aura~Group~91~6~0~None~Nature Magic~None~0~1~1~Focus~10~No~None
+143~Assassinate~Enemy~0~0~2~Pierce~Cunning~Dagger/Spear~0~1~0~Strength~20~Yes~Physical
+144~Spring of Life~Friendly~0~0~20~None~None~None~0~1~0~None~0~No~None
+145~Sacrifice~Friendly~0~0~4~None~Ice Magic~None~0~0.01~0.01~Focus~5~No~None
+146~EMPTY~Enemy~0~0~2~None~None~None~0~0~0~None~0~No~None
+147~Enduring Guard~Self~100~0~0~None~Melee Combat~None~0~1~0~Vitality~8~No~None
+148~Ward of Fire~Group~96~8~8~None~Nature Magic~None~0~0.8~0.8~Focus~10~No~None
+149~Ward of Ice~Group~97~8~8~None~Nature Magic~None~0~0.8~0.8~Focus~10~No~None
+150~Ward of Magic~Group~98~8~8~None~Nature Magic~None~0~0.8~0.8~Focus~10~No~None
+151~Ward of Soldiers~Group~101~8~8~None~Nature Magic~None~0~1~0.8~Focus~10~No~None
+152~Ward of Assassins~Group~94~8~8~None~Nature Magic~None~0~1~0.8~Focus~10~No~None
+153~Ward of Giants~Group~95~8~8~None~Nature Magic~None~0~1~0.8~Focus~10~No~None
+155~Life Steal~Enemy~0~0~2~Poison~Cunning~None~0~0~0~Dexterity~8~No~Weakening
+156~Energy Harvest~Enemy~0~0~8~None~Nature Magic~None~0~0.01~0~Focus~8~No~None
+157~Bane of the All-Seeing One~Enemy~0~0~8~None~None~None~0~0~0~None~0~No~None
+158~Bane of the Swamplord~Enemy~0~0~8~None~None~None~0~0~0~None~0~No~None
+159~Bane of the Ancient Oak~Enemy~0~0~8~None~None~None~0~0~0~None~0~No~None
+160~Bane of the Chained King~Enemy~0~0~8~None~None~None~0~0~0~None~0~No~None
+161~Bane of the Stonelord~Enemy~0~0~8~None~None~None~0~0~0~None~0~No~None
+162~Bane of the Lavalord~Enemy~0~0~8~None~None~None~0~0~0~None~0~No~None
+163~Instant Heal 5000~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+164~Fire Immunity~Self~105~0~0~None~None~None~0~0~0~None~0~No~None
+165~Ice Immunity~Self~106~0~0~None~None~None~0~0~0~None~0~No~None
+166~Magic Immunity~Self~107~0~0~None~None~None~0~0~0~None~0~No~None
+167~Piercing Immunity~Self~109~0~0~None~None~None~0~0~0~None~0~No~None
+168~Slashing Immunity~Self~108~0~0~None~None~None~0~0~0~None~0~No~None
+169~Crushing Immunity~Self~110~0~0~None~None~None~0~0~0~None~0~No~None
+170~Haste Scroll~Friendly~112~6~6~None~None~None~0~0~0~None~0~No~None
+171~Blizzard Scroll~Enemy~113~6~6~None~None~None~0~0~0~None~0~No~None
+173~Barrier Scroll~Self~114~6~6~None~None~None~0~0~0~None~0~No~None
+174~Potion of Piranus~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+175~Dragon Bane~Enemy~0~0~8~None~None~None~0~0~0~None~0~No~None
+176~Spicy Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+177~Sparkly Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+178~Glowing Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+179~Smokey Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+180~Blue Balloon~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+181~Yellow Balloon~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+182~Red Balloon~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+183~Gastons Pie~Self~122~0~0~None~None~None~0~1~0.8~None~1~No~None
+184~Snowball~Enemy~0~0~8~Cold~None~None~14~1~1~None~0~No~Physical
+185~Iceball~Enemy~0~0~8~Cold~None~None~14~1~1~None~0~No~Physical
+186~Cracker Explode~Self~0~0~0~None~None~None~0~0~1.75~None~0~No~None
+187~Cracker Sparkle~Self~0~0~0~None~None~None~0~0~1.75~None~0~No~None
+188~Cracker Ice~Self~0~0~0~None~None~None~0~0~1.75~None~0~No~None
+189~Cracker Lightning~Self~0~0~0~None~None~None~0~0~1.75~None~0~No~None
+190~Capture Moth~Enemy~0~0~2~None~None~None~0~0.9~1~None~0~No~None
+191~Blessing of Diancecht~Friendly~2115~0~8~None~None~None~0~0~0~None~0~No~None
+192~Shadowstrike~Enemy~0~0~12~Poison~Cunning~None~0~0.02~0.01~Dexterity~8~No~Movement
+193~TELEPORT SELF TO TARGET 2~Friendly~0~0~15~None~None~None~0~0.01~0~None~0~No~None
+194~TELEPORT SELF TO TARGET 3~Enemy~0~0~10~None~None~None~0~0.01~0~None~0~No~None
+195~TELEPORT SELF TO TARGET 4~Friendly~0~0~15~None~None~None~0~0.01~0~None~0~No~None
+196~TELEPORT SELF TO TARGET 5~Enemy~0~0~200~None~None~None~0~0.01~0~None~0~No~None
+197~Rescue~Group~131~0~16~None~None~None~0~0~0~None~0~No~None
+198~Fire Portal~Enemy~2171~0~50~Heat~None~None~0~1~1~None~0~No~None
+199~Teleport Add To Self~Friendly~0~0~100~None~None~None~0~0~0~None~0~No~None
+200~TELEPORT OTHER TO SELF 4~Friendly~0~0~15~None~None~None~0~0~0~None~0~No~None
+201~TELEPORT OTHER TO SELF 5~Enemy~0~0~150~None~None~None~0~0~0~None~0~No~None
+202~Prospect~Enemy~0~0~2~None~None~None~0~0~0~None~0~No~None
+203~Rock and Moth Kill Self~Self~0~0~0~Unknown(14)~None~None~0~0.01~0.01~None~0~No~None
+204~Mercenarys Torch Set on Fire~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+205~Stone Bowl Purify~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+206~CH Starter Pack~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+207~Random Pirate Fashion~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+208~Random Item Shop Item~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+209~RANDOM TEST SKILL~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+210~Bag of Gold Skill~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+211~Longshot~Enemy~147~0~16~Pierce~Ranged Combat~Bow~30~1.27~1.27~Dexterity~5~Yes~Physical
+212~Double Attack~Enemy~0~0~2~Slash~None~None/Sword/Axe/Blunt/Staff/Dagger/Wand/2H Sword/2H Axe/2H Blunt/Spear/Totem/Hand to Hand~0~1.4~0.5~None~0~No~None
+213~Skewer~Enemy~132~0~5~None~None~Spear~0~1.1~0.2~None~0~Yes~Movement
+214~Rupture~Enemy~133~0~2~Slash~Melee Combat~Axe/Blunt/2H Axe/2H Blunt~0~0.3~0.3~Strength~10~Yes~Wounding
+215~Shatter~Enemy~134~0~2~Crush~Melee Combat~None~10~0~0~Strength~10~Yes~Weakening
+216~Shield Wall~Self~135~0~0~None~Melee Combat~Shield~0~0~0~Vitality~10~No~None
+217~Explosive Arrow~Enemy~0~6~12~Heat~Ranged Combat~Bow~20~1.27~1.27~Dexterity~6~No~Physical
+218~Sharpen Weapons~Group~136~6~6~None~Ranged Combat~None~0~0.5~0.3~Dexterity~8~No~None
+219~Riposte~Self~137~0~0~None~Cunning~None~0~0.01~0.01~Strength~20~No~None
+220~Expose Weakness~Enemy~138~0~2~None~Cunning~None~0~0.02~0.01~Dexterity~8~Yes~Weakening
+221~Ice Blast~Enemy~0~8~8~Cold~Ice Magic~None~10~1.1~1~Focus~8~No~Spell
+222~Frostbite~Enemy~139~0~8~Cold~Ice Magic~None~10~1.01~1~Focus~20~No~Wounding
+223~Bless~Friendly~140~0~8~None~Nature Magic~None~0~1~0.8~Focus~8~No~None
+224~Stinging Swarm~Enemy~141~4~8~Poison~Nature Magic~None~0~1~1~Focus~10~No~Wounding
+225~Ice Attunement~Self~142~0~8~None~Ice Magic~None~0~1~0.8~Focus~20~No~None
+226~Fire Attunement~Self~143~0~8~None~Fire Magic~None~0~1~0.8~Focus~20~No~None
+227~Defensive Formation~Group~145~8~8~None~Melee Combat~None~0~1~0.4~Vitality~10~No~None
+228~Sanctuary~Group~146~8~8~None~Nature Magic~None~0~1~1.5~Focus~20~No~None
+229~Cavern Stew 100~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+230~Cavern Stew 250~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+231~Cavern Stew 500~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+232~Plague Touch~Enemy~2138~0~2~None~None~None~0~0~0~None~0~No~None
+233~Spit Bile~Enemy~2159~0~2~None~None~None~0~0~0~None~0~No~None
+234~Smugglers Tonic~Self~2139~0~0~None~None~None~0~0~0~None~0~No~None
+235~Super Combination Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+236~Super Knowledge Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+237~Backpack Expansion Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+238~Bank Expansion Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+239~Sigil of Health Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+240~Sigil of Energy Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+241~Super Wisdom Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+242~Random Platinum~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+243~Infected Bite~Enemy~2138~0~2~None~None~None~0~0~0~None~0~No~None
+244~Virulent Venom~Enemy~2138~0~2~None~None~None~0~0~0~None~0~No~None
+245~Spread the Plague~Enemy~2138~10~6~None~None~None~0~0~0~None~0~No~None
+246~Random Smuggler Fashion~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+247~Restoration Potion Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+248~Resurrection Idol Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+249~Leystone Fragment Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+250~Feeding Time Speed Boost~Friendly~2161~0~8~None~None~None~0~0~0~None~0~No~None
+251~Good Prospects Haste Boost~Friendly~2162~0~8~None~None~None~0~0~0~None~0~No~None
+252~Double Shot~Enemy~0~0~12~Pierce~None~Bow~20~1.27~1.27~None~0~No~None
+253~Firebolt Scroll~Enemy~0~0~8~Heat~None~None~11~1.01~1~None~0~No~None
+254~Random Summer Wig~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+255~Random Sunlit Fashion~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+256~Random Invader Charm~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+257~Heroic Wisdom Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+258~Heroic Haste Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+259~Heroic Knowledge Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+260~Heroic Elixir of Energisation Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+261~Heroic Elixir of Regeneration Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+262~Heroic Travelling Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+263~Super Knowledge Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+264~Random Lanrik Fashion~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+265~Random Lanrik Wig~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+266~Resurrection Idol Set NEW~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+267~Random Item Shop Item NEW~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+268~Pumpkin Bomb~Enemy~0~0~8~Heat~None~None~11~1.01~1~None~0~No~None
+269~Pumpkin Bomb Blast~Enemy~0~6~8~Heat~None~None~11~1.01~1~None~0~No~None
+270~Winter2014 Present~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+271~Fishing Exp Boost Elixir~Self~164~0~0~None~None~None~0~0~0~None~0~No~None
+300~Lanrik Wig Box~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+301~Lanrik Fashion Box~Self~0~0~0~None~None~None~0~0~0~None~1~No~None
+302~Musical Instrument Box~Self~0~0~0~None~None~None~0~0~0~None~2~No~None
+303~Dragonstaff Box~Self~0~0~0~None~None~None~0~0~0~None~3~No~None
+304~Serpentstaff Box~Self~0~0~0~None~None~None~0~0~0~None~4~No~None
+305~OVERWRITE~Self~0~0~0~None~None~None~0~0~0~None~4~No~None
+306~Bat Particle Potion~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+307~Winter2013 Present Skill~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+308~Everlasting Green Firework~Self~5066~0~0~None~None~None~0~1~0~None~0~No~None
+309~Catch Bracken~Enemy~0~0~2~None~None~None~0~0.9~1~None~0~No~None
+310~Shimmering Chest~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+311~Heroic Defence Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+312~Heroic Attack Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+313~Heroic Armour Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+314~Siofras brew of Health~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+315~Siofras brew of Energy~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+316~Siofras brew of Invisibility~Self~5263~0~0~None~None~None~0~0~0~None~0~No~None
+317~Siofras brew of Defence~Self~5264~0~0~None~None~None~0~0~0~None~0~No~None
+318~Siofras brew of Armour~Self~5265~0~0~None~None~None~0~0~0~None~0~No~None
+319~Siofras brew of Attack~Self~5266~0~0~None~None~None~0~0~0~None~0~No~None
+320~Siofras brew of Haste~Self~5267~0~0~None~None~None~0~0~0~None~0~No~None
+321~Siofras brew of Travelling~Self~5268~0~0~None~None~None~0~0~0~None~0~No~None
+322~Siofras brew of Knowledge~Self~5269~0~0~None~None~None~0~0~0~None~0~No~None
+323~Siofras brew of Regeneration~Self~5270~0~0~None~None~None~0~0~0~None~0~No~None
+324~Siofras brew of Energisation~Self~5271~0~0~None~None~None~0~0~0~None~0~No~None
+325~Everlasting Magic Fireworks~Self~5066~0~0~None~None~None~0~1~0~None~0~No~None
+326~Random Seasonal Item~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+327~Random Bounty Bag Item~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+328~Super Energy Potion Crate~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+329~Beacon of Destiny~Self~0~0~0~None~None~None~0~0~3~None~0~No~None
+330~Standard Starter Pack Item~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+331~Open Health Crate~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+332~Large Starter Pack Item~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+333~Sage Satchel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+334~Tower Scrolls~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+335~Signal Fire~Enemy~0~0~8~Heat~None~None~10~1~1~None~0~No~None
+336~Beacon Fire~Enemy~0~0~8~Heat~None~None~10~1~1~None~0~No~None
+337~Guiding Fire~Enemy~0~0~8~Heat~None~None~10~1~1~None~0~No~None
+338~Natural Divination~Enemy~0~0~10~None~None~None~10~1.01~1~None~0~No~None
+339~Kite of Destiny~Self~0~0~0~None~None~None~0~0.1~1~None~0~No~None
+340~Casket of Whispers Random Item~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+341~Sunken Chest Item OLD~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+342~Potion of Concentration~Self~0~0~0~Fishing~None~None~0~0~0~None~0~No~None
+343~Divine Flame~Friendly~0~0~8~Heat~None~None~10~1~1~None~0~No~None
+344~Library Books Random Item~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+345~Concentration Regen~Self~5718~0~0~None~None~None~0~0~0~None~0~No~None
+346~Open Clam~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+347~Potion of Concentration 2~Self~0~0~0~Fishing~None~None~0~0~0~None~0~No~None
+348~PATCHTEST random item~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+600~Jubilation Elixir~Self~600~0~0~None~None~None~0~0~0~None~0~No~None
+601~Gold Elixir~Self~601~0~0~None~None~None~0~0~0~None~0~No~None
+1001~Learn Pummel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1002~Learn Protective Stance~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1003~Learn Recuperate~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1004~Learn Bandage Wounds~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1005~Learn Natures Touch~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1008~Learn Strangling Vines~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1009~Learn Grasping Roots~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1010~Learn Howling Wind~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1011~Learn Fire Bolt~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1012~Learn Cloak of Fire~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1013~Learn Sharp Shot~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1014~Learn Steady Aim~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1015~Learn Bolas~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1016~Learn Sneaky Attack~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1017~Learn Hide~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1018~Learn Rend~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1032~Learn Calm~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1033~Learn Taunt~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1034~Learn Distract~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1036~Learn Shield of Bark~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1037~Learn Natures Embrace~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1038~Learn Lightning Strike~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1039~Learn Abundance~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1040~Learn Lure of Fire~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1041~Learn Lure of Ice~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1042~Learn Ice Shards~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1043~Learn Energy Shield~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1044~Learn Energy Well~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1045~Learn Frenzy~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1046~Learn Shield Bash~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1047~Learn Giant Swing~Friendly~0~0~0~None~None~None~0~0~0~None~0~No~None
+1048~Learn Fast Reflexes~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1049~Learn Poison Weapon~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1050~Learn Camouflage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1051~Learn Rapid Shot~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1052~Learn Barbed Shot~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1053~Learn Quick Strike~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1054~Learn Light Heal~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1055~Learn Meditate~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1056~Learn Energy Boost~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1124~Learn Natures Breath~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1125~Learn Sweeping Blow~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1126~Learn Firestorm~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1127~Learn Smoke Bomb~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1128~Learn Warcry~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1129~Learn Conceal~Self~0~0~0~None~None~None~0~0~0~None~1~No~None
+1130~Learn Defensive Spikes~Self~0~0~0~None~None~None~0~0~0~None~2~No~None
+1131~Learn Healing Salve~Self~0~0~0~None~None~None~0~0~0~None~3~No~None
+1132~Learn Entangle~Self~0~0~0~None~None~None~0~0~0~None~4~No~None
+1133~Learn Incinerate~Self~0~0~0~None~None~None~0~0~0~None~5~No~None
+1134~Learn Storm Touch~Self~0~0~0~None~None~None~0~0~0~None~6~No~None
+1135~Learn Freeze~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1136~Learn Play Dead~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1137~Learn Lure of Magic~Self~0~0~0~None~None~None~0~0~0~None~7~No~None
+1138~Learn Lure of Soldiers~Self~0~0~0~None~None~None~0~0~0~None~8~No~None
+1139~Learn Lure of Assassins~Self~0~0~0~None~None~None~0~0~0~None~9~No~None
+1140~Learn Lure of Giants~Self~0~0~0~None~None~None~0~0~0~None~10~No~None
+1141~Learn Protection of the Forest~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1142~Learn Abundant Aura~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1143~Learn Assassinate~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1144~Learn Spring of Life~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1145~Learn Sacrifice~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1146~LEARN EMPTY~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1147~Learn Enduring Guard~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1148~Learn Ward of Fire~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1149~Learn Ward of Ice~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1150~Learn Ward of Magic~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1151~Learn Ward of Soldiers~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1152~Learn Ward of Assassins~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1153~Learn Ward of Giants~Self~0~0~0~None~None~None~0~0~0~None~11~No~None
+1155~Learn Life Steal~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1156~Learn Energy Harvest~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1192~Learn Shadowstrike~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1193~LEARN TELEPORT SELF TO TARGET 2~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1194~LEARN TELEPORT SELF TO TARGET 3~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1195~LEARN TELEPORT SELF TO TARGET 4~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1196~LEARN TELEPORT SELF TO TARGET 5~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1197~Learn Rescue~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1198~LEARN TELEPORT OTHER TO SELF 2~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1199~LEARN TELEPORT OTHER TO SELF 3~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1200~LEARN TELEPORT OTHER TO SELF 4~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1201~LEARN TELEPORT OTHER TO SELF 5~Self~0~0~8~None~None~None~0~0~0~None~0~No~None
+1211~Learn Longshot~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1212~Learn Double Attack~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1213~Learn Skewer~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1214~Learn Rupture~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1215~Learn Shatter~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1216~Learn Shield Wall~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1217~Learn Explosive Arrow~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1218~Learn Sharpen Weapons~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1219~Learn Riposte~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1220~Learn Expose Weakness~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1221~Learn Ice Blast~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1222~Learn Frostbite~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1223~Learn Bless~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1224~Learn Stinging Swarm~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1225~Learn Ice Attunement~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1226~Learn Fire Attunement~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1227~Learn Defensive Formation~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1228~Learn Sanctuary~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1252~Learn Double Shot~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1335~Learn Signal Fire~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1336~Learn Beacon Fire~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1337~Learn Guiding Fire~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1338~Learn Natural Divination~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+1343~Learn Divine Flame~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2001~Dark Abundance~Friendly~2001~0~8~None~Nature Magic~None~0~1~0.8~None~0~No~None
+2002~Poultice~Friendly~0~0~1~None~First Aid~None~0~1.8~0.8~None~0~No~None
+2003~Serrated Arrow~Enemy~2002~0~15~Pierce~Ranged Combat~None~20~0.87~0.87~None~0~Yes~Wounding
+2004~Fetter~Enemy~2044~0~12~None~Ranged Combat~None~15~1.1~1.1~None~0~No~Movement
+2005~Flame Cloak~Friendly~2003~0~4~Heat~Fire Magic~None~0~1~0.8~None~0~No~None
+2006~Power Boost~Friendly~2004~0~5~None~Ice Magic~None~0~1~0.8~None~0~No~None
+2007~Power Well~Friendly~2005~0~5~None~Ice Magic~None~0~1~0.8~None~0~No~None
+2008~Quick Reactions~Self~2006~0~0~None~Cunning~None~0~0~0.8~None~0~No~None
+2009~Flaming Orb~Enemy~0~0~10~Heat~Fire Magic~None~11~1.01~1~None~0~No~Spell
+2010~Berserker Rage~Self~2007~0~0~None~Melee Combat~None~0~0~0.8~None~0~No~None
+2011~Mighty Blow~Enemy~0~0~2~Crush~Melee Combat~None~0~1.35~0.45~None~0~Yes~Physical
+2012~Earthen Bonds~Enemy~2008~0~8~None~Nature Magic~None~0~1~1~None~0~No~Movement
+2013~Buffeting Gale~Enemy~2009~0~8~None~Nature Magic~None~7~1~1~None~0~No~Weakening
+2014~Frost Arrow~Enemy~0~0~9~Cold~Ice Magic~None~11~1.01~1~None~0~No~Spell
+2015~Heal Injuries~Friendly~0~0~5~None~First Aid~None~0~1.8~0.8~None~0~No~None
+2016~Thunderclap~Enemy~0~0~10~Magic~Nature Magic~None~20~1~1~None~0~No~Spell
+2017~Flame Hex~Enemy~2010~0~10~None~Fire Magic~None~0~1~0.8~None~0~No~Weakening
+2018~Frost Hex~Enemy~2011~0~10~None~Ice Magic~None~0~1~0.8~None~0~No~Weakening
+2019~Wild Embrace~Friendly~2012~0~8~None~Nature Magic~None~0~1~0.8~None~0~No~None
+2020~Wild Touch~Friendly~0~0~8~None~Nature Magic~None~0~1.8~0.8~None~0~No~None
+2021~Apply Toxins~Friendly~2013~0~4~None~Cunning~None~0~1~0.3~None~0~No~None
+2022~Guardian Stance~Self~2014~0~0~None~Melee Combat~None~0~0~0.8~None~0~No~None
+2023~Beatdown~Enemy~0~0~2~Crush~Melee Combat~None~0~0.9~1~None~0~No~Physical
+2024~Hasty Attack~Enemy~0~0~2~Crush~Cunning~None~0~0.02~0.01~None~0~No~Physical
+2025~Swiftness~Self~2015~0~0~None~Ranged Combat~None~0~0~0~None~0~No~None
+2026~Lacerate~Enemy~2016~0~3~Pierce~Cunning~None~0~1.9~1~None~0~Yes~Wounding
+2027~Power Shot~Enemy~0~0~15~Pierce~Ranged Combat~None~20~0.2~0.2~None~0~Yes~Physical
+2028~Shield of Earth~Friendly~2017~0~8~None~Nature Magic~None~0~1~1.5~None~0~No~None
+2029~Enhanced Precision~Self~2018~0~0~None~Ranged Combat~None~0~0~0~None~0~No~None
+2030~Choking Vines~Enemy~2019~0~8~Magic~Nature Magic~None~0~1~1~None~0~No~Wounding
+2031~Dragon Fire~Enemy~2020~8~10~Heat~Fire Magic~None~0~1.5~2~None~0~No~Wounding
+2032~Throw Dirt~Enemy~2021~0~3~None~Cunning~None~10~1.01~1~Dexterity~20~No~Weakening
+2033~Immolate~Enemy~2022~0~8~Heat~Nature Magic~None~0~1~1~None~0~No~Wounding
+2034~Soldiers Hex~Enemy~2023~0~10~None~Fire Magic~None~0~1~0.8~None~0~No~Weakening
+2035~Dark Veil~Self~2025~0~0~None~None~None~0~0~0.8~None~0~No~None
+2036~Counter Stance~Self~2026~0~0~None~None~None~0~1~0~None~0~No~None
+2037~Deep Wound~Enemy~2024~0~2~Crush~None~None~0~1.35~0.45~None~0~No~Weakening
+2038~Unnatural Life~Self~2027~0~0~None~None~None~0~1~0.8~None~0~No~None
+2039~Invocation of Crom~Enemy~0~3~6~Cold~None~None~10~1~1~None~0~No~Spell
+2040~Eldritch Frost~Enemy~0~0~9~Cold~None~None~11~1.01~1~None~0~No~Spell
+2041~Piercing Gaze~Enemy~0~0~5~Pierce~None~None~10~1.01~1~None~0~No~Spell
+2042~Terrifying Gaze~Enemy~2030~0~5~None~None~None~0~1~0.8~None~0~No~Weakening
+2043~Icy Gaze~Enemy~2029~0~5~Pierce~None~None~10~1.01~1~None~0~No~Movement
+2044~Accursed Gaze~Enemy~2031~0~5~Pierce~None~None~10~1.01~1~None~0~No~Weakening
+2045~Landslide~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2046~Bonds of Clay~Enemy~2032~4~8~None~None~None~0~0.9~1~None~0~No~Movement
+2047~Boulder Toss~Enemy~0~4~8~None~None~None~0~0.9~1~None~0~No~Physical
+2048~Quake~Enemy~0~8~2~None~None~None~0~0.9~1~None~0~No~Physical
+2049~Mist Form~Self~2033~0~0~None~None~None~0~0~0.8~None~0~No~None
+2050~Sickly Pallor~Enemy~2034~0~2~None~None~None~0~1~0.8~None~0~No~Weakening
+2051~Feast of Flesh~Enemy~2035~0~8~None~None~None~0~1~0.8~None~0~No~Weakening
+2052~Call of the Wilds~Enemy~2036~6~8~None~None~None~0~1~1~None~0~No~Movement
+2053~Untamed Growth~Self~2037~0~8~None~None~None~0~1~0.8~None~0~No~None
+2054~Soul Bleed~Enemy~2038~0~8~None~None~None~0~1~0.8~None~0~No~Wounding
+2055~Deluge~Enemy~2039~4~6~None~None~None~0~1~0.8~None~0~No~Wounding
+2056~Double Strike~Enemy~2040~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2057~Degenerate~Enemy~2041~0~8~Magic~None~None~0~1~1~None~0~No~Wounding
+2058~Swift Tackle~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2059~Spit Fire~Enemy~0~0~8~Heat~None~None~11~1.01~1~None~0~No~Spell
+2060~Burning Touch~Enemy~2042~0~2~Heat~None~None~0~1~1~None~0~No~Wounding
+2061~Shielding~Self~2045~6~0~None~None~None~0~0~0.8~None~0~No~Spell
+2062~Mesmerise~Enemy~2046~8~8~None~None~None~0~0~0~None~0~No~Spell
+2063~Oppresive Gaze~Enemy~2047~4~2~None~None~None~0~1~0.8~None~0~No~Spell
+2067~Absorb~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~None
+2068~Strike~Enemy~0~0~8~Crush~None~None~0~0.9~1~None~0~No~Physical
+2069~Seismic Wave~Enemy~0~4~0~None~None~None~0~0.9~1~None~0~No~Physical
+2070~Eruption~Enemy~0~6~0~None~None~None~10~1.01~1~None~0~No~Spell
+2077~Struggle~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2078~Heal Wounds~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2079~Blessing of Crom~Self~0~8~0~None~None~None~0~1.8~0.8~None~0~No~None
+2080~Cleave~Enemy~0~0~2~Slash~None~None~0~1.35~0.45~None~0~Yes~Physical
+2081~Blast~Enemy~0~0~8~Heat~None~None~10~1.01~1~None~0~No~Spell
+2082~Heal All~Self~0~8~0~None~None~None~0~2.2~1.2~None~0~No~None
+2083~Curse of Fire~Enemy~2051~4~8~None~None~None~0~1~0.8~None~0~No~Weakening
+2084~Flame Blast~Enemy~0~0~0~Heat~None~None~10~0~0~None~0~No~Spell
+2085~Iceblade~Enemy~0~0~0~Cold~None~None~10~0~0~None~0~No~Spell
+2086~Feystorm~Enemy~0~0~0~Magic~None~None~10~0~0~None~0~No~Spell
+2087~Shadow Barrier~Self~2052~0~0~None~None~None~0~1~0.8~None~0~No~None
+2088~Dark Dust~Enemy~2053~5~8~Heat~None~None~0~0~0~None~0~No~Weakening
+2089~Arrow Rain~Enemy~0~6~10~Pierce~None~None~20~0.2~0.2~None~0~No~Physical
+2090~Coral Barrier~Self~2055~0~0~None~None~None~0~1~0.8~None~0~No~None
+2091~Cloak of Thorns~Self~2054~0~0~None~None~None~0~1~0.8~None~0~No~None
+2093~Binding Thistles~Enemy~2058~4~8~None~None~None~7~1~1~None~0~No~Weakening
+2094~Fracture~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2095~Trappers Net~Enemy~2059~6~8~None~None~None~15~1~1~None~0~No~Movement
+2096~Spinning Strike~Enemy~0~8~2~Slash~None~None~0~1.35~0.45~None~0~No~Physical
+2097~Tangling Roses~Enemy~2060~8~8~None~None~None~0~1~0.8~None~0~No~Wounding
+2098~Ice Storm~Enemy~0~6~8~Cold~None~None~11~1.01~1~None~0~No~Spell
+2099~Venom Blade~Self~2061~6~8~Cold~None~None~11~1.01~1~None~0~No~Spell
+2100~Spear Rain~Enemy~0~6~10~Pierce~None~None~0~1.35~0.45~None~0~No~Physical
+2101~Aura of Terror~Enemy~2063~12~6~None~None~None~0~1~0.8~None~0~No~Weakening
+2102~Tearing Claws~Enemy~2064~0~4~Pierce~None~None~0~0.9~1~None~0~No~Weakening
+2103~Destruct~Enemy~0~6~0~Heat~None~None~10~0~0~None~0~No~Spell
+2104~OLD BoC~Enemy~0~0~0~None~None~None~0~0~0~None~0~No~None
+2105~OLD BoC Damage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2106~Scalding Heat~Enemy~2067~0~0~Heat~None~None~0~1~0.8~None~0~No~Weakening
+2107~Sunfire~Enemy~0~0~8~Heat~None~None~11~1.01~1~None~0~No~Spell
+2108~Siren Song~Enemy~2077~8~2~None~None~None~10~0~0~None~0~No~None
+2109~Volcanic Eruption~Enemy~0~4~2~Heat~None~None~10~0~0~None~0~No~None
+2110~Stoneskin~Self~2068~6~2~None~None~None~10~0~0~None~0~No~None
+2111~Aura of Spite~Self~2069~4~2~None~None~None~10~0~0~None~0~No~None
+2112~Barbed Thorns~Enemy~2070~0~2~None~None~None~10~0~0~None~0~No~None
+2113~Healing Wave~Self~0~6~2~None~None~None~10~0~0~None~0~No~None
+2114~Soul Aura~Self~0~0~2~None~None~None~10~0~0~None~0~No~None
+2115~Crippling Shards~Enemy~2071~0~2~None~None~None~10~0~0~None~0~No~None
+2116~Talons of Weakness~Enemy~2072~0~2~None~None~None~10~0~0~None~0~No~None
+2117~Skin of Giants~Self~2073~0~2~None~None~None~10~0~0~None~0~No~None
+2118~Curse of Flame~Enemy~2074~0~2~None~None~None~10~0~0~None~0~No~None
+2119~Sight of the Hawk~Self~2075~0~2~None~None~None~10~0~0~None~0~No~None
+2120~Lifebloom~Self~2078~0~2~None~None~None~10~0~0~None~0~No~None
+2121~Boon of the Tides~Self~2076~0~2~None~None~None~10~0~0~None~0~No~None
+2122~Set Bonus Test~Friendly~0~0~2~None~None~None~10~0~0~None~0~No~None
+2123~Poison Mist~Enemy~2079~0~20~Poison~None~None~0~0.9~1~None~1~No~Wounding
+2124~Air Blast~Enemy~0~6~1~Cold~None~None~0~0.9~1~None~1~No~Spell
+2125~Blackskull Bite~Enemy~2080~0~1~Poison~None~None~0~0.9~1~None~1~Yes~Wounding
+2126~Acid Burst~Enemy~0~4~20~Heat~None~None~10~0~0~None~1~No~Spell
+2127~Tangle Web~Enemy~2081~6~10~Crush~None~None~0~0.9~1~None~1~No~Movement
+2128~Ancestral Might~Self~2082~8~0~None~None~None~0~0.9~1~None~1~No~None
+2129~Ancestral Blessing~Self~0~8~20~None~None~None~0~1.8~0.8~None~1~No~None
+2131~Spirit Shock~Enemy~0~4~4~Magic~None~None~0~0.9~1~None~1~No~Spell
+2132~Retribution~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~1~No~Physical
+2133~Tribal Blade~Enemy~0~8~3~Slash~None~None~0~1.35~0.45~None~1~No~Physical
+2134~Body Slam~Enemy~2083~4~4~Crush~None~None~0~0.9~1~None~1~No~Movement
+2135~Smash~Enemy~2084~4~2~Crush~None~None~0~0.9~1~None~1~No~Movement
+2136~Great Strike~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~1~No~Physical
+2137~Plague Breath~Enemy~2085~0~20~Poison~None~None~0~0.9~1~None~1~No~Wounding
+2138~Death Wave~Enemy~0~10~2~Poison~None~None~0~0.9~1~None~1~No~Spell
+2139~Death Touch~Enemy~0~0~1~Poison~None~None~0~0.9~1~None~0~No~Spell
+2140~Chilling Grasp~Enemy~2090~0~8~Cold~None~None~0~0.9~1~None~0~No~Spell
+2141~Pyre Flame~Enemy~0~0~8~Heat~None~None~10~1.01~1~None~1~No~Spell
+2142~Eight Flames of Doom~Enemy~0~0~8~Heat~None~None~11~1.01~1~None~1~No~Physical
+2143~Shroud of Spirits~Self~2087~0~0~Cold~None~None~0~1~0.8~None~0~No~None
+2145~Ghast Blade~Enemy~0~6~1~Slash~None~None~0~1.35~0.45~None~1~No~Physical
+2146~Wave of Corruption~Enemy~2088~4~1~Poison~None~None~0~1~0.8~None~1~No~Wounding
+2147~Trap Explode~Enemy~0~4~4~Heat~None~None~10~0~0~None~0~No~None
+2148~Trap Remove~Self~0~0~0~None~None~None~0~0~0.01~None~0~No~None
+2149~Trap Stun~Enemy~2092~4~4~None~None~None~10~0~0~None~0~No~None
+2150~Trap Poison~Enemy~2093~4~4~None~None~None~10~0~0~None~0~No~None
+2151~Berserk Blow~Enemy~0~0~8~Crush~None~None~0~0.9~1~None~1~No~Physical
+2152~Winter Touch~Enemy~2105~6~8~Cold~None~None~0~1~0.01~None~1~Yes~Movement
+2153~Wild Swing~Enemy~0~3~8~Crush~None~None~0~0.9~1~None~1~No~Physical
+2154~Thunderstorm~Enemy~0~7~8~Magic~None~None~10~0~0~None~1~No~None
+2155~Arctic Winds~Enemy~2106~8~8~Cold~None~None~10~0~0~None~1~No~Wounding
+2156~Healing Well~Self~0~2~0~None~None~None~0~1.8~0.8~None~0~No~None
+2157~Trap Spike~Enemy~0~4~4~Pierce~None~None~0~0~0.01~None~0~No~None
+2158~Plague Bite~Enemy~2107~0~2~Poison~None~None~0~0.9~1~None~1~No~Wounding
+2159~Mist Cloud~Enemy~2108~0~2~Cold~None~None~10~1.01~1~None~0~No~Weakening
+2160~Spider Web~Enemy~2109~0~8~None~None~None~15~1~1~None~1~No~Movement
+2161~Wrath of Bolg~Enemy~0~0~8~Crush~None~None~0~0.9~1~None~1~No~Physical
+2162~Constrict~Enemy~2110~0~0~Crush~None~None~0~0.9~1~None~1~No~Movement
+2163~Water Blast~Enemy~0~6~2~Cold~None~None~11~1.01~1~None~0~No~Spell
+2167~Flametongue~Enemy~0~4~4~Heat~None~None~0~1.5~3~None~0~No~Spell
+2183~Corrupting Chaos~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~None
+2184~Withering Chaos~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~None
+2185~Chaos of the Stars~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~None
+2186~Chaos of the Deep~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~None
+2187~Chaos Roar~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~None
+2188~Chaos Rend~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~None
+2189~Chaos Blaze~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~None
+2190~Invocation of Rending~Self~2132~0~0~None~None~None~0~0~0~None~0~No~None
+2191~Item Defence Boost~Self~2133~0~0~None~None~None~0~0~0~None~0~No~None
+2192~Invocation of Thorns~Self~2134~0~0~None~None~None~0~0~0~None~0~No~None
+2193~Invocation of Sorcery~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2194~Invocation of Life~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2195~Invocation of Replenishment~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2196~Snakebite~Enemy~2135~0~2~Poison~None~None~0~0.9~1~None~1~No~Wounding
+2200~Divine Strike~Enemy~0~0~0~Divine~None~None~0~0~0~None~0~No~None
+2201~Boss Rage~Self~20003~0~0~None~None~None~0~0~0~None~0~No~None
+2202~Furious Sweep~Enemy~0~12~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2203~Crushing Blow~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2204~Blackskull Sting~Enemy~2080~0~1~Poison~None~None~0~0.9~1~None~1~Yes~Wounding
+2205~Pincer Attack~Enemy~0~0~2~Pierce~None~None~0~0.9~1~None~0~No~Physical
+2206~Corrupting Touch~Enemy~2140~0~2~None~None~None~0~1~0.8~None~0~No~Weakening
+2207~Frozen Bolt~Enemy~0~0~4~Cold~None~None~11~1.01~1~None~0~No~Spell
+2208~Savage Flame~Enemy~0~4~8~Heat~None~None~10~1.01~1~None~0~No~Spell
+2209~Dark Fury~Self~2141~0~2~None~None~None~0~0~0~None~0~No~Physical
+2210~Dragonlord Vengeance~Self~2142~0~0~None~None~None~0~1~0.8~None~0~No~None
+2211~Dragonlord Boon~Friendly~2143~6~8~None~None~None~0~1~0.8~None~0~No~None
+2212~Dragonlord Wrath~Self~2144~0~0~None~None~None~0~1~0.8~None~0~No~None
+2213~Dragonlord Fury~Enemy~0~6~8~Divine~None~None~10~0.61~0.6~None~0~No~None
+2214~Dragonlord Spite~Enemy~2146~0~1~Divine~None~None~0~0.02~0.01~None~0~No~None
+2215~Fingals Bane~Enemy~2147~6~40~Chaos~None~None~10~0~0~None~0~No~None
+2216~Tongue Flick~Enemy~2150~0~2~Crush~None~None~0~0.9~1~None~0~No~Movement
+2217~Leap~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2218~Low Blow~Enemy~2151~0~2~Crush~None~None~0~0.9~1~None~0~No~Movement
+2219~Throw Dirt~Enemy~2021~0~2~Crush~None~None~0~0.9~1~None~0~No~Weakening
+2220~Reckless Blow~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2221~Robbers Blade~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2222~Bandits Arrow~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2223~Undertow~Enemy~2153~0~2~Crush~None~None~0~0.9~1~None~0~No~Wounding
+2224~Shearing Claw~Enemy~2154~0~2~Crush~None~None~0~0.9~1~None~0~No~Weakening
+2225~Tail Whip~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2226~Foul Breath~Enemy~2155~0~2~Crush~None~None~0~0.9~1~None~0~No~None
+2227~Shambling Strike~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~Yes~Physical
+2228~Spectral Bolt~Enemy~0~0~2~Crush~None~None~10~0.61~0.6~None~0~No~Physical
+2229~Spectral Arrow~Enemy~0~0~2~Crush~None~None~0~1.27~1.27~None~0~No~Physical
+2230~Ceremonial Strike~Enemy~0~0~2~Divine~None~None~0~0~0~None~0~No~None
+2231~Inferno~Enemy~0~8~30~Heat~None~None~10~0~0~None~0~No~Spell
+2232~Stunning Blow~Enemy~2092~0~0~None~None~None~0~0~0~None~0~No~Movement
+2233~Beast Bite~Enemy~2158~0~3~Poison~Melee Combat~None~0~1~1.2~Strength~8~No~Physical
+2234~Shadowflame~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+2235~Shroud of the Raven~Enemy~0~12~12~Poison~None~None~20~1~1~None~0~No~Physical
+2236~Stoneshield~Self~2160~0~0~None~None~None~0~1~0.8~None~0~No~None
+2237~Furious Rampage~Enemy~0~12~2~Crush~None~None~0~0.9~1~None~0~Yes~Physical
+2238~Fetid Feast~Self~0~10~0~None~None~None~0~2.2~1.2~None~0~No~None
+2239~Spined Claw~Enemy~2166~3~2~Crush~None~None~0~0.9~1~None~0~Yes~Wounding
+2240~Heavy Barge~Enemy~2167~0~2~Crush~None~None~0~0.9~1~None~0~Yes~Movement
+2241~Rockhide~Self~2164~0~0~None~None~None~0~0~0~None~0~No~None
+2242~Fireblood~Self~2163~0~0~Heat~None~None~0~1~0.8~None~0~No~None
+2243~Font of Flames~Enemy~0~6~100~Heat~None~None~10~0~0~None~0~No~None
+2244~Bloodrage~Self~2168~0~0~None~None~None~0~0~0~None~0~No~None
+2245~Bear Hug~Enemy~2169~0~2~Crush~None~None~0~0~0~None~0~No~Movement
+2246~Mauling Strike~Enemy~0~0~4~Pierce~None~None~0~0~0~None~0~No~Physical
+2247~Thundercry~Enemy~2170~10~20~Magic~None~None~0~0~0~None~0~No~Physical
+2248~Show Font~Enemy~0~0~100~None~None~None~10~0~0~None~0~No~None
+2249~Embershot~Enemy~0~0~10~None~None~None~10~0.01~0~None~0~No~None
+2250~Flame Bolt~Enemy~151~0~10~None~None~None~10~0.01~0~None~0~No~None
+2251~Node Explode~Enemy~0~4~4~Heat~None~None~10~0~0~None~0~No~None
+2252~Node Remove~Self~0~0~0~True~None~None~0~0~0.01~None~0~No~None
+2253~Ignite~Enemy~2172~0~2~Heat~None~None~0~0~0~None~0~No~None
+2254~Dragon Breath~Enemy~152~2~10~None~None~None~10~1.5~3~None~0~No~None
+2255~Dragons Might~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~None
+2256~Hulk Rage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+2257~Berserk~Self~2176~0~0~None~None~None~0~1~0.8~None~0~No~None
+2258~Signal1~Friendly~0~0~100~None~None~None~0~0~0~None~0~No~None
+2259~Cloak of Chaos~Friendly~2177~0~100~Chaos~None~None~0~1~0.8~None~0~No~None
+2260~Teleport Charge~Friendly~0~0~100~None~None~None~0~0~0~None~0~No~None
+2261~Fiery Phoenix~Enemy~0~6~0~Magic~None~None~0~0.01~0.01~None~0~No~Spell
+2263~Bracken Kill Self~Self~0~0~0~Unknown(14)~None~None~0~0.01~0.01~None~0~No~None
+2264~Testing McTestypants~Self~5415~0~0~None~None~None~0~0.01~0~None~0~No~None
+2265~Banshee Cry~Enemy~0~6~0~Magic~None~None~0~0.01~0.01~None~0~No~Spell
+5000~Gather Fish~Fish~0~0~6~Crush~None~Fishing Rod~0~1~1~None~0~No~None
+5770~Burnt Gruel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5771~Burnt Flat Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5772~Burnt Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5773~Burnt Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5774~Burnt Lentil Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5775~Burnt Oatcake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5776~Burnt Pea Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5777~Burnt Scones~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5778~Burnt Pottage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5779~Burnt Ginger Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5780~Burnt Scotch Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5781~Burnt Shortbread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5782~Burnt Carrot Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5783~Burnt Pancake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5784~Burnt Frumenty~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5785~Burnt Flapjack~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5786~Burnt Sweet Porridge~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5787~Burnt Bannock~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5788~Burnt Mushroom Casserole~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5789~Burnt Fruit Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5790~Burnt Rabbit Pie~Self~5770~0~0~None~None~None~0~0~0~None~0~No~None
+5791~Burnt Roast Beef~Self~5771~0~0~None~None~None~0~0~0~None~0~No~None
+5792~Burnt Venison Stew~Self~5772~0~0~None~None~None~0~0~0~None~0~No~None
+5793~Burnt Black Pudding~Self~5773~0~0~None~None~None~0~0~0~None~0~No~None
+5794~Burnt Boar Roast~Self~5774~0~0~None~None~None~0~0~0~None~0~No~None
+5795~Burnt Rare Fruit Salad~Self~5775~0~0~None~None~None~0~0~0~None~0~No~None
+5796~Burnt Warbeast Omlette~Self~5776~0~0~None~None~None~0~0~0~None~0~No~None
+5797~Burnt Wyvern Egg Souffle~Self~5777~0~0~None~None~None~0~0~0~None~0~No~None
+5798~Burnt Lamb Casserole~Self~5778~0~0~None~None~None~0~0~0~None~0~No~None
+5799~Burnt Cheese Rarebit~Self~5779~0~0~None~None~None~0~0~0~None~0~No~None
+5800~Burnt Cream of Pea Soup~Self~5780~0~0~None~None~None~0~0~0~None~0~No~None
+5801~Burnt Cream of Carrot Soup~Self~5781~0~0~None~None~None~0~0~0~None~0~No~None
+5802~Burnt Spinach Pancake~Self~5782~0~0~None~None~None~0~0~0~None~0~No~None
+5803~Burnt Granola~Self~5783~0~0~None~None~None~0~0~0~None~0~No~None
+5804~Burnt Sweet Roll~Self~5784~0~0~None~None~None~0~0~0~None~0~No~None
+5805~Burnt Bara Brith~Self~5785~0~0~None~None~None~0~0~0~None~0~No~None
+5806~Burnt Herring Pie~Self~5786~0~0~None~None~None~0~0~0~None~0~No~None
+5807~Burnt Whiting Soup~Self~5787~0~0~None~None~None~0~0~0~None~0~No~None
+5808~Burnt Flounder Fillet~Self~5788~0~0~None~None~None~0~0~0~None~0~No~None
+5809~Burnt Smoked Mackerel~Self~5789~0~0~None~None~None~0~0~0~None~0~No~None
+5810~Burnt Rudd Pie~Self~5790~0~0~None~None~None~0~0~0~None~0~No~None
+5811~Burnt Barbel Soup~Self~5791~0~0~None~None~None~0~0~0~None~0~No~None
+5812~Burnt Fried Carp~Self~5792~0~0~None~None~None~0~0~0~None~0~No~None
+5813~Burnt Salted Pike~Self~5793~0~0~None~None~None~0~0~0~None~0~No~None
+5814~Burnt Bream Quiche~Self~5794~0~0~None~None~None~0~0~0~None~0~No~None
+5815~Burnt Trout Soup~Self~5795~0~0~None~None~None~0~0~0~None~0~No~None
+5816~Burnt Catfish Steak~Self~5796~0~0~None~None~None~0~0~0~None~0~No~None
+5817~Burnt Smoked Salmon~Self~5797~0~0~None~None~None~0~0~0~None~0~No~None
+5818~Burnt Cave Fish Pie~Self~5798~0~0~None~None~None~0~0~0~None~0~No~None
+5819~Burnt Cullen Skink~Self~5799~0~0~None~None~None~0~0~0~None~0~No~None
+5820~Burnt Plaice Fillet~Self~5800~0~0~None~None~None~0~0~0~None~0~No~None
+5821~Burnt Smoked Eel~Self~5801~0~0~None~None~None~0~0~0~None~0~No~None
+5822~Burnt Morthar Ray Pie~Self~5802~0~0~None~None~None~0~0~0~None~0~No~None
+5823~Burnt Morthar Shark Soup~Self~5803~0~0~None~None~None~0~0~0~None~0~No~None
+5824~Burnt Sturgeon Fillet~Self~5804~0~0~None~None~None~0~0~0~None~0~No~None
+5825~Burnt Smoked Ray~Self~5805~0~0~None~None~None~0~0~0~None~0~No~None
+5826~Burnt Eel Pie~Self~5806~0~0~None~None~None~0~0~0~None~0~No~None
+5827~Burnt Dogfish Soup~Self~5807~0~0~None~None~None~0~0~0~None~0~No~None
+5828~Burnt Gulper Eel Fillet~Self~5808~0~0~None~None~None~0~0~0~None~0~No~None
+5829~Burnt Salted Angler~Self~5809~0~0~None~None~None~0~0~0~None~0~No~None
+5830~Burnt Manta Ray Pie~Self~5810~0~0~None~None~None~0~0~0~None~0~No~None
+5831~Burnt Bull Shark Soup~Self~5811~0~0~None~None~None~0~0~0~None~0~No~None
+5832~Burnt Monkfish Fillet~Self~5812~0~0~None~None~None~0~0~0~None~0~No~None
+5833~Burnt Jellied Eel~Self~5813~0~0~None~None~None~0~0~0~None~0~No~None
+5834~Burnt Truffled Quail Eggs~Self~5814~0~0~None~None~None~0~0~0~None~0~No~None
+5835~Burnt Caviar~Self~5815~0~0~None~None~None~0~0~0~None~0~No~None
+5836~Burnt Filet Mignon~Self~5816~0~0~None~None~None~0~0~0~None~0~No~None
+5837~Burnt Goose Liver Pate~Self~5817~0~0~None~None~None~0~0~0~None~0~No~None
+5838~Burnt Pavlova~Self~5818~0~0~None~None~None~0~0~0~None~0~No~None
+5839~Burnt Lemon Meringue Pie~Self~5819~0~0~None~None~None~0~0~0~None~0~No~None
+5840~Fresh Gruel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5841~Fresh Flat Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5842~Fresh Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5843~Fresh Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5844~Fresh Lentil Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5845~Fresh Oatcake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5846~Fresh Pea Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5847~Fresh Scones~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5848~Fresh Pottage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5849~Fresh Ginger Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5850~Fresh Scotch Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5851~Fresh Shortbread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5852~Fresh Carrot Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5853~Fresh Pancake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5854~Fresh Frumenty~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5855~Fresh Flapjack~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5856~Fresh Sweet Porridge~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5857~Fresh Bannock~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5858~Fresh Mushroom Casserole~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5859~Fresh Fruit Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5860~Fresh Rabbit Pie~Self~5820~0~0~None~None~None~0~0~0~None~0~No~None
+5861~Fresh Roast Beef~Self~5821~0~0~None~None~None~0~0~0~None~0~No~None
+5862~Fresh Venison Stew~Self~5822~0~0~None~None~None~0~0~0~None~0~No~None
+5863~Fresh Black Pudding~Self~5823~0~0~None~None~None~0~0~0~None~0~No~None
+5864~Fresh Boar Roast~Self~5824~0~0~None~None~None~0~0~0~None~0~No~None
+5865~Fresh Rare Fruit Salad~Self~5825~0~0~None~None~None~0~0~0~None~0~No~None
+5866~Fresh Warbeast Omlette~Self~5826~0~0~None~None~None~0~0~0~None~0~No~None
+5867~Fresh Wyvern Egg Souffle~Self~5827~0~0~None~None~None~0~0~0~None~0~No~None
+5868~Fresh Lamb Casserole~Self~5828~0~0~None~None~None~0~0~0~None~0~No~None
+5869~Fresh Cheese Rarebit~Self~5829~0~0~None~None~None~0~0~0~None~0~No~None
+5870~Fresh Cream of Pea Soup~Self~5830~0~0~None~None~None~0~0~0~None~0~No~None
+5871~Fresh Cream of Carrot Soup~Self~5831~0~0~None~None~None~0~0~0~None~0~No~None
+5872~Fresh Spinach Pancake~Self~5832~0~0~None~None~None~0~0~0~None~0~No~None
+5873~Fresh Granola~Self~5833~0~0~None~None~None~0~0~0~None~0~No~None
+5874~Fresh Sweet Roll~Self~5834~0~0~None~None~None~0~0~0~None~0~No~None
+5875~Fresh Bara Brith~Self~5835~0~0~None~None~None~0~0~0~None~0~No~None
+5876~Fresh Herring Pie~Self~5836~0~0~None~None~None~0~0~0~None~0~No~None
+5877~Fresh Whiting Soup~Self~5837~0~0~None~None~None~0~0~0~None~0~No~None
+5878~Fresh Flounder Fillet~Self~5838~0~0~None~None~None~0~0~0~None~0~No~None
+5879~Fresh Smoked Mackerel~Self~5839~0~0~None~None~None~0~0~0~None~0~No~None
+5880~Fresh Rudd Pie~Self~5840~0~0~None~None~None~0~0~0~None~0~No~None
+5881~Fresh Barbel Soup~Self~5841~0~0~None~None~None~0~0~0~None~0~No~None
+5882~Fresh Fried Carp~Self~5842~0~0~None~None~None~0~0~0~None~0~No~None
+5883~Fresh Salted Pike~Self~5843~0~0~None~None~None~0~0~0~None~0~No~None
+5884~Fresh Bream Quiche~Self~5844~0~0~None~None~None~0~0~0~None~0~No~None
+5885~Fresh Trout Soup~Self~5845~0~0~None~None~None~0~0~0~None~0~No~None
+5886~Fresh Catfish Steak~Self~5846~0~0~None~None~None~0~0~0~None~0~No~None
+5887~Fresh Smoked Salmon~Self~5847~0~0~None~None~None~0~0~0~None~0~No~None
+5888~Fresh Cave Fish Pie~Self~5848~0~0~None~None~None~0~0~0~None~0~No~None
+5889~Fresh Cullen Skink~Self~5849~0~0~None~None~None~0~0~0~None~0~No~None
+5890~Fresh Plaice Fillet~Self~5850~0~0~None~None~None~0~0~0~None~0~No~None
+5891~Fresh Smoked Eel~Self~5851~0~0~None~None~None~0~0~0~None~0~No~None
+5892~Fresh Morthar Ray Pie~Self~5852~0~0~None~None~None~0~0~0~None~0~No~None
+5893~Fresh Morthar Shark Soup~Self~5853~0~0~None~None~None~0~0~0~None~0~No~None
+5894~Fresh Sturgeon Fillet~Self~5854~0~0~None~None~None~0~0~0~None~0~No~None
+5895~Fresh Smoked Ray~Self~5855~0~0~None~None~None~0~0~0~None~0~No~None
+5896~Fresh Eel Pie~Self~5856~0~0~None~None~None~0~0~0~None~0~No~None
+5897~Fresh Dogfish Soup~Self~5857~0~0~None~None~None~0~0~0~None~0~No~None
+5898~Fresh Gulper Eel Fillet~Self~5858~0~0~None~None~None~0~0~0~None~0~No~None
+5899~Fresh Salted Angler~Self~5859~0~0~None~None~None~0~0~0~None~0~No~None
+5900~Fresh Manta Ray Pie~Self~5860~0~0~None~None~None~0~0~0~None~0~No~None
+5901~Fresh Bull Shark Soup~Self~5861~0~0~None~None~None~0~0~0~None~0~No~None
+5902~Fresh Monkfish Fillet~Self~5862~0~0~None~None~None~0~0~0~None~0~No~None
+5903~Fresh Jellied Eel~Self~5863~0~0~None~None~None~0~0~0~None~0~No~None
+5904~Fresh Truffled Quail Eggs~Self~5864~0~0~None~None~None~0~0~0~None~0~No~None
+5905~Fresh Caviar~Self~5865~0~0~None~None~None~0~0~0~None~0~No~None
+5906~Fresh Filet Mignon~Self~5866~0~0~None~None~None~0~0~0~None~0~No~None
+5907~Fresh Goose Liver Pate~Self~5867~0~0~None~None~None~0~0~0~None~0~No~None
+5908~Fresh Pavlova~Self~5868~0~0~None~None~None~0~0~0~None~0~No~None
+5909~Fresh Lemon Meringue Pie~Self~5869~0~0~None~None~None~0~0~0~None~0~No~None
+5910~Exquisite Gruel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5911~Exquisite Flat Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5912~Exquisite Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5913~Exquisite Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5914~Exquisite Lentil Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5915~Exquisite Oatcake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5916~Exquisite Pea Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5917~Exquisite Scones~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5918~Exquisite Pottage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5919~Exquisite Ginger Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5920~Exquisite Scotch Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5921~Exquisite Shortbread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5922~Exquisite Carrot Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5923~Exquisite Pancake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5924~Exquisite Frumenty~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5925~Exquisite Flapjack~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5926~Exquisite Sweet Porridge~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5927~Exquisite Bannock~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5928~Exquisite Mushroom Casserole~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5929~Exquisite Fruit Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5930~Exquisite Rabbit Pie~Self~5870~0~0~None~None~None~0~0~0~None~0~No~None
+5931~Exquisite Roast Beef~Self~5871~0~0~None~None~None~0~0~0~None~0~No~None
+5932~Exquisite Venison Stew~Self~5872~0~0~None~None~None~0~0~0~None~0~No~None
+5933~Exquisite Black Pudding~Self~5873~0~0~None~None~None~0~0~0~None~0~No~None
+5934~Exquisite Boar Roast~Self~5874~0~0~None~None~None~0~0~0~None~0~No~None
+5935~Exquisite Rare Fruit Salad~Self~5875~0~0~None~None~None~0~0~0~None~0~No~None
+5936~Exquisite Warbeast Omlette~Self~5876~0~0~None~None~None~0~0~0~None~0~No~None
+5937~Exquisite Wyvern Egg Souffle~Self~5877~0~0~None~None~None~0~0~0~None~0~No~None
+5938~Exquisite Lamb Casserole~Self~5878~0~0~None~None~None~0~0~0~None~0~No~None
+5939~Exquisite Cheese Rarebit~Self~5879~0~0~None~None~None~0~0~0~None~0~No~None
+5940~Exquisite Cream of Pea Soup~Self~5880~0~0~None~None~None~0~0~0~None~0~No~None
+5941~Exquisite Cream of Carrot Soup~Self~5881~0~0~None~None~None~0~0~0~None~0~No~None
+5942~Exquisite Spinach Pancake~Self~5882~0~0~None~None~None~0~0~0~None~0~No~None
+5943~Exquisite Granola~Self~5883~0~0~None~None~None~0~0~0~None~0~No~None
+5944~Exquisite Sweet Roll~Self~5884~0~0~None~None~None~0~0~0~None~0~No~None
+5945~Exquisite Bara Brith~Self~5885~0~0~None~None~None~0~0~0~None~0~No~None
+5946~Exquisite Herring Pie~Self~5886~0~0~None~None~None~0~0~0~None~0~No~None
+5947~Exquisite Whiting Soup~Self~5887~0~0~None~None~None~0~0~0~None~0~No~None
+5948~Exquisite Flounder Fillet~Self~5888~0~0~None~None~None~0~0~0~None~0~No~None
+5949~Exquisite Smoked Mackerel~Self~5889~0~0~None~None~None~0~0~0~None~0~No~None
+5950~Exquisite Rudd Pie~Self~5890~0~0~None~None~None~0~0~0~None~0~No~None
+5951~Exquisite Barbel Soup~Self~5891~0~0~None~None~None~0~0~0~None~0~No~None
+5952~Exquisite Fried Carp~Self~5892~0~0~None~None~None~0~0~0~None~0~No~None
+5953~Exquisite Salted Pike~Self~5893~0~0~None~None~None~0~0~0~None~0~No~None
+5954~Exquisite Bream Quiche~Self~5894~0~0~None~None~None~0~0~0~None~0~No~None
+5955~Exquisite Trout Soup~Self~5895~0~0~None~None~None~0~0~0~None~0~No~None
+5956~Exquisite Catfish Steak~Self~5896~0~0~None~None~None~0~0~0~None~0~No~None
+5957~Exquisite Smoked Salmon~Self~5897~0~0~None~None~None~0~0~0~None~0~No~None
+5958~Exquisite Cave Fish Pie~Self~5898~0~0~None~None~None~0~0~0~None~0~No~None
+5959~Exquisite Cullen Skink~Self~5899~0~0~None~None~None~0~0~0~None~0~No~None
+5960~Exquisite Plaice Fillet~Self~5900~0~0~None~None~None~0~0~0~None~0~No~None
+5961~Exquisite Smoked Eel~Self~5901~0~0~None~None~None~0~0~0~None~0~No~None
+5962~Exquisite Morthar Ray Pie~Self~5902~0~0~None~None~None~0~0~0~None~0~No~None
+5963~Exquisite Morthar Shark Soup~Self~5903~0~0~None~None~None~0~0~0~None~0~No~None
+5964~Exquisite Sturgeon Fillet~Self~5904~0~0~None~None~None~0~0~0~None~0~No~None
+5965~Exquisite Smoked Ray~Self~5905~0~0~None~None~None~0~0~0~None~0~No~None
+5966~Exquisite Eel Pie~Self~5906~0~0~None~None~None~0~0~0~None~0~No~None
+5967~Exquisite Dogfish Soup~Self~5907~0~0~None~None~None~0~0~0~None~0~No~None
+5968~Exquisite Gulper Eel Fillet~Self~5908~0~0~None~None~None~0~0~0~None~0~No~None
+5969~Exquisite Salted Angler~Self~5909~0~0~None~None~None~0~0~0~None~0~No~None
+5970~Exquisite Manta Ray Pie~Self~5910~0~0~None~None~None~0~0~0~None~0~No~None
+5971~Exquisite Bull Shark Soup~Self~5911~0~0~None~None~None~0~0~0~None~0~No~None
+5972~Exquisite Monkfish Fillet~Self~5912~0~0~None~None~None~0~0~0~None~0~No~None
+5973~Exquisite Jellied Eel~Self~5913~0~0~None~None~None~0~0~0~None~0~No~None
+5974~Exquisite Truffled Quail Eggs~Self~5914~0~0~None~None~None~0~0~0~None~0~No~None
+5975~Exquisite Caviar~Self~5915~0~0~None~None~None~0~0~0~None~0~No~None
+5976~Exquisite Filet Mignon~Self~5916~0~0~None~None~None~0~0~0~None~0~No~None
+5977~Exquisite Goose Liver Pate~Self~5917~0~0~None~None~None~0~0~0~None~0~No~None
+5978~Exquisite Pavlova~Self~5918~0~0~None~None~None~0~0~0~None~0~No~None
+5979~Exquisite Lemon Meringue Pie~Self~5919~0~0~None~None~None~0~0~0~None~0~No~None
+5980~Perfected Gruel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5981~Perfected Flat Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5982~Perfected Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5983~Perfected Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5984~Perfected Lentil Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5985~Perfected Oatcake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5986~Perfected Pea Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5987~Perfected Scones~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5988~Perfected Pottage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5989~Perfected Ginger Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5990~Perfected Scotch Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5991~Perfected Shortbread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5992~Perfected Carrot Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5993~Perfected Pancake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5994~Perfected Frumenty~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5995~Perfected Flapjack~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5996~Perfected Sweet Porridge~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5997~Perfected Bannock~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5998~Perfected Mushroom Casserole~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+5999~Perfected Fruit Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+6000~Perfected Rabbit Pie~Self~5920~0~0~None~None~None~0~0~0~None~0~No~None
+6001~Perfected Roast Beef~Self~5921~0~0~None~None~None~0~0~0~None~0~No~None
+6002~Perfected Venison Stew~Self~5922~0~0~None~None~None~0~0~0~None~0~No~None
+6003~Perfected Black Pudding~Self~5923~0~0~None~None~None~0~0~0~None~0~No~None
+6004~Perfected Boar Roast~Self~5924~0~0~None~None~None~0~0~0~None~0~No~None
+6005~Perfected Rare Fruit Salad~Self~5925~0~0~None~None~None~0~0~0~None~0~No~None
+6006~Perfected Warbeast Omlette~Self~5926~0~0~None~None~None~0~0~0~None~0~No~None
+6007~Perfected Wyvern Egg Souffle~Self~5927~0~0~None~None~None~0~0~0~None~0~No~None
+6008~Perfected Lamb Casserole~Self~5928~0~0~None~None~None~0~0~0~None~0~No~None
+6009~Perfected Cheese Rarebit~Self~5929~0~0~None~None~None~0~0~0~None~0~No~None
+6010~Perfected Cream of Pea Soup~Self~5930~0~0~None~None~None~0~0~0~None~0~No~None
+6011~Perfected Cream of Carrot Soup~Self~5931~0~0~None~None~None~0~0~0~None~0~No~None
+6012~Perfected Spinach Pancake~Self~5932~0~0~None~None~None~0~0~0~None~0~No~None
+6013~Perfected Granola~Self~5933~0~0~None~None~None~0~0~0~None~0~No~None
+6014~Perfected Sweet Roll~Self~5934~0~0~None~None~None~0~0~0~None~0~No~None
+6015~Perfected Bara Brith~Self~5935~0~0~None~None~None~0~0~0~None~0~No~None
+6016~Perfected Herring Pie~Self~5936~0~0~None~None~None~0~0~0~None~0~No~None
+6017~Perfected Whiting Soup~Self~5937~0~0~None~None~None~0~0~0~None~0~No~None
+6018~Perfected Flounder Fillet~Self~5938~0~0~None~None~None~0~0~0~None~0~No~None
+6019~Perfected Smoked Mackerel~Self~5939~0~0~None~None~None~0~0~0~None~0~No~None
+6020~Perfected Rudd Pie~Self~5940~0~0~None~None~None~0~0~0~None~0~No~None
+6021~Perfected Barbel Soup~Self~5941~0~0~None~None~None~0~0~0~None~0~No~None
+6022~Perfected Fried Carp~Self~5942~0~0~None~None~None~0~0~0~None~0~No~None
+6023~Perfected Salted Pike~Self~5943~0~0~None~None~None~0~0~0~None~0~No~None
+6024~Perfected Bream Quiche~Self~5944~0~0~None~None~None~0~0~0~None~0~No~None
+6025~Perfected Trout Soup~Self~5945~0~0~None~None~None~0~0~0~None~0~No~None
+6026~Perfected Catfish Steak~Self~5946~0~0~None~None~None~0~0~0~None~0~No~None
+6027~Perfected Smoked Salmon~Self~5947~0~0~None~None~None~0~0~0~None~0~No~None
+6028~Perfected Cave Fish Pie~Self~5948~0~0~None~None~None~0~0~0~None~0~No~None
+6029~Perfected Cullen Skink~Self~5949~0~0~None~None~None~0~0~0~None~0~No~None
+6030~Perfected Plaice Fillet~Self~5950~0~0~None~None~None~0~0~0~None~0~No~None
+6031~Perfected Smoked Eel~Self~5951~0~0~None~None~None~0~0~0~None~0~No~None
+6032~Perfected Morthar Ray Pie~Self~5952~0~0~None~None~None~0~0~0~None~0~No~None
+6033~Perfected Morthar Shark Soup~Self~5953~0~0~None~None~None~0~0~0~None~0~No~None
+6034~Perfected Sturgeon Fillet~Self~5954~0~0~None~None~None~0~0~0~None~0~No~None
+6035~Perfected Smoked Ray~Self~5955~0~0~None~None~None~0~0~0~None~0~No~None
+6036~Perfected Eel Pie~Self~5956~0~0~None~None~None~0~0~0~None~0~No~None
+6037~Perfected Dogfish Soup~Self~5957~0~0~None~None~None~0~0~0~None~0~No~None
+6038~Perfected Gulper Eel Fillet~Self~5958~0~0~None~None~None~0~0~0~None~0~No~None
+6039~Perfected Salted Angler~Self~5959~0~0~None~None~None~0~0~0~None~0~No~None
+6040~Perfected Manta Ray Pie~Self~5960~0~0~None~None~None~0~0~0~None~0~No~None
+6041~Perfected Bull Shark Soup~Self~5961~0~0~None~None~None~0~0~0~None~0~No~None
+6042~Perfected Monkfish Fillet~Self~5962~0~0~None~None~None~0~0~0~None~0~No~None
+6043~Perfected Jellied Eel~Self~5963~0~0~None~None~None~0~0~0~None~0~No~None
+6044~Perfected Truffled Quail Eggs~Self~5964~0~0~None~None~None~0~0~0~None~0~No~None
+6045~Perfected Caviar~Self~5965~0~0~None~None~None~0~0~0~None~0~No~None
+6046~Perfected Filet Mignon~Self~5966~0~0~None~None~None~0~0~0~None~0~No~None
+6047~Perfected Goose Liver Pate~Self~5967~0~0~None~None~None~0~0~0~None~0~No~None
+6048~Perfected Pavlova~Self~5968~0~0~None~None~None~0~0~0~None~0~No~None
+6049~Perfected Lemon Meringue Pie~Self~5969~0~0~None~None~None~0~0~0~None~0~No~None
+6050~Fresh Mince Pie~Self~6004~0~0~None~None~None~0~0~0~None~0~No~None
+6051~Exquisite Mince Pie~Self~6005~0~0~None~None~None~0~0~0~None~0~No~None
+6052~Perfected Mince Pie~Self~6006~0~0~None~None~None~0~0~0~None~0~No~None
+6053~Fresh Gingerbread Man~Self~6007~0~0~None~None~None~0~0~0~None~0~No~None
+6054~Exquisite Gingerbread Man~Self~6008~0~0~None~None~None~0~0~0~None~0~No~None
+6055~Perfected Gingerbread Man~Self~6009~0~0~None~None~None~0~0~0~None~0~No~None
+6056~Fresh Yule Pudding~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+6057~Exquisite Yule Pudding~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+6058~Perfected Yule Pudding~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+6059~Chocolate Lord MacLir~Self~6010~0~0~None~None~None~0~0~0~None~0~No~None
+6060~Chocolate Mordris~Self~6011~0~0~None~None~None~0~0~0~None~0~No~None
+6061~Chocolate Gelebron~Self~6012~0~0~None~None~None~0~0~0~None~0~No~None
+6168~Frostbreath~Enemy~0~0~8~Cold~None~None~10~0~0~Focus~0~No~Spell
+6169~Poisonclaw~Enemy~2114~0~2~Poison~None~None~0~0.9~1~None~0~No~Wounding
+6170~Lifesong~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~None
+6171~Shadow Bolt~Enemy~0~0~8~Magic~None~None~20~1~1~None~0~No~Spell
+6182~Fire Breath~Enemy~0~2~8~Heat~None~None~0~1.5~1~None~0~No~Spell
+6183~Blessing of the Morrigan~Self~0~20~0~None~None~None~0~2.2~1.2~None~0~No~None
+6184~Chaotic Touch~Friendly~0~0~100~None~None~None~0~1.8~0.8~None~0~No~None
+6185~Life Drain~Enemy~0~0~2~Poison~None~None~0~0~0~None~0~No~Weakening
+6186~Sun Blast~Enemy~0~5~10~Heat~None~None~10~1.01~1~None~0~No~Spell
+6187~Tricksters Boon~Self~0~0~2~Poison~None~None~0~1.8~0.8~None~0~No~None
+6188~Rousing Melody~Friendly~2175~0~6~None~None~Lute~0~0~0~None~0~No~None
+6189~Lute Dance Test~Friendly~0~6~0~None~None~Lute~0~0~0~None~0~No~None
+6190~Jaunty Melody~Friendly~2179~0~6~None~None~Flute~0~0~0~None~0~No~None
+6191~Chaos Storm~Enemy~0~12~8~Chaos~None~None~10~0.5~0.5~None~0~No~Spell
+6192~Curse of Chains~Enemy~2184~12~8~None~None~None~15~1~1~None~0~No~Movement
+6193~Armour of Bark~Self~2185~0~0~None~None~None~0~1~1.5~None~0~No~None
+6194~Chaotic Rampage~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~Physical
+6195~Curse of Roots~Enemy~2186~0~8~None~None~None~0~1~1~None~0~No~Movement
+6196~Curse of Insects~Enemy~2187~0~8~None~None~None~0~1~1~None~0~No~None
+6197~Summon Fire~Self~0~0~2~None~None~None~10~0~0~None~0~No~None
+6198~Boat Fire~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+6199~Gastons Stew~Self~2189~0~0~None~None~None~0~1~0.8~None~1~No~None
+7000~Energy Burn~Enemy~5001~0~8~None~None~None~0~0~0~None~0~No~Wounding
+7001~Cold Wind~Enemy~0~10~11~Cold~None~None~10~1.1~1~None~0~No~Spell
+7002~Dark Atrophy~Enemy~5002~10~11~None~None~None~0~1~0.8~None~0~No~Weakening
+7003~Icy Grasp~Enemy~0~0~3~Cold~None~None~10~0~0~None~0~No~Spell
+7004~Spectral Warding~Friendly~5003~0~10~None~None~None~0~1~0.8~None~0~No~None
+7005~Freezing Ray~Enemy~5004~2~30~None~None~None~0~1~0.01~None~0~No~Movement
+7006~Soul Reaper~Enemy~0~12~0~Cold~None~None~0~0.5~0.5~None~0~No~Spell
+7007~Deaths Embrace~Self~5005~0~0~None~None~None~0~1~0.8~None~0~No~None
+7008~Shield of Spite~Self~5006~0~0~Cold~None~None~0~1~0.8~None~0~No~None
+7009~Chilling Edge~Enemy~0~4~2~Cold~None~None~10~0~0~None~0~No~Physical
+7010~Bolt of Cold~Enemy~0~0~12~Cold~None~None~11~1.01~1~None~0~Yes~Spell
+7011~Rune of Command~Friendly~0~50~100~None~None~None~0~0~0~None~0~No~None
+7012~OLD Necral Vigor~Self~0~0~0~None~None~None~10~0~0~None~0~No~None
+7013~Necral Vigor~Friendly~0~0~10~None~None~None~0~1~0.8~None~0~No~None
+7014~OLD Sanguine Power~Self~0~0~0~None~None~None~10~0~0~None~0~No~None
+7015~Necral Power~Self~0~0~0~None~None~None~10~0~0~None~0~No~None
+7016~Blood Rage~Self~5008~0~0~Heat~None~None~10~0~0~None~0~No~None
+7017~OLD Necral Subjugation~Self~2173~0~0~Cold~None~None~10~0~0~None~0~No~None
+7018~OLD Spectral Illusion~Self~2173~0~0~None~None~None~10~0~0~None~0~No~None
+7019~Spectral Mist~Self~5011~0~0~None~None~None~0~1~0.8~None~0~No~None
+7020~Surgical Precision~Self~5012~0~0~None~None~None~10~0~0~None~0~No~None
+7021~Spectral Armour~Self~5013~0~0~None~None~None~10~0~0~None~0~No~None
+7022~OLD Agonising Strike~Enemy~2173~0~20~Cold~None~None~10~0~0~None~0~No~None
+7023~Grasp of Terror~Enemy~5016~0~20~None~None~None~0~1~1~None~0~No~None
+7024~Terrify~Enemy~5017~6~15~Cold~None~None~0~1~0.8~None~0~No~Movement
+7025~Cleansing Flames~Enemy~5018~0~3~Heat~None~None~0~1~1~None~0~No~Wounding
+7026~Shackles~Enemy~5019~0~15~Cold~None~None~15~1.1~1.1~None~0~No~Movement
+7027~Sonic Shriek~Enemy~5020~0~15~Pierce~None~None~7~1~1~None~0~No~Weakening
+7028~Helfire~Enemy~0~6~10~Pierce~None~None~11~1.01~1~None~0~No~Spell
+7029~Witches Cure~Self~0~0~10~None~None~None~0~1.8~0.8~None~0~No~None
+7030~Bat Swarm~Enemy~5021~0~10~None~None~None~0~0~0~None~0~No~None
+7031~OLD Necral Lethargy~Enemy~2173~0~20~None~None~None~10~0~0~None~0~No~None
+7032~Necral Decay~Enemy~5023~0~20~None~None~None~10~0~0~None~0~No~Weakening
+7033~Eerie Melody~Friendly~5026~0~6~None~None~None~0~0~0~None~0~No~None
+7034~Spooky Melody~Friendly~5027~0~6~None~None~None~0~0~0~None~0~No~None
+7035~Soul Cutter~Enemy~0~0~20~Magic~None~None~0~0~0~None~0~No~None
+7036~Ghost Form~Self~5028~0~0~None~None~None~0~0~0~None~0~No~None
+7037~Hunters Stride~Self~5029~0~0~None~None~None~0~0~0~None~0~No~None
+7038~Reapers Touch~Self~5030~0~0~Poison~None~None~0~0~0~None~0~No~None
+7039~Cloak of Midnight~Self~5031~0~0~None~None~None~0~0~0~None~0~No~None
+7040~Spooky Bats~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7041~Haunting Melody~Friendly~5032~0~6~None~None~None~0~0~0~None~0~No~None
+7042~Chilling Shot~Enemy~0~4~12~Cold~None~None~10~0~0~None~0~Yes~Physical
+7043~Spirit Gift~Friendly~0~0~12~None~None~None~15~0~0~None~0~No~None
+7044~Spectral Flame~Self~5034~0~0~None~None~None~0~1~0.8~None~0~No~None
+7045~Necral Chill~Self~5035~0~0~None~None~None~0~1~0.8~None~0~No~None
+7046~OLD Necral Binding~Enemy~2173~0~20~None~None~None~10~0~0~None~0~No~None
+7047~Fatal Wound~Enemy~0~0~20~Poison~None~None~10~0~0~None~0~No~Physical
+7048~Spectral Curse~Enemy~5036~0~10~Magic~None~None~0~1~0.8~None~0~No~Wounding
+7049~Spirit Scourge~Enemy~5038~0~12~Poison~None~None~0~1.9~1~None~0~No~None
+7050~Ice Crystal~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7051~Ice Breath~Enemy~0~6~8~Cold~None~None~0~1.5~3~None~0~No~Spell
+7052~Dragon Frost~Enemy~5040~8~10~Cold~None~None~0~1.5~2~None~0~No~Movement
+7053~Great Endurance~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~None
+7054~Ferocious Roar~Self~5041~0~0~None~None~None~0~1~0.8~None~0~No~None
+7055~Frostform~Self~5042~0~0~None~None~None~0~1~0~None~0~No~None
+7056~Glacier Smash~Enemy~0~0~4~Cold~None~None~0~0~0~None~0~No~None
+7057~Gale Wing~Enemy~0~8~4~Cold~None~None~0~0~0~None~0~No~None
+7058~Whiptail~Enemy~0~0~4~Slash~None~None~0~0~0~None~0~No~None
+7059~Ice Prison~Enemy~5052~0~8~None~None~None~0~1~0.01~None~0~No~Movement
+7060~Frost Blast~Enemy~0~0~8~Cold~None~None~10~1.5~3~None~0~No~None
+7061~Wolf Howl~Enemy~5043~8~8~None~None~None~7~1~1~None~0~No~Weakening
+7062~Harden Scales~Self~5044~0~0~None~None~None~0~1~1.5~None~0~No~None
+7063~Frostmend~Self~0~0~0~None~None~None~0~1~1.5~None~0~No~None
+7064~Cold Snap~Enemy~0~0~2~Cold~None~None~0~0~0~None~0~No~None
+7065~Ice Barrier~Self~5045~0~0~None~None~None~0~0~0~None~0~No~None
+7066~Frosthearth Regeneration~Self~5046~0~0~None~None~None~0~0~0~None~0~No~None
+7067~Frostspark Energisation~Self~5047~0~0~None~None~None~0~0~0~None~0~No~None
+7068~Cheerful Melody~Friendly~5053~0~6~None~None~None~0~0~0~None~0~No~None
+7069~Jolly Melody~Friendly~5054~0~6~None~None~None~0~0~0~None~0~No~None
+7070~Jubilant Melody~Friendly~5055~0~6~None~None~None~0~0~0~None~0~No~None
+7071~Festive Melody~Friendly~5056~0~6~None~None~None~0~0~0~None~0~No~None
+7072~Mob Remove Self~Self~0~0~0~Unknown(14)~None~None~0~0~0~None~0~No~None
+7073~Frost Stomp~Enemy~0~0~8~Cold~None~None~0~0~0~None~0~No~None
+7074~Flash Freeze~Enemy~5063~2~20~None~None~None~0~1~0~None~0~No~Movement
+7075~Flurry of Snowflakes~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7076~Soul Reaper Intro~Self~0~12~0~None~None~None~0~1~0~None~0~No~None
+7077~Necral Subjugation~Enemy~0~0~20~Slash~None~None~10~0~0~None~0~No~Physical
+7078~Agonising Strike~Enemy~0~6~20~Pierce~None~None~10~0~0~None~0~No~Physical
+7079~Necral Binding~Enemy~5065~0~20~None~None~None~10~0~0~None~0~No~Movement
+7080~Immolation~Enemy~0~0~10~Heat~None~None~11~1.01~1~None~0~No~Spell
+7081~Deathly Touch~Enemy~0~0~20~Cold~None~None~10~0~0~None~0~No~Spell
+7082~Necral Shield~Self~5064~0~0~None~None~None~10~0~0~None~0~No~None
+7083~Blight Arrow~Enemy~5067~6~12~Poison~None~None~10~1.27~1.27~None~0~No~Wounding
+7084~Energy Famine~Enemy~5068~0~100~None~None~None~0~1.01~1~None~0~No~Wounding
+7085~Fires of War~Enemy~0~8~2~Heat~None~None~0~1.01~1~None~0~No~Spell
+7086~Lure of Death~Enemy~5069~4~12~None~None~None~0~1~0.8~None~0~No~Weakening
+7087~Sunshard Supremacy~Self~5074~0~0~None~None~None~0~1~0.8~None~0~No~None
+7088~Sunshard Defiance~Self~5075~0~0~None~None~None~0~1~0.8~None~0~No~None
+7089~Litany of Doom~Friendly~5076~0~100~None~None~None~0~1~0.8~None~0~No~None
+7090~Ruinous Strike~Enemy~0~6~2~Slash~None~None~0~0~0~None~0~No~Physical
+7091~Litany of Doom Windup~Self~5077~0~100~None~None~None~0~0~0~None~0~No~None
+7092~Sunshard Fury~Self~5110~0~0~None~None~None~0~1~0.8~None~0~No~None
+7093~Sunshard Endurance~Self~5111~0~0~None~None~None~0~1~0.8~None~0~No~None
+7094~Lively Melody~Friendly~5112~0~6~None~None~None~0~0~0~None~0~No~None
+7095~Surprise Attack~Enemy~0~0~2~Crush~None~None~0~0~0~None~0~No~Physical
+7096~Firebomb~Enemy~0~10~20~Heat~None~None~10~0~0~None~0~No~Spell
+7097~srf2014 bolas 1~Enemy~5114~0~20~None~None~None~0~1~1~None~0~No~Movement
+7098~Tourniquet~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~Movement
+7099~Ferocious Bite~Enemy~0~0~2~Crush~None~None~0~0~0~None~0~No~Physical
+7100~Water Bolt~Enemy~0~10~20~Cold~None~None~10~0~0~None~0~No~Spell
+7101~srf2014 bolas 1~Enemy~5114~0~20~None~None~None~0~1~1~None~0~No~Movement
+7102~Shed Skin~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~Movement
+7103~Rending Blow~Enemy~0~0~2~Crush~None~None~0~0~0~None~0~No~Physical
+7104~Flametongue~Enemy~0~10~20~Heat~None~None~10~0~0~None~0~No~Spell
+7105~srf2014 bolas 1~Enemy~5114~0~20~None~None~None~0~1~1~None~0~No~Movement
+7106~Inner Flame~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~Movement
+7107~Strongarm~Enemy~0~0~2~Crush~None~None~0~0~0~None~0~No~Physical
+7108~Thunderous Force~Enemy~0~10~20~Magic~None~None~10~0~0~None~0~No~Spell
+7109~srf2014 bolas 1~Enemy~5114~0~20~None~None~None~0~1~1~None~0~No~Movement
+7110~Unstoppable Will~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~Movement
+7111~Purification of Danu~Enemy~0~0~3~None~None~None~0~0~0~None~0~No~None
+7112~Dig Site Damage Self~Self~0~0~1~Unknown(14)~None~None~0~0~0~None~0~No~None
+7113~Dig~Enemy~0~0~1~None~None~None~0~0~0~None~0~No~None
+7114~Silence Test~Enemy~2116~0~8~None~None~None~0~0~0~None~0~No~None
+7115~Totemic Healing~Friendly~0~0~100~None~None~None~0~1.8~0.8~None~0~No~None
+7116~Agile Stance~Self~5123~0~0~None~None~None~0~0~0~None~0~No~None
+7117~Power Stance~Self~5124~0~0~None~None~None~0~0~0~None~0~No~None
+7200~Pyre Bite~Enemy~5200~5~2~None~None~None~0~1~1~None~0~No~None
+7201~Rime Bite~Enemy~5201~5~2~None~None~None~0~1~0.01~None~0~No~None
+7202~Acid Bite~Enemy~5202~5~2~None~None~None~7~1~1~None~0~No~None
+7203~Pyre Balm~Self~5203~0~0~None~None~None~0~0~0~None~0~No~None
+7204~Rime Balm~Self~5204~0~0~None~None~None~0~0~0~None~0~No~None
+7205~Acid Balm~Self~5205~0~0~None~None~None~0~0~0~None~0~No~None
+7206~Pyre Destruction~Enemy~0~5~0~Heat~None~None~0~1~0.8~None~0~No~None
+7207~Rime Destruction~Enemy~0~5~0~Cold~None~None~0~1~0.8~None~0~No~None
+7208~Acid Destruction~Enemy~0~5~0~Poison~None~None~0~1~0.8~None~0~No~None
+7209~Draining Bite~Enemy~5207~0~0~Magic~None~None~10~0~0~None~0~No~Wounding
+7210~Sonic Screech~Enemy~5208~0~8~None~None~None~0~0~0~None~0~No~Movement
+7211~Swarm Cloak~Self~5211~0~0~Magic~None~None~0~0~0~None~0~No~None
+7212~Fall2014 Warrior Reward Level 1 Effect 1~Friendly~5212~0~0~None~None~None~0~0~0~None~0~No~None
+7213~Fall2014 Warrior Reward Level 1 Effect 2~Friendly~5213~0~0~None~None~None~0~0~0~None~0~No~None
+7214~Fall2014 Warrior Reward Level 1 Effect 3~Friendly~5214~0~0~None~None~None~0~0~0~None~0~No~None
+7215~Fall2014 Rogue Reward Level 1 Effect 1~Friendly~5215~0~0~None~None~None~0~0~0~None~0~No~None
+7216~Fall2014 Rogue Reward Level 1 Effect 2~Friendly~5216~0~0~None~None~None~0~0~0~None~0~No~None
+7217~Fall2014 Rogue Reward Level 1 Effect 3~Friendly~5217~0~0~None~None~None~0~0~0~None~0~No~None
+7218~Fall2014 Ranger Reward Level 1 Effect 1~Friendly~5218~0~0~None~None~None~0~0~0~None~0~No~None
+7219~Fall2014 Ranger Reward Level 1 Effect 2~Friendly~5219~0~0~None~None~None~0~0~0~None~0~No~None
+7220~Fall2014 Ranger Reward Level 1 Effect 3~Friendly~5220~0~0~None~None~None~0~0~0~None~0~No~None
+7221~Fall2014 Druid Reward Level 1 Effect 1~Friendly~5221~0~0~None~None~None~0~0~0~None~0~No~None
+7222~Fall2014 Druid Reward Level 1 Effect 2~Friendly~5222~0~0~None~None~None~0~0~0~None~0~No~None
+7223~Fall2014 Druid Reward Level 1 Effect 3~Friendly~5223~0~0~None~None~None~0~0~0~None~0~No~None
+7224~Fall2014 Mage Reward Level 1 Effect 1~Friendly~5224~0~0~None~None~None~0~0~0~None~0~No~None
+7225~Fall2014 Mage Reward Level 1 Effect 2~Friendly~5225~0~0~None~None~None~0~0~0~None~0~No~None
+7226~Fall2014 Mage Reward Level 1 Effect 3~Friendly~5226~0~0~None~None~None~0~0~0~None~0~No~None
+7227~Magic Shell~Self~5227~0~0~None~None~None~0~0~0~None~0~No~None
+7228~Eerie Melody~Friendly~5272~0~6~None~None~None~0~0~0~None~0~No~None
+7229~Spooky Melody~Friendly~5273~0~6~None~None~None~0~0~0~None~0~No~None
+7230~Haunting Melody~Friendly~5274~0~6~None~None~None~0~0~0~None~0~No~None
+7231~Creepy Melody~Friendly~5275~0~6~None~None~None~0~0~0~None~0~No~None
+7232~Fall2014 Warrior Reward Level 2 Effect 1~Friendly~5232~0~0~None~None~None~0~0~0~None~0~No~None
+7233~Fall2014 Warrior Reward Level 2 Effect 2~Friendly~5233~0~0~None~None~None~0~0~0~None~0~No~None
+7234~Fall2014 Warrior Reward Level 2 Effect 3~Friendly~5234~0~0~None~None~None~0~0~0~None~0~No~None
+7235~Fall2014 Rogue Reward Level 2 Effect 1~Friendly~5235~0~0~None~None~None~0~0~0~None~0~No~None
+7236~Fall2014 Rogue Reward Level 2 Effect 2~Friendly~5236~0~0~None~None~None~0~0~0~None~0~No~None
+7237~Fall2014 Rogue Reward Level 2 Effect 3~Friendly~5237~0~0~None~None~None~0~0~0~None~0~No~None
+7238~Fall2014 Ranger Reward Level 2 Effect 1~Friendly~5238~0~0~None~None~None~0~0~0~None~0~No~None
+7239~Fall2014 Ranger Reward Level 2 Effect 2~Friendly~5239~0~0~None~None~None~0~0~0~None~0~No~None
+7240~Fall2014 Ranger Reward Level 2 Effect 3~Friendly~5240~0~0~None~None~None~0~0~0~None~0~No~None
+7241~Fall2014 Druid Reward Level 2 Effect 1~Friendly~5241~0~0~None~None~None~0~0~0~None~0~No~None
+7242~Fall2014 Druid Reward Level 2 Effect 2~Friendly~5242~0~0~None~None~None~0~0~0~None~0~No~None
+7243~Fall2014 Druid Reward Level 2 Effect 3~Friendly~5243~0~0~None~None~None~0~0~0~None~0~No~None
+7244~Fall2014 Mage Reward Level 2 Effect 1~Friendly~5244~0~0~None~None~None~0~0~0~None~0~No~None
+7245~Fall2014 Mage Reward Level 2 Effect 2~Friendly~5245~0~0~None~None~None~0~0~0~None~0~No~None
+7246~Fall2014 Mage Reward Level 2 Effect 3~Friendly~5246~0~0~None~None~None~0~0~0~None~0~No~None
+7247~Fall2014 Warrior Reward Level 3 Effect 1~Friendly~5247~0~0~None~None~None~0~0~0~None~0~No~None
+7248~Fall2014 Warrior Reward Level 3 Effect 2~Friendly~5248~0~0~None~None~None~0~0~0~None~0~No~None
+7249~Fall2014 Warrior Reward Level 3 Effect 3~Friendly~5249~0~0~None~None~None~0~0~0~None~0~No~None
+7250~Fall2014 Rogue Reward Level 3 Effect 1~Friendly~5250~0~0~None~None~None~0~0~0~None~0~No~None
+7251~Fall2014 Rogue Reward Level 3 Effect 2~Friendly~5251~0~0~None~None~None~0~0~0~None~0~No~None
+7252~Fall2014 Rogue Reward Level 3 Effect 3~Friendly~5252~0~0~None~None~None~0~0~0~None~0~No~None
+7253~Fall2014 Ranger Reward Level 3 Effect 1~Friendly~5253~0~0~None~None~None~0~0~0~None~0~No~None
+7254~Fall2014 Ranger Reward Level 3 Effect 2~Friendly~5254~0~0~None~None~None~0~0~0~None~0~No~None
+7255~Fall2014 Ranger Reward Level 3 Effect 3~Friendly~5255~0~0~None~None~None~0~0~0~None~0~No~None
+7256~Fall2014 Druid Reward Level 3 Effect 1~Friendly~5256~0~0~None~None~None~0~0~0~None~0~No~None
+7257~Fall2014 Druid Reward Level 3 Effect 2~Friendly~5257~0~0~None~None~None~0~0~0~None~0~No~None
+7258~Fall2014 Druid Reward Level 3 Effect 3~Friendly~5258~0~0~None~None~None~0~0~0~None~0~No~None
+7259~Fall2014 Mage Reward Level 3 Effect 1~Friendly~5259~0~0~None~None~None~0~0~0~None~0~No~None
+7260~Fall2014 Mage Reward Level 3 Effect 2~Friendly~5260~0~0~None~None~None~0~0~0~None~0~No~None
+7261~Fall2014 Mage Reward Level 3 Effect 3~Friendly~5261~0~0~None~None~None~0~0~0~None~0~No~None
+7262~Venom Bolt~Enemy~0~0~6~Poison~None~None~0~0~0~None~0~No~Spell
+7263~Behemoth Might~Self~5262~0~0~Crush~None~None~0~0~0~None~0~No~None
+7264~Healing Ichor~Friendly~0~0~100~None~None~None~0~1.8~0.8~None~0~No~None
+7265~Ice Beam~Enemy~0~0~100~Cold~None~None~11~1.01~1~None~0~No~Spell
+7266~Lightning Shock~Enemy~0~9~0~Magic~None~None~20~1~1~None~0~No~Spell
+7267~Power of Taranis~Friendly~5280~0~100~None~None~None~12~0~0~None~0~No~None
+7268~Monolith Attack~Enemy~0~0~25~Magic~None~None~20~1~1~None~0~No~None
+7269~Cheerful Melody~Friendly~5287~0~6~None~None~None~0~0~0~None~0~No~None
+7270~Jolly Melody~Friendly~5288~0~6~None~None~None~0~0~0~None~0~No~None
+7271~Jubilant Melody~Friendly~5289~0~6~None~None~None~0~0~0~None~0~No~None
+7272~Festive Melody~Friendly~5290~0~6~None~None~None~0~0~0~None~0~No~None
+7273~Patch Test Skill~Self~5295~0~0~None~None~None~0~1.8~0.8~None~0~No~None
+7274~Frostiron Bolt~Enemy~0~0~10~Cold~None~None~11~1~1~None~0~No~Spell
+7275~Frostiron Strike~Enemy~0~0~0~Cold~None~None~10~0~0~None~0~No~None
+7276~Starstone Precision~Self~5296~0~0~Cold~None~None~0~0~0~None~0~No~None
+7277~Starstone Armour~Self~5297~0~0~None~None~None~0~0~0~None~0~No~None
+7278~Starstone Cloak~Self~5298~0~0~Cold~None~None~0~0~0~None~0~No~None
+7279~Starstone Shield~Self~5299~0~0~None~None~None~0~0~0~None~0~No~None
+7280~Arctic Gale~Enemy~0~0~0~Magic~None~None~10~0~0~None~0~No~None
+7281~Air Shield~Self~5301~0~0~None~None~None~0~0~0~None~0~No~None
+7282~Cloud Burst~Enemy~0~6~0~Cold~None~None~0~0~0~None~0~No~Spell
+7283~Winterfrost~Enemy~0~0~0~Cold~None~None~0~0~0~None~0~No~Spell
+7284~Stargem Precision~Self~5306~0~0~Cold~None~None~0~0~0~None~0~No~None
+7285~Stargem Armour~Self~5307~0~0~None~None~None~0~0~0~None~0~No~None
+7286~Stargem Cloak~Self~5308~0~0~Cold~None~None~0~0~0~None~0~No~None
+7287~Stargem Shield~Self~5309~0~0~None~None~None~0~0~0~None~0~No~None
+7288~Flamebreath~Enemy~0~4~4~Heat~None~None~0~1.5~3~None~0~No~Spell
+7289~Living Statue Special Attack 1~Enemy~0~0~2~Slash~None~None~0~0~0~None~0~No~None
+7290~Living Statue Special Attack 2~Enemy~0~0~2~Slash~None~None~0~0~0~None~0~No~None
+7291~Living Statue Special Attack 3~Enemy~0~0~2~Crush~None~None~0~0~0~None~0~No~None
+7292~Razorclaw~Enemy~5337~0~2~Slash~None~None~0~0.9~1~None~0~No~Physical
+7293~Ironfang~Enemy~0~0~2~Pierce~None~None~0~0.9~1~None~0~No~Physical
+7294~Blood Howl~Self~5314~8~0~None~None~None~0~0.9~1~None~0~No~None
+7295~Pulverize~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+7296~Impact~Enemy~0~6~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+7297~Battle Cry~Self~5315~8~0~None~None~None~0~0.9~1~None~0~No~None
+7298~Eldritch Fire~Enemy~5317~0~10~Heat~None~None~11~4.1~3.2~None~0~No~Wounding
+7299~Stygian Frost~Enemy~5318~4~10~Cold~None~None~11~1.5~0.6~None~0~No~Spell
+7300~Chaos Rift~Enemy~0~6~10~Chaos~None~None~11~4.4~3.5~None~0~No~Spell
+7301~Aqua Regia~Enemy~0~0~10~Poison~None~None~0~0.9~1~None~0~No~Spell
+7302~Aqua Fortis~Self~5316~8~10~Poison~None~None~0~0.9~1~None~0~No~None
+7303~Aqua Vitae~Self~0~8~10~None~None~None~0~0.9~1~None~0~No~None
+7304~Flame Blast~Enemy~0~4~8~Heat~None~None~0~1.5~2~None~0~No~Spell
+7305~Wing Slash~Enemy~0~0~2~Slash~None~None~7~1~1~None~0~No~Physical
+7306~Healing Wave~Friendly~0~0~50~Slash~None~None~0~1.8~0.8~None~0~No~None
+7307~Wailing Strike~Enemy~0~0~2~Pierce~None~None~0~0.9~1~None~0~No~Physical
+7308~Malice Blast~Enemy~0~6~8~Pierce~None~None~0~0.9~1~None~0~No~Spell
+7309~Blade Sweep~Enemy~0~10~2~Slash~None~None~0~0.9~1~None~0~No~Physical
+7310~Mace Crush~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+7311~Magic Vortex~Enemy~0~10~2~Magic~None~None~0~0~1~None~0~No~Spell
+7312~Focus Beam~Enemy~0~0~50~Magic~None~None~11~0.81~0.8~None~0~No~Spell
+7313~Tower Sentinel Boss Special Attack 1~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7314~Tower Sentinel Boss Special Attack 2~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7315~Tower Sentinel Boss Special Attack 3~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~None
+7316~Tower Sentinel 1-H Special Attack 1~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7317~Tower Sentinel 1-H Special Attack 2~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~None
+7318~Tower Sentinel 2-H Special Attack 1~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7319~Tower Sentinel 2-H Special Attack 2~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~None
+7320~Tower Wizard Boss Special Attack 1~Enemy~0~0~9~Magic~None~None~0~0.9~1~None~0~No~None
+7321~Tower Wizard Boss Special Attack 2~Enemy~0~0~9~Magic~None~None~0~0.9~1~None~0~No~None
+7322~Tower Wizard Boss Special Attack 3~Enemy~0~0~9~Magic~None~None~0~0.9~1~None~0~No~None
+7323~Tower Wizard 1-H Special Attack 1~Enemy~0~0~9~Magic~None~None~0~0.9~1~None~1~No~None
+7324~Tower Wizard 1-H Special Attack 2~Enemy~0~0~9~Magic~None~None~0~0.9~1~None~2~No~None
+7325~Tower Wizard 2-H Special Attack 1~Enemy~0~0~9~Magic~None~None~0~0.9~1~None~3~No~None
+7326~Tower Wizard 2-H Special Attack 2~Enemy~0~0~9~Magic~None~None~0~0.9~1~None~4~No~None
+7327~Tower Guard Boss Special Attack 1~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7328~Tower Guard Boss Special Attack 2~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7329~Tower Guard Boss Special Attack 3~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~None
+7330~Tower Guard 1-H Special Attack 1~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7331~Tower Guard 1-H Special Attack 2~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7332~Tower Guard 2-H Special Attack 1~Enemy~0~0~2~Crush~None~None~0~0.9~1~None~0~No~None
+7333~Tower Guard 2-H Special Attack 2~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~None
+7334~Storm of Chaos~Enemy~0~12~2~Chaos~None~None~0~0~0~None~0~No~None
+7335~Eldritch Vengeance~Self~5319~0~0~None~None~None~0~1~0.8~None~0~No~None
+7336~Eldritch Boon~Friendly~5320~6~8~None~None~None~0~1~0.8~None~0~No~None
+7337~Eldritch Wrath~Self~5321~0~0~None~None~None~0~1~0.8~None~0~No~None
+7338~Eldritch Fury~Enemy~0~6~8~Divine~None~None~10~0.61~0.6~None~0~No~None
+7339~Eldritch Spite~Enemy~5323~0~1~Divine~None~None~0~0.02~0.01~None~0~No~None
+7340~Pleasant Aria~Friendly~5360~0~6~None~None~None~0~0~0~None~0~No~None
+7341~Floral Aria~Friendly~5361~0~6~None~None~None~0~0~0~None~0~No~None
+7342~Warming Aria~Friendly~5362~0~6~None~None~None~0~0~0~None~0~No~None
+7343~Blooming Aria~Friendly~5363~0~6~None~None~None~0~0~0~None~0~No~None
+7344~Inspiring Aria~Friendly~5364~0~6~None~None~None~0~0~0~None~0~No~None
+7345~Bright Aria~Friendly~5365~0~6~None~None~None~0~0~0~None~0~No~None
+7346~Arcane Restoration~Friendly~0~0~100~None~None~None~10~1~1~None~0~No~None
+7347~Gelebron Crystal Signal~Self~0~20~0~None~None~None~0~0~0~None~0~No~None
+7348~Entropic Annihilation~Enemy~5333~30~1~Chaos~None~None~0~4~4~None~0~No~None
+7349~Alchemic Barrier CONFIRM~Self~5334~30~1~None~None~None~0~0~0~None~0~No~None
+7350~Static Blast~Enemy~0~0~10~Slash~None~None~0~2.1~2.1~None~0~Yes~None
+7351~Eldritch Scourge~Enemy~0~4~5~Magic~None~None~0~4~4~None~0~No~None
+7352~Arcane Bolt~Enemy~0~2~30~Magic~None~None~10~1.5~1.5~None~0~No~None
+7353~Stalwart Block~Self~5338~0~1~None~None~None~0~0.9~1~None~0~No~None
+7354~Hobble~Enemy~5339~0~2~Pierce~None~None~0~0.9~1~None~0~No~Movement
+7355~Puncture~Enemy~5340~0~2~Pierce~None~None~0~0.9~1~None~0~No~Weakening
+7356~Shockwave~Enemy~0~4~2~Crush~None~None~0~0.9~2~None~0~No~Physical
+7357~Lunge~Enemy~0~0~6~Crush~None~None~0~0.9~2~None~0~No~Physical
+7358~Occulus Beam~Enemy~0~0~15~Magic~None~None~11~0.81~0.8~None~0~No~Spell
+7359~Barrel Roll~Enemy~0~2~2~Crush~None~None~0~0.9~1~None~0~No~Physical
+7360~Arcane Conflagration~Enemy~5341~0~10~Heat~None~None~0~1~1~None~0~No~Wounding
+7361~Arcane Storm~Enemy~0~4~3~Magic~None~None~0~1~1~None~0~No~Physical
+7362~Arcane Cloak~Self~5342~0~0~Magic~None~None~0~1~1~None~0~No~Physical
+7363~Imp Signal~Self~0~20~0~None~None~None~0~0~0~None~0~No~None
+7364~Potion of Eldritch Shielding~Self~5344~0~0~None~None~None~0~0~0~None~0~No~None
+7365~Potion of Eldritch Unbinding~Self~5345~0~0~None~None~None~0~0~0~None~0~No~None
+7366~Potion of Eldritch Fortification~Self~5346~0~0~None~None~None~0~0~0~None~0~No~None
+7367~Entropic Annihilation Remover~Self~5347~0~0~None~None~None~0~0~0~None~0~No~None
+7368~Withering Flames~Enemy~5351~8~100~Heat~None~None~10~0~0~None~0~No~None
+7369~Rekindle~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7370~Wyldgrove Strike~Enemy~0~0~2~Pierce~None~None~0~0~0~None~0~No~Physical
+7371~Wyldgrove Guard~Self~5353~0~0~None~None~None~0~0~0~None~0~No~None
+7372~Wyldgrove Agility~Self~5354~0~0~None~None~None~0~0~0~None~0~No~None
+7373~Wyldgrove Spite~Enemy~5355~0~10~Magic~None~None~0~0~0~None~0~No~Wounding
+7374~Wyldshrine Strike~Enemy~0~0~2~Pierce~None~None~0~0~0~None~0~No~Physical
+7375~Wyldshrine Guard~Self~5357~0~0~None~None~None~0~0~0~None~0~No~None
+7376~Wyldshrine Agility~Self~5358~0~0~None~None~None~0~0~0~None~0~No~None
+7377~Wyldshrine Spite~Enemy~5359~0~10~Magic~None~None~0~0~0~None~0~No~Wounding
+7378~Heroic Combination Elixir Set~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7379~Instant Energy 2000~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7380~Fiery Screech~Enemy~0~0~0~Heat~None~None~0~0.01~0~None~0~No~None
+7381~Cloak of the Hunter~Self~5370~0~0~None~None~None~0~0~0~None~0~No~None
+7382~Emberdrake Breath~Enemy~0~8~10~Heat~Fire Magic~None~11~2.01~2~None~0~No~Spell
+7383~Gelebron Intro Skill~Self~0~0~0~None~None~None~0~0~3.5~None~0~No~None
+7384~Runes of Destruction Blast~Enemy~5451~0~30~Heat~None~None~0~0~0~None~0~No~None
+7385~Runes of Destruction~Self~0~0~30~Heat~None~None~0~1~1~None~0~No~None
+7386~Chaos Vortex~Enemy~0~12~1~Chaos~None~None~0~5~5~None~0~No~None
+7387~Arcane Barrage~Enemy~0~0~30~Magic~None~None~0~1.5~1.5~None~0~No~None
+7388~Alchemic Barrier~Self~0~0~1~None~None~None~0~0~0~None~0~No~None
+7389~Alchemic Barrier MIMIC~Self~0~0~1~None~None~None~0~0~0~None~0~No~None
+7390~Gelebron Weapon Special Attack~Enemy~0~0~0~Magic~None~None~0~3~3~None~0~No~None
+7391~Gorgon Eye~Enemy~5371~10~2~None~None~None~0~0.6~0.6~None~0~No~None
+7392~Abyssal Gaze~Enemy~5372~2~15~Magic~None~None~10~0.8~0.8~None~0~No~None
+7393~Meteor Burst~Enemy~0~0~2~Crush~None~None~0~0.2~0.2~None~0~No~None
+7394~GameEffect Test 1~Self~5373~10~2~Magic~Dagger~None~0~0~0~Strength~8~No~None
+7395~GameEffect Test 2~Self~5374~10~2~Magic~Dagger~None~0~0~0~Strength~8~No~None
+7396~GameEffect Test 3~Self~5375~10~2~Magic~Dagger~None~0~0~0~Strength~1~No~None
+7397~Minibron Add Healing~Friendly~0~0~100~None~None~None~0~2~2~None~0~No~None
+7398~Aetheric Cleaver~Enemy~0~0~2~Magic~None~None~0~3~3~None~0~No~None
+7399~Aetheric Assault~Enemy~0~0~2~Magic~None~None~0~3~3~None~0~No~None
+7400~Aetheric Surge~Enemy~0~0~20~Magic~None~None~0~3~3~None~0~No~None
+7401~Aetheric Renewal~Friendly~0~0~10~Magic~None~None~0~3~3~None~0~No~None
+7402~Aetheric Blast~Enemy~0~0~10~Magic~None~None~0~3~3~None~0~No~None
+7403~Osmosis~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7404~Fire Sap~Self~5378~0~0~None~None~None~0~0~0~None~0~No~None
+7405~Frost Sap~Self~5379~0~0~None~None~None~0~0~0~None~0~No~None
+7406~Ether Sap~Self~5380~0~0~None~None~None~0~0~0~None~0~No~None
+7407~Splinter~Enemy~5382~10~10~None~None~None~0~0~0~None~0~No~Weakening
+7408~Rootwhip~Enemy~0~4~4~Crush~None~None~0~0~0~None~0~No~Physical
+7409~Open Relic Chest~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7410~Shining Ballad~Friendly~5383~0~6~None~None~None~0~0~0~None~0~No~None
+7411~Cheerful Ballad~Friendly~5384~0~6~None~None~None~0~0~0~None~0~No~None
+7412~Flourishing Ballad~Friendly~5385~0~6~None~None~None~0~0~0~None~0~No~None
+7413~Uplifting Ballad~Friendly~5386~0~6~None~None~None~0~0~0~None~0~No~None
+7414~Ancient Wisdom~Enemy~0~6~0~Magic~None~None~0~0.01~0.01~None~0~No~Spell
+7415~Skyglass Sunlight~Self~5387~0~0~None~None~None~0~0~0~None~0~No~None
+7416~Skyglass Moonlight~Self~5388~0~0~None~None~None~0~0~0~None~0~No~None
+7417~Skyglass Starlight~Self~5389~0~0~None~None~None~0~0~0~None~0~No~None
+7418~Skyglass Twilight~Self~5390~0~0~None~None~None~0~0~0~None~0~No~None
+7419~Skyprism Sunlight~Self~5391~0~0~None~None~None~0~0~0~None~0~No~None
+7420~Skyprism Moonlight~Self~5392~0~0~None~None~None~0~0~0~None~0~No~None
+7421~Skyprism Starlight~Self~5393~0~0~None~None~None~0~0~0~None~0~No~None
+7422~Skyprism Twilight~Self~5394~0~0~None~None~None~0~0~0~None~0~No~None
+7423~Skyglass Radiance~Self~5395~0~0~None~None~None~0~0~0~None~0~No~None
+7424~Skyglass Splendor~Self~5396~0~0~None~None~None~0~0~0~None~0~No~None
+7425~Skyglass Glory~Self~5397~0~0~None~None~None~0~0~0~None~0~No~None
+7426~Skyglass Ascension~Self~5398~0~0~None~None~None~0~0~0~None~0~No~None
+7427~Skyprism Radiance~Self~5399~0~0~None~None~None~0~0~0~None~0~No~None
+7428~Skyprism Splendor~Self~5400~0~0~None~None~None~0~0~0~None~0~No~None
+7429~Skyprism Glory~Self~5401~0~0~None~None~None~0~0~0~None~0~No~None
+7430~Skyprism Ascension~Self~5402~0~0~None~None~None~0~0~0~None~0~No~None
+7431~Skyglass Zenith~Self~5403~0~0~None~None~None~0~0~0~None~0~No~None
+7432~Skyglass Meridian~Self~5404~0~0~None~None~None~0~0~0~None~0~No~None
+7433~Skyprism Zenith~Self~5405~0~0~None~None~None~0~0~0~None~0~No~None
+7434~Skyprism Meridian~Self~5406~0~0~None~None~None~0~0~0~None~0~No~None
+7435~Skyfire~Enemy~0~5~10~Heat~None~None~10~1.01~1~None~0~No~Spell
+7436~Plunder Nature~Self~0~0~2~Poison~None~None~0~1.8~0.8~None~0~No~None
+7437~Bounty Token Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7438~Aeons Wrath~Self~5415~0~0~Magic~None~None~0~0.01~0~None~0~No~None
+7439~Ethereal Mist~Self~5416~0~0~None~None~None~0~0~0~None~0~No~None
+7440~Gallop~Self~5424~0~0~None~None~None~0~0~0~None~0~No~None
+7441~Summer2015 Boss Fire State~Self~5378~0~0~Heat~None~None~0~0~0~None~0~No~None
+7442~Summer2015 Boss Ice State~Self~5379~0~0~Cold~None~None~0~0~0~None~0~No~None
+7443~Summer2015 Boss Magic State~Self~5380~0~0~Magic~None~None~0~0~0~None~0~No~None
+7444~Thorn Snare~Enemy~5436~0~10~Crush~None~None~0~1~1~None~0~No~Movement
+7445~Morcas Regrowth~Self~5435~0~0~None~None~None~0~0~0~None~0~No~None
+7446~TEST Alive Signal~Friendly~0~0~100~None~None~None~0~0~0~None~0~No~None
+7447~Nimble Wing~Friendly~5438~0~3~None~Novelty~None~0~0~2~None~0~No~None
+7448~Swooping Claw~Enemy~5439~0~3~None~Novelty~None~0~0~2~None~0~No~None
+7449~Rending Talon~Enemy~5440~0~3~None~Novelty~None~0~0~2~None~0~No~None
+7450~Hoof Kick~Enemy~0~4~4~Crush~None~None~0~0~0~None~0~No~None
+7451~Defeat~Self~0~0~8~Unknown(14)~None~None~0~0~0~None~0~No~None
+7452~Stomp~Enemy~5447~8~8~Crush~None~None~0~0~0~None~0~No~Physical
+7453~Mounted Charge~Enemy~5450~4~4~Crush~None~None~0~0~0~None~0~No~Physical
+7454~Soul Grasp~Enemy~5448~6~4~Crush~None~None~0~0~0~None~0~No~Physical
+7455~Rend of Death~Enemy~5449~6~4~Crush~None~None~0~0~0~None~0~No~Physical
+7456~Revival~Friendly~0~0~4~None~None~None~0~1.8~0.8~None~0~No~None
+7457~Gelebron Bane Damage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7458~Gelebron Bane Trigger~Enemy~0~0~10~None~None~None~0~0~0~None~0~No~None
+7459~Mega Shockwave~Enemy~0~2~2~Slash~None~None~0~1~1~None~0~Yes~Physical
+7461~Signal Fire Damage~Self~0~0~8~Unknown(14)~None~None~0~0~0~None~0~No~None
+7462~Temp Immobile~Self~5452~0~0~None~None~None~0~0~0~None~0~No~None
+7463~Shield of Vigilance~Self~5460~0~0~None~None~None~0~0~0~None~0~No~None
+7464~Shield of Perception~Self~5463~0~0~None~None~None~0~0~0~None~0~No~None
+7465~Shield of Gaze~Self~5464~0~0~None~None~None~0~0~0~None~0~No~None
+7466~Shadow Burst~Enemy~0~0~0~Magic~None~None~10~0~0~None~0~No~None
+7467~Glider of Oblivion~Self~5471~0~0~Magic~None~None~0~0~0~None~0~No~None
+7468~Wings of Oblivion~Self~5472~0~0~Magic~None~None~0~0~0~None~0~No~None
+7469~Chain Swipe~Enemy~0~0~3~Crush~None~None~0~4.33~4.33~None~0~No~Physical
+7470~Impale~Enemy~0~0~3~Pierce~None~None~0~5.33~5.33~None~0~No~Physical
+7471~Carrion Claw~Enemy~5473~0~3~None~Novelty~None~0~0~2~None~0~No~None
+7472~Reconstruct~Friendly~0~4~5~None~First Aid~None~0~1.8~0.8~None~0~No~None
+7473~00~Enemy~0~0~8~Heat~None~None~11~1.01~1~None~0~No~None
+7474~Rune of Ice~Enemy~0~0~8~Cold~None~None~11~1.01~1~None~1~No~None
+7475~Rune of Lightning~Enemy~0~0~8~Magic~None~None~20~1~1~None~2~No~None
+7476~Protect the Brood~Friendly~5476~5~5~None~None~None~0~0~0~None~0~No~None
+7477~Dispel Alchemic Barrier~Enemy~5477~0~8~None~None~None~20~1~1~None~0~No~None
+7478~Mephetic Malady~Enemy~5478~0~2~Poison~None~None~0~0~0~None~1~No~Wounding
+7479~Impish Fire~Enemy~5482~0~4~Heat~None~None~11~0.31~0.3~None~0~No~Wounding
+7480~Frozen~Enemy~5479~0~2~Cold~None~None~10~1.01~1~None~0~No~Wounding
+7481~Aberrant Barrier~Self~5481~0~0~None~None~None~0~1~0.8~None~0~No~None
+7482~Orphic Inertia~Enemy~5483~0~10~None~None~None~0~0.9~1~None~0~No~None
+7483~Big Freeze~Enemy~5484~15~10~Cold~None~None~10~1.1~1~None~0~No~Spell
+7484~Decay~Enemy~5485~5~0~Magic~None~None~0~1~0.8~None~0~No~Spell
+7485~Fortify~Self~5486~0~0~Cold~None~None~0~1~0.8~None~0~No~None
+7486~Replenish~Self~5487~0~4~None~None~None~0~1.8~0.8~None~0~No~None
+7487~Chill~Enemy~5488~5~2~Cold~None~None~0~1~0.8~None~0~No~Spell
+7488~Warmth~Friendly~5489~0~5~Heat~None~None~0~1~0.8~None~0~No~Spell
+7489~Ice Burst~Enemy~0~0~10~Cold~None~None~11~1.01~1~None~10~No~Spell
+7490~Siphon~Enemy~5490~6~4~Cold~None~None~0~0~0~None~0~No~Spell
+7491~Cure-all~Self~5492~0~0~None~None~None~0~0~0~None~0~No~None
+7493~Keeghan Armour Boost~Friendly~5493~0~8~None~None~None~0~0~0~None~0~No~None
+7494~Nostrum Cure~Self~5494~0~0~None~None~None~0~0~0~None~0~No~None
+7495~Phantom Claw~Enemy~5495~0~2~Slash~None~None~0~0~0~None~1~No~Wounding
+7496~Proteus Blast Telegraph~Enemy~0~0~100~True~None~None~0~0~0~None~0~No~None
+7497~Proteus Power Surge~Enemy~5516~7~100~Magic~None~None~10~0~0~None~0~No~None
+7498~Minor Reinforcement~Self~5496~0~0~None~None~None~0~0~0~None~0~No~None
+7499~Lesser Reinforcement~Self~5497~0~0~None~None~None~0~0~0~None~0~No~None
+7500~Mystic Reinforcement~Self~5498~0~0~None~None~None~0~0~0~None~0~No~None
+7501~Greater Reinforcement~Self~5499~0~0~None~None~None~0~0~0~None~0~No~None
+7502~Grand Reinforcement~Self~5500~0~0~None~None~None~0~0~0~None~0~No~None
+7503~Mighty Reinforcement~Self~5501~0~0~None~None~None~0~0~0~None~0~No~None
+7504~Majestic Reinforcement~Self~5502~0~0~None~None~None~0~0~0~None~0~No~None
+7505~Royal Reinforcement~Self~5503~0~0~None~None~None~0~0~0~None~0~No~None
+7506~Imperial Reinforcement~Self~5504~0~0~None~None~None~0~0~0~None~0~No~None
+7507~Godly Reinforcement~Self~5505~0~0~None~None~None~0~0~0~None~0~No~None
+7508~Minor Energisation~Self~5506~0~0~None~None~None~0~0~0~None~0~No~None
+7509~Lesser Energisation~Self~5507~0~0~None~None~None~0~0~0~None~0~No~None
+7510~Mystic Energisation~Self~5508~0~0~None~None~None~0~0~0~None~0~No~None
+7511~Greater Energisation~Self~5509~0~0~None~None~None~0~0~0~None~0~No~None
+7512~Grand Energisation~Self~5510~0~0~None~None~None~0~0~0~None~0~No~None
+7513~Mighty Energisation~Self~5511~0~0~None~None~None~0~0~0~None~0~No~None
+7514~Majestic Energisation~Self~5512~0~0~None~None~None~0~0~0~None~0~No~None
+7515~Royal Energisation~Self~5513~0~0~None~None~None~0~0~0~None~0~No~None
+7516~Imperial Energisation~Self~5514~0~0~None~None~None~0~0~0~None~0~No~None
+7517~Godly Energisation~Self~5515~0~0~None~None~None~0~0~0~None~0~No~None
+7518~Kinetic Swing~Enemy~0~9~4~Magic~None~None~0~1.65~1.65~None~0~No~Physical
+7519~Rotor Blades~Enemy~5517~8~4~Slash~None~None~0~1.65~1.65~None~0~No~Weakening
+7520~Optic Ray~Enemy~0~0~12~Magic~None~None~11~1.01~1~None~0~No~Spell
+7521~Heat Screen~Friendly~5519~0~0~Heat~None~None~0~0~1~None~0~No~None
+7522~Frost Screen~Friendly~5520~0~0~Cold~None~None~0~0~1~None~0~No~None
+7523~Shock Screen~Friendly~5521~0~0~Magic~None~None~0~0~1~None~0~No~None
+7524~Proteus Double Attack Telegraph~Friendly~0~0~0~None~None~None~0~0~0~None~0~No~None
+7525~Emergency Repairs~Self~0~0~0~None~None~None~0~1~1~None~0~No~None
+7526~Ghostly Strike~Enemy~0~0~10~Magic~None~None~20~1~1~None~0~No~Spell
+7527~Flight of Replenishment~Friendly~5526~0~6~None~None~None~0~1~1~None~0~No~None
+7528~Flight of Rejuvination~Friendly~5527~0~6~None~None~None~0~1~1~None~0~No~None
+7529~Flight of Vitality~Friendly~5528~0~6~None~None~None~0~1~1~None~0~No~None
+7530~Flight of Focus~Friendly~5529~0~6~None~None~None~0~1~1~None~0~No~None
+7531~Flight of Guarding~Friendly~5530~0~6~None~None~None~0~1~1~None~0~No~None
+7532~Yule2015 Proc Skill~Enemy~0~0~0~Magic~None~None~10~0~0~None~0~No~None
+7533~Cloak of the Falcon~Self~5539~0~0~None~None~None~0~0~0~None~0~No~None
+7534~Cloak of the Eagle~Self~5540~0~0~None~None~None~0~0~0~None~0~No~None
+7535~Cloak of the Raven~Self~5541~0~0~None~None~None~0~0~0~None~0~No~None
+7536~Cloak of the Hawk~Self~5542~0~0~None~None~None~0~0~0~None~0~No~None
+7537~Ice Beam~Enemy~0~0~5~Cold~None~None~11~1.01~1~None~0~No~None
+7538~Soar~Self~5549~0~0~None~None~None~0~0~0~None~0~No~None
+7539~Fire Bomb~Enemy~0~8~8~Heat~None~None~10~1.01~1~None~0~No~Spell
+7540~Steely Scales~Self~5550~0~8~Heat~None~None~0~1~0.8~None~0~No~Spell
+7541~Searing Rend~Enemy~5552~0~8~Heat~None~None~0~0~0~None~0~No~Wounding
+7542~Burning Ember~Enemy~5553~0~10~Heat~None~None~11~1.01~1~None~8~No~Spell
+7543~Rekindle~Self~0~0~0~None~None~None~0~1.8~0.8~None~0~No~None
+7544~Impenetrable~Self~5551~0~8~Heat~None~None~0~0~0~None~0~No~Spell
+7545~Minor Reinforcement~Self~5554~0~0~None~None~None~0~0~0~None~0~No~None
+7546~Lesser Reinforcement~Self~5555~0~0~None~None~None~0~0~0~None~0~No~None
+7547~Mystic Reinforcement~Self~5556~0~0~None~None~None~0~0~0~None~0~No~None
+7548~Greater Reinforcement~Self~5557~0~0~None~None~None~0~0~0~None~0~No~None
+7549~Grand Reinforcement~Self~5558~0~0~None~None~None~0~0~0~None~0~No~None
+7550~Mighty Reinforcement~Self~5559~0~0~None~None~None~0~0~0~None~0~No~None
+7551~Majestic Reinforcement~Self~5560~0~0~None~None~None~0~0~0~None~0~No~None
+7552~Royal Reinforcement~Self~5561~0~0~None~None~None~0~0~0~None~0~No~None
+7553~Imperial Reinforcement~Self~5562~0~0~None~None~None~0~0~0~None~0~No~None
+7554~Godly Reinforcement~Self~5563~0~0~None~None~None~0~0~0~None~0~No~None
+7555~Minor Reinforcement~Self~5574~0~0~None~None~None~0~0~0~None~0~No~None
+7556~Lesser Reinforcement~Self~5575~0~0~None~None~None~0~0~0~None~0~No~None
+7557~Mystic Reinforcement~Self~5576~0~0~None~None~None~0~0~0~None~0~No~None
+7558~Greater Reinforcement~Self~5577~0~0~None~None~None~0~0~0~None~0~No~None
+7559~Grand Reinforcement~Self~5578~0~0~None~None~None~0~0~0~None~0~No~None
+7560~Mighty Reinforcement~Self~5579~0~0~None~None~None~0~0~0~None~0~No~None
+7561~Majestic Reinforcement~Self~5580~0~0~None~None~None~0~0~0~None~0~No~None
+7562~Royal Reinforcement~Self~5581~0~0~None~None~None~0~0~0~None~0~No~None
+7563~Imperial Reinforcement~Self~5582~0~0~None~None~None~0~0~0~None~0~No~None
+7564~Godly Reinforcement~Self~5583~0~0~None~None~None~0~0~0~None~0~No~None
+7565~Minor Energisation~Self~5564~0~0~None~None~None~0~0~0~None~0~No~None
+7566~Lesser Energisation~Self~5565~0~0~None~None~None~0~0~0~None~0~No~None
+7567~Mystic Energisation~Self~5566~0~0~None~None~None~0~0~0~None~0~No~None
+7568~Greater Energisation~Self~5567~0~0~None~None~None~0~0~0~None~0~No~None
+7569~Grand Energisation~Self~5568~0~0~None~None~None~0~0~0~None~0~No~None
+7570~Mighty Energisation~Self~5569~0~0~None~None~None~0~0~0~None~0~No~None
+7571~Majestic Energisation~Self~5570~0~0~None~None~None~0~0~0~None~0~No~None
+7572~Royal Energisation~Self~5571~0~0~None~None~None~0~0~0~None~0~No~None
+7573~Imperial Energisation~Self~5572~0~0~None~None~None~0~0~0~None~0~No~None
+7574~Godly Energisation~Self~5573~0~0~None~None~None~0~0~0~None~0~No~None
+7575~Fishy Fishy~Self~0~0~10~Unknown(14)~None~None~0~0~0~None~0~No~None
+7576~Super Shiney Chest~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7577~Lesser Crystal Defence~Self~5584~0~10~None~None~None~0~0~0~None~0~No~None
+7578~Pure Crystal Defence~Self~5585~0~10~None~None~None~0~0~0~None~0~No~None
+7579~Crushing Blow~Enemy~0~3~8~Crush~None~None~0~0~0~None~0~No~Physical
+7580~Healing Balm~Self~5586~0~0~None~None~None~0~0~0~None~0~No~None
+7581~Overwrite Test~Self~5587~0~0~None~None~None~0~0~0~None~0~No~None
+7582~Dog Food~Self~5589~0~0~None~None~None~0~0~0~None~0~No~None
+7583~Stalkers Strike~Enemy~5590~0~15~Pierce~None~None~0~0~0~None~0~No~Physical
+7854~Hunters Protection~Self~5591~0~2~Magic~None~None~0~0~0~None~0~No~Spell
+7855~Trackers Farsight~Self~5592~0~0~None~None~None~0~0~0~None~0~No~None
+7856~Trackers Farsight~Self~5593~0~0~None~None~None~0~0~0~None~0~No~None
+7857~Trackers Farsight~Self~5594~0~0~None~None~None~0~0~0~None~0~No~None
+7858~Poachers Defence~Self~5595~0~0~None~None~None~0~0~0~None~0~No~None
+7859~Poachers Defence~Self~5596~0~0~None~None~None~0~0~0~None~0~No~None
+7860~Poachers Defence~Self~5597~0~0~None~None~None~0~0~0~None~0~No~None
+7861~Breath of Life~Self~5598~0~0~None~None~None~0~0~0~None~0~No~None
+7862~Pet Box~Self~5599~0~0~None~None~None~0~0~0~None~0~No~None
+7863~Fire Bolt Test~Enemy~0~0~10~Heat~Fire Magic~None~11~1.01~1~Focus~8~No~Spell
+7864~Hunters Defence~Self~5603~0~0~None~None~None~0~0~0~None~0~No~None
+7865~Hunters Armour~Self~5604~0~0~None~None~None~0~0~0~None~0~No~None
+7866~Hunters Attack~Self~5605~0~0~None~None~None~0~0~0~None~0~No~None
+7867~Hunters Haste~Self~5606~0~0~None~None~None~0~0~0~None~0~No~None
+7868~Hunters Speed~Self~5607~0~0~None~None~None~0~0~0~None~0~No~None
+7869~Hunters Experience~Self~5608~0~0~None~None~None~0~0~0~None~0~No~None
+7870~Rabbit Food~Self~5602~0~0~None~None~None~0~0~0~None~0~No~None
+7871~[Pet Skill] Guard Dog~Self~5609~0~0~Pierce~Dog Taming~None~0~1~0.8~None~0~No~None
+7872~[Pet Skill] Keen Senses~Self~5611~0~0~None~Rabbit Taming~None~0~1~0.8~None~0~No~None
+7873~Pet Token Bag DNU~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7874~Pet Token Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7875~Gore~Enemy~0~0~2~Pierce~None~None~0~0~0~None~0~No~None
+7876~Feral Fury~Enemy~5624~0~5~Pierce~None~None~0~0~0~None~0~No~None
+7877~Fire Blast~Enemy~0~0~10~Heat~None~None~11~1.01~1~Focus~8~No~Spell
+7878~Canine Bite~Enemy~5625~0~12~Pierce~Dog Taming~None~0~0.1~0~None~0~No~None
+7879~Natural Focus~Self~5626~0~0~None~Rabbit Taming~None~0~0~0~None~0~No~None
+7880~Swipe~Enemy~0~3~8~Slash~None~None~0~1.2~0.3~None~0~No~Physical
+7881~Creeping Death~Enemy~5627~5~0~Magic~None~None~0~0~0~None~0~No~Spell
+7882~Otherwordly Protection~Self~5628~0~0~None~None~None~0~0~0~None~0~No~None
+7883~Minor Potion of Fortitude~Self~5630~0~0~None~None~None~0~0~0~None~0~No~None
+7884~Lesser Potion of Fortitude~Self~5631~0~0~None~None~None~0~0~0~None~0~No~None
+7885~Greater Potion of Fortitude~Self~5632~0~0~None~None~None~0~0~0~None~0~No~None
+7886~Minor Potion of Frenzy~Self~5633~0~0~None~None~None~0~0~0~None~0~No~None
+7887~Lesser Potion of Frenzy~Self~5634~0~0~None~None~None~0~0~0~None~0~No~None
+7888~Greater Potion of Frenzy~Self~5635~0~0~None~None~None~0~0~0~None~0~No~None
+7889~Minor Potion of Fury~Self~5636~0~0~None~None~None~0~0~0~None~0~No~None
+7890~Lesser Potion of Fury~Self~5637~0~0~None~None~None~0~0~0~None~0~No~None
+7891~Greater Potion of Fury~Self~5638~0~0~None~None~None~0~0~0~None~0~No~None
+7892~Minor Potion of Ferocity~Self~5639~0~0~None~None~None~0~0~0~None~0~No~None
+7893~Lesser Potion of Ferocity~Self~5640~0~0~None~None~None~0~0~0~None~0~No~None
+7894~Greater Potion of Ferocity~Self~5641~0~0~None~None~None~0~0~0~None~0~No~None
+7895~Minor Potion of Focus~Self~5642~0~0~None~None~None~0~0~0~None~0~No~None
+7896~Lesser Potion of Focus~Self~5643~0~0~None~None~None~0~0~0~None~0~No~None
+7897~Greater Potion of Focus~Self~5644~0~0~None~None~None~0~0~0~None~0~No~None
+7898~Poisoned Talons~Enemy~5645~0~2~Poison~None~None~0~0.9~1~None~0~No~Wounding
+7900~New Dog Food~Self~5647~0~0~None~None~None~0~0~0~None~0~No~None
+7901~Serpent Sting~Enemy~5648~0~10~Poison~None~None~0~0~0~None~0~No~Wounding
+7902~Antivenom~Self~5649~0~0~None~None~None~0~0~0~None~0~No~Wounding
+7903~Razor Arrow~Enemy~5650~0~15~Pierce~None~None~20~0.87~0.87~None~0~No~Wounding
+7904~Searing Blast~Enemy~0~4~8~Heat~None~None~10~1.01~1~None~0~No~Spell
+7905~Freezing Bolts~Enemy~0~0~10~Cold~None~None~11~1.01~1~None~0~No~Spell
+7906~Charged Defence~Self~5651~0~0~None~None~None~0~0~0.8~None~8~No~None
+7907~Hunters Favours~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+7908~Blurred Blades~Self~5652~0~0~None~None~None~0~0~0~None~0~No~None
+7909~Piercing Strike~Enemy~0~0~2~Pierce~None~None~0~1~0~None~0~Yes~Physical
+7910~Poisoned Vines~Enemy~5653~10~8~Magic~Nature Magic~None~0~1~1~Focus~10~No~Wounding
+7911~Lightning Surge~Enemy~0~0~10~Magic~Nature Magic~None~20~1~1~Focus~8~No~Spell
+7912~Elemental Defence~Self~5654~0~0~None~None~None~0~1~0.8~None~8~No~None
+7913~Cloak of Protection~Self~5655~4~4~Pierce~None~None~0~2~0.8~None~16~No~None
+7914~Slice~Enemy~0~0~2~Slash~None~None~0~0.02~0.01~None~20~Yes~Physical
+7915~Slash~Enemy~5656~0~3~Slash~None~None~0~1.9~1~None~0~Yes~Wounding
+7916~Affliction~Enemy~5657~0~12~Magic~None~None~0~0~0~None~0~No~Spell
+7917~Encumbrance~Enemy~5658~0~3~Slash~None~None~0~1.9~1~None~0~Yes~Wounding
+7918~Infused~Self~5659~0~3~None~None~None~0~0~0~None~0~Yes~Wounding
+7919~Spiritual Fury~Self~5660~0~3~Slash~None~None~0~1.9~1~None~0~Yes~Wounding
+7920~Venomstrike~Enemy~5661~0~3~Poison~None~None~0~0~0~None~0~Yes~Wounding
+7921~Razorclaws Downfall~Self~5662~0~3~None~None~None~0~0~0~None~0~Yes~None
+7922~Eviscerate~Enemy~5663~0~3~Slash~None~None~0~1.9~1~None~0~Yes~Wounding
+7923~Spiritual Shield~Self~5664~4~4~Pierce~None~None~0~0~0~None~0~No~None
+7924~Impervious~Self~5665~0~3~Heat~None~None~0~1~0.8~None~0~No~Spell
+7925~Iron Barrier~Self~5668~0~5~None~None~None~0~0~0~None~0~No~None
+7926~Soul Drain~Enemy~5667~5~15~Magic~None~None~0~0~0~None~0~Yes~Spell
+7927~Ability Boost Potion~Self~163~0~0~None~None~None~0~0~0~None~0~No~None
+7928~Ice Shock~Enemy~0~8~8~Cold~Ice Magic~None~10~1.1~1~Focus~8~No~Spell
+7929~Char~Enemy~5669~0~8~Heat~None~None~0~1~1~None~0~No~Spell
+7930~Penetrating Cold~Enemy~5670~0~8~Cold~None~None~0~1~0.01~None~0~No~Spell
+7931~Enhanced Reflexes~Self~5671~0~0~None~None~None~0~0~0.8~None~0~No~None
+7932~Glacial Defence Potion~Self~5672~0~0~None~None~None~0~0~0~None~0~No~None
+7933~Foxglove Balm~Self~5673~0~0~None~None~None~0~0~0~None~0~No~None
+8000~Herring Pie~Self~5674~0~0~None~None~None~0~0~0~None~0~No~None
+8001~Whiting Soup~Self~5675~0~0~None~None~None~0~0~0~None~0~No~None
+8002~Flounder Fillet~Self~5676~0~0~None~None~None~0~0~0~None~0~No~None
+8003~Smoked Mackerel~Self~5677~0~0~None~None~None~0~0~0~None~0~No~None
+8004~Rudd Pie~Self~5678~0~0~None~None~None~0~0~0~None~0~No~None
+8005~Barbel Soup~Self~5679~0~0~None~None~None~0~0~0~None~0~No~None
+8006~Fried Carp~Self~5680~0~0~None~None~None~0~0~0~None~0~No~None
+8007~Salted Pike~Self~5681~0~0~None~None~None~0~0~0~None~0~No~None
+8008~Bream Quiche~Self~5682~0~0~None~None~None~0~0~0~None~0~No~None
+8009~Trout Soup~Self~5683~0~0~None~None~None~0~0~0~None~0~No~None
+8010~Catfish Steak~Self~5684~0~0~None~None~None~0~0~0~None~0~Yes~None
+8011~Smoked Salmon~Self~5685~0~0~None~None~None~0~0~0~None~0~No~None
+8012~Cavefish Pie~Self~5686~0~0~None~None~None~0~0~0~None~0~No~None
+8013~Cullen Skink~Self~5687~0~0~None~None~None~0~0~0~None~0~No~None
+8014~Plaice Fillet~Self~5688~0~0~None~None~None~0~0~0~None~0~No~None
+8015~Smoked Eel~Self~5689~0~0~None~None~None~0~0~0~None~0~No~None
+8016~Morthar Ray Pie~Self~5690~0~0~None~None~None~0~0~0~None~0~No~None
+8017~Morthar Shark Soup~Self~5691~0~0~None~None~None~0~0~0~None~0~No~None
+8018~Sturgeon Fillet~Self~5692~0~0~None~None~None~0~0~0~None~0~No~None
+8019~Smoked Ray~Self~5693~0~0~None~None~None~0~0~0~None~0~No~None
+8020~Eel Pie~Self~5694~0~0~None~None~None~0~0~0~None~0~No~None
+8021~Dogfish Soup~Self~5695~0~0~None~None~None~0~0~0~None~0~No~None
+8022~Gulper Eel Fillet~Self~5696~0~0~None~None~None~0~0~0~None~0~No~None
+8023~Salted Angler~Self~5697~0~0~None~None~None~0~0~0~None~0~No~None
+8024~Manta Ray Pie~Self~5698~0~0~None~None~None~0~0~0~None~0~No~None
+8025~Bull Shark Soup~Self~5699~0~0~None~None~None~0~0~0~None~0~No~None
+8026~Monkfish Fillet~Self~5700~0~0~None~None~None~0~0~0~None~0~No~None
+8027~Jellied Eel~Self~5701~0~0~None~None~None~0~0~0~None~0~No~None
+8028~Fire Burst~Enemy~0~0~10~Heat~None~None~11~1.01~1~None~8~No~Spell
+8029~Spinning Inferno~Enemy~5702~0~2~Crush~None~None~0~1.35~0.45~None~20~Yes~Physical
+8030~Ice Barbs~Enemy~0~0~9~Cold~None~None~11~1.01~1~Focus~10~No~Spell
+8031~Fury Swipe~Enemy~5703~0~2~Slash~None~None~0~1.35~0.45~None~20~Yes~Physical
+8032~Mephetic Drain~Enemy~5704~0~2~Magic~None~None~0~0~0~None~1~No~Wounding
+8033~Skewer~Enemy~0~0~2~Pierce~None~None~0~0~0~None~0~No~Physical
+8034~Catch~Fish~0~0~12~Fishing~Bear Taming~None~0~0.9~1~None~0~No~None
+8035~Arcane Blast~Enemy~0~0~12~Magic~Spirit Taming~None~10~1~1~None~0~No~None
+8036~Bear Food~Self~5711~0~0~None~None~None~0~0~0~None~0~No~None
+8037~Wisp Food~Self~5712~0~0~None~None~None~0~0~0~None~0~No~None
+8038~Rake~Enemy~5715~0~12~Slash~Wolf Taming~None~0~0~0~None~0~No~None
+8039~Wolf Food~Self~5717~0~0~None~None~None~0~0~0~None~0~No~None
+8040~Testy Fishing Skill~Fish~0~0~20~Fishing~None~None~0~0~0~None~0~No~None
+8041~Arcane Blast~Enemy~0~0~12~Magic~Spirit Taming~None~10~1~1~None~0~No~None
+8042~Arcane Blast~Enemy~0~0~12~Magic~Spirit Taming~None~10~1~1~None~0~No~None
+8043~Arcane Blast~Enemy~0~0~12~Magic~Spirit Taming~None~10~1~1~None~0~No~None
+8044~Arcane Blast~Enemy~0~0~12~Magic~Spirit Taming~None~10~1~1~None~0~No~None
+8045~Shoreline Broth~Self~5719~0~0~None~None~None~0~0~0~None~0~No~None
+8046~Riverbank Broth~Self~5720~0~0~None~None~None~0~0~0~None~0~No~None
+8047~Lakeside Broth~Self~5721~0~0~None~None~None~0~0~0~None~0~No~None
+8048~Darkwater Broth~Self~5722~0~0~None~None~None~0~0~0~None~0~No~None
+8049~Otherworldly Broth~Self~5723~0~0~None~None~None~0~0~0~None~0~No~None
+8050~Deepsea Broth~Self~5724~0~0~None~None~None~0~0~0~None~0~No~None
+8051~Struggle~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8052~Distraction~Enemy~0~0~0~Fishing~None~None~0~0~0~None~0~No~None
+8053~Dive~Self~5727~0~0~None~None~None~0~0~0~None~0~No~None
+8054~Fishing Cache~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8055~Sunken Chest Items~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8056~Reel In~Fish~0~0~20~Fishing~None~None~0~1.25~1.25~None~0~No~None
+8057~Chum~Self~5730~0~0~None~None~None~0~0~0~None~0~No~None
+8058~Stillness~Enemy~5729~0~20~None~None~None~0~0~0~None~0~No~None
+8059~Spider Food~Self~5732~0~0~None~None~None~0~0~0~None~0~No~None
+8060~Boar Food~Self~5734~0~0~None~None~None~0~0~0~None~0~No~None
+8061~Pounce~Enemy~0~0~12~Poison~Spider Taming~None~0~0~0~None~0~No~None
+8062~Howl~Enemy~0~0~12~Pierce~Wolf Riding~None~0~0~0~None~0~No~Physical
+8063~Resilience~Self~5739~0~0~None~Bear Riding~None~0~0~0~None~0~No~None
+8064~Feral Protection~Self~5709~0~12~Slash~Boar Taming~None~0~0~0~None~0~No~None
+8065~Call Mount~Friendly~5738~0~20~Heat~None~None~0~0~0~None~0~No~None
+8066~Mount Whistle~Self~5738~0~0~None~None~None~0~0~0~None~0~No~None
+8067~Mount Token Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8068~Random Mount Barding~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8069~Winter Chest Bundle~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8070~Test Aura Skill 1 Self Friendly~Self~5763~0~2~None~Melee Combat~None~0~0~0~None~8~No~None
+8071~Test Aura Skill 2 Self Hostile~Self~5764~0~2~None~Melee Combat~None~0~0~0~None~8~No~None
+8072~Test Aura Skill 3 Ranged Friendly~Friendly~5765~0~2~None~Melee Combat~None~0~0~0~None~8~No~None
+8073~Test Aura Skill 4 Ranged Hostile~Enemy~5766~0~2~None~Melee Combat~None~0~0~0~None~8~No~None
+8074~Raging Current~Enemy~5767~0~30~None~None~None~0~0~0~None~0~No~None
+8075~Learn Gruel~Friendly~0~0~0~None~None~None~0~0~0~None~0~No~None
+8076~Learn Flat Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8077~Learn Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8078~Learn Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8079~Learn Lentil Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8080~Learn Oatcake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8081~Learn Pea Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8082~Learn Scones~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8083~Learn Pottage~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8084~Learn Ginger Bread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8085~Learn Scotch Broth~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8086~Learn Shortbread~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8087~Learn Carrot Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8088~Learn Pancake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8089~Learn Frumenty~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8090~Learn Flapjack~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8091~Learn Sweet Porridge~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8092~Learn Bannock~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8093~Learn Mushroom Casserole~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8094~Learn Fruit Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8095~Learn Rabbit Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8096~Learn Roast Beef~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8097~Learn Venison Stew~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8098~Learn Black Pudding~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8099~Learn Boar Roast~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8100~Learn Rare Fruit Salad~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8101~Learn Warbeast Omlette~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8102~Learn Wyvern Egg Souffle~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8103~Learn Lamb Casserole~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8104~Learn Cheese Rarebit~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8105~Learn Cream of Pea Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8106~Learn Cream of Carrot Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8107~Learn Spinach Pancake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8108~Learn Granola~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8109~Learn Sweet Roll~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8110~Learn Bara Brith~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8111~Learn Herring Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8112~Learn Whiting Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8113~Learn Flounder Fillet~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8114~Learn Smoked Mackerel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8115~Learn Rudd Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8116~Learn Barbel Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8117~Learn Fried Carp~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8118~Learn Salted Pike~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8119~Learn Bream Quiche~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8120~Learn Trout Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8121~Learn Catfish Steak~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8122~Learn Smoked Salmon~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8123~Learn Cave Fish Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8124~Learn Cullen Skink~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8125~Learn Plaice Fillet~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8126~Learn Smoked Eel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8127~Learn Morthar Ray Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8128~Learn Morthar Shark Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8129~Learn Sturgeon Fillet~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8130~Learn Smoked Ray~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8131~Learn Eel Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8132~Learn Dogfish Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8133~Learn Gulper Eel Fillet~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8134~Learn Salted Angler~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8135~Learn Manta Ray Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8136~Learn Bull Shark Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8137~Learn Monkfish Fillet~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8138~Learn Jellied Eel~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8139~Learn Truffled Quail Eggs~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8140~Learn Caviar~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8141~Learn Filet Mignon~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8142~Learn Goose Liver Pate~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8143~Learn Pavlova~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8144~Learn Lemon Meringue Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8145~Restoration Potion Set NO TRADE~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8146~Resurrection Idol Set NEW NO TRADE~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8147~Fowl Fortune~Self~5970~0~0~None~Chicken Taming~None~0~0~0~None~0~No~None
+8148~Draconic Roar~Enemy~5973~6~12~Heat~Dragon Taming~None~0~0~0~None~0~No~None
+8149~Chicken Food~Self~5975~0~0~None~None~None~0~0~0~None~0~No~None
+8150~Dragon Food~Self~5977~0~0~None~None~None~0~0~0~None~0~No~None
+8151~Open Dragon Egg~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8152~Trample~Enemy~0~0~12~Crush~Horse Riding~None~0~0~0~None~0~No~Physical
+8153~Cooking Cache~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8154~Poisonous Breath~Enemy~5980~6~12~Poison~Dragon Taming~None~0~0~0~None~0~No~None
+8155~Flaming Breath~Enemy~5981~6~12~Heat~Dragon Taming~None~0~0~0~None~0~No~None
+8156~Freezing Breath~Enemy~5982~6~12~Cold~Dragon Taming~None~0~0~0~None~0~No~None
+8157~Magical Breath~Enemy~5983~6~12~Magic~Dragon Taming~None~0~0~0~None~0~No~None
+8158~Cavernous Broth~Self~5979~0~0~None~None~None~0~0~0~None~0~No~None
+8159~Potion of Purification~Self~5985~0~0~None~None~None~0~0~0~None~0~No~None
+8160~Poisoned Scourge~Enemy~5986~0~15~Slash~None~None~0~5~5~None~0~No~None
+8161~Regrowth~Self~5987~0~5~None~None~None~0~0~0~None~0~No~None
+8162~Tainted Blast~Enemy~5988~0~30~Magic~None~None~20~1~1~None~0~No~Spell
+8163~Chaotic Barbs~Enemy~6049~0~30~Pierce~None~None~20~0.87~0.87~None~0~No~Wounding
+8164~Corrupted Carapace~Self~5990~0~5~None~None~None~0~0~0~None~0~No~None
+8165~Lacerating Roots~Enemy~6050~30~30~Pierce~None~None~0~1~1~None~0~No~Wounding
+8166~Cultivate~Friendly~0~0~10~None~None~None~0~1.8~0.8~None~0~No~None
+8167~Revival~Friendly~0~0~20~None~None~None~0~1.8~0.8~None~0~No~None
+8168~Paralysing Roots~Enemy~5992~10~10~Pierce~None~None~0~1~1~None~0~No~Movement
+8169~Natures Fury~Enemy~6051~10~20~Chaos~None~None~0~0~0~None~0~No~None
+8170~Heat Shield~Friendly~5994~0~20~None~None~None~0~0~0~None~0~No~None
+8171~Ice Shield~Friendly~5995~0~20~None~None~None~0~0~0~None~0~No~None
+8172~Poisoned Vines~Enemy~5996~0~2~None~None~None~0~0~0~None~0~No~Wounding
+8173~Energy Blast~Enemy~0~0~9~Magic~None~None~0~0~0~None~0~No~Spell
+8174~Blood Sacrifice~Self~5997~0~2~None~None~None~0~0~0~None~0~No~Wounding
+8175~Solar Barrier~Friendly~5998~0~10~None~None~None~0~0~0~None~0~No~None
+8176~Eagle Food~Self~6000~0~0~None~None~None~0~0~0~None~0~No~None
+8177~Lightning Discharge~Enemy~6002~0~12~Magic~Elk Riding~None~0~0~0~None~0~No~Physical
+8178~Crushing Talons~Enemy~6003~0~12~Crush~Eagle Taming~None~0~0.1~0~None~0~No~None
+8179~Learn Mince Pie~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8180~Learn Gingerbread Man~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8181~Learn Yule Pudding~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8182~Learn Chocolate Lord MacLir~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8183~Sever~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~Physical
+8184~Blood Frenzy~Self~6013~0~2~None~None~None~0~0~0.8~None~0~No~None
+8185~Impale~Enemy~6014~0~2~Pierce~None~None~0~0.9~1~None~0~No~Physical
+8186~Skewer~Enemy~0~0~2~Pierce~None~None~0~0.9~1~None~0~No~Physical
+8187~Death Swipe~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~Physical
+8188~Slashing Swoop~Enemy~0~0~2~Slash~None~None~0~0.9~1~None~0~No~Physical
+8189~Aerial Stomp~Enemy~6015~0~2~Crush~None~None~0~0~0~None~0~No~Physical
+8190~Shroud of Decay~Enemy~6016~0~30~None~None~None~0~0~0~None~0~No~None
+8191~Lichborne Presence~Enemy~6018~0~12~Magic~None~None~0~0~0~None~0~No~Physical
+8192~Storm of the Tormented Soul~Enemy~0~50~50~Chaos~None~None~0~1~1~None~0~No~None
+8193~Grace of the Gods~Friendly~6020~0~60~None~None~None~0~0~0~None~0~No~Physical
+8194~Enfeebling Curse~Enemy~6026~0~12~Magic~None~None~0~0~0~None~0~No~None
+8195~Reavers Resilience~Self~6022~0~12~Magic~None~None~0~0~0~None~0~No~None
+8196~Flaming Scourge~Enemy~0~0~10~Heat~None~None~11~1.01~1~None~8~No~Spell
+8197~Conflagration~Enemy~6028~0~10~Heat~None~None~0~0~0~None~8~No~Spell
+8198~Searing Corruption~Friendly~6029~0~4~Heat~Fire Magic~None~0~1~0.8~Focus~10~No~None
+8199~Glacial Blast~Enemy~0~0~10~Cold~None~None~11~1.01~1~None~8~No~Spell
+8200~Frozen Barrier~Friendly~6030~0~10~Cold~None~None~0~1~0.8~None~8~No~Spell
+8201~Deathly Chill~Enemy~6031~0~10~Cold~None~None~10~1.01~1~None~8~No~Spell
+8202~Lich Boss Storm of Tormented Soul Telegraph~Self~0~0~10~None~None~None~0~0~0~None~0~No~None
+8203~Cursed Bite~Enemy~0~0~20~Magic~None~None~0~0.9~1~None~8~No~Physical
+8204~Frozen Bite~Enemy~0~0~20~Cold~None~None~0~0.9~1~None~8~No~Physical
+8205~Smoldering Bite~Enemy~0~0~20~Heat~None~None~0~0.9~1~None~8~No~Physical
+8206~Necrotic Bite~Enemy~0~0~20~Poison~None~None~0~0.9~1~None~8~No~Physical
+8207~Mystic Swipe~Enemy~0~0~20~Magic~None~None~0~0.9~1~None~8~No~Physical
+8208~Soulchilling Swipe~Enemy~0~0~20~Cold~None~None~0~0.9~1~None~8~No~Physical
+8209~Blistering Swipe~Enemy~0~0~20~Heat~None~None~0~0.9~1~None~8~No~Physical
+8210~Accursed Swipe~Enemy~0~0~20~Poison~None~None~0~0.9~1~None~8~No~Physical
+8211~Putrid Corruption~Enemy~6032~0~20~Magic~None~None~20~1.9~1~None~8~No~Physical
+8212~Numbing Corruption~Enemy~6033~0~20~Cold~None~None~11~1.9~1~None~8~No~Physical
+8213~Flaming Corruption~Enemy~6034~0~20~Heat~None~None~11~1.9~1~None~8~No~Physical
+8214~Malignant Corruption~Enemy~6035~0~20~Poison~None~None~11~1.9~1~None~8~No~Physical
+8215~Reavers Sacrifice~Enemy~0~100~80~Heat~None~None~0~0~0~None~0~No~None
+8216~Apply Sacrificial Rites~Enemy~6042~100~100~Heat~None~None~0~0~0~None~0~No~None
+8217~Razor Slash~Enemy~0~0~15~Pierce~None~None~0~0.9~1~None~0~No~None
+8218~Reavers Sacrifice Slow~Friendly~6040~0~100~Heat~None~None~0~0~0~None~0~No~None
+8219~Reaver Boss Chamber Timer~Self~6039~0~100~None~None~None~0~0~0~None~0~No~None
+8220~Crushing Void~Friendly~6047~0~100~Magic~None~None~0~0~0~None~0~No~None
+8221~Tainted Strike~Enemy~6043~0~5~Pierce~None~None~0~1.9~1~None~0~Yes~Wounding
+8222~Necrotic Blast~Enemy~0~0~15~Magic~None~None~20~1~1~None~0~No~Spell
+8223~Volley~Enemy~0~0~15~Pierce~None~None~20~1.27~1.27~None~0~No~Wounding
+8224~Amputation~Enemy~0~0~5~Crush~None~None~0~1.35~0.45~None~0~Yes~Physical
+8225~Faction Treasure Trove~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8226~Chaotic Surge~Enemy~0~7~50~Heat~None~None~8~1~1~None~0~No~None
+8227~Crushing Onslaught~Enemy~6053~5~30~Crush~None~None~0~2~2~None~0~No~None
+8228~Shifting Sands~Enemy~0~2~30~Magic~None~None~0~0~3~None~0~No~None
+8229~Reaver Boss Teleport Others Telegraph~Enemy~0~2~30~Magic~None~None~0~0~0~None~0~No~None
+8230~Reaver Boss Apply Slow Node Telegraph~Enemy~0~2~30~Magic~None~None~0~0~0~None~0~No~None
+8231~Acuity of the Lich~Self~6038~0~30~Magic~None~None~0~0~0~None~0~No~None
+8232~Broken Ritual~Enemy~0~0~30~Magic~None~None~0~0~0~None~0~No~None
+8234~Sacrificial Rites~Enemy~0~30~90~Heat~None~None~0~4~4~None~0~No~None
+8235~Corrupted Broadheads~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8236~Condemning Cleave~Enemy~6052~4~30~Slash~None~None~0~0.9~1~None~0~No~Physical
+8237~Ritual of Transference~Enemy~0~0~100~None~None~None~0~0~0~None~0~No~None
+8238~Life Force~Friendly~0~0~15~None~None~None~0~1.8~0.8~None~0~No~Wounding
+8239~Corrosive Spit~Self~6122~0~60~None~None~None~0~2~2~None~0~No~None
+8250~FrostrootAuraTelegraph1~Self~6070~0~10~None~None~None~0~0~0~None~0~No~None
+8251~BlazerootAuraTelegraph1~Self~6078~0~10~None~None~None~0~0~0~None~0~No~None
+8252~VoltrootAuraTelegraph1~Self~6062~0~10~None~None~None~0~0~0~None~0~No~None
+8253~CausticrootAuraTelegraph1~Self~6086~0~10~None~None~None~0~0~0~None~0~No~None
+8254~SalverootAuraTelegraph1~Self~6094~0~10~None~None~None~0~0~0~None~0~No~None
+8255~ChaosrootAuraTelegraph1~Self~6102~0~10~None~None~None~0~0~0~None~0~No~None
+8256~FrostrootAuraTelegraph2~Self~6072~0~10~None~None~None~0~0~0~None~0~No~None
+8257~BlazerootAuraTelegraph2~Self~6080~0~10~None~None~None~0~0~0~None~0~No~None
+8258~VoltrootAuraTelegraph2~Self~6064~0~10~None~None~None~0~0~0~None~0~No~None
+8259~CausticrootAuraTelegraph2~Self~6088~0~10~None~None~None~0~0~0~None~0~No~None
+8260~SalverootAuraTelegraph2~Self~6096~0~10~None~None~None~0~0~0~None~0~No~None
+8261~ChaosrootAuraTelegraph2~Self~6104~0~10~None~None~None~0~0~0~None~0~No~None
+8262~FrostrootAuraTelegraph3~Self~6074~0~10~None~None~None~0~0~0~None~0~No~None
+8263~BlazerootAuraTelegraph3~Self~6082~0~10~None~None~None~0~0~0~None~0~No~None
+8264~VoltrootAuraTelegraph3~Self~6066~0~10~None~None~None~0~0~0~None~0~No~None
+8265~CausticrootAuraTelegraph3~Self~6090~0~10~None~None~None~0~0~0~None~0~No~None
+8266~SalverootAuraTelegraph3~Self~6098~0~10~None~None~None~0~0~0~None~0~No~None
+8267~ChaosrootAuraTelegraph3~Self~6106~0~10~None~None~None~0~0~0~None~0~No~None
+8268~FrostrootAuraTelegraph4~Self~6076~0~10~None~None~None~0~0~0~None~0~No~None
+8269~BlazerootAuraTelegraph4~Self~6084~0~10~None~None~None~0~0~0~None~0~No~None
+8270~VoltrootAuraTelegraph4~Self~6068~0~10~None~None~None~0~0~0~None~0~No~None
+8271~CausticrootAuraTelegraph4~Self~6092~0~10~None~None~None~0~0~0~None~0~No~None
+8272~SalverootAuraTelegraph4~Self~6100~0~10~None~None~None~0~0~0~None~0~No~None
+8273~ChaosrootAuraTelegraph4~Self~6108~0~10~None~None~None~0~0~0~None~0~No~None
+8274~Acknowledge Skill Hit~Self~0~0~8~Unknown(14)~None~None~0~0~0~None~0~No~None
+8275~ThornsTelegraph1~Self~6056~0~10~None~None~None~0~0~0~None~0~No~None
+8276~ThornsTelegraph2~Self~6057~0~10~None~None~None~0~0~0~None~0~No~None
+8277~ThornsTelegraph3~Self~6058~0~10~None~None~None~0~0~0~None~0~No~None
+8278~ThornsTelegraph4~Self~6059~0~10~None~None~None~0~0~0~None~0~No~None
+8279~ThornsTelegraph5~Self~6060~0~10~None~None~None~0~0~0~None~0~No~None
+8280~ThornsTelegraph6~Self~6061~0~10~None~None~None~0~0~0~None~0~No~None
+8281~ThornsTelegraph7~Self~6124~0~10~None~None~None~0~0~0~None~0~No~None
+8282~Cuhcullains Bastion~Self~6125~0~0~None~None~None~0~1~0.8~None~0~No~None
+8283~Cuhcullains Fury~Enemy~0~0~1~Divine~None~None~0~1~0.8~None~0~No~None
+8284~Fingals Prowess~Enemy~6126~0~1~Divine~None~None~0~0.02~0.01~None~0~No~None
+8285~Fingals Finesse~Enemy~6127~0~1~Divine~None~None~0~0.02~0.01~None~0~No~None
+8286~Myrines Featherdraw~Self~6128~0~0~None~None~None~0~1~0.8~None~0~No~None
+8287~Myrines Crossfire~Self~6129~0~0~None~None~None~0~1~0.8~None~0~No~None
+8288~Myrrdins Sacred Flame~Enemy~6130~4~8~Divine~None~None~10~0.61~0.6~None~0~No~None
+8289~Myrrdins Glacial Embrace~Enemy~6131~4~8~Divine~None~None~10~0.61~0.6~None~0~No~None
+8290~Myrrdins Adaptation~Self~6132~0~8~Divine~None~None~10~0.61~0.6~None~0~No~None
+8291~Dian Cechts Grace~Friendly~6133~4~8~None~None~None~0~1~0.8~None~0~No~None
+8292~Dian Cechts Boon~Friendly~6134~6~8~None~None~None~0~1~0.8~None~0~No~None
+8293~Dian Cechts Stormrage~Enemy~6135~0~8~Divine~None~None~0~1~0.8~None~0~No~None
+8294~Torrent of Corruption~Enemy~0~15~20~True~None~None~0~0~1~None~0~No~None
+8305~Caustic Spray~Enemy~0~7~60~Poison~None~None~0~0~0~None~0~No~None
+8306~Chaotic Synthesis~Self~0~0~5~None~None~None~0~0~0~None~0~No~None
+8307~7th Anniversary Red Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8308~7th Anniversary Pink Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8309~7th Anniversary Orange Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8310~7th Anniversary Yellow Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8311~7th Anniversary Green Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8312~7th Anniversary Turquoise Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8313~7th Anniversary Blue Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8314~7th Anniversary Purple Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8315~7th Anniversary Black Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8316~7th Anniversary White Firework~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8317~Ember Breath~Enemy~6140~6~12~Heat~Phoenix Taming~None~0~0~0~None~0~No~None
+8318~Corrosive Breath~Enemy~6141~6~12~Poison~Phoenix Taming~None~0~0~0~None~0~No~None
+8319~Frost Breath~Enemy~6142~6~12~Cold~Phoenix Taming~None~0~0~0~None~0~No~None
+8320~Arcane Breath~Enemy~6143~6~12~Magic~Phoenix Taming~None~0~0~0~None~0~No~None
+8321~Phoenix Food~Self~6137~0~0~None~None~None~0~0~0~None~0~No~None
+8322~Frenzied Slashes~Enemy~0~10~2~Slash~Tiger Riding~None~0~0~0~None~0~No~Physical
+8323~Blood Drinker Heal~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8324~Taunt Pollen~Enemy~0~0~5~None~Melee Combat~None~0~0~0.05~Vitality~8~No~Mental
+8325~Calm Pollen~Friendly~0~0~8~None~Nature Magic~None~0~0~0.8~Focus~10~No~None
+8326~Divine Bolt~Enemy~0~0~15~Divine~None~None~11~1.01~1~None~0~No~None
+8327~Wyrmblaze~Enemy~0~6~10~Heat~None~None~10~1.01~1~None~8~No~Spell
+8328~Invigorating Energy~Self~0~0~0~None~None~None~0~1~0.8~None~0~No~None
+8329~Bound Lightning Strike~Enemy~0~0~10~Magic~Nature Magic~None~20~1~1~Focus~8~No~Spell
+8330~Bound Fire Bolt~Enemy~0~0~10~Heat~Fire Magic~None~11~1.01~1~Focus~8~No~Spell
+8331~Bound Ice Shards~Enemy~0~0~9~Cold~Ice Magic~None~11~1.01~1~Focus~10~No~Spell
+8332~Minor Lure of Soldiers~Enemy~6158~0~10~None~Fire Magic~None~0~1~0.8~Focus~10~No~Weakening
+8333~Minor Lure of Assassins~Enemy~6159~0~10~None~Fire Magic~None~0~1~0.8~Focus~10~No~Weakening
+8334~Minor Lure of Giants~Enemy~6146~0~10~None~Ice Magic~None~0~1~0.8~Focus~10~No~Weakening
+8335~Minor Lure of Magic~Enemy~6147~0~10~None~Ice Magic~None~0~1~0.8~Focus~10~No~Weakening
+8336~Enraged Swing~Enemy~0~0~2~Crush~Melee Combat~None~0~1.35~0.45~Strength~20~Yes~Physical
+8337~Minor Ward of Soldiers~Group~6148~8~8~None~Nature Magic~None~0~1~0.8~Focus~10~No~None
+8338~Minor Ward of Giants~Group~6149~8~8~None~Nature Magic~None~0~1~0.8~Focus~10~No~None
+8339~Minor Ward of Assassins~Group~6150~8~8~None~Nature Magic~None~0~1~0.8~Focus~10~No~None
+8340~Minor Ward of Magic~Group~6151~8~8~None~Nature Magic~None~0~0.8~0.8~Focus~10~No~None
+8341~Minor Protective Stance~Self~6152~0~0~None~Melee Combat~None~0~0~0.8~Vitality~8~No~None
+8342~Minor Fast Reflexes~Self~6153~0~0~None~Cunning~None~0~0~0.8~Dexterity~10~No~None
+8343~Minor Bolas~Enemy~6154~0~12~Crush~Ranged Combat~None~15~1.1~1.1~None~0~No~Movement
+8344~Minor Energy Shield~Self~6155~0~0~None~Ice Magic~None~0~1~0.8~Focus~20~No~None
+8345~Minor Grasping Roots~Enemy~6156~0~10~Pierce~Nature Magic~None~0~1~1~None~0~No~Movement
+8346~Minor Poison Weapon~Friendly~6157~0~4~None~Cunning~None~0~1~0.3~Dexterity~10~No~None
+8347~Mystic Blaze~Enemy~6160~8~10~Magic~Ice Magic~None~0~2.4~2.4~None~0~No~Weakening
+8348~Self Destruct~Enemy~0~30~0~True~Ice Magic~None~0~0~2~None~10~No~None
+8349~Lacerating Blast~Enemy~0~25~0~Slash~Ice Magic~None~0~0~2~None~10~No~None
+8350~Pounding Blast~Enemy~0~25~0~Crush~Ice Magic~None~0~0~2~None~10~No~None
+8351~Infernal Blast~Enemy~0~25~0~Heat~Ice Magic~None~0~0~2~None~10~No~None
+8352~Glacial Blast~Enemy~0~25~0~Cold~Ice Magic~None~0~0~2~None~10~No~None
+8353~Arcane Blast~Enemy~0~25~0~Magic~Ice Magic~None~0~0~2~None~10~No~None
+8354~Corrosive Blast~Enemy~0~25~0~Poison~Ice Magic~None~0~0~2~None~10~No~None
+8355~Magic Dragon Teleport Cast~Enemy~0~2~30~Magic~None~None~0~0~0~None~0~No~None
+8356~Negative Energy~Friendly~6168~0~100~Magic~None~None~0~0~0~None~0~No~None
+8357~Energy Discharge~Enemy~6170~15~5~Magic~None~None~0~2.4~2.4~None~0~No~Movement
+8358~Astral Smash~Enemy~0~15~2~Magic~None~None~0~0.9~1~None~0~No~Physical
+8359~Crushing Force~Enemy~0~0~2~Magic~None~None~0~0.9~1~None~0~No~Physical
+8360~AOE Telegraph~Self~0~0~0~None~None~None~0~0~2.4~None~0~No~None
+8361~Pig Food~Self~6172~0~0~None~None~None~0~0~0~None~0~No~None
+8362~Corruptive Touch~Enemy~6176~0~40~Chaos~Ice Magic~None~0~0~0~None~0~No~None
+8363~Magic Dragon Teleport~Enemy~0~0~150~None~None~None~0~0~2.4~None~0~No~None
+8364~Void Surge~Enemy~2092~5~100~Magic~Ice Magic~None~20~1~1~None~0~No~Movement
+8365~Seedling Food~Self~6178~0~0~None~None~None~0~0~0~None~0~No~None
+8366~Natural Rejuvenation~Self~6179~0~0~None~Pig Taming~None~0~0~0~None~0~No~None
+8367~Minor Blazeroot Aura~Self~6180~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8368~Minor Frostroot Aura~Self~6182~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8369~Minor Voltroot Aura~Self~6184~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8370~Minor Causticroot Aura~Self~6186~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8371~Minor Salveroot Aura~Self~6188~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8372~Minor Chaosroot Aura~Self~6190~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8373~Arcane Invigoration~Self~6192~40~5~None~Ice Magic~None~0~3.5~3.5~None~0~No~None
+8374~Arcane Infection~Enemy~6193~0~40~Magic~Ice Magic~None~0~0~0~None~0~No~None
+8375~Blazing Destruction~Enemy~6254~0~10~Heat~None~None~0~0.8~0.8~None~0~No~None
+8376~Glacial Destruction~Enemy~6254~0~10~Cold~None~None~0~0.8~0.8~None~0~No~None
+8377~Arcane Destruction~Enemy~6254~0~10~Magic~None~None~0~0.8~0.8~None~0~No~None
+8378~Blazing Lure~Enemy~6256~0~10~Heat~None~None~0~0.8~0.8~None~0~No~None
+8379~Glacial Lure~Enemy~6257~0~10~Cold~None~None~0~0.8~0.8~None~0~No~None
+8380~Arcane Lure~Enemy~6258~0~10~Magic~None~None~0~0.8~0.8~None~0~No~None
+8381~Mystic Renewal~Friendly~6255~0~10~Magic~None~None~0~0.8~0.8~None~0~No~None
+8382~NOT USED~Enemy~6254~0~10~Magic~None~None~0~0.8~0.8~None~0~No~None
+8383~Lesser Blazeroot Aura~Self~6194~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8384~Lesser Frostroot Aura~Self~6196~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8385~Lesser Voltroot Aura~Self~6198~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8386~Lesser Causticroot Aura~Self~6200~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8387~Lesser Salveroot Aura~Self~6202~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8388~Lesser Chaosroot Aura~Self~6204~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8389~Major Blazeroot Aura~Self~6206~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8390~Major Frostroot Aura~Self~6208~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8391~Major Voltroot Aura~Self~6210~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8392~Major Causticroot Aura~Self~6212~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8393~Major Salveroot Aura~Self~6214~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8394~Major Chaosroot Aura~Self~6216~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8395~Greater Blazeroot Aura~Self~6218~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8396~Greater Frostroot Aura~Self~6220~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8397~Greater Voltroot Aura~Self~6222~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8398~Greater Causticroot Aura~Self~6224~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8399~Greater Salveroot Aura~Self~6226~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8400~Greater Chaosroot Aura~Self~6228~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8401~Mighty Blazeroot Aura~Self~6230~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8402~Mighty Frostroot Aura~Self~6232~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8403~Mighty Voltroot Aura~Self~6234~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8404~Mighty Causticroot Aura~Self~6236~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8405~Mighty Salveroot Aura~Self~6238~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8406~Mighty Chaosroot Aura~Self~6240~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8407~Unbridled Blazeroot Aura~Self~6242~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8408~Unbridled Frostroot Aura~Self~6244~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8409~Unbridled Voltroot Aura~Self~6246~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8410~Unbridled Causticroot Aura~Self~6248~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8411~Unbridled Salveroot Aura~Self~6250~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8412~Unbridled Chaosroot Aura~Self~6252~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8413~Blazing Fury~Self~6259~0~10~Heat~None~None~0~0.8~0.8~None~0~No~None
+8414~Glacial Fury~Self~6260~0~10~Cold~None~None~0~0.8~0.8~None~0~No~None
+8415~Arcane Fury~Self~6261~0~10~Magic~None~None~0~0.8~0.8~None~0~No~None
+8416~Hellfire~Enemy~6265~10~12~Heat~Hellsteed Riding~None~0~0~0~None~0~No~None
+8417~Corrosive Flames~Enemy~6267~1~10~Poison~None~None~11~1.01~1~None~0~No~None
+8418~Caustic Wrath~Enemy~6266~10~10~Poison~None~None~11~1.01~1~None~0~No~None
+8419~Learn Sun King Soup~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8420~Learn Yule Cookies~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8421~Learn Rice Pudding~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8422~Learn Yule Cake~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8423~Learn Spiced Beef~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8424~Learn Yule Roast~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8425~Learn Sunshine Casserole~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8426~Learn Spicy Fruit Salad~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8427~Learn Minty Fruit Salad~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8428~Learn Honey Fruit Salad~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8430~Reindeer Food~Self~6271~0~0~None~None~None~0~0~0~None~0~No~None
+8431~Polar Shield~Self~6272~0~0~None~Reindeer Taming~None~0~0~0~None~0~No~None
+8432~Sun King Soup~Self~6273~0~0~None~None~None~0~0~0~None~0~No~None
+8433~Exquisite Sun King Soup~Self~6274~0~0~None~None~None~0~0~0~None~0~No~None
+8434~Perfected Sun King Soup~Self~6275~0~0~None~None~None~0~0~0~None~0~No~None
+8435~Yule Cookies~Self~6276~0~0~None~None~None~0~0~0~None~0~No~None
+8436~Exquisite Yule Cookies~Self~6277~0~0~None~None~None~0~0~0~None~0~No~None
+8437~Perfected Yule Cookies~Self~6278~0~0~None~None~None~0~0~0~None~0~No~None
+8438~Rice Pudding~Self~6279~0~0~None~None~None~0~0~0~None~0~No~None
+8439~Exquisite Rice Pudding~Self~6280~0~0~None~None~None~0~0~0~None~0~No~None
+8440~Perfected Rice Pudding~Self~6281~0~0~None~None~None~0~0~0~None~0~No~None
+8441~Yule Cake~Self~6282~0~0~None~None~None~0~0~0~None~0~No~None
+8442~Exquisite Yule Cake~Self~6283~0~0~None~None~None~0~0~0~None~0~No~None
+8443~Perfected Yule Cake~Self~6284~0~0~None~None~None~0~0~0~None~0~No~None
+8444~Spiced Beef~Self~6285~0~0~None~None~None~0~0~0~None~0~No~None
+8445~Exquisite Spiced Beef~Self~6286~0~0~None~None~None~0~0~0~None~0~No~None
+8446~Perfected Spiced Beef~Self~6287~0~0~None~None~None~0~0~0~None~0~No~None
+8447~Yule Roast~Self~6288~0~0~None~None~None~0~0~0~None~0~No~None
+8448~Exquisite Yule Roast~Self~6289~0~0~None~None~None~0~0~0~None~0~No~None
+8449~Perfected Yule Roast~Self~6290~0~0~None~None~None~0~0~0~None~0~No~None
+8450~Sunshine Casserole~Self~6291~0~0~None~None~None~0~0~0~None~0~No~None
+8451~Exquisite Sunshine Casserole~Self~6292~0~0~None~None~None~0~0~0~None~0~No~None
+8452~Perfected Sunshine Casserole~Self~6293~0~0~None~None~None~0~0~0~None~0~No~None
+8453~Spicy Fruit Salad~Self~6294~0~0~None~None~None~0~0~0~None~0~No~None
+8454~Exquisite Spicy Fruit Salad~Self~6295~0~0~None~None~None~0~0~0~None~0~No~None
+8455~Perfected Spicy Fruit Salad~Self~6296~0~0~None~None~None~0~0~0~None~0~No~None
+8456~Minty Fruit Salad~Self~6297~0~0~None~None~None~0~0~0~None~0~No~None
+8457~Exquisite Minty Fruit Salad~Self~6298~0~0~None~None~None~0~0~0~None~0~No~None
+8458~Perfected Minty Fruit Salad~Self~6299~0~0~None~None~None~0~0~0~None~0~No~None
+8459~Honey Fruit Salad~Self~6300~0~0~None~None~None~0~0~0~None~0~No~None
+8460~Exquisite Honey Fruit Salad~Self~6301~0~0~None~None~None~0~0~0~None~0~No~None
+8461~Perfected Honey Fruit Salad~Self~6302~0~0~None~None~None~0~0~0~None~0~No~None
+8462~Dragon Hatchling Egg Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8463~Phoenix Egg Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8464~Corrupted Seed Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8465~Magical Bell Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8466~Dark Essence Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8467~Imp Food~Self~6304~0~0~None~None~None~0~0~0~None~0~No~None
+8468~Cursed Coin Bag~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+8469~Bloodbound Sever~Enemy~0~0~12~Slash~Imp Taming~None~0~0~0~None~0~No~None
+8470~Hexbound Pierce~Enemy~0~0~12~Pierce~Imp Taming~None~0~0~0~None~0~No~None
+8471~Blightbound Smash~Enemy~0~0~12~Crush~Imp Taming~None~0~0~0~None~0~No~None
+8472~Soulbound Barrier~Self~6305~0~0~None~Imp Taming~None~0~0~0~None~0~No~None
+8473~Frozen Flames~Enemy~6308~1~10~Cold~None~None~11~1.01~1~None~0~No~None
+8474~Deadly Blizzard~Enemy~6309~10~10~Cold~None~None~11~1.01~1~None~0~No~None
+8475~Undead Regeneration~Self~0~0~10~None~None~None~0~1.8~0.8~None~0~No~None
+8476~10th Anniversary Red Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8477~10th Anniversary Pink Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8478~10th Anniversary Orange Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8479~10th Anniversary Yellow Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8480~10th Anniversary Green Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8481~10th Anniversary Turquoise Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8482~10th Anniversary Blue Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8483~10th Anniversary Purple Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8484~10th Anniversary Black Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8485~10th Anniversary White Firework~Self~0~0~0~None~None~None~0~1~0~None~0~No~None
+8486~Boundless Blazeroot Aura~Self~6310~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8487~Boundless Frostroot Aura~Self~6312~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8488~Boundless Voltroot Aura~Self~6314~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8489~Boundless Causticroot Aura~Self~6316~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8490~Boundless Salveroot Aura~Self~6318~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8491~Boundless Chaosroot Aura~Self~6320~0~0~None~Seedling Taming~None~0~0~0~None~0~No~None
+8492~Jubilation Elixir (OUTDATED)~Self~6322~0~0~None~None~None~0~0~0~None~0~No~None
+8493~Jubilation Elixir Set~Self~6322~0~0~None~None~None~0~0~0~None~0~No~None
+8494~Searing Arrow~Enemy~6325~1~10~Heat~None~None~11~1.01~1~None~0~No~None
+8495~Blazing Storm~Enemy~6326~10~10~Heat~None~None~11~1.01~1~None~0~No~None
+8496~Mythic Regeneration~Self~0~0~10~None~None~None~0~1.8~0.8~None~0~No~None
+10000~Skill Reset~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+10001~Stat Reset~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+20000~TEST KILL SKILL NOT FOR PLAYERS~Enemy~0~0~20~True~None~None~0~1.8~0.8~Strength~8~No~None
+20001~TEST ITEM SKILL~Self~0~0~0~None~None~None~0~0~0~None~0~No~None
+20002~TEST DAMAGE SKILL~Enemy~0~0~20~True~None~None~0~0~0~None~0~No~None
+20003~TEST DEATH SKILL~Self~0~0~0~Poison~None~None~0~0~0~None~0~No~None
+20004~Mark Test Skill~Enemy~0~0~10~Heat~Fire Magic~None~11~1.01~1~Focus~8~No~Spell
+20005~Test Ignite Skill~Enemy~20005~0~10~Pierce~Nature Magic~None~0~1~1~None~0~No~None
+20006~TEST ANIM SKILL~Enemy~0~0~20~True~None~None~0~0~0~Strength~8~No~None

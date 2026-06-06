@@ -1,0 +1,2229 @@
+﻿1
+30689~0^1
+3
+30689~0^0.01
+50649~0^0.05;1^0.05;2^0.05
+50650~3^0.05;4^0.05;5^0.05
+404
+929~Lich
+930~Reaver
+141079~Lich
+141080~Lich
+141081~Lich
+141082~Lich
+141279~Reaver
+141280~Reaver
+141281~Reaver
+141282~Reaver
+141283~Reaver
+141284~Reaver
+141285~Reaver
+141286~Reaver
+141287~Reaver
+141288~Reaver
+141289~Reaver
+141290~Reaver
+141291~Reaver
+141292~Reaver
+141293~Reaver
+141294~Reaver
+141295~Reaver
+141296~Reaver
+141297~Reaver
+141298~Reaver
+141299~Reaver
+141300~Reaver
+141301~Reaver
+141302~Reaver
+141303~Reaver
+141304~Reaver
+141305~Reaver
+141306~Reaver
+141307~Reaver
+141308~Reaver
+141309~Reaver
+141310~Reaver
+141311~Reaver
+141312~Reaver
+141313~Reaver
+141314~Reaver
+141315~Reaver
+141316~Reaver
+141317~Reaver
+141318~Reaver
+141319~Reaver
+141320~Reaver
+141321~Reaver
+141322~Reaver
+141323~Reaver
+141324~Reaver
+141325~Reaver
+141326~Reaver
+141327~Reaver
+141328~Reaver
+141329~Reaver
+141330~Reaver
+141331~Reaver
+141332~Reaver
+141333~Reaver
+141334~Reaver
+141335~Reaver
+141336~Reaver
+141337~Reaver
+141338~Reaver
+141339~Reaver
+141340~Reaver
+141341~Reaver
+141342~Reaver
+141343~Reaver
+141344~Reaver
+141345~Reaver
+141346~Reaver
+141347~Reaver
+141348~Reaver
+141349~Reaver
+141350~Reaver
+141351~Reaver
+141352~Reaver
+141353~Reaver
+141354~Reaver
+141355~Reaver
+141356~Reaver
+141357~Reaver
+141358~Reaver
+141359~Reaver
+141360~Reaver
+141361~Reaver
+141362~Reaver
+141363~Lich
+141364~Lich
+141365~Lich
+141366~Lich
+141367~Lich
+141368~Lich
+141369~Lich
+141370~Lich
+141371~Lich
+141372~Lich
+141373~Lich
+141374~Lich
+141375~Lich
+141376~Lich
+141377~Lich
+141378~Lich
+141379~Lich
+141380~Lich
+141381~Lich
+141382~Lich
+141383~Lich
+141384~Lich
+141385~Lich
+141386~Lich
+141387~Lich
+141388~Lich
+141389~Lich
+141390~Lich
+141391~Lich
+141392~Lich
+141393~Lich
+141394~Lich
+141395~Lich
+141396~Lich
+141397~Lich
+141398~Lich
+141399~Lich
+141400~Lich
+141401~Lich
+141402~Lich
+141403~Lich
+141404~Lich
+141405~Lich
+141406~Lich
+141407~Lich
+141408~Lich
+141409~Lich
+141410~Lich
+141411~Lich
+141412~Lich
+141413~Lich
+141414~Lich
+141415~Lich
+141416~Lich
+141417~Lich
+141418~Lich
+141419~Lich
+141420~Lich
+141421~Lich
+141422~Lich
+141423~Lich
+141424~Lich
+141425~Lich
+141426~Lich
+141427~Lich
+141428~Lich
+141429~Lich
+141430~Lich
+141431~Lich
+141432~Lich
+141433~Lich
+141434~Lich
+141435~Lich
+141436~Lich
+141437~Lich
+141438~Lich
+141439~Lich
+141440~Lich
+141441~Lich
+141442~Lich
+141443~Lich
+141444~Lich
+141445~Lich
+141446~Lich
+141465~Lich
+141466~Lich
+141467~Lich
+141477~Lich
+141478~Reaver
+141479~Lich
+141480~Reaver
+141481~Reaver
+141482~Reaver
+141483~Reaver
+141484~Reaver
+141485~Reaver
+141486~Reaver
+141487~Reaver
+141488~Reaver
+141489~Reaver
+141490~Reaver
+141491~Reaver
+141492~Reaver
+141493~Reaver
+141494~Reaver
+141495~Reaver
+141496~Reaver
+141497~Reaver
+141498~Reaver
+141499~Reaver
+141500~Reaver
+141501~Reaver
+141502~Reaver
+141503~Reaver
+141504~Reaver
+141505~Reaver
+141506~Reaver
+141507~Reaver
+141508~Reaver
+141509~Reaver
+141510~Reaver
+141511~Reaver
+141512~Reaver
+141513~Reaver
+141514~Reaver
+141515~Reaver
+141516~Reaver
+141517~Reaver
+141518~Reaver
+141519~Reaver
+141520~Reaver
+141521~Reaver
+141522~Reaver
+141523~Reaver
+141524~Reaver
+141525~Reaver
+141526~Reaver
+141527~Reaver
+141528~Reaver
+141529~Reaver
+141530~Reaver
+141531~Reaver
+141532~Reaver
+141533~Reaver
+141534~Reaver
+141535~Reaver
+141536~Reaver
+141537~Reaver
+141538~Reaver
+141539~Reaver
+141540~Reaver
+141541~Reaver
+141542~Reaver
+141543~Reaver
+141544~Reaver
+141545~Reaver
+141546~Reaver
+141547~Reaver
+141548~Reaver
+141549~Reaver
+141550~Reaver
+141551~Reaver
+141552~Reaver
+141553~Reaver
+141554~Reaver
+141555~Reaver
+141556~Reaver
+141557~Reaver
+141558~Reaver
+141559~Reaver
+141560~Reaver
+141561~Reaver
+141562~Reaver
+141563~Reaver
+141564~Reaver
+141585~Lich
+141586~Lich
+141673~Lich
+141675~Reaver
+141677~Reaver
+141678~Lich
+141682~Reaver
+141683~Reaver
+141686~Reaver
+141687~Reaver
+141712~Reaver
+141713~Reaver
+141714~Reaver
+141715~Reaver
+141716~Reaver
+141717~Lich
+141718~Lich
+141719~Lich
+141720~Lich
+141721~Lich
+141722~Reaver
+141723~Reaver
+141724~Reaver
+141725~Reaver
+141726~Reaver
+141727~Lich
+141728~Lich
+141729~Lich
+141730~Lich
+141731~Lich
+141740~Lich
+141741~Lich
+141742~Lich
+141743~Lich
+141744~Lich
+141745~Lich
+141746~Lich
+141747~Lich
+141748~Lich
+141749~Lich
+141750~Lich
+141751~Lich
+141752~Lich
+141753~Lich
+141754~Lich
+141755~Lich
+141756~Lich
+141757~Lich
+141758~Lich
+141759~Lich
+141760~Lich
+141761~Lich
+141762~Lich
+141763~Lich
+141764~Lich
+141765~Lich
+141766~Lich
+141767~Lich
+141768~Lich
+141769~Lich
+141770~Lich
+141771~Lich
+141772~Lich
+141773~Lich
+141774~Lich
+141775~Lich
+141776~Lich
+141777~Lich
+141778~Lich
+141779~Lich
+141780~Lich
+141781~Lich
+141782~Lich
+141783~Lich
+141784~Lich
+141785~Lich
+141786~Lich
+141787~Lich
+141788~Lich
+141789~Lich
+141790~Lich
+141791~Lich
+141792~Lich
+141793~Lich
+141794~Lich
+141795~Lich
+141796~Lich
+141797~Lich
+141798~Lich
+141799~Lich
+141800~Lich
+141801~Lich
+141802~Lich
+141803~Lich
+141804~Lich
+141805~Lich
+141806~Lich
+141807~Lich
+141808~Lich
+141809~Lich
+141810~Lich
+141811~Lich
+141812~Lich
+141813~Lich
+141814~Lich
+141815~Lich
+141816~Lich
+141817~Lich
+141818~Lich
+141819~Lich
+141820~Lich
+141821~Lich
+141822~Lich
+141823~Lich
+141824~Lich
+141950~Reaver
+141951~Reaver
+141952~Lich
+141953~Lich
+141958~Reaver
+141959~Reaver
+141960~Reaver
+141961~Reaver
+141963~Lich
+141964~Reaver
+141974~Reaver
+141975~Reaver
+141976~Reaver
+141977~Reaver
+141978~Reaver
+141979~Reaver
+141980~Lich
+141981~Lich
+141982~Lich
+141983~Lich
+141984~Lich
+141985~Lich
+141998~Reaver
+141999~Lich
+316
+390~86,0
+1021~5629,0
+50013~2136,0;2149,0
+70186~2136,0
+70206~2050,0
+70600~2136,0
+70601~2136,0
+70602~2136,0
+70603~2136,0
+70604~2136,0
+70667~2136,0
+70668~2136,0
+70669~2136,0
+70670~2136,0
+70671~2136,0
+70712~2136,0
+70713~2136,0
+70714~2136,0
+70715~2136,0
+70716~2136,0
+70717~2136,0
+70718~2136,0
+70719~2136,0
+70720~2136,0
+70721~2136,0
+70722~2136,0
+70727~2136,0
+70731~2136,0
+70737~2136,0
+70741~2136,0
+70747~2136,0
+70751~2136,0
+70757~2136,0
+70761~2136,0
+70767~2136,0
+70771~2136,0
+70773~2136,0
+70774~2136,0
+70775~2136,0
+70776~2136,0
+70777~2136,0
+70778~2136,0
+70779~2136,0
+70780~2136,0
+70781~2136,0
+70782~2136,0
+70787~2136,0
+70791~2136,0
+70823~5629,0
+70843~60,4
+70850~60,4
+70854~60,4
+70877~60,4
+70878~60,4
+70879~60,4
+70880~60,4
+70971~2043,0
+70972~2043,0
+70973~2043,0
+70974~2043,1
+70975~2043,1
+70976~2043,1
+70977~2043,1
+70978~2043,1
+70979~2043,1
+71024~2048,4
+71050~2136,0
+71051~2136,0
+71052~2048,5;2136,0
+71053~2136,0
+71054~2136,0
+71055~2136,0
+71122~2043,1
+71152~2043,2
+71223~2136,0
+71224~2136,0
+71225~2136,0
+71226~2136,0
+71227~2136,0
+71228~2136,0
+71331~2043,2
+71332~2043,3
+71481~2050,0
+71857~2136,0
+71858~2136,0
+71859~2136,0
+71860~2136,0
+71861~2136,0
+71862~2136,0
+71863~2136,0
+71864~2136,0
+71865~2136,0
+71866~2136,0
+71867~2136,0
+71868~2136,0
+71869~2136,0
+71870~2136,0
+71871~2136,0
+71872~2136,0
+71873~2136,0
+71874~2136,0
+71961~2136,0
+71962~2136,0
+71963~2136,0
+71964~2136,0
+71965~2136,0
+71966~2136,0
+71967~2136,0
+71968~2136,0
+71969~2136,0
+72689~2050,0
+72738~2089,0
+72751~2089,0
+72818~2091,0
+72843~2091,0
+72844~2091,0
+73000~2136,0;2181,0;2182,0
+73059~2091,0
+73509~2050,0
+73510~2050,0
+73511~2050,0
+73688~2136,0
+73689~2136,0
+73690~2136,0
+73691~2136,0
+73692~2136,0
+73693~2136,0
+73694~2136,0
+73695~2136,0
+73696~2136,0
+73697~2136,0
+73703~2136,0
+73704~2136,0
+73705~2136,0
+73706~2136,0
+73707~2136,0
+73708~2136,0
+73812~2136,0
+73813~2136,0
+73814~2136,0
+73815~2136,0
+73817~2136,0
+73871~2165,0
+73872~2165,0
+73873~2165,0
+73874~2165,0
+73875~2165,0
+73876~2165,0
+73877~2165,0
+73878~2165,0
+73879~2165,0
+73880~2165,0
+73881~2165,0
+73882~2165,0
+73883~2165,0
+73884~2165,0
+73885~2165,0
+73886~2165,0
+73887~2165,0
+73888~2165,0
+73889~2165,0
+73890~2165,0
+74028~2136,0
+74029~2136,0
+74030~2136,0
+74031~2136,0
+74032~2136,0
+74033~2136,0
+74034~2136,0
+74035~2136,0
+74036~2136,0
+74037~2136,0
+74038~2136,0
+74039~2136,0
+74040~2136,0
+74041~2136,0
+74042~2136,0
+74043~2136,0
+74044~2136,0
+74045~2136,0
+74100~2091,0
+74101~2188,0
+100002~2136,0;2181,0;5039,0
+100003~2136,0
+100004~2136,0
+100005~2136,0;5000,0
+100007~2136,0
+100095~2136,0;5000,0
+100114~5061,2
+100115~5061,2
+100116~5061,2
+100117~5061,2
+100118~5061,2
+100165~5629,0
+100270~20,2
+100319~23,1
+100324~5121,0
+100325~5122,0
+102982~2136,0;5335,0
+103005~2136,0
+103006~2136,0
+103007~2136,0
+103008~2136,0
+103009~2136,0
+103010~2136,0
+103011~2136,0
+103012~2136,0
+103013~2136,0
+103014~2136,0
+103015~2136,0
+103016~2136,0
+103017~2136,0
+103018~2136,0
+103019~2136,0
+103020~2136,0;5343,3
+103021~2136,0;5343,4
+103022~2136,0;5343,5
+103023~2136,0
+103024~2136,0
+103025~2136,0
+103026~2136,0
+103027~2136,0;5522,0
+103028~2136,0;5522,0
+103034~2136,0
+103035~2136,0
+103036~2136,0
+103037~2136,0
+103038~2136,0
+103039~2136,0;5343,3
+103040~2136,0
+103041~2136,0
+103059~2136,0;5330,0
+103060~2136,0;5331,0
+103061~2136,0;5332,0
+103062~2136,0
+138374~2136,0
+138375~2136,0
+138494~5343,5
+138685~2136,0
+138952~5491,0
+138953~5491,0
+138954~5491,0
+138955~5491,0
+138956~5491,0
+138957~5491,0
+138958~5491,0
+138959~5491,0
+140299~5629,0
+140692~5769,0
+140693~5769,0
+140694~5769,0
+140695~5769,0
+140696~5769,0
+140697~5769,0
+140698~5769,0
+140699~5769,0
+140700~5769,0
+140701~5769,0
+140791~5769,0
+140792~5769,0
+140793~5769,0
+140794~5769,0
+140795~5769,0
+140796~5769,0
+140797~5769,0
+140798~5769,0
+140799~5769,0
+140800~5769,0
+141103~2136,0
+141447~5769,0
+141448~5769,0
+141449~5769,0
+141450~5769,0
+141451~5769,0
+141452~5769,0
+141453~5769,0
+141454~5769,0
+141455~5769,0
+141456~5769,0
+141479~2136,0;2181,0;2183,0;6018,0
+141480~2136,0;2181,0;2183,0;6036,0
+141679~2136,0
+141680~2136,0
+141941~6045,0
+141942~6045,0
+141943~6045,0
+141944~6045,0
+141945~6045,0
+141965~2136,0;6110,0
+141966~2136,0
+141968~2136,0;6112,0
+141969~2136,0;6114,0
+141970~2136,0;6116,0
+141971~2136,0;6118,0
+141972~2136,0;6120,0
+141986~5629,0
+142027~6173,0;6262,0
+142028~6173,0
+142029~6173,0
+142032~6161,0;6173,0
+142033~6162,0;6173,0
+142034~6163,0;6173,0
+142035~6164,0;6173,0
+142036~6165,0;6173,0
+142037~6166,0;6173,0
+142038~6167,0;6173,0
+142039~6161,0;6173,0
+142040~6162,0;6173,0
+142041~6163,0;6173,0
+142042~6164,0;6173,0
+142043~6165,0;6173,0
+142044~6166,0;6173,0
+142045~6167,0;6173,0
+142103~6262,0;6306,0
+142104~6262,0;6268,0
+142115~6262,0;6323,0
+180
+874
+875
+10007
+10008
+10009
+10039
+70819
+71377
+71378
+71384
+71385
+72752
+72753
+72754
+73060
+73061
+73062
+73063
+73068
+73069
+73806
+74064
+74081
+74082
+74100
+74120
+74121
+100298
+100299
+100300
+100301
+100302
+101000
+101001
+101002
+101003
+101004
+101005
+101006
+101007
+101008
+101009
+101010
+101011
+101012
+101013
+101014
+101015
+101016
+101017
+101026
+101027
+101028
+101029
+101030
+101031
+101032
+101033
+101034
+101035
+101036
+101037
+101038
+101039
+101040
+101041
+101042
+101044
+101045
+101046
+101047
+101048
+101049
+101050
+101051
+101052
+101053
+101100
+101101
+101102
+101103
+101104
+101162
+101163
+101164
+101177
+101178
+101179
+101180
+101181
+101182
+101183
+101184
+138542
+138543
+138544
+138545
+138546
+138547
+138944
+138949
+138950
+138951
+138969
+138973
+138976
+140021
+140022
+140023
+140026
+140027
+140028
+140029
+140030
+140031
+140032
+140033
+140034
+140035
+140036
+140037
+140136
+140137
+140205
+140206
+140207
+140208
+140209
+140210
+140211
+140212
+140259
+140766
+140767
+140770
+140772
+140807
+140808
+140809
+140810
+140811
+140812
+140813
+140814
+141049
+141050
+141074
+141075
+141477
+141478
+141479
+141480
+141682
+141683
+141686
+141687
+141987
+141988
+141989
+141990
+141992
+141993
+141994
+141995
+142023
+142024
+142025
+142026
+142100
+142101
+142102
+142103
+142104
+142106
+142107
+142108
+142112
+142113
+142114
+142115
+668
+140134
+140313
+140314
+140315
+140316
+140317
+140318
+140319
+140320
+140321
+140322
+140323
+140324
+140325
+140326
+140327
+140328
+140329
+140330
+140331
+140332
+140333
+140334
+140335
+140336
+140337
+140338
+140339
+140340
+140341
+140342
+140343
+140344
+140345
+140346
+140347
+140348
+140349
+140350
+140351
+140352
+140353
+140354
+140355
+140356
+140357
+140358
+140359
+140360
+140361
+140362
+140363
+140364
+140365
+140366
+140367
+140368
+140369
+140370
+140371
+140372
+140373
+140374
+140375
+140376
+140377
+140378
+140379
+140380
+140381
+140382
+140383
+140384
+140385
+140386
+140387
+140388
+140389
+140390
+140391
+140392
+140393
+140394
+140395
+140396
+140397
+140398
+140399
+140400
+140401
+140402
+140403
+140404
+140405
+140406
+140407
+140408
+140409
+140410
+140411
+140412
+140413
+140414
+140415
+140416
+140417
+140418
+140419
+140420
+140421
+140422
+140423
+140424
+140425
+140426
+140427
+140428
+140429
+140430
+140431
+140432
+140433
+140434
+140435
+140436
+140437
+140438
+140439
+140440
+140441
+140442
+140443
+140444
+140445
+140446
+140447
+140448
+140449
+140450
+140451
+140452
+140453
+140454
+140455
+140456
+140457
+140458
+140459
+140460
+140461
+140462
+140463
+140464
+140465
+140466
+140467
+140468
+140469
+140470
+140471
+140472
+140473
+140474
+140475
+140476
+140477
+140478
+140479
+140480
+140481
+140482
+140483
+140484
+140485
+140486
+140487
+140488
+140489
+140490
+140491
+140492
+140493
+140494
+140495
+140496
+140497
+140498
+140499
+140500
+140501
+140502
+140503
+140504
+140505
+140506
+140507
+140508
+140509
+140510
+140511
+140512
+140513
+140514
+140515
+140516
+140517
+140518
+140519
+140520
+140521
+140522
+140523
+140524
+140525
+140526
+140527
+140528
+140529
+140530
+140531
+140532
+140533
+140534
+140535
+140536
+140537
+140538
+140539
+140540
+140541
+140542
+140543
+140544
+140545
+140546
+140547
+140548
+140549
+140550
+140551
+140552
+140553
+140554
+140555
+140556
+140557
+140558
+140559
+140560
+140561
+140562
+140563
+140564
+140565
+140566
+140567
+140568
+140569
+140570
+140571
+140572
+140573
+140574
+140575
+140576
+140577
+140578
+140579
+140580
+140581
+140582
+140583
+140584
+140585
+140586
+140587
+140588
+140589
+140590
+140591
+140592
+140593
+140594
+140595
+140596
+140597
+140598
+140599
+140600
+140601
+140602
+140603
+140604
+140605
+140606
+140607
+140608
+140609
+140610
+140611
+140612
+140613
+140614
+140615
+140616
+140617
+140618
+140619
+140620
+140621
+140622
+140623
+140624
+140625
+140626
+140627
+140628
+140629
+140630
+140631
+140632
+140633
+140634
+140635
+140636
+140637
+140638
+140639
+140640
+140641
+140642
+140643
+140644
+140645
+140646
+140647
+140648
+140649
+140650
+140651
+140652
+140653
+140654
+140655
+140656
+140657
+140658
+140659
+140660
+140661
+140662
+140663
+140664
+140665
+140666
+140667
+140668
+140669
+140670
+140671
+140672
+140673
+140674
+140675
+140676
+140677
+140678
+140679
+140680
+140681
+140682
+140683
+140684
+140685
+140686
+140687
+140688
+140689
+140690
+140691
+140692
+140693
+140694
+140695
+140696
+140697
+140698
+140699
+140700
+140701
+140702
+140703
+140704
+140705
+140706
+140707
+140708
+140709
+140710
+140711
+140712
+140713
+140714
+140715
+140716
+140717
+140718
+140719
+140720
+140721
+140722
+140776
+140777
+140778
+140779
+140780
+140781
+140782
+140783
+140784
+140785
+140786
+140787
+140788
+140789
+140790
+140791
+140792
+140793
+140794
+140795
+140796
+140797
+140798
+140799
+140800
+140818
+140819
+140820
+140821
+140822
+140823
+140824
+140825
+140826
+140827
+140828
+140829
+140830
+140831
+140832
+140833
+140834
+140835
+140836
+140837
+140838
+140839
+140840
+140841
+140842
+140843
+140844
+140845
+140846
+140847
+140848
+140849
+140850
+140851
+140852
+140853
+140854
+140855
+140856
+140857
+140858
+140859
+140860
+140861
+140862
+140863
+140864
+140865
+140866
+140867
+140868
+140869
+140870
+140871
+140872
+140873
+140874
+140875
+140876
+140877
+140878
+140879
+140880
+140881
+140882
+140883
+140884
+140885
+140886
+140887
+140888
+140889
+140890
+140891
+140892
+140893
+140894
+140895
+140896
+140897
+140898
+140899
+140900
+140901
+140902
+140903
+140904
+140905
+140906
+140907
+140908
+140909
+140910
+140911
+140912
+140913
+140914
+140915
+140916
+140917
+140918
+140919
+140920
+140921
+140922
+140923
+140924
+140925
+140926
+140927
+140928
+140929
+140930
+140931
+140932
+140933
+140934
+140935
+140936
+140937
+140938
+140939
+140940
+140941
+140942
+140943
+140944
+140945
+140946
+140947
+140948
+140949
+140950
+140951
+140952
+140953
+140954
+140955
+140956
+140957
+140958
+140959
+140960
+140961
+140962
+140963
+140964
+140965
+140966
+140967
+140968
+140969
+140970
+140971
+140972
+140973
+140974
+140975
+140976
+140977
+140978
+140979
+140980
+140981
+140982
+140983
+140984
+140985
+140986
+140987
+140988
+140989
+140990
+140991
+140992
+140993
+140994
+140995
+140996
+140997
+140998
+140999
+141000
+141001
+141002
+141003
+141004
+141005
+141006
+141010
+141011
+141012
+141013
+141014
+141015
+141016
+141017
+141018
+141019
+141041
+141447
+141448
+141449
+141450
+141451
+141452
+141453
+141454
+141455
+141456
+141573
+141574
+141575
+141690
+141691
+141692
+141693
+141694
+141695
+141696
+141697
+141698
+141699
+141700
+141701
+141702
+141703
+141704
+141705
+141706
+141707
+141708
+650
+4~Use your First Aid ability to bandage the wounds of yourself or an ally, healing <-IDA> health. Adding vitality increases the effect of this skill.
+6~Drinking this potion instantly restores 100 health.
+7~Drinking this potion instantly restores 100 energy.
+11~Use your Fire Magic ability to hurl a bolt of fire at your enemy, burning them with magical flames for up to <IDA> damage.
+12~Use your Fire Magic ability to create a cloak of fire on yourself or another player, burning any enemies foolish enough to attack for up to <AMA> damage per tick, for <DUR> seconds.
+19~Eating this crunchy apple restores 10 points of health.
+20~Drinking this water leaves you feeling refreshed, restoring 25 points of energy.
+21~A mug of ale, deep amber in colour with a strong flavour. Cheers!
+22~Crumbling this strange black stone releases a vapour that immediately restores 40 points of both health and energy.
+23~This crusty bread can be eaten to regain 10 points of health. It goes particularly well with a bowl of soup.
+24~This cold sliced mutton makes a fine meal, and though it takes a while to chew, it can be eaten to restore 25 points of health.
+25~Boosts your health regen rate for 5 minutes.
+26~Boosts your energy regen rate for 5 minutes.
+27~Drinking this potion instantly restores 500 health.
+28~Drinking this potion instantly restores 500 energy.
+29~This strange liquid comes in a dark bottle, with a dirty, hand-written label. Drinking it leaves you feeling highly invigorated and a little queasy, restoring 10 points of energy.
+30~When chewed, this attractive pink flower releases its restorative properties, replenishing health and energy by 15 points each.
+31~This salve, made from various medicinal plants, heals wounds and boosts the circulation. However, it must be left on the affected area for two whole minutes to achieve its full effect.
+33~Taunt your enemy making them more likely to attack you over other players.
+35~Drinking this potion instantly restores 25 health.
+42~Use your ice magic ability to project deadly shards of ice which slam into your opponent, causing up to <IDA> cold damage.
+50~Camouflage yourself or an ally, reducing the range which enemies up to level <AM> will spot you, for <DUR> seconds.
+57~Drinking this potion instantly restores 25 energy.
+58~This magic potion turns you invisible, so enemies will not be able to detect you for the potion's duration of 5 minutes. Entering combat or death cancel this effect.
+60~Death will cancel the effect of this potion, and the effect will not stack with other potions that reduce your size.
+61~The effect of this elixir continues even if you die, but will not stack with other elixirs that reduce your size.
+62~Death will cancel the effect of this potion, and the effect will not stack with other potions that increase your size.
+63~The effect of this elixir continues even if you die, but will not stack with other elixirs that increase your size.
+64~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve defence.
+65~The effect of this elixir continues even if you die, but will not stack with other elixirs that improve defence.
+66~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve armour.
+67~The effect of this elixir continues even if you die, but will not stack with other elixirs that improve armour.
+68~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost maximum health.
+69~The effect of this elixir continues even if you die, but will not stack with other elixirs that boost maximum health.
+70~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost maximum energy.
+71~The effect of this elixir continues even if you die, but will not stack with other elixirs that boost maximum energy.
+72~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve attack.
+73~The effect of this elixir continues even if you die, but will not stack with other elixirs that improve attack.
+74~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost attack speed.
+75~The effect of this elixir continues even if you die, but will not stack with other elixirs that boost attack speed.
+76~Death will cancel the effect of this potion, and the effect will not stack with other potions that increase movement speed.
+77~The effect of this elixir continues even if you die, but will not stack with other elixirs that increase movement speed.
+78~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost experience gains.
+79~The effect of this elixir continues even if you die, but will not stack with other elixirs that boost experience gains.
+80~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost health regeneration.
+81~The effect of this elixir continues even if you die, but will not stack with other elixirs that boost health regeneration.
+82~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost energy regeneration.
+83~The effect of this elixir continues even if you die, but will not stack with other elixirs that boost energy regeneration.
+84~Death will cancel the effect of this potion, and the effect will not stack with other potions that grant any of the effects of the Combination Potion.
+85~The effect of this elixir continues even if you die, but will not stack with other elixirs that grant any of the effects of the Combination Elixir.
+86~Roots an enemy in place for 60 seconds.
+87~Shoots a fireball at the enemy, dealing 100 base damage.
+88~Drinking this potion instantly restores 1000 health and 1000 energy.
+89~A Fettlecap mushroom. It has a white flesh, and looks tasty. Eating it restores five points of health.
+90~A Milkstalk mushroom. It has blue gills which exude a sweet aroma. Eating it restores five points of energy.
+91~A Yellow Giant mushroom. Its large, flat top is yellow in colour.
+92~A Black Gill mushroom. This flat-topped mushroom has black gills that exude a musty smell.
+93~This sickly-green fungus gives off an unwholesome odour. Eating it would probably be a bad idea.
+94~A Death Cap mushroom. This evil-smelling mushroom is black and green. The grass around it appeared dead.
+95~Boar only. Gore your enemy with your sharp tusks!
+104~The effect of this elixir continues even if you die, but will not stack with other elixirs that boost ability gains.
+121~Ice Shards + Shrink Potion. Mobs only.
+157~Use the magic in this scroll to deal 10000 unresistable damage to the All-Seeing One. It will vanish after one use.
+158~Use the magic in this scroll to deal 10000 unresistable damage to the Swamplord. It will vanish after one use.
+159~Use the magic in this scroll to deal 10000 unresistable damage to Woodcrown. It will vanish after one use.
+160~Use the magic in this scroll to deal 10000 unresistable damage to the Chained King. It will vanish after one use.
+161~Use the magic in this scroll to deal 10000 unresistable damage to Grommak. It will vanish after one use.
+162~Use the magic in this scroll to deal 10000 unresistable damage to Pyrus. It will vanish after one use.
+163~Drinking this potion instantly restores 5000 health.
+164~Drinking this potion will increase your Fire Resistance by 1000 points for the next 60 seconds.
+165~Drinking this potion will increase your Ice Resistance by 1000 points for the next 60 seconds.
+166~Drinking this potion will increase your Magic Resistance by 1000 points for the next 60 seconds.
+167~Drinking this potion will increase your Piercing Resistance by 1000 points for the next 60 seconds.
+168~Drinking this potion will increase your Slashing Resistance by 1000 points for the next 60 seconds.
+169~Drinking this potion will increase your Crushing Resistance by 1000 points for the next 60 seconds.
+170~Boosts the attack speed of all allies in 6 meters by 50% for 20 seconds.
+171~Unleashes a raging blizzard to freeze your target, and foes within 6 meters, for up to 30 seconds. Attacking an enemy will unfreeze it.
+173~Creates a shimmering barrier that will briefly protect you and allies within 6 meters from up to 5000 damage, for 12 seconds.
+174~This powerful potion was brought from the Otherworld by Piranus the Mad, and restores 5000 health and energy when consumed.
+183~Eating this pie will increase your maximum health by <AM> for 10 minutes.
+184~Throw a snowball at an enemy, dealing up to <IDA> cold damage.
+190~Capture a moth with your Moth Net.
+206~Includes 1 Health Sigil, 1 Energy Sigil, 1 Bank Expansion (10 slots) and 1 Backpack Expansion (5 slots).
+208~Use to discover what's inside.
+229~Eating this bowl of stew instantly restores 100 energy.
+230~Eating this bowl of stew instantly restores 250 energy.
+231~Eating this bowl of stew instantly restores 500 energy.
+234~This potion will cure you of the Wither Pox, a horrible disease common in Dunskeig Sewers, and will also protect you from catching it for the next ten minutes.
+253~Cast a firebolt from this scroll, dealing up to <IDA> heat damage.
+254~Use to discover what's inside.
+255~Use to discover what's inside.
+256~Use to discover what's inside.
+264~Use to discover what's inside.
+265~Use to discover what's inside.
+268~Throw a pumpkin bomb, dealing up to <IDA> heat damage.
+269~Throw a pumpkin bomb, coated in oil, that explodes on contact with its target, dealing up to <IDA> damage to all enemy within 6 meters.
+270~Use to discover what's inside.
+271~The effect of this elixir continues even if you die, but will not stack with other elixirs that boost fishing experience gains.
+300~Use to discover what's inside.
+301~Use to discover what's inside.
+302~Use to discover what's inside.
+303~Use to discover what's inside.
+304~Use to discover what's inside.
+307~Press 'use' to open it.
+309~Catch Bracken with this tasty knuckle bone.
+310~Use to discover what's inside.
+314~Drinking this potion instantly restores 500 health.
+315~Drinking this potion instantly restores 500 energy.
+316~This magic potion turns you invisible, so enemies will not be able to detect you for the potion's duration of 5 minutes. Entering combat or death cancel this effect.
+317~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve defence.
+318~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve armour.
+319~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve attack.
+320~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost attack speed.
+321~Death will cancel the effect of this potion, and the effect will not stack with other potions that increase movement speed.
+322~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost experience gains.
+323~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost health regeneration.
+324~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost energy regeneration.
+326~Use to discover what is inside.
+327~Use to discover what is inside.
+328~Use to discover what is inside.
+329~Unleashes a Beacon of Destiny.
+331~Use to receive your potions.
+333~Open to discover what is inside.
+339~Unleashes a Kite of Destiny.
+340~Use to discover what is inside.
+341~Use to discover what's inside.
+342~Drink to instantly restore <-ID> points of fishing concentration.
+344~Use to discover what is inside.
+346~Use to discover what is inside.
+600~The effect of this elixir continues even if you die, but will not stack with other elixirs that grant any of the effects of the Jubilation Elixir.
+1001~Learn Pummel, enabling you to perform large crushing attack on your enemies
+1002~Learn Protective Stance to increase your armour making you more resilient during combat
+1003~Learn Recuperate to regain health over time whilst out of combat
+1004~Learn skill Bandage Wound, used to heal yourself or others
+1005~Learn Natures Touch to greatly heal the target player
+1008~Learn Strangling Vines to cause damage over time on the target enemy
+1009~Learn the Grasping Roots spell to hold your enemies in place and stop them from moving
+1010~Learn the Howling Wind spell which decreases the target enemies attack
+1011~Learn the Fire Bolt spell to hurl a deadly firebolt at your enemies
+1012~Learn Cloak of Fire, a spell that causes fire damage to enemies that hit you
+1013~Learn Sharp Shot to fire a deadly accurate bow shot at your enemy causing large damage
+1014~Learn Steady Aim to increase the damage and accuracy of your bow shots
+1015~Learn Bolas to slow the movement of your enemies
+1016~Learn Sneaky Attack to perform a large attack with your dagger when the enemy is not targeting you
+1017~Learn the Hide skill to stop hostile enemies from seeing you
+1018~Learn Rend to perform an attack which causes damage over time
+1032~Learn Calm, a spell to calm enemies anger towards the target player
+1033~Learn Taunt to anger your enemies causing them to attack you in preference to other players
+1034~Learn to distract your enemies making them more likely to choose a different target than yourself
+1036~Learn Shield of Bark to increase the armour of the target player
+1037~Learn Natures Embrace to heal the target player over time, even during combat
+1038~Learn the Lightning Strike spell, causing your enemy to be hit by a deadly strike of lightining
+1039~Learn Abundance, a spell to increase total health.
+1040~Learn Lure of Fire to reduce your enemies resistance to fire damage
+1041~Learn Lure of Ice to reduce the target enemies resistance to cold damage
+1042~Learn the Ice Shards spell, a spell which causes massive cold damage to your enemies
+1043~Learn Energy Shield, a spell that causes energy to be lost instead of health when you take damage
+1044~Learn Energy Well, to increase the target players total energy
+1045~Learn the Frenzy skill to increase attack and damage at the cost of reduced defence and armour
+1046~Learn Shield Bash to hit your enemy with your shield causing a stun effect
+1047~Learn Giant Swing, a skill to perform a large melee attack on your target enemy
+1048~Learn Fast reflexes, increasing your chance of dodging attacks
+1049~Learn Poison weapon to add poison damage to the target players attacks
+1050~Learn Camoflage skill to reduce the range at which enemies can see the target player
+1051~Learn Rapid shot to greatly increase the speed of your bow attacks
+1052~Learn Barbed shot skill, a bow shot that causes damage over time
+1053~Learn Quick Strike to quickly dart in and damage your enemy before they notice
+1054~Learn Light Heal, a quick heal which can be used in combat to heal the target player
+1055~Learn Meditate to regain energy over time whilst out of combat
+1056~Learn the spell Energy Boost causing the target player to recharge energy over time, even during combat
+1124~Learn the Natures Breath spell, which washes over your allies and restores their health.
+1125~Learn Sweeping Blow, to strike all nearby enemies with a sweeping blow.
+1126~Learn the Firestorm spell, which launches an explosive fireball that harms all enemies in an area.
+1127~Learn the Smoke Bomb skill, to obscure you opponents vision and reduce their ability to defend themself.
+1128~Learn the Warcry skill to grab the attention of multiple opponents, and make the focus on you instead of your allies.
+1129~Learn Conceal to disguise yourself and your allies, preventing enemies from spotting you.
+1130~Learn the Defensive Spikes skill to harm opponents who would attack you or an ally in combat.
+1131~Learn to use Healing Salve to slowly restore health to yourself or an ally during combat.
+1132~Learn the Entangle skill to impede your enemies attacks, slowing the speed at which they can hit.
+1133~Learn the Incinerate spell, setting an enemy alight with magical flames that deal damage over time.
+1134~Learn the Storm Touch spell, to strike your opponent with a magically charged attack.
+1135~Learn the Freeze spell, which encases an enemy in ice, preventing them from moving or attacking until the ice is broken by an attack.
+1136~Learn the Play Dead skill to trick your opponents into leaving you alone until you next act.
+1137~Learn the Lure of Magic spell, which reduces your targets ability to resist magical damage.
+1138~Learn the Lure of Soldiers spell, which reduces your target's armour against slashing damage.
+1139~Learn the Lure of Assassins spell, which reduces your target's armour against piercing damage.
+1140~Learn the Lure of Giants spell, which reduces your target's armour against crushing damage.
+1141~Learn the Protection of the Forest spell, that boost the armour of multiple allies for while.
+1142~Learn the Abundant Aura spell, which bolsters your maximum health and the health of nearby allies.
+1143~Learn the Assassinate skill, which deals heavy damage to finish off a weak enemy.
+1144~Learn the Spring of Life spell, which brings an ally back from the brink of death.
+1145~Learn the Sacrifice spell, which allow you to boost the energy of an ally at the cost of your own health.
+1147~Learn the Enduring Guard skill, which allows you to shrug off physical attacks skills for a while.
+1148~Learn the Ward of Fire spell, which increases the fire resistance of yourself or an ally.
+1149~Learn the Ward of Ice spell, which increases the cold resistance of yourself or an ally.
+1150~Learn the Ward of Magic spell, which increases the magic resistance of yourself or an ally.
+1151~Learn the Ward of Soldiers spell, which increases the slashing resistance of yourself or an ally.
+1152~Learn the Ward of Assassins spell, which increases the piercing resistance of yourself or an ally.
+1153~Learn the Ward of Giants spell, which increases the crushing resistance of yourself or an ally.
+1155~Learn the skill Life Steal, which transfers a small amount of health from the target to heal yourself.
+1156~Learn the skill Energy Harvest, which transfers energy from an enemy to yourself.
+1192~Learn the skill Shadowstrike, which allows you to instantly leap through the shadows at your target, while attacking them.
+1197~Learn the Rescue spell, which allows you to teleport a target ally out of danger, to your location, and grants them a short boost to their healing.
+1211~Learn the Bow skill Longshot, which launches a powerful arrow when at long range that can also pin the target to the spot.
+1212~Learn the skill Double Attack, which allows you to make two melee attacks at once.
+1213~Learn the Spear skill Skewer, which deals damage and pins your targets to the spot for a few seconds.
+1214~Learn the Axe and Hammer skill Rupture, which strikes your target with a powerful melee attack that also deals damage over time.
+1215~Learn the skill Shatter, which deals damage and also reduces your target's armour value for a short time.
+1216~Learn the Shield skill Shield Wall, which allows you to block all damage for a short time.
+1217~Learn the Bow skill Explosive Arrow, which launches an arrow that explodes on impact, damaging all foes in an area.
+1218~Learn the skill Sharpen Weapons, which increases the damage of all allies in range.
+1219~Learn the skill Riposte, which allows you to counter attack any enemy that attacks you for a short time.
+1220~Learn the skill Expose Weakness, an attack which lowers the target's Skill Evasions, making them more vulnerable to skills.
+1221~Learn the spell Ice Blast, which deals powerful cold damage to all enemies in range.
+1222~Learn the Frostbite spell, to strike an opponent with a cold damage attack that also deals lingering damage over time.
+1223~Learn the Bless spell, which increases an allies Skill Evasions allowing them to more easily avoid hostile skills.
+1224~Learn the Stinging Swarm spell, which sends out a swarm of insects to damage all foes in the area over time.
+1225~Learn the spell Ice Attunement, which increase the power of your main Ice Magic spells.
+1226~Learn the spell Fire Attunement, which increase the power of your main Fire Magic spells.
+1227~Learn the Defensive Formation skill, which grants improved defence to all group members in range.
+1228~Learn the Sanctuary spell, which temporarily protects all allies in range against some incoming damage.
+1252~Learn the skill Double Shot, which allows you to fire two arrows in one shot from your bow.
+1338~Learn Natural Divination
+5840~Restores 20 Energy when eaten.
+5841~Restores 20 Health when eaten.
+5842~Restores 45 Energy when eaten.
+5843~Restores 70 Health when eaten.
+5844~Restores 95 Energy when eaten.
+5845~Restores 120 Health when eaten.
+5846~Restores 170 Energy when eaten.
+5847~Restores 220 Health when eaten.
+5848~Restores 270 Energy when eaten.
+5849~Restores 320 Health when eaten.
+5850~Restores 370 Energy when eaten.
+5851~Restores 420 Health when eaten.
+5852~Restores 470 Energy when eaten.
+5853~Restores 520 Health when eaten.
+5854~Restores 570 Energy when eaten.
+5855~Restores 620 Health when eaten.
+5856~Restores 670 Energy when eaten.
+5857~Restores 720 Health when eaten.
+5858~Restores 770 Energy when eaten.
+5859~Restores 820 Health when eaten.
+5860~Use to consume.
+5861~Use to consume.
+5862~Use to consume.
+5863~Use to consume.
+5864~Use to consume.
+5865~Use to consume.
+5866~Use to consume.
+5867~Use to consume.
+5868~Use to consume.
+5869~Use to consume.
+5870~Use to consume.
+5871~Use to consume.
+5872~Use to consume.
+5873~Use to consume.
+5874~Use to consume.
+5875~Use to consume.
+5876~Use to consume.
+5877~Use to consume.
+5878~Use to consume.
+5879~Use to consume.
+5880~Use to consume.
+5881~Use to consume.
+5882~Use to consume.
+5883~Use to consume.
+5884~Use to consume.
+5885~Use to consume.
+5886~Use to consume.
+5887~Use to consume.
+5888~Use to consume.
+5889~Use to consume.
+5890~Use to consume.
+5891~Use to consume.
+5892~Use to consume.
+5893~Use to consume.
+5894~Use to consume.
+5895~Use to consume.
+5896~Use to consume.
+5897~Use to consume.
+5898~Use to consume.
+5899~Use to consume.
+5900~Use to consume.
+5901~Use to consume.
+5902~Use to consume.
+5903~Use to consume.
+5904~Use to consume.
+5905~Use to consume.
+5906~Use to consume.
+5907~Use to consume.
+5908~Use to consume.
+5909~Use to consume.
+5910~Restores 30 Energy when eaten.
+5911~Restores 30 Health when eaten.
+5912~Restores 68 Energy when eaten.
+5913~Restores 105 Health when eaten.
+5914~Restores 143 Energy when eaten.
+5915~Restores 180 Health when eaten.
+5916~Restores 255 Energy when eaten.
+5917~Restores 330 Health when eaten.
+5918~Restores 405 Energy when eaten.
+5919~Restores 480 Health when eaten.
+5920~Restores 555 Energy when eaten.
+5921~Restores 630 Health when eaten.
+5922~Restores 705 Energy when eaten.
+5923~Restores 780 Health when eaten.
+5924~Restores 855 Energy when eaten.
+5925~Restores 930 Health when eaten.
+5926~Restores 1005 Energy when eaten.
+5927~Restores 1080 Health when eaten.
+5928~Restores 1155 Energy when eaten.
+5929~Restores 1230 Health when eaten.
+5930~Use to consume.
+5931~Use to consume.
+5932~Use to consume.
+5933~Use to consume.
+5934~Use to consume.
+5935~Use to consume.
+5936~Use to consume.
+5937~Use to consume.
+5938~Use to consume.
+5939~Use to consume.
+5940~Use to consume.
+5941~Use to consume.
+5942~Use to consume.
+5943~Use to consume.
+5944~Use to consume.
+5945~Use to consume.
+5946~Use to consume.
+5947~Use to consume.
+5948~Use to consume.
+5949~Use to consume.
+5950~Use to consume.
+5951~Use to consume.
+5952~Use to consume.
+5953~Use to consume.
+5954~Use to consume.
+5955~Use to consume.
+5956~Use to consume.
+5957~Use to consume.
+5958~Use to consume.
+5959~Use to consume.
+5960~Use to consume.
+5961~Use to consume.
+5962~Use to consume.
+5963~Use to consume.
+5964~Use to consume.
+5965~Use to consume.
+5966~Use to consume.
+5967~Use to consume.
+5968~Use to consume.
+5969~Use to consume.
+5970~Use to consume.
+5971~Use to consume.
+5972~Use to consume.
+5973~Use to consume.
+5974~Use to consume.
+5975~Use to consume.
+5976~Use to consume.
+5977~Use to consume.
+5978~Use to consume.
+5979~Use to consume.
+5980~Restores 40 Energy when eaten.
+5981~Restores 40 Health when eaten.
+5982~Restores 90 Energy when eaten.
+5983~Restores 140 Health when eaten.
+5984~Restores 190 Energy when eaten.
+5985~Restores 240 Health when eaten.
+5986~Restores 340 Energy when eaten.
+5987~Restores 440 Health when eaten.
+5988~Restores 540 Energy when eaten.
+5989~Restores 640 Health when eaten.
+5990~Restores 740 Energy when eaten.
+5991~Restores 840 Health when eaten.
+5992~Restores 940 Energy when eaten.
+5993~Restores 1040 Health when eaten.
+5994~Restores 1140 Energy when eaten.
+5995~Restores 1240 Health when eaten.
+5996~Restores 1340 Energy when eaten.
+5997~Restores 1440 Health when eaten.
+5998~Restores 1540 Energy when eaten.
+5999~Restores 1640 Health when eaten.
+6000~Use to consume.
+6001~Use to consume.
+6002~Use to consume.
+6003~Use to consume.
+6004~Use to consume.
+6005~Use to consume.
+6006~Use to consume.
+6007~Use to consume.
+6008~Use to consume.
+6009~Use to consume.
+6010~Use to consume.
+6011~Use to consume.
+6012~Use to consume.
+6013~Use to consume.
+6014~Use to consume.
+6015~Use to consume.
+6016~Use to consume.
+6017~Use to consume.
+6018~Use to consume.
+6019~Use to consume.
+6020~Use to consume.
+6021~Use to consume.
+6022~Use to consume.
+6023~Use to consume.
+6024~Use to consume.
+6025~Use to consume.
+6026~Use to consume.
+6027~Use to consume.
+6028~Use to consume.
+6029~Use to consume.
+6030~Use to consume.
+6031~Use to consume.
+6032~Use to consume.
+6033~Use to consume.
+6034~Use to consume.
+6035~Use to consume.
+6036~Use to consume.
+6037~Use to consume.
+6038~Use to consume.
+6039~Use to consume.
+6040~Use to consume.
+6041~Use to consume.
+6042~Use to consume.
+6043~Use to consume.
+6044~Use to consume.
+6045~Use to consume.
+6046~Use to consume.
+6047~Use to consume.
+6048~Use to consume.
+6049~Use to consume.
+6050~Use to consume.
+6051~Use to consume.
+6052~Use to consume.
+6053~Use to consume.
+6054~Use to consume.
+6055~Use to consume.
+6056~Restores 400 Health and Energy when eaten.
+6057~Restores 600 Health and Energy when eaten.
+6058~Restores 800 Health and Energy when eaten.
+6059~Use to consume.
+6060~Use to consume.
+6061~Use to consume.
+6199~Eating this stew will increase your maximum energy by <AM> for 10 minutes.
+7040~Creates a cloud of bats.
+7050~Restores <-EC> energy to the user.
+7075~Creates a flurry of snowflakes
+7203~This antidote renders its user immune to the Spiders' fiery Pyre Bite.
+7204~This antidote renders its user immune to the Spiders' icy Rime Bite.
+7205~This antidote renders its user immune to the Spiders' acidic Acid Bite.
+7367~Gelebron Encounter Skill
+7379~Drinking this potion instantly restores 2000 energy.
+7409~Open bag to find shards.
+7473~Shoots a ball of fire at the enemy, dealing up to 20000 heat damage.
+7474~Shoots a shard of ice at the enemy, dealing up to 20000 cold damage.
+7475~Shoots a bolt of lightning at the enemy, dealing up to 20000 magic damage.
+7477~Dispels the Alchemic Barrier from anything that Gelebron casts it on, including himself. Works once.
+7491~Drinking this potion instantly restores 400 health and 400 energy.
+7494~This potion will cure you of the horrible poison Mephitic Malady that is used by the Mephitic Imps and their leader Grak Vileshanks and protect you against it's effects for 5 minutes.
+7527~Flight of Replenishment boosts the rate at which your health regenerates out of combat by <AMA> per tick, for the next 2 minutes.
+7528~Flight of Rejuvination boosts the rate at which your energy regenerates out of combat by <AMA> per tick, for the next 2 minutes.
+7529~Flight of Vitality boosts your maximum health for the next 2 minutes.
+7530~Flight of Focus boosts your maximum energy for the next 2 minutes.
+7531~Flight of Guarding boosts your armour by <AMA> for the next 2 minutes.
+7576~Use to discover what's inside.
+7580~This potion will regenerate your Health and Energy outside of combat.
+7862~Use to discover what is inside.
+7864~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve defence.
+7865~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve armour.
+7866~Death will cancel the effect of this potion, and the effect will not stack with other potions that improve attack.
+7867~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost attack speed.
+7868~Death will cancel the effect of this potion, and the effect will not stack with other potions that increase movement speed.
+7869~Death will cancel the effect of this potion, and the effect will not stack with other potions that boost experience gains.
+7874~Use to get your Pet Tokens.
+7900~New Dog Food
+7907~Use to get your Hunters Favours
+8000~Use to consume.
+8001~Use to consume.
+8002~Use to consume.
+8003~Use to consume.
+8004~Use to consume.
+8005~Use to consume.
+8006~Use to consume.
+8007~Use to consume.
+8008~Use to consume.
+8009~Use to consume.
+8010~Use to consume.
+8011~Use to consume.
+8012~Use to consume.
+8013~Use to consume.
+8014~Use to consume.
+8015~Use to consume.
+8016~Use to consume.
+8017~Use to consume.
+8018~Use to consume.
+8019~Use to consume.
+8020~Use to consume.
+8021~Use to consume.
+8022~Use to consume.
+8023~Use to consume.
+8024~Use to consume.
+8025~Use to consume.
+8026~Use to consume.
+8027~Use to consume.
+8045~Use to consume.
+8046~Use to consume.
+8047~Use to consume.
+8048~Use to consume.
+8049~Use to consume.
+8050~Use to consume.
+8054~Open to discover what's inside!
+8055~Use to discover what's inside.
+8057~Using this will help you catch fish at Still Waters.
+8059~Use to feed your Spider.
+8060~Use to feed your Boar.
+8062~(Mount Skill) Your wolf lets out a terrifying howl, dealing up to <IDA> piercing damage to your target.
+8063~(Mount Skill) Your bear rears up to protect you, absorbing up to <AMA> damage from incoming attacks for the next 10 seconds.
+8067~Use to get your Pet Tokens.
+8069~Use to discover what's inside.
+8075~Read this book to learn the recipe for 'Gruel'. This recipe restores energy.
+8076~Read this book to learn the recipe for 'Flat Bread'. This recipe restores health.
+8077~Read this book to learn the recipe for 'Broth'. This recipe restores energy.
+8078~Read this book to learn the recipe for 'Bread'. This recipe restores health.
+8079~Read this book to learn the recipe for 'Lentil Soup'. This recipe restores energy.
+8080~Read this book to learn the recipe for 'Oatcake'. This recipe restores health.
+8081~Read this book to learn the recipe for 'Pea Soup'. This recipe restores energy.
+8082~Read this book to learn the recipe for 'Scones'. This recipe restores health.
+8083~Read this book to learn the recipe for 'Pottage'. This recipe restores energy.
+8084~Read this book to learn the recipe for 'Ginger Bread'. This recipe restores health.
+8085~Read this book to learn the recipe for 'Scotch Broth'. This recipe restores energy.
+8086~Read this book to learn the recipe for 'Shortbread'. This recipe restores health.
+8087~Read this book to learn the recipe for 'Carrot Soup'. This recipe restores energy.
+8088~Read this book to learn the recipe for 'Pancake'. This recipe restores health.
+8089~Read this book to learn the recipe for 'Frumenty'. This recipe restores energy.
+8090~Read this book to learn the recipe for 'Flapjack'. This recipe restores health.
+8091~Read this book to learn the recipe for 'Sweet Porridge'. This recipe restores energy.
+8092~Read this book to learn the recipe for 'Bannock'. This recipe restores health.
+8093~Read this book to learn the recipe for 'Mushroom Casserole'. This recipe restores energy.
+8094~Read this book to learn the recipe for 'Fruit Cake'. This recipe restores health.
+8095~Read this book to learn the recipe for 'Rabbit Pie'. This recipe grants Health Regen and boosts Max Health.
+8096~Read this book to learn the recipe for 'Roast Beef'. This recipe grants Health Regen and boosts Slashing Damage.
+8097~Read this book to learn the recipe for 'Venison Stew'. This recipe grants Energy Regen and boosts Elemental Resists.
+8098~Read this book to learn the recipe for 'Black Pudding'. This recipe grants Health Regen and boosts Attack.
+8099~Read this book to learn the recipe for 'Boar Roast'. This recipe grants Energy Regen and boosts Armour.
+8100~Read this book to learn the recipe for 'Rare Fruit Salad'. This recipe grants Health Regen and boosts Resists.
+8101~Read this book to learn the recipe for 'Warbeast Omlette'. This recipe grants Energy Regen and boosts Max Health.
+8102~Read this book to learn the recipe for 'Wyvern Egg Souffle'. This recipe grants Health Regen and boosts Primary Attributes.
+8103~Read this book to learn the recipe for 'Lamb Casserole'. This recipe grants Energy Regen and boosts Armour.
+8104~Read this book to learn the recipe for 'Cheese Rarebit'. This recipe grants Health Regen and boosts Defence.
+8105~Read this book to learn the recipe for 'Cream of Pea Soup'. This recipe grants Energy Regen and boosts Max Health.
+8106~Read this book to learn the recipe for 'Cream of Carrot Soup'. This recipe grants Energy Regen and boosts Primary Attributes.
+8107~Read this book to learn the recipe for 'Spinach Pancake'. This recipe grants Health Regen and boosts Crushing Damage.
+8108~Read this book to learn the recipe for 'Granola'. This recipe grants Health Regen and boosts Attack.
+8109~Read this book to learn the recipe for 'Sweet Roll'. This recipe grants Health Regen and boosts Defence.
+8110~Read this book to learn the recipe for 'Bara Brith'. This recipe grants Health Regen and boosts Primary Attributes.
+8111~Read this book to learn the recipe for 'Herring Pie'. This recipe grants Health Regen and boosts Vitality.
+8112~Read this book to learn the recipe for 'Whiting Soup'. This recipe grants Energy Regen and boosts Dexterity.
+8113~Read this book to learn the recipe for 'Flounder Fillet'. This recipe grants Energy Regen and boosts Focus.
+8114~Read this book to learn the recipe for 'Smoked Mackerel'. This recipe grants Health Regen and boosts Strength.
+8115~Read this book to learn the recipe for 'Rudd Pie'. This recipe grants Health Regen and boosts Vitality.
+8116~Read this book to learn the recipe for 'Barbel Soup'. This recipe grants Energy Regen and boosts Dexterity.
+8117~Read this book to learn the recipe for 'Fried Carp'. This recipe grants Energy Regen and boosts Focus.
+8118~Read this book to learn the recipe for 'Salted Pike'. This recipe grants Health Regen and boosts Strength.
+8119~Read this book to learn the recipe for 'Bream Quiche'. This recipe grants Health Regen and boosts Vitality.
+8120~Read this book to learn the recipe for 'Trout Soup'. This recipe grants Energy Regen and boosts Dexterity.
+8121~Read this book to learn the recipe for 'Catfish Steak'. This recipe grants Energy Regen and boosts Focus.
+8122~Read this book to learn the recipe for 'Smoked Salmon'. This recipe grants Health Regen and boosts Strength.
+8123~Read this book to learn the recipe for 'Cave Fish Pie'. This recipe grants Health Regen and boosts Vitality.
+8124~Read this book to learn the recipe for 'Cullen Skink'. This recipe grants Energy Regen and boosts Dexterity.
+8125~Read this book to learn the recipe for 'Plaice Fillet'. This recipe grants Energy Regen and boosts Focus.
+8126~Read this book to learn the recipe for 'Smoked Eel'. This recipe grants Health Regen and boosts Strength.
+8127~Read this book to learn the recipe for 'Morthar Ray Pie'. This recipe grants Health Regen and boosts Vitality.
+8128~Read this book to learn the recipe for 'Morthar Shark Soup'. This recipe grants Energy Regen and boosts Dexterity.
+8129~Read this book to learn the recipe for 'Sturgeon Fillet'. This recipe grants Energy Regen and boosts Focus.
+8130~Read this book to learn the recipe for 'Smoked Ray'. This recipe grants Health Regen and boosts Strength.
+8131~Read this book to learn the recipe for 'Eel Pie'. This recipe grants Health Regen and boosts Vitality.
+8132~Read this book to learn the recipe for 'Dogfish Soup'. This recipe grants Energy Regen and boosts Dexterity.
+8133~Read this book to learn the recipe for 'Gulper Eel Fillet'. This recipe grants Energy Regen and boosts Focus.
+8134~Read this book to learn the recipe for 'Salted Angler'. This recipe grants Health Regen and boosts Strength.
+8135~Read this book to learn the recipe for 'Manta Ray Pie'. This recipe grants Vitality and boosts Strength.
+8136~Read this book to learn the recipe for 'Bull Shark Soup'. This recipe grants Dexterity and boosts Focus.
+8137~Read this book to learn the recipe for 'Monkfish Fillet'. This recipe grants Focus and boosts Vitality.
+8138~Read this book to learn the recipe for 'Jellied Eel'. This recipe grants Strength and boosts Dexterity.
+8139~Read this book to learn the recipe for 'Truffled Quail Eggs'. This recipe grants Focus and boosts Max Health.
+8140~Read this book to learn the recipe for 'Caviar'. This recipe grants Dexterity and boosts Piercing Damage.
+8141~Read this book to learn the recipe for 'Filet Mignon'. This recipe grants Strength and boosts Crushing Damage.
+8142~Read this book to learn the recipe for 'Goose Liver Pate'. This recipe grants Vitality and boosts Defence.
+8143~Read this book to learn the recipe for 'Pavlova'. This recipe grants Focus and boosts Elemental Resists.
+8144~Read this book to learn the recipe for 'Lemon Meringue Pie'. This recipe grants Vitality and provides a Damage Shield.
+8153~Open to discover what's inside!
+8158~Use to consume.
+8159~Use to purify yourself from the Deadly Corruption of Bloodthorn the Ravenous.
+8179~Read this book to learn the recipe for 'Mince Pie'. This is a seasonal recipe to bring good cheer to others!
+8180~Read this book to learn the recipe for 'Gingerbread Man'. This is a seasonal recipe to bring good cheer to others!
+8181~Read this book to learn the recipe for 'Yule Pudding'. This is a seasonal recipe to bring good cheer to others!
+8182~Read this book to learn the recipe for 'Chocolate Lord MacLir'. This is a seasonal recipe to bring good cheer to others!
+8195~This Barding provides the ability to embody the Reavers Resilience by siphoning the power it contains. This will completely negate the effects of Lichborne Presence. *Be warned, this may also have unwanted negative side effects when applied.*
+8225~Use to discover what's inside.
+8231~This Barding provides the ability to siphon the Acuity of the Lich from its powerful arcane enchantment. This will completely negate the effects of Reavers Oppression. *Be warned, this may also have unwanted negative side effects when siphoned.*
+8419~Read this book to learn the recipe for 'Sun King Soup'. This recipe grants Health Regen and boosts Max Energy.
+8420~Read this book to learn the recipe for 'Christmas Cookies'. This recipe fills you up with power, but isn't kind to your belly.
+8421~Read this book to learn the recipe for 'Rice Pudding'. This recipe boosts your Critical Strike and Critical Skill abilities.
+8422~Read this book to learn the recipe for 'Christmas Cake'. This recipe is indulgent and allows you cook with greater skill and proficiency.
+8423~Read this book to learn the recipe for 'Spiced Beef'. This recipe grants Health Regen and boosts Slashing and Heat Damage.
+8424~Read this book to learn the recipe for 'Yule Roast'. This recipe boosts Armour and gives you a shield that damages enemies who attack you.
+8425~Read this book to learn the recipe for 'Sunshine Casserole'. This recipe grants Health Regen and boosts Primary Attributes.
+8426~Read this book to learn the recipe for 'Spicy Fruit Salad'. This recipe grants Resists and boosts Abilities.
+8427~Read this book to learn the recipe for 'Minty Fruit Salad'. This recipe grants Resists and boosts Abilities.
+8428~Read this book to learn the recipe for 'Honey Fruit Salad'. This recipe grants Resists and boosts Abilities.
+8432~Use to consume.
+8433~Use to consume.
+8434~Use to consume.
+8435~Use to consume.
+8436~Use to consume.
+8437~Use to consume.
+8438~Use to consume.
+8439~Use to consume.
+8440~Use to consume.
+8441~Use to consume.
+8442~Use to consume.
+8443~Use to consume.
+8444~Use to consume.
+8445~Use to consume.
+8446~Use to consume.
+8447~Use to consume.
+8448~Use to consume.
+8449~Use to consume.
+8450~Use to consume.
+8451~Use to consume.
+8452~Use to consume.
+8453~Use to consume.
+8454~Use to consume.
+8455~Use to consume.
+8456~Use to consume.
+8457~Use to consume.
+8458~Use to consume.
+8459~Use to consume.
+8460~Use to consume.
+8461~Use to consume.
+8462~Use to get your Dragon Hatchling Eggs.
+8463~Use to get your Phoenix Eggs.
+8464~Use to get your Corrupted Seeds.
+8465~Use to get your Magical Bells.
+8466~Use to get your Dark Essences.
+8468~Use to get your Cursed Coins.
+10000~Resets player Skill Points
+10001~Resets player Stats
+20001~skill for testing new skill effects

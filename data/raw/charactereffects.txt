@@ -1,0 +1,429 @@
+﻿5373~GameEffect Test 1~2~0~0^10;1^10;2^10;3^10;4^10;5^10;6^10;8^10;10^100;11^100;12^10;13^10~5^100~0^100~0^0.01~0^10~0^100~0^100~1^1
+5374~GameEffect Test 2~2~0~3^500;4^500;5^500~~~~~0^-200;3^100~~
+5375~GameEffect Test 3~2~0~~~~~~0^200~~
+5376~GameEffect Test 3~2~0~~~~~~1^200~~
+5387~Skyglass Sunlight~2~0~11^500~3^150~~~~~~
+5388~Skyglass Moonlight~2~0~10^250~4^150~~~~~~
+5389~Skyglass Starlight~2~150~11^250~~~~~~~
+5390~Skyglass Twilight~2~0~3^150;4^150;5^150~~~~~2^150~~
+5391~Skyprism Sunlight~2~0~11^500~3^300~~~~~~
+5392~Skyprism Moonlight~2~0~10^500~4^300~~~~~~
+5393~Skyprism Starlight~2~300~11^500~~~~~~~
+5394~Skyprism Twilight~2~0~3^300;4^300;5^300~~~~~2^300~~
+5395~Skyglass Radiance~2~0~~~~~~0^150~~
+5396~Skyglass Splendor~2~0~~~~~~1^150~~
+5397~Skyglass Glory~2~0~~~~~~3^150~~
+5398~Skyglass Ascension~2~0~~~~~~2^150~~
+5399~Skyprism Radiance~2~0~~~~~~0^300~~
+5400~Skyprism Splendor~2~0~~~~~~1^300~~
+5401~Skyprism Glory~2~0~~~~~~3^300~~
+5402~Skyprism Ascension~2~0~~~~~~2^300~~
+5403~Skyglass Zenith~2~0~10^300~~~~~~~
+5404~Skyglass Meridian~2~0~11^300~~~~~~~
+5405~Skyprism Zenith~2~0~10^600~~~~~~~
+5406~Skyprism Meridian~2~0~11^600~~~~~~~
+5496~Minor Reinforcement~2~0~~~~~~0^50~~
+5497~Lesser Reinforcement~2~0~~~~~~0^70~~
+5498~Mystic Reinforcement~2~0~~~~~~0^90~~
+5499~Greater Reinforcement~2~0~~~~~~0^120~~
+5500~Grand Reinforcement~2~0~~~~~~0^150~~
+5501~Mighty Reinforcement~2~0~~~~~~0^200~~
+5502~Majestic Reinforcement~2~0~~~~~~0^250~~
+5503~Royal Reinforcement~2~0~~~~~~0^300~~
+5504~Imperial Reinforcement~2~0~~~~~~0^400~~
+5505~Godly Reinforcement~2~0~~~~~~0^500~~
+5506~Minor Energisation~2~0~~~~~~2^50~~
+5507~Lesser Energisation~2~0~~~~~~2^70~~
+5508~Mystic Energisation~2~0~~~~~~2^90~~
+5509~Greater Energisation~2~0~~~~~~2^120~~
+5510~Grand Energisation~2~0~~~~~~2^150~~
+5511~Mighty Energisation~2~0~~~~~~2^200~~
+5512~Majestic Energisation~2~0~~~~~~2^250~~
+5513~Royal Energisation~2~0~~~~~~2^300~~
+5514~Imperial Energisation~2~0~~~~~~2^400~~
+5515~Godly Energisation~2~0~~~~~~2^500~~
+5554~Minor Reinforcement~2~0~~~~~~0^50~~
+5555~Lesser Reinforcement~2~0~~~~~~0^70~~
+5556~Mystic Reinforcement~2~0~~~~~~0^90~~
+5557~Greater Reinforcement~2~0~~~~~~0^120~~
+5558~Grand Reinforcement~2~0~~~~~~0^150~~
+5559~Mighty Reinforcement~2~0~~~~~~0^200~~
+5560~Majestic Reinforcement~2~0~~~~~~0^250~~
+5561~Royal Reinforcement~2~0~~~~~~0^300~~
+5562~Imperial Reinforcement~2~0~~~~~~0^400~~
+5563~Godly Reinforcement~2~0~~~~~~0^500~~
+5564~Minor Energisation~2~0~~~~~~2^50~~
+5565~Lesser Energisation~2~0~~~~~~2^70~~
+5566~Mystic Energisation~2~0~~~~~~2^90~~
+5567~Greater Energisation~2~0~~~~~~2^120~~
+5568~Grand Energisation~2~0~~~~~~2^150~~
+5569~Mighty Energisation~2~0~~~~~~2^200~~
+5570~Majestic Energisation~2~0~~~~~~2^250~~
+5571~Royal Energisation~2~0~~~~~~2^300~~
+5572~Imperial Energisation~2~0~~~~~~2^400~~
+5573~Godly Energisation~2~0~~~~~~2^500~~
+5574~Minor Reinforcement~2~0~~~~~~0^50~~
+5575~Lesser Reinforcement~2~0~~~~~~0^70~~
+5576~Mystic Reinforcement~2~0~~~~~~0^90~~
+5577~Greater Reinforcement~2~0~~~~~~0^120~~
+5578~Grand Reinforcement~2~0~~~~~~0^150~~
+5579~Mighty Reinforcement~2~0~~~~~~0^200~~
+5580~Majestic Reinforcement~2~0~~~~~~0^250~~
+5581~Royal Reinforcement~2~0~~~~~~0^300~~
+5582~Imperial Reinforcement~2~0~~~~~~0^400~~
+5583~Godly Reinforcement~2~0~~~~~~0^500~~
+5592~Trackers Farsight~2~0~~~~~~2^100~~
+5593~Trackers Farsight~2~0~~~~~~2^200~~
+5594~Trackers Farsight~2~0~~~~~~2^300~~
+5630~Warrior T1 quest potion~2~50~~~~~~0^50~~
+5631~Warrior T2 quest potion~2~100~~~~~~0^100~~
+5632~Warrior T3 quest potion~2~150~~~~~~0^150~~
+5633~Rogue T1 quest potion~2~0~~~~~~0^50;1^50~~
+5634~Rogue T2 quest potion~2~0~~~~~~0^100;1^100~~
+5635~Rogue T3 quest potion~2~0~~~~~~0^150;1^150~~
+5636~Ranger T1 quest potion~2~0~~~~~~0^50;1^50~~
+5637~Ranger T2 quest potion~2~0~~~~~~0^100;1^100~~
+5638~Ranger T3 quest potion~2~0~~~~~~0^150;1^150~~
+5639~Mage T1 quest potion~2~50~~~~~~2^50~~
+5640~Mage T2 quest potion~2~100~~~~~~2^100~~
+5641~Mage T3 quest potion~2~150~~~~~~2^150~~
+5642~Druid T1 quest potion~2~50~~~~~~2^50~~
+5643~Druid T2 quest potion~2~100~~~~~~2^100~~
+5644~Druid T3 quest potion~2~150~~~~~~2^150~~
+5648~Serpent Sting~1~0~~1^-290~~~~~~
+5654~Elemental Defence~2~0~~~~~3^1122;4^1122;5^1122~~~
+5660~Spiritual Fury~2~0~~1^250~~~~~~
+5672~Glacial Defence Potion~2~0~4^25~~~~~~~
+5674~Herring Pie~2~0~~~~~~3^10~~
+5675~Whiting Soup~2~0~~~~~~1^10~~
+5676~Flounder Fillet~2~0~~~~~~2^10~~
+5677~Smoked Mackerel~2~0~~~~~~0^10~~
+5678~Rudd Pie~2~0~~~~~~3^20~~
+5679~Barbel Soup~2~0~~~~~~1^20~~
+5680~Fried Carp~2~0~~~~~~2^20~~
+5681~Salted Pike~2~0~~~~~~0^20~~
+5682~Bream Quiche~2~0~~~~~~3^40~~
+5683~Trout Soup~2~0~~~~~~1^40~~
+5684~Catfish Steak~2~0~~~~~~2^40~~
+5685~Smoked Salmon~2~0~~~~~~0^40~~
+5686~Cavefish Pie~2~0~~~~~~3^60~~
+5687~Cullen Skink~2~0~~~~~~1^60~~
+5688~Plaice Fillet~2~0~~~~~~2^60~~
+5689~Smoked Eel~2~0~~~~~~0^60~~
+5690~Morthar Ray Pie~2~0~~~~~~3^80~~
+5691~Morthar Shark Soup~2~0~~~~~~1^80~~
+5692~Sturgeon Fillet~2~0~~~~~~2^80~~
+5693~Smoked Ray~2~0~~~~~~0^80~~
+5694~Eel Pie~2~0~~~~~~3^100~~
+5695~Dogfish Soup~2~0~~~~~~1^100~~
+5696~Gulper Eel Fillet~2~0~~~~~~2^100~~
+5697~Salted Angler~2~0~~~~~~0^100~~
+5698~Manta Ray Pie~2~0~~~~~~0^60;3^120~~
+5699~Bull Shark Soup~2~0~~~~~~1^120;2^60~~
+5700~Monkfish Fillet~2~0~~~~~~2^120;3^60~~
+5701~Jellied Eel~2~0~~~~~~0^120;1^60~~
+5719~Shoreline Broth~2~0~~15^3~~~~~~
+5720~Riverbank Broth~2~0~~15^6~~~~~~
+5721~Lakeside Broth~2~0~~15^9~~~~~~
+5722~Darkwater Broth~2~0~~15^12~~~~~~
+5723~Otherworldly Broth~2~0~~15^15~~~~~~
+5724~Deepsea Broth~2~0~~15^18~~~~~~
+5729~Still Waters~2~0~~~~~~~26^-3000~
+5770~Burnt Rabbit Pie~1~0~12^25~~~~~~~
+5771~Burnt Roast Beef~1~0~~1^9~~~~~~
+5772~Burnt Venison Stew~1~0~3^25;4^25;5^25~~~~~~~
+5773~Burnt Black Pudding~1~0~10^105~~~~~~~
+5774~Burnt Boar Roast~1~45~~~~~~~~
+5775~Burnt Rare Fruit Salad~1~0~3^55;4^55;5^55~~~~~~~
+5776~Burnt Warbeast Omlette~1~0~12^325~~~~~~~
+5777~Burnt Wyvern Egg Souffle~1~0~~~~~~0^30;1^30;2^30;3^30~~
+5778~Burnt Lamb Casserole~1~10~~~~~~~~
+5779~Burnt Cheese Rarebit~1~0~11^60~~~~~~~
+5780~Burnt Cream of Pea Soup~1~0~12^150~~~~~~~
+5781~Burnt Cream of Carrot Soup~1~0~~~~~~0^15;1^15;2^15;3^15~~
+5782~Burnt Spinach Pancake~1~0~~2^30~~~~~~
+5783~Burnt Granola~1~0~10^180~~~~~~~
+5784~Burnt Sweet Roll~1~0~11^210~~~~~~~
+5785~Burnt Bara Brith~1~0~~0^48~~~~~~
+5786~Burnt Herring Pie~1~0~~~~~~3^7~~
+5787~Burnt Whiting Soup~1~0~~~~~~1^7~~
+5788~Burnt Flounder Fillet~1~0~~~~~~2^7~~
+5789~Burnt Smoked Mackerel~1~0~~~~~~0^7~~
+5790~Burnt Rudd Pie~1~0~~~~~~3^14~~
+5791~Burnt Barbel Soup~1~0~~~~~~1^14~~
+5792~Burnt Fried Carp~1~0~~~~~~2^14~~
+5793~Burnt Salted Pike~1~0~~~~~~0^14~~
+5794~Burnt Bream Quiche~1~0~~~~~~3^28~~
+5795~Burnt Trout Soup~1~0~~~~~~1^28~~
+5796~Burnt Catfish Steak~1~0~~~~~~2^28~~
+5797~Burnt Smoked Salmon~1~0~~~~~~0^28~~
+5798~Burnt Cave Fish Pie~1~0~~~~~~3^42~~
+5799~Burnt Cullen Skink~1~0~~~~~~1^42~~
+5800~Burnt Plaice Fillet~1~0~~~~~~2^42~~
+5801~Burnt Smoked Eel~1~0~~~~~~0^42~~
+5802~Burnt Morthar Ray Pie~1~0~~~~~~3^56~~
+5803~Burnt Morthar Shark Soup~1~0~~~~~~1^56~~
+5804~Burnt Sturgeon Fillet~1~0~~~~~~2^56~~
+5805~Burnt Smoked Ray~1~0~~~~~~0^56~~
+5806~Burnt Eel Pie~1~0~~~~~~3^70~~
+5807~Burnt Dogfish Soup~1~0~~~~~~1^70~~
+5808~Burnt Gulper Eel Fillet~1~0~~~~~~2^70~~
+5809~Burnt Salted Angler~1~0~~~~~~0^70~~
+5810~Burnt Manta Ray Pie~1~0~~~~~~0^40;3^100~~
+5811~Burnt Bull Shark Soup~1~0~~~~~~1^100;2^40~~
+5812~Burnt Monkfish Fillet~1~0~~~~~~2^100;3^40~~
+5813~Burnt Jellied Eel~1~0~~~~~~0^100;1^40~~
+5814~Burnt Truffled Quail Eggs~1~0~12^400~~~~~2^120~~
+5815~Burnt Caviar~1~0~~0^50~~~~1^120~~
+5816~Burnt Filet Mignon~1~0~~2^50~~~~0^120~~
+5817~Burnt Goose Liver Pate~1~0~11^200~~~~~3^120~~
+5818~Burnt Pavlova~1~0~3^100;4^100;5^100~~~~~2^120~~
+5820~Fresh Rabbit Pie~2~0~12^50~~~~~~~
+5821~Fresh Roast Beef~2~0~~1^18~~~~~~
+5822~Fresh Venison Stew~2~0~3^50;4^50;5^50~~~~~~~
+5823~Fresh Black Pudding~2~0~10^210~~~~~~~
+5824~Fresh Boar Roast~2~90~~~~~~~~
+5825~Fresh Rare Fruit Salad~2~0~3^110;4^110;5^110~~~~~~~
+5826~Fresh Warbeast Omlette~2~0~12^650~~~~~~~
+5827~Fresh Wyvern Egg Souffle~2~0~~~~~~0^60;1^60;2^60;3^60~~
+5828~Fresh Lamb Casserole~2~20~~~~~~~~
+5829~Fresh Cheese Rarebit~2~0~11^120~~~~~~~
+5830~Fresh Cream of Pea Soup~2~0~12^300~~~~~~~
+5831~Fresh Cream of Carrot Soup~2~0~~~~~~0^30;1^30;2^30;3^30~~
+5832~Fresh Spinach Pancake~2~0~~2^60~~~~~~
+5833~Fresh Granola~2~0~10^360~~~~~~~
+5834~Fresh Sweet Roll~2~0~11^420~~~~~~~
+5835~Fresh Bara Brith~2~0~~0^96~~~~~~
+5836~Fresh Herring Pie~2~0~~~~~~3^14~~
+5837~Fresh Whiting Soup~2~0~~~~~~1^14~~
+5838~Fresh Flounder Fillet~2~0~~~~~~2^14~~
+5839~Fresh Smoked Mackerel~2~0~~~~~~0^14~~
+5840~Fresh Rudd Pie~2~0~~~~~~3^28~~
+5841~Fresh Barbel Soup~2~0~~~~~~1^28~~
+5842~Fresh Fried Carp~2~0~~~~~~2^28~~
+5843~Fresh Salted Pike~2~0~~~~~~0^28~~
+5844~Fresh Bream Quiche~2~0~~~~~~3^56~~
+5845~Fresh Trout Soup~2~0~~~~~~1^56~~
+5846~Fresh Catfish Steak~2~0~~~~~~2^56~~
+5847~Fresh Smoked Salmon~2~0~~~~~~0^56~~
+5848~Fresh Cave Fish Pie~2~0~~~~~~3^84~~
+5849~Fresh Cullen Skink~2~0~~~~~~1^84~~
+5850~Fresh Plaice Fillet~2~0~~~~~~2^84~~
+5851~Fresh Smoked Eel~2~0~~~~~~0^84~~
+5852~Fresh Morthar Ray Pie~2~0~~~~~~3^112~~
+5853~Fresh Morthar Shark Soup~2~0~~~~~~1^112~~
+5854~Fresh Sturgeon Fillet~2~0~~~~~~2^112~~
+5855~Fresh Smoked Ray~2~0~~~~~~0^112~~
+5856~Fresh Eel Pie~2~0~~~~~~3^140~~
+5857~Fresh Dogfish Soup~2~0~~~~~~1^140~~
+5858~Fresh Gulper Eel Fillet~2~0~~~~~~2^140~~
+5859~Fresh Salted Angler~2~0~~~~~~0^140~~
+5860~Fresh Manta Ray Pie~2~0~~~~~~0^80;3^200~~
+5861~Fresh Bull Shark Soup~2~0~~~~~~1^200;2^80~~
+5862~Fresh Monkfish Fillet~2~0~~~~~~2^200;3^80~~
+5863~Fresh Jellied Eel~2~0~~~~~~0^200;1^80~~
+5864~Fresh Truffled Quail Eggs~2~0~12^800~~~~~2^240~~
+5865~Fresh Caviar~2~0~~0^100~~~~1^240~~
+5866~Fresh Filet Mignon~2~0~~2^100~~~~0^240~~
+5867~Fresh Goose Liver Pate~2~0~11^400~~~~~3^240~~
+5868~Fresh Pavlova~2~0~3^200;4^200;5^200~~~~~2^240~~
+5869~Fresh Lemon Meringue Pie~2~100~~~~~~3^240~~
+5870~Exquisite Rabbit Pie~2~0~12^75~~~~~~~
+5871~Exquisite Roast Beef~2~0~~1^27~~~~~~
+5872~Exquisite Venison Stew~2~0~3^75;4^75;5^75~~~~~~~
+5873~Exquisite Black Pudding~2~0~10^315~~~~~~~
+5874~Exquisite Boar Roast~2~135~~~~~~~~
+5875~Exquisite Rare Fruit Salad~2~0~3^165;4^165;5^165~~~~~~~
+5876~Exquisite Warbeast Omlette~2~0~12^975~~~~~~~
+5877~Exquisite Wyvern Egg Souffle~2~0~~~~~~0^90;1^90;2^90;3^90~~
+5878~Exquisite Lamb Casserole~2~30~~~~~~~~
+5879~Exquisite Cheese Rarebit~2~0~11^180~~~~~~~
+5880~Exquisite Cream of Pea Soup~2~0~12^450~~~~~~~
+5881~Exquisite Cream of Carrot Soup~2~0~~~~~~0^45;1^45;2^45;3^45~~
+5882~Exquisite Spinach Pancake~2~0~~2^90~~~~~~
+5883~Exquisite Granola~2~0~10^540~~~~~~~
+5884~Exquisite Sweet Roll~2~0~11^630~~~~~~~
+5885~Exquisite Bara Brith~2~0~~0^144~~~~~~
+5886~Exquisite Herring Pie~2~0~~~~~~3^21~~
+5887~Exquisite Whiting Soup~2~0~~~~~~1^21~~
+5888~Exquisite Flounder Fillet~2~0~~~~~~2^21~~
+5889~Exquisite Smoked Mackerel~2~0~~~~~~0^21~~
+5890~Exquisite Rudd Pie~2~0~~~~~~3^42~~
+5891~Exquisite Barbel Soup~2~0~~~~~~1^42~~
+5892~Exquisite Fried Carp~2~0~~~~~~2^42~~
+5893~Exquisite Salted Pike~2~0~~~~~~0^42~~
+5894~Exquisite Bream Quiche~2~0~~~~~~3^84~~
+5895~Exquisite Trout Soup~2~0~~~~~~1^84~~
+5896~Exquisite Catfish Steak~2~0~~~~~~2^84~~
+5897~Exquisite Smoked Salmon~2~0~~~~~~0^84~~
+5898~Exquisite Cave Fish Pie~2~0~~~~~~3^126~~
+5899~Exquisite Cullen Skink~2~0~~~~~~1^126~~
+5900~Exquisite Plaice Fillet~2~0~~~~~~2^126~~
+5901~Exquisite Smoked Eel~2~0~~~~~~0^126~~
+5902~Exquisite Morthar Ray Pie~2~0~~~~~~3^168~~
+5903~Exquisite Morthar Shark Soup~2~0~~~~~~1^168~~
+5904~Exquisite Sturgeon Fillet~2~0~~~~~~2^168~~
+5905~Exquisite Smoked Ray~2~0~~~~~~0^168~~
+5906~Exquisite Eel Pie~2~0~~~~~~3^210~~
+5907~Exquisite Dogfish Soup~2~0~~~~~~1^210~~
+5908~Exquisite Gulper Eel Fillet~2~0~~~~~~2^210~~
+5909~Exquisite Salted Angler~2~0~~~~~~0^210~~
+5910~Exquisite Manta Ray Pie~2~0~~~~~~0^120;3^300~~
+5911~Exquisite Bull Shark Soup~2~0~~~~~~1^300;2^120~~
+5912~Exquisite Monkfish Fillet~2~0~~~~~~2^300;3^120~~
+5913~Exquisite Jellied Eel~2~0~~~~~~0^300;1^120~~
+5914~Exquisite Truffled Quail Eggs~2~0~12^1200~~~~~2^360~~
+5915~Exquisite Caviar~2~0~~0^150~~~~1^360~~
+5916~Exquisite Filet Mignon~2~0~~2^150~~~~0^360~~
+5917~Exquisite Goose Liver Pate~2~0~11^600~~~~~3^360~~
+5918~Exquisite Pavlova~2~0~3^300;4^300;5^300~~~~~2^360~~
+5919~Exquisite Lemon Meringue Pie~2~200~~~~~~3^360~~
+5920~Perfected Rabbit Pie~2~0~12^100~~~~~~~
+5921~Perfected Roast Beef~2~0~~1^36~~~~~~
+5922~Perfected Venison Stew~2~0~3^100;4^100;5^100~~~~~~~
+5923~Perfected Black Pudding~2~0~10^420~~~~~~~
+5924~Perfected Boar Roast~2~180~~~~~~~~
+5925~Perfected Rare Fruit Salad~2~0~3^220;4^220;5^220~~~~~~~
+5926~Perfected Warbeast Omlette~2~0~12^1300~~~~~~~
+5927~Perfected Wyvern Egg Souffle~2~0~~~~~~0^120;1^120;2^120;3^120~~
+5928~Perfected Lamb Casserole~2~40~~~~~~~~
+5929~Perfected Cheese Rarebit~2~0~11^240~~~~~~~
+5930~Perfected Cream of Pea Soup~2~0~12^600~~~~~~~
+5931~Perfected Cream of Carrot Soup~2~0~~~~~~0^60;1^60;2^60;3^60~~
+5932~Perfected Spinach Pancake~2~0~~2^120~~~~~~
+5933~Perfected Granola~2~0~10^720~~~~~~~
+5934~Perfected Sweet Roll~2~0~11^840~~~~~~~
+5935~Perfected Bara Brith~2~0~~0^192~~~~~~
+5936~Perfected Herring Pie~2~0~~~~~~3^28~~
+5937~Perfected Whiting Soup~2~0~~~~~~1^28~~
+5938~Perfected Flounder Fillet~2~0~~~~~~2^28~~
+5939~Perfected Smoked Mackerel~2~0~~~~~~0^28~~
+5940~Perfected Rudd Pie~2~0~~~~~~3^56~~
+5941~Perfected Barbel Soup~2~0~~~~~~1^56~~
+5942~Perfected Fried Carp~2~0~~~~~~2^56~~
+5943~Perfected Salted Pike~2~0~~~~~~0^56~~
+5944~Perfected Bream Quiche~2~0~~~~~~3^112~~
+5945~Perfected Trout Soup~2~0~~~~~~1^112~~
+5946~Perfected Catfish Steak~2~0~~~~~~2^112~~
+5947~Perfected Smoked Salmon~2~0~~~~~~0^112~~
+5948~Perfected Cave Fish Pie~2~0~~~~~~3^168~~
+5949~Perfected Cullen Skink~2~0~~~~~~1^168~~
+5950~Perfected Plaice Fillet~2~0~~~~~~2^168~~
+5951~Perfected Smoked Eel~2~0~~~~~~0^168~~
+5952~Perfected Morthar Ray Pie~2~0~~~~~~3^224~~
+5953~Perfected Morthar Shark Soup~2~0~~~~~~1^224~~
+5954~Perfected Sturgeon Fillet~2~0~~~~~~2^224~~
+5955~Perfected Smoked Ray~2~0~~~~~~0^224~~
+5956~Perfected Eel Pie~2~0~~~~~~3^280~~
+5957~Perfected Dogfish Soup~2~0~~~~~~1^280~~
+5958~Perfected Gulper Eel Fillet~2~0~~~~~~2^280~~
+5959~Perfected Salted Angler~2~0~~~~~~0^280~~
+5960~Perfected Manta Ray Pie~2~0~~~~~~0^160;3^400~~
+5961~Perfected Bull Shark Soup~2~0~~~~~~1^400;2^160~~
+5962~Perfected Monkfish Fillet~2~0~~~~~~2^400;3^160~~
+5963~Perfected Jellied Eel~2~0~~~~~~0^400;1^160~~
+5964~Perfected Truffled Quail Eggs~2~0~12^1600~~~~~2^480~~
+5965~Perfected Caviar~2~0~~0^200~~~~1^480~~
+5966~Perfected Filet Mignon~2~0~~2^200~~~~0^480~~
+5967~Perfected Goose Liver Pate~2~0~11^800~~~~~3^480~~
+5968~Perfected Pavlova~2~0~3^400;4^400;5^400~~~~~2^480~~
+5969~Perfected Lemon Meringue Pie~2~300~~~~~~3^480~~
+5979~Cavernous Broth~2~0~~15^25~~~~~~
+5990~Corrupted Carapace~2~1000~11^1000~~~~~~~
+6010~MacLir Clan Knowledge~2~0~~~~~~~32^1000~
+6011~Avarice of Mordris~2~0~~~~~~~31^1500~
+6012~Culinarians Gift~2~0~~~~~~~39^500~
+6020~Grace of the Gods Aura~2~0~~~~8^1~~~~
+6025~Grace of the Gods Effect~2~0~~~~8^1~~~~
+6111~Voltroots Electrical Aura~2~0~~5^4000~0^150;1^150;2^150;3^150;4^150;5^150~5^1~~~~
+6113~Frostroots Glacial Aura~2~0~~4^4000~0^150;1^150;2^150;3^150;4^150;5^150~4^1~~~~
+6115~Blazeroots Immolating Aura~2~0~~3^4000~0^150;1^150;2^150;3^150;4^150;5^150~3^1~~~~
+6117~Causticroots Venomous Aura~2~0~~6^2000~~6^1~~~~
+6119~Salveroots Shielding Aura~2~0~~~~0^1;1^1;2^1~~~~
+6121~Chaosroots Corrupted Aura~2~0~~8^4000~~7^1~~~~
+6125~Cuhcullains Bastion~2~0~6^150~~~~~~~
+6128~Myrines Featherdraw~2~0~~~~~~1^500~~
+6132~Myrrdins Adaptation~2~0~~~~~~~~40^2;41^2;137^2;138^2;139^2;140^2
+6161~Immunity except piercing~2~0~~~~1^1;2^1;3^1;4^1;5^1;6^1;7^1~~~~
+6162~Immunity except slashing~2~0~~~~0^1;2^1;3^1;4^1;5^1;6^1;7^1~~~~
+6163~Immunity except crushing~2~0~~~~0^1;1^1;3^1;4^1;5^1;6^1;7^1~~~~
+6164~Immunity except heat~2~0~~~~0^1;1^1;2^1;4^1;5^1;6^1;7^1~~~~
+6165~Immunity except cold~2~0~~~~0^1;1^1;2^1;3^1;5^1;6^1;7^1~~~~
+6166~Immunity except magic~2~0~~~~0^1;1^1;2^1;3^1;4^1;6^1;7^1~~~~
+6167~Immunity except poison~2~0~~~~0^1;1^1;2^1;3^1;4^1;5^1;7^1~~~~
+6174~Corruptive Aura~1~0~~~~~8^100~~~
+6181~Minor Immolating Power~3~0~~3^5~~~~~~
+6183~Minor Glacial Power~3~0~~4^5~~~~~~
+6185~Minor Electrical Power~3~0~~5^5~~~~~~
+6187~Minor Venomous Power~3~0~~6^3~~~~~~
+6189~Minor Shielding Power~3~0~0^10;1^10;2^10~~~~0^10;1^10;2^10~~~
+6191~Minor Corrupted Power~3~0~~7^4~~~~~~
+6195~Lesser Immolating Power~3~0~~3^10~~~~~~
+6197~Lesser Glacial Power~3~0~~4^10~~~~~~
+6199~Lesser Electrical Power~3~0~~5^10~~~~~~
+6201~Lesser Venomous Power~3~0~~6^6~~~~~~
+6203~Lesser Shielding Power~3~0~0^30;1^30;2^30~~~~~~~
+6205~Lesser Corrupted Power~3~0~~7^8~~~~~~
+6207~Major Immolating Power~3~0~~3^20~~~~~~
+6209~Major Glacial Power~3~0~~4^20~~~~~~
+6211~Major Electrical Power~3~0~~5^20~~~~~~
+6213~Major Venomous Power~3~0~~6^12~~~~~~
+6215~Major Shielding Power~3~0~0^50;1^50;2^50~~~~~~~
+6217~Major Corrupted Power~3~0~~8^12~~~~~~
+6219~Greater Immolating Power~3~0~~3^30~~~~~~
+6221~Greater Glacial Power~3~0~~4^30~~~~~~
+6223~Greater Electrical Power~3~0~~5^30~~~~~~
+6225~Greater Venomous Power~3~0~~6^18~~~~~~
+6227~Greater Shielding Power~3~0~0^75;1^75;2^75~~~~~~~
+6229~Greater Corrupted Power~3~0~~8^16~~~~~~
+6231~Mighty Immolating Power~3~0~~3^45~~~~~~
+6233~Mighty Glacial Power~3~0~~4^45~~~~~~
+6235~Mighty Electrical Power~3~0~~5^45~~~~~~
+6237~Mighty Venomous Power~3~0~~6^27~~~~~~
+6239~Mighty Shielding Power~3~0~0^100;1^100;2^100~~~~~~~
+6241~Mighty Corrupted Power~3~0~~8^20~~~~~~
+6243~Unbridled Immolating Power~3~0~~3^60~~~~~~
+6245~Unbridled Glacial Power~3~0~~4^60~~~~~~
+6247~Unbridled Electrical Power~3~0~~5^60~~~~~~
+6249~Unbridled Venomous Power~3~0~~6^36~~~~~~
+6251~Unbridled Shielding Power~3~0~0^125;1^125;2^125~~~~~~~
+6253~Unbridled Corrupted Power~3~0~~8^28~~~~~~
+6269~Witch Aura Protection~2~0~~~~0^1;1^1;2^1;3^1;4^1;5^1;6^1;7^1;8^1~~~~
+6273~Sun King Soup~2~0~13^300~~~~~~~
+6274~Exquisite Sun King Soup~2~0~13^450~~~~~~~
+6275~Perfected Sun King Soup~2~0~13^600~~~~~~~
+6276~Christmas Cookies~2~20~~2^30~~~~~~
+6277~Exquisite Christmas Cookies~2~30~~2^45~~~~~~
+6278~Perfected Christmas Cookies~2~40~~2^60~~~~~~
+6279~Rice Pudding~2~0~~~~~~~29^50;30^50~
+6280~Exquisite Rice Pudding~2~0~~~~~~~29^75;30^75~
+6281~Perfected Rice Pudding~2~0~~~~~~~29^100;30^100~
+6282~Christmas Cake~2~0~~~~~~~38^250;39^250~
+6283~Exquisite Christmas Cake~2~0~~~~~~~38^375;39^375~
+6284~Perfected Christmas Cake~2~0~~~~~~~38^500;39^500~
+6285~Spiced Beef~2~0~~1^18;3^30~~~~~~
+6286~Exquisite Spiced Beef~2~0~~1^27;3^45~~~~~~
+6287~Perfected Spiced Beef~2~0~~1^36;3^60~~~~~~
+6288~Yule Roast~2~90~~~~~~~~
+6289~Exquisite Yule Roast~2~135~~~~~~~~
+6290~Perfected Yule Roast~2~180~~~~~~~~
+6291~Sunshine Casserole~2~0~~1^96~~~~~~
+6292~Exquisite Sunshine Casserole~2~0~~1^144~~~~~~
+6293~Perfected Sunshine Casserole~2~0~~1^192~~~~~~
+6294~Spicy Fruit Salad~2~0~3^110;4^110;5^110~~~~~~13^1000~
+6295~Exquisite Spicy Fruit Salad~2~0~3^165;4^165;5^165~~~~~~13^1500~
+6296~Perfected Spicy Fruit Salad~2~0~3^220;4^220;5^220~~~~~~13^2000~
+6297~Minty Fruit Salad~2~0~3^110;4^110;5^110~~~~~~12^1000~
+6298~Exquisite Minty Fruit Salad~2~0~3^165;4^165;5^165~~~~~~12^1500~
+6299~Perfected Minty Fruit Salad~2~0~3^220;4^220;5^220~~~~~~12^2000~
+6300~Honey Fruit Salad~2~0~3^110;4^110;5^110~~~~~~10^1000~
+6301~Exquisite Honey Fruit Salad~2~0~3^165;4^165;5^165~~~~~~10^1500~
+6302~Perfected Honey Fruit Salad~2~0~3^220;4^220;5^220~~~~~~10^2000~
+6307~Skeleton Aura Protection~2~0~~~~0^1;1^1;2^1;3^1;4^1;5^1;6^1;7^1;8^1~~~~
+6311~Boundless Immolating Power~3~0~~3^80~~~~~~
+6313~Boundless Glacial Power~3~0~~4^80~~~~~~
+6315~Boundless Electrical Power~3~0~~5^80~~~~~~
+6317~Boundless Venomous Power~3~0~~6^48~~~~~~
+6319~Boundless Shielding Power~3~0~0^160;1^160;2^160~~~~~~~
+6321~Boundless Corrupted Power~3~0~~8^30~~~~~~
+6324~Mythic Protection~2~0~~~~0^1;1^1;2^1;3^1;4^1;5^1;6^1;7^1;8^1~~~~

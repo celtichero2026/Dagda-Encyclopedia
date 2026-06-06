@@ -1,0 +1,53 @@
+-1~NONE
+0~Sword
+1~Blunt
+2~Axe
+3~Staff
+4~Dagger
+5~Wand
+6~Bow
+7~Melee Combat
+8~Ranged Combat
+9~Physical Fitness
+10~Nature Magic
+11~Cunning
+12~Ice Magic
+13~Fire Magic
+14~First Aid
+15~Spear
+16~Totem
+17~Novelty
+18~Hand to Hand
+19~Fortitude
+20~Warding
+21~Reflex
+22~Vigour
+23~Willpower
+24~Dog Taming
+25~Rabbit Taming
+26~Fishing
+27~Bear Taming
+28~Spirit Taming
+29~Critical Strike
+30~Critical Skills
+31~Treasure Hunter
+32~Scholar
+33~Wolf Taming
+34~Spider Taming
+35~Boar Taming
+36~Wolf Riding
+37~Bear Riding
+38~Cooking Proficiency
+39~Cooking Mastery
+40~Dragon Taming
+41~Chicken Taming
+42~Horse Riding
+43~Elk Riding
+44~Eagle Taming
+45~Phoenix Taming
+46~Tiger Riding
+47~Pig Taming
+48~Seedling Taming
+49~Hellsteed Riding
+50~Reindeer Taming
+51~Imp Taming

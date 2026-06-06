@@ -1,0 +1,2129 @@
+﻿-1~Nothing
+780~Beatmaster Command Totem
+781~Hagvars Head
+782~Alpha Snarl Claw
+783~Goblin Farcrag Sewer Map
+785~Humanoid Junk Loot
+787~Tier 1 Quality 2 Normal
+788~Tier 1 Quality 3 Normal
+789~Tier 2 Quality 1 Normal
+790~Tier 2 Quality 2 Normal
+791~Tier 2 Quality 3 Normal
+792~Tier 3 Quality 1 Normal
+793~Tier 3 Quality 2 Normal
+794~Tier 3 Quality 3 Normal
+795~Tier 4 Quality 1 Normal
+796~Tier 4 Quality 2 Normal
+797~Tier 4 Quality 3 Normal
+798~Wolf Junk Loot
+799~Wrecked Grey Wolf Pelt
+800~Wolf Pelt
+801~Fine Grey Wolf Pelt
+802~Pristine Grey Wolf Pelt
+803~Chess Table 1
+804~Chess Table 2
+805~Chess Table 3
+806~Chess Table 4
+807~Chess Table 5
+808~Crookback Gem Table 1
+809~Jasper
+810~Skullcrusher Signal Torch
+811~Rotten Flesh
+812~Horn Goblet
+813~Grave Robber Shovel
+814~Mining Pick
+815~Rafferty's Ring
+816~Ancient Bone Shards
+817~Crookback Jail Key
+818~Dog Junk Loot
+819~Tier 5 Quality 1 Armour
+820~Tier 5 Quality 2 Armour
+821~Tier 5 Quality 3 Armour
+822~Tier 6 Quality 1 Armour
+823~Tier 6 Quality 2 Armour
+824~Tier 6 Quality 3 Armour
+825~Tier 5 Weapons Bronze
+826~Tier 5 Weapons Evasive
+827~Tier 5 Weapons Scarlet
+828~Tier 5 Weapons Fire
+829~Tier 5 Weapons Cyan
+830~Tier 5 Weapons Frost
+831~Tier 5 Weapons Vicious
+832~Tier 5 Weapons Swiftness
+833~Tier 5 Weapons Balance
+834~Tier 5 Weapons Brutes
+835~Tier 5 Weapons Scholars
+836~Tier 5 Weapons Iron
+837~Tier 5 Weapons Illusory
+838~Tier 5 Weapons Crimson
+839~Tier 5 Weapons Flame
+840~Tier 5 Weapons Turquoise
+841~Tier 5 Weapons Ice
+842~Tier 5 Weapons Lethal
+843~Tier 5 Weapons Speed
+844~Tier 5 Weapons Lightness
+845~Tier 5 Weapons Ogres
+846~Tier 5 Weapons Witches
+847~Tier 5 Weapons Steel
+848~Tier 5 Weapons Transient
+849~Tier 5 Weapons Vermillion
+850~Tier 5 Weapons the Sun
+851~Tier 5 Weapons Sapphire
+852~Tier 5 Weapons Winter
+853~Tier 5 Weapons Deadly
+854~Tier 5 Weapons Celerity
+855~Tier 5 Weapons Grace
+856~Tier 5 Weapons Giants
+857~Tier 5 Weapons Mystics
+858~One Frostfang
+859~Two Frostfangs
+860~Tier 5 Quality 1 Hands
+861~Tier 5 Quality 1 Feet
+862~Tier 5 Quality 1 Helmet
+863~Tier 5 Quality 1 Legs
+864~Tier 5 Quality 1 Torso
+865~Full Gem table
+866~Tier 5 Quality 2 Hands
+867~Tier 5 Quality 2 Feet
+868~Tier 5 Quality 2 Helmet
+869~Tier 5 Quality 2 Legs
+870~Tier 5 Quality 2 Torso
+871~Maelcum's Skull
+872~Flintblade Assassin's Dagger
+873~Connacht Basic Cash Loot
+874~Tier 5 Weapons Bronze Quality 1
+875~Tier 5 Weapons Bronze Quality 2
+876~Tier 5 Weapons Bronze Quality 3
+877~Tier 5 Weapons Evasive Quality 1
+878~Tier 5 Weapons Evasive Quality 2
+879~Tier 5 Weapons Evasive Quality 3
+880~Tier 5 Weapons Scarlet Quality 1
+881~Tier 5 Weapons Scarlet Quality 2
+882~Tier 5 Weapons Scarlet Quality 3
+883~Tier 5 Weapons Fire Quality 1
+884~Tier 5 Weapons Fire Quality 2
+885~Tier 5 Weapons Fire Quality 3
+886~Tier 5 Weapons Cyan Quality 1
+887~Tier 5 Weapons Cyan Quality 2
+888~Tier 5 Weapons Cyan Quality 3
+889~Tier 5 Weapons Frost Quality 1
+890~Tier 5 Weapons Frost Quality 2
+891~Tier 5 Weapons Frost Quality 3
+892~Tier 5 Weapons Vicious Quality 1
+893~Tier 5 Weapons Vicious Quality 2
+894~Tier 5 Weapons Vicious Quality 3
+895~Tier 5 Weapons Swiftness Quality 1
+896~Tier 5 Weapons Swiftness Quality 2
+897~Tier 5 Weapons Swiftness Quality 3
+898~Tier 5 Weapons Balance Quality 1
+899~Tier 5 Weapons Balance Quality 2
+900~Tier 5 Weapons Balance Quality 3
+901~Tier 5 Weapons Brutes Quality 1
+902~Tier 5 Weapons Brutes Quality 2
+903~Tier 5 Weapons Brutes Quality 3
+904~Tier 5 Weapons Scholars Quality 1
+905~Tier 5 Weapons Scholars Quality 2
+906~Tier 5 Weapons Scholars Quality 3
+907~Tier 5 Weapons Iron Quality 1
+908~Tier 5 Weapons Iron Quality 2
+909~Tier 5 Weapons Iron Quality 3
+910~Tier 5 Weapons Illusory Quality 1
+911~Tier 5 Weapons Illusory Quality 2
+912~Tier 5 Weapons Illusory Quality 3
+913~Tier 5 Weapons Crimson Quality 1
+914~Tier 5 Weapons Crimson Quality 2
+915~Tier 5 Weapons Crimson Quality 3
+916~Tier 5 Weapons Flame Quality 1
+917~Tier 5 Weapons Flame Quality 2
+918~Tier 5 Weapons Flame Quality 3
+919~Tier 5 Weapons Turquoise Quality 1
+920~Tier 5 Weapons Turquoise Quality 2
+921~Tier 5 Weapons Turquoise Quality 3
+922~Tier 5 Weapons Ice Quality 1
+923~Tier 5 Weapons Ice Quality 2
+924~Tier 5 Weapons Ice Quality 3
+925~Tier 5 Weapons Lethal Quality 1
+926~Tier 5 Weapons Lethal Quality 2
+927~Tier 5 Weapons Lethal Quality 3
+928~Tier 5 Weapons Speed Quality 1
+929~Tier 5 Weapons Speed Quality 2
+930~Tier 5 Weapons Speed Quality 3
+931~Tier 5 Weapons Lightness Quality 1
+932~Tier 5 Weapons Lightness Quality 2
+933~Tier 5 Weapons Lightness Quality 3
+934~Tier 5 Weapons Ogres Quality 1
+935~Tier 5 Weapons Ogres Quality 2
+936~Tier 5 Weapons Ogres Quality 3
+937~Tier 5 Weapons Witches Quality 1
+938~Tier 5 Weapons Witches Quality 2
+939~Tier 5 Weapons Witches Quality 3
+940~Tier 5 Weapons Steel Quality 1
+941~Tier 5 Weapons Steel Quality 2
+942~Tier 5 Weapons Steel Quality 3
+943~Tier 5 Weapons Transient Quality 1
+944~Tier 5 Weapons Transient Quality 2
+945~Tier 5 Weapons Transient Quality 3
+946~Tier 5 Weapons Vermillion Quality 1
+947~Tier 5 Weapons Vermillion Quality 2
+948~Tier 5 Weapons Vermillion Quality 2
+949~Tier 5 Weapons the Sun Quality 1
+950~Tier 5 Weapons the Sun Quality 2
+951~Tier 5 Weapons the Sun Quality 3
+952~Tier 5 Weapons Sapphire Quality 1
+953~Tier 5 Weapons Sapphire Quality 2
+954~Tier 5 Weapons Sapphire Quality 3
+955~Tier 5 Weapons Winter Quality 1
+956~Tier 5 Weapons Winter Quality 2
+957~Tier 5 Weapons Winter Quality 3
+958~Tier 5 Weapons Deadly Quality 1
+959~Tier 5 Weapons Deadly Quality 2
+960~Tier 5 Weapons Deadly Quality 3
+961~Tier 5 Weapons Celerity Quality 1
+962~Tier 5 Weapons Celerity Quality 2
+963~Tier 5 Weapons Celerity Quality 3
+964~Tier 5 Weapons Grace Quality 1
+965~Tier 5 Weapons Grace Quality 2
+966~Tier 5 Weapons Grace Quality 3
+967~Tier 5 Weapons Giants Quality 1
+968~Tier 5 Weapons Giants Quality 2
+969~Tier 5 Weapons Giants Quality 3
+970~Tier 5 Weapons Mystics Quality 1
+971~Tier 5 Weapons Mystics Quality 2
+972~Tier 5 Weapons Mystics Quality 3
+973~All Tier 5 Quality 1 Weapons and Armour
+974~All Tier 5 Quality 2 Weapons and Armour
+975~All Tier 5 Quality 3 Weapons and Armour
+976~Tier 5 Quality 1 Weapons (T4 Magic 1)
+977~Tier 5 Quality 2 Weapons (T4 Magic 1)
+978~Tier 5 Quality 3 Weapons (T4 Magic 1)
+979~Connacht Good Cash Loot
+980~Basic Arrows Table
+981~Energy Potions Table
+982~Good Arrows Table
+983~Doctor Cormac's Quest Loot
+984~Earlene's Quest Loot
+985~Harbinger Drop
+986~Duellist's Ribbon
+987~Ternstone
+988~Glumstump's Shackle Key
+989~Ruffcramp's Shackle Key
+990~Darrion's Letter
+991~Gannon's Letter
+992~Luther's Head
+993~Quickstrike
+994~Eagle's Vigil
+995~Hunter's Hound
+996~Spiked Devastator
+997~Flaming Fury
+998~Landguard
+999~Gladius of Punishment
+1000~Bolt Thrower
+1001~Barrelblast Blade
+1002~Thunderclap Cleaver
+1003~Quiver of Farsight
+1004~Perilous Heart
+1005~Wall of Eternity
+1006~Rod of Blessings
+1007~Blade of Duty
+1008~Potions for Shalemont Bosses
+1009~Connacht Champion's Loot
+1010~Dreylaw's Shalemont Loot
+1011~Faerie Basic Loot
+1012~Faerie Good Loot
+1013~Red Wisp Basic Loot
+1014~Blue Wisp Basic Loot
+1015~White Wisp Basic Loot
+1016~Red Wisp Good Loot
+1017~Blue Wisp Good Loot
+1018~White Wisp Good Loot
+1019~Boar Basic Loot
+1020~Boar Good Loot
+1021~Unicorn Basic Loot
+1022~Unicorn Good Loot
+1023~Bloodgrove Basic Loot
+1024~Bloodgrove Good Loot
+1025~Tam Lin's Sword
+1026~Tam Lin's Brooch
+1027~Engagement Ring
+1028~Groundpounder Tail
+1029~Connacht Sword
+1030~Connacht Dagger
+1031~Connacht Bow
+1032~Connacht Axe
+1033~Connacht Wand
+1034~Connacht Spear
+1035~Faerie Bow
+1036~Faerie Sword
+1037~Faerie Wand
+1038~Guzzletusk's Loot
+1039~Faerie Queen's Loot
+1040~Bloodgrove Mallet
+1041~Bloodgrove Club
+1042~Bloodgrove Staff
+1043~Janet Kelso's Rings
+1044~Connacht Mace
+1045~Tusk Dagger
+1046~Shalemont Quest Chain Loot
+1047~Sergeant Kerr's Potions
+1048~All Ancient Rings
+1049~Fellfire's Loot One Disc
+1050~Chillmist's Loot One Disc
+1051~Spirehoof's Loot One Disc
+1052~Starspell's Loot One Disc
+1053~Falgren's Loot One Disc
+1054~Testy Mob Loot
+1055~Bandit Purses
+1056~Norse Goblets
+1057~Soul Orbs
+1058~Connacht Ingots
+1059~Faerie Crystals
+1060~Golden Tusks
+1061~Spirit Stars
+1062~Crystal Horns
+1063~Demon Stones
+1064~Bandit Purses Rare
+1065~Norse Goblets Rare
+1066~Soul Orbs Rare
+1067~Connacht Ingots Rare
+1068~Faerie Crystals Rare
+1069~Golden Tusks Rare
+1070~Spirit Stars Rare
+1071~Crystal Horns Rare
+1072~Demon Stones Rare
+1073~Fellfire's Loot Two Discs
+1074~Chillmist's Loot Two Discs
+1075~Spirehoof's Loot Two Discs
+1076~Starspell's Loot Two Discs
+1077~Falgren's Loot Two Discs
+1078~Pumpleroot Heart
+1079~Black Knight Armour
+1080~Candle
+1081~Witch Hat Scraps
+1082~Pumpleroot Stalk
+1083~Witch's Brew
+1084~Agatha's Potions
+1085~Bone Giant's Loot
+1086~Agatha's Super Potions
+1087~Good Gem Table
+1088~All Ancient Rings
+1089~Green Wisp Loot
+1090~Five Star Stonevale Rare Items
+1091~Red Navigator Gem
+1092~Blue Navigator Gem
+1093~White Navigator Gem
+1094~Green Navigator Gem
+1095~Black Navigator Gem
+1096~Crom's Parchments
+1097~Spirit Stars Good
+1098~Diamond Boar Tusk
+1099~Faerie Diamond
+1100~Connach Gold Ingot
+1101~Diamond Demon Stone
+1102~Diamond Soul Orb
+1103~Diamond Spirit Star
+1104~Diamond Crystal Horn
+1105~OVERWRITE
+1106~Frost Spirit Gem
+1107~Midwinters Reflection
+1108~Connacht Warrior Boss Armour Low
+1109~Connacht Ranger Boss Armour Low
+1110~Connacht Mage Boss Armour Low
+1111~Connacht Warrior Boss Armour High
+1112~Connacht Ranger Boss Armour High
+1113~Connacht Mage Boss Armour High
+1114~Frostbelly Hammer
+1115~Frostbelly Axe
+1116~Frostbelly Bow
+1117~Frostbelly Sword
+1118~Frostbelly Staff
+1119~Frostbelly Wand
+1120~Frostbelly Dagger
+1121~Frostbelly Spear
+1122~Icefist Hammer
+1123~Icefist Axe
+1124~Icefist Bow
+1125~Icefist Sword
+1126~Icefist Staff
+1127~Icefist Wand
+1128~Icefist Dagger
+1129~Icefist Spear
+1130~Low Level Giant Wolf Loot
+1131~Medium Level Giant Wolf Loot
+1132~High Level Giant Wolf Loot
+1133~Frostbelly Totem
+1134~Icefist Totem
+1135~Red Boar Tablets
+1136~Red Fairy Tablets
+1137~Red Connacht Ranger Tablets
+1138~Red Unicorn Tablets
+1139~Red Druid Tablets
+1140~Red Wolf Remnants
+1141~Red Goblin Remnants
+1142~Red Connacht Warrior Remnants
+1143~Red Wraith Remnants
+1144~Red Giant Remnants
+1145~Meteor Normal Gems
+1146~Meteor Good Gems
+1147~Meteor Quest Loot
+1148~Meteor Low Damage Charms
+1149~Meteor High Damage Charms
+1150~Meteor Low Resist Charms
+1151~Meteor High Resist Charms
+1152~Julian's Flowers
+1153~Wight Essences
+1154~War Torches
+1155~Mane of the Nightmare
+1156~Eye of the Watcher
+1157~Skull of Deceipt
+1158~Skull of Malice
+1159~Skull of Contempt
+1160~All Ancient Rings
+1162~Eye Cash Loot
+1163~Kelpie Cash Loot
+1164~Wyvern Cash Loot
+1165~Ashborn Cash Loot
+1166~Quickthorn Cash Loot
+1167~Oakheart Cash Loot
+1168~Golem Cash Loot
+1169~Wraith Cash Loot
+1170~All Crystal Rings
+1171~Crystal Rings 1
+1172~Crystal Rings 2
+1173~Crystal Rings 3
+1174~Crystal Rings 4
+1175~Crystal Rings 5
+1176~Ancient Rings 1
+1177~Ancient Rings 2
+1178~Ancient Rings 3
+1179~Ancient Rings 4
+1180~Blue Manuscript Pages 1-2
+1181~Blue Manuscript Pages 2-3
+1182~Blue Manuscript Pages 3-4
+1184~Blue Manuscript Pages 4-5
+1185~Red Manuscript Cover and Bindings
+1186~Crown of Stone
+1187~Crown of Wood
+1188~Crown of Bone
+1189~Red Manuscript Pages
+1190~Otherworld 5 Star Rare Rings
+1191~Otherworld 6 Star Rare Rings
+1192~Otherworld Consumables
+1193~Blue Manuscript Cover and Bindings
+1194~Otherworld Eye Bane Scrolls
+1195~Otherworld Kelpie Bane Scrolls
+1196~Otherworld Oak Bane Scrolls
+1197~Otherworld Stone Golem Bane Scrolls
+1198~Otherworld 5 Star Bane Scrolls
+1199~Otherworld Wraith Bane Scrolls
+1200~Otherworld 5-Star Boss Hunt Rewards
+1201~Otherworld 6-Star Boss Hunt Rewards
+1202~Springleaf
+1203~Summerleaf
+1204~Aumtumnleaf
+1205~Winterleaf
+1206~Otherworld Skill Tomes
+1207~Foci of Knowledge
+1208~Bands of Power
+1209~Orb of Mystery
+1210~Meteor Upgrade Warrior
+1211~Meteor Upgrade Ranger
+1212~Meteor Upgrade Rogue
+1213~Meteor Upgrade Mage
+1214~Meteor Upgrade Druid
+1238~Faerie Proc Weapons Warrior
+1239~Faerie Proc Weapons Druid
+1240~Faerie Proc Weapons Ranger
+1241~Faerie Proc Weapons Mage
+1242~Faerie Proc Weapons Rogue
+1243~Blackstone Weapons
+1244~Obsidian Axe
+1245~Obsidian Sword
+1246~Obsidian Maul
+1247~Obsidian Greataxe
+1248~Obsidian Greatsword
+1249~Obsidian Greatmaul
+1250~Obsidian Dagger
+1251~Obsidian Pushdagger
+1252~Obsidian Bow
+1253~Obsidian Spear
+1254~Obsidian Staff
+1255~Obsidian Totem
+1256~Obsidian Wand
+1257~Nightstone of Cerridwen
+1258~Startstone of Cerridwen
+1259~Moonstone of Cerridwen
+1260~All-Seeing One Upgrade Loot
+1261~Swamplord Upgrade Loot
+1262~Woodcrown Upgrade Loot
+1263~Chained King Upgrade Loot
+1264~Grommak Upgrade Loot
+1265~Pyrus Upgrade Loot
+1266~NumDrop Test
+1272~Onyx Axe
+1273~Onyx Sword
+1274~Onyx Maul
+1275~Onyx Greataxe
+1276~Onyx Greatsword
+1277~Onyx Greatmaul
+1278~Onyx Dagger
+1279~Onyx Pushdagger
+1280~Onyx Bow
+1281~Onyx Spear
+1282~Onyx Staff
+1283~Onyx Totem
+1284~Onyx Wand
+1285~Otherworld 4-Star Crystal Rings
+1286~Otherworld 4-Star Ancient Rings
+1287~Kelpie Good Loot
+1288~Wyvern Good Loot
+1289~Ashborn Good Loot
+1290~Golem Good Loot
+1291~Wraith Good Loot
+1292~Eye Good Loot
+1293~All-Seeing One 2 Upgrade Loot
+1294~Swamplord 2 Upgrade Loot
+1295~Woodcrown 2 Upgrade Loot
+1296~Chained King 2 Upgrade Loot
+1297~Grommak 2 Upgrade Loot
+1298~Pyrus 2 Upgrade Loot
+1299~All Onyx Weapons
+1300~Black Hat Balloon Loot
+1301~Party Hats
+1302~Party Cakes
+1303~Sapphire Scale
+1304~Ruby Scale
+1305~Crystal Iris
+1306~Gemstone Core
+1307~Crystal Reliquary
+1308~Gemroot Branch
+1310~Aggragoth Loot
+1311~Wyvern Rare Loot
+1312~Alder Branch
+1313~Solstice Dragon Small
+1314~Solstice Dragon Medium Low
+1315~Solstice Dragon Large Low
+1316~Solstice Dragon Large High
+1317~Dragon Skill Rings
+1318~Embermane Cash Loot
+1319~Dragon Damage Rings Poor
+1320~Solstice Dragon Large Med
+1321~Aggragoth Bracelets
+1322~Red Moon Mask
+1323~Pink Moon Mask
+1324~Orange Moon Mask
+1325~Yellow Moon Mask
+1326~Green Moon Mask
+1327~Turquoise Moon Mask
+1328~Blue Moon Mask
+1329~Purple Moon Mask
+1330~Black Moon Mask
+1331~White Moon Mask
+1332~Orb of Frostweaving
+1333~Otherworld 6 Star Rings Low
+1334~Otherworld 6 Star Rings Med
+1335~Otherworld 6 Star Rings High
+1336~Solstice Dragon Medium High
+1338~Dragon Damage Rings Good
+1340~Falgren Dragon Disc
+1341~Falgren Crown Disc
+1342~Solstice Wyvern Loot
+1343~Aggragoth Weapons
+1344~Crookback Rare Sword
+1345~Crookback Rare Axe
+1346~Crookback Rare Hammer
+1347~Crookback Rare Dagger
+1348~Crookback Rare Bow
+1349~Crookback Rare Wand
+1350~Crookback Rare Staff
+1351~Connacht Rare Sword
+1352~Connacht Rare Axe
+1353~Connacht Rare Hammer
+1354~Connacht Rare Dagger
+1355~Connacht Rare Bow
+1356~Connacht Rare Wand
+1357~Connacht Rare Staff
+1358~Bloodgrove Rare Sword
+1359~Bloodgrove Rare Axe
+1360~Bloodgrove Rare Hammer
+1361~Bloodgrove Rare Dagger
+1362~Bloodgrove Rare Bow
+1363~Bloodgrove Rare Wand
+1364~Bloodgrove Rare Staff
+1365~Blackstone Rare Sword
+1366~Blackstone Rare Axe
+1367~Blackstone Rare Hammer
+1368~Blackstone Rare Dagger
+1369~Blackstone Rare Bow
+1370~Blackstone Rare Wand
+1371~Blackstone Rare Staff
+1372~Dragoncult Rare Sword
+1373~Dragoncult Rare Axe
+1374~Dragoncult Rare Hammer
+1375~Dragoncult Rare Dagger
+1376~Dragoncult Rare Bow
+1377~Dragoncult Rare Wand
+1378~Dragoncult Rare Staff
+1380~Singing Sword
+1381~Volcanic Axe
+1397~Stonehammer
+1398~Spite Dagger
+1399~Thorn Bow
+1400~Spirit Staff
+1401~Soulstone Wand
+1402~Shard Knife
+1403~Raven Bow
+1404~Ashen Staff
+1405~Flame Wand
+1406~Spellsword
+1407~Spirithammer
+1408~Bow of Terror
+1409~Sentinel Spear
+1410~Phoenix Totem
+1411~Tidal Spear
+1412~Broken Crookback Weapon
+1413~Broken Connacht Weapon
+1414~Broken Bloodgrove Weapon
+1415~Broken Twisted Weapon
+1416~Broken Cultist's Weapon
+1417~Boar Steak
+1418~Aromatic Herbs
+1419~Wolf Sirloin
+1420~Squall Fillet
+1421~Forbidden Fruit
+1422~Strog's Medal
+1423~Balmon's Medal
+1424~Crammok's Medal
+1425~Ragnor's Medal
+1426~Crookback Rare Sword Apprentice
+1427~Crookback Rare Axe Apprentice
+1428~Crookback Rare Hammer Apprentice
+1429~Crookback Rare Dagger Apprentice
+1430~Crookback Rare Bow Apprentice
+1431~Crookback Rare Wand Apprentice
+1432~Crookback Rare Staff Apprentice
+1433~Connacht Rare Sword Apprentice
+1434~Connacht Rare Axe Apprentice
+1435~Connacht Rare Hammer Apprentice
+1436~Connacht Rare Dagger Apprentice
+1437~Connacht Rare Bow Apprentice
+1438~Connacht Rare Wand Apprentice
+1439~Connacht Rare Staff Apprentice
+1440~Bloodgrove Rare Sword Apprentice
+1441~Bloodgrove Rare Axe Apprentice
+1442~Bloodgrove Rare Hammer Apprentice
+1443~Bloodgrove Rare Dagger Apprentice
+1444~Bloodgrove Rare Bow Apprentice
+1445~Bloodgrove Rare Wand Apprentice
+1446~Bloodgrove Rare Staff Apprentice
+1447~Blackstone Rare Sword Apprentice
+1448~Blackstone Rare Axe Apprentice
+1449~Blackstone Rare Hammer Apprentice
+1450~Blackstone Rare Dagger Apprentice
+1451~Blackstone Rare Bow Apprentice
+1452~Blackstone Rare Wand Apprentice
+1453~Blackstone Rare Staff Apprentice
+1454~Dragoncult Rare Sword Apprentice
+1455~Dragoncult Rare Axe Apprentice
+1456~Dragoncult Rare Hammer Apprentice
+1457~Dragoncult Rare Dagger Apprentice
+1458~Dragoncult Rare Bow Apprentice
+1459~Dragoncult Rare Wand Apprentice
+1460~Dragoncult Rare Staff Apprentice
+1461~Pies 1
+1462~Pies 2
+1463~Pies 3
+1464~Pies 4
+1465~Pies 5
+1466~Shadow Hands Drop Low
+1467~Shadow Feet Drop Low
+1468~Shadow Head Drop Low
+1469~Shadow Legs Drop Low
+1470~Shadow Body Drop Low
+1471~Shadow Hands Drop Medium
+1472~Shadow Feet Drop Medium
+1473~Shadow Head Drop Medium
+1474~Shadow Legs Drop Medium
+1475~Shadow Body Drop Medium
+1476~Shadow Hands Drop High
+1477~Shadow Feet Drop High
+1478~Shadow Head Drop High
+1479~Shadow Legs Drop High
+1480~Shadow Body Drop High
+1481~Halloween Hat
+1485~Halloween Masks 1
+1486~Halloween Masks 2
+1487~Halloween Masks 3
+1488~Halloween Masks 4
+1489~Halloween Masks 5
+1490~Halloween Masks 6
+1491~Halloween Masks 7
+1492~Halloween Masks 8
+1493~Halloween Masks 9
+1494~Halloween Masks 10
+1495~Halloween Masks 11
+1496~Halloween Boss Ring
+1497~Halloween Boss Necklaces
+1498~Halloween Boss Charms
+1499~Halloween Brew
+1500~Leathery Wing
+1501~Eye of Bat
+1502~Bloodsucker Fangs
+1503~Daily Rat Quest Potions
+1504~Dragon Armour 1 Drop
+1505~Dragon Armour 2 Drop
+1506~Dragon Armour 3 Drop
+1507~Dragon Armour 4 Drop
+1508~Dragon Armour 5 Drop
+1509~Dragon Armour 6 Drop
+1510~Rat Cash Loot
+1511~Cavewing Cash Loot
+1512~Spider Cash loot
+1513~Boggan Cash Loot
+1514~Firbolg Cash Loot
+1515~Troll Cash Loot
+1516~Sewer Rat Cash Loot
+1517~Sewer Snake Loot
+1518~Sewer Lizard Loot
+1519~Sewer Smuggler Loot
+1520~Christmas Hammer Boss 3
+1521~Christmas Axe Boss 3
+1522~Christmas Bow Boss 3
+1523~Christmas Sword Boss 3
+1524~Christmas Staff Boss 3
+1525~Christmas Wand Boss 3
+1526~Christmas Dagger Boss 3
+1527~Christmas Spear Boss 3
+1528~Christmas Totem Boss 3
+1529~Yule Hats 2012
+1530~Christmas Hammer Boss 2
+1531~Christmas Axe Boss 2
+1532~Christmas Bow Boss 2
+1533~Christmas Sword Boss 2
+1534~Christmas Staff Boss 2
+1535~Christmas Wand Boss 2
+1536~Christmas Dagger Boss 2
+1537~Christmas Spear Boss 2
+1538~Christmas Totem Boss 2
+1539~Christmas Hammer Boss 1
+1540~Christmas Axe Boss 1
+1541~Christmas Bow Boss 1
+1542~Christmas Sword Boss 1
+1543~Christmas Staff Boss 1
+1544~Christmas Wand Boss 1
+1545~Christmas Dagger Boss 1
+1546~Christmas Spear Boss 1
+1547~Christmas Totem Boss 1
+1548~Cloud Mount Loot
+1549~Snowstorm Spirit Loot
+1551~Cloud Boss Novelty Wand
+1552~Rock Sample 1
+1553~Rock Sample 2
+1554~Rock Sample 3
+1555~Rock Sample 4
+1556~Captive Cave Moth
+1557~Cave Frog Legs
+1558~Cavern Stew Loot
+1559~Sea Chart
+1566~Summoning Runes Low
+1567~Summoning Runes Mid
+1568~Summoning Runes High
+1569~TEST LOOT TABLE
+1570~CH Starter Pack - Sigil of Energy
+1571~CH Starter Pack - Sigil of Health
+1572~CH Starter Pack - Backpack Expansion
+1573~CH Starter Pack - Bank Expansion
+1574~Pirate Gold
+1575~Random Pirate Shirts
+1576~Random Pirate Trousers
+1577~Random Pirate Accessories
+1578~Random Pirate Feet
+1579~Random Item Shop Item T1
+1580~TEST RANDOM TABLE
+1581~Bag of Gold
+1582~Random Pirate Clothes All
+1583~Caverns Skill Rings 1 to 3
+1584~Caverns Skill Rings 4 to 5
+1585~Super Combination Elixir Set
+1586~Super Knowledge Elixir Set
+1587~Backpack Expansion Set
+1588~Bank Expansion Set
+1589~Sigil of Health Set
+1590~Sigil of Energy Set
+1591~Super Wisdom Elixir Set
+1592~Random Platinum
+1593~Pirate Clothes NOT Black White
+1594~Pirate Clothes ONLY Black White
+1595~Bone Shards 2
+1596~Bone Shards 3
+1597~Bone Shards 4
+1598~Random Pirate Hands
+1599~Random Smuggler Torso
+1600~Random Smuggler Legs
+1601~Random Smuggler Hands
+1602~Random Smuggler Feet
+1603~Random Smuggler Head
+1604~Killain's Medal
+1605~Random Smuggler Fashion All
+1606~U4 Skill Tomes
+1608~Restoration Potion Set
+1609~Resurrection Idol Set
+1610~Bone Shards 1
+1611~Random Item Shop Item T2
+1612~Random Item Shop Item T3
+1613~Bear Fangs
+1614~Skillpower Bracelets 1 to 5
+1615~Fingals General Loot Low
+1616~Sewers General Loot Low
+1617~Carrowmore General Loot Low
+1618~Fingals General Loot High
+1619~Sewers General Loot High
+1620~Carrowmore General Loot High
+1621~Darksea Chest
+1622~Leystone Fragment Set
+1633~Meteor Sewer Hands Item
+1634~Meteor Sewer Feet Item
+1635~Meteor Sewer Head Item
+1636~Meteor Sewer Legs Item
+1637~Meteor Sewer Torso Item
+1638~Pirate Fashion Chest
+1639~Sewer Toad Loot
+1640~Meteoric Bracelets All
+1641~Troll Bracelets
+1642~Bear Helms 1-2
+1643~Bear Helms 2-4
+1644~Bear Helms 5-10
+1645~Party Crowns Anniversary 2013
+1646~Skill Mutation Charms 1-3
+1647~Skill Mutation Charms 3-5
+1648~Skill Mutation Charms 6-10
+1649~Summer Torches Mainhand 2013
+1650~Summer Garlands 2013
+1651~Summer Brands Skullcrusher 2013
+1652~Summer Brands Connacht 2013
+1653~Summer Brands Bloodgrove 2013
+1656~Summer Brands Pirate 2013
+1657~Summer Brands Smuggler 2013
+1658~Summer Brands Blackstone 2013
+1659~Summer Brands Dragoncult 2013
+1661~Beltane Fire Mage
+1662~Summer Dragon Low Dmg Charms 2013
+1663~Summer Dragon Mid Dmg Charms 2013
+1664~Summer Dragon High Dmg Charms 2013
+1665~Summer Dragon Low Skill Charms 2013
+1666~Summer Dragon Mid Skill Charms 2013
+1667~Summer Dragon High Skill Charms 2013
+1668~Summer Dragon Low Rings 2013
+1669~Summer Dragon Mid Rings 2013
+1670~Summer Dragon High Rings 2013
+1671~Summer Dragon Low Helm 2013
+1672~Summer Dragon Mid Helm 2013
+1673~Summer Dragon High Helm 2013
+1674~Random Summer Item Shop Item T1
+1675~Random Summer Item Shop Item T2
+1676~Random Summer Item Shop Item T3
+1677~Random Summer Sparkling Wig
+1678~Random Sunlit Fashion
+1679~Random Invader Charm
+1680~Summer 2013 Vendor Fashion Female
+1681~Summer 2013 Vendor Fashion Male
+1682~Summer 2013 Wig Vendor Female
+1683~Summer 2013 Wig Vendor Male
+1684~Pine Cone
+1685~Juniper Berry
+1686~Ivy Leaf
+1687~Mistletoe Branch
+1688~Heroic Wisdom Elixir Set
+1689~Heroic Haste Elixir Set
+1690~Heroic Knowledge Elixir Set
+1691~Heroic Elixir of Energisation Set
+1692~Heroic Elixir of Regeneration Set
+1693~Heroic Travelling Elixir Set
+1694~Bear Helms 8-10
+1695~Super Knowledge Elixir Set
+1698~Hrungnir Rings
+1699~Hrungnir Bracelets
+1700~Hrungnir Helms
+1701~Hrungnir Weapons
+1702~Tooth of Mordris
+1703~Wyrm Cash Loot
+1704~Random Sunblessed Item Shop Item T1
+1705~Random Sunblessed Item Shop Item T3
+1706~Random Sunblessed Item Shop Item T2
+1707~Mordris Weapons
+1708~Mordris Bracelets
+1709~Mordris Rings
+1710~Mordris Helms
+1711~Random Lanrik Fashion
+1712~Random Lanrik Wig
+1713~Mordris All Loot
+1714~Mordris Grimoires
+1716~Resurrection Idol Set NEW
+1717~Random Item Shop Item T1 NEW
+1718~Random Item Shop Item T2 NEW
+1719~Random Item Shop Item T3 NEW
+1726~REMOVE WHEN MERGING ACCESS DBs
+1727~Stew 1
+1728~Stew 2
+1729~Stew 3
+1730~Stew 4
+1731~Stew 5
+1733~Beef Steak
+1734~Oriental Spices
+1735~Venison Steak
+1736~Gobbo Bash Quest Item Loot Table
+1737~Skeleton Bones
+1738~Zombie Flesh
+1739~Flesh and Bone Reward
+1740~Black Knight Reward
+1741~Mathanach Signet Ring
+1742~Random Samhain 2013 Item Shop Item T1
+1743~Random Samhain 2013 Item Shop Item T3
+1744~Random Samhain 2013 Item Shop Item T2
+1745~Stag Masks Low
+1746~Stag Masks Medium
+1747~Stag Masks High
+1748~Anmoch Giant Bat
+1749~Spirit Dust
+1750~Lanrik Wig Box
+1751~Lanrik Fashion Box
+1752~Musical Instrument Box
+1753~Dragonstaff Box
+1754~Serpentstaff Box
+1755~Pitchfork Box
+1756~Pumpkinhead Skeleton
+1757~Witchfinder General
+1758~Samhain Coven Leader Witch
+1759~Phantom of Despair
+1760~Samhain 2013 Scythes Low
+1761~Samhain 2013 Scythes Mid
+1762~Samhain 2013 Scythes High
+1763~Samhain 2013 Pitchforks Low
+1764~Samhain 2013 Pitchforks Mid
+1765~Samhain 2013 Pitchforks High
+1766~Samhain 2013 Rings Low
+1767~Samhain 2013 Rings Mid
+1768~Samhain 2013 Rings High
+1769~Samhain 2013 Charms Low
+1770~Samhain 2013 Charms Mid
+1771~Samhain 2013 Charms High
+1772~Skewerpoints Pirate 2013
+1773~Skewerpoints Smuggler 2013
+1774~Skewerpoints Blackstone 2013
+1775~Skewerpoints Dragoncult 2013
+1776~Skewerpoints Skullcrusher 2013
+1777~Skewerpoints Connacht 2013
+1778~Skewerpoints Bloodgrove 2013
+1779~Samhain Witch 2013 T1
+1780~Samhain Witch 2013 T2
+1781~Spirit Dust 1 Drop
+1782~Spirit Dust 2 Drop
+1783~Spirit Dust 3 Drop
+1784~No Item Chest
+1785~Necromancer Rings
+1786~Necromancer Bracelets
+1787~Necromancer Weapons
+1788~Frost Spirit 2013 T1
+1789~Frost Spirit 2013 T2
+1790~Winter2013 Bear Low
+1791~Winter2013 Golem Low
+1792~Winter2013 Stormwing Low
+1793~Winter2013 Bear High
+1794~Winter2013 Golem High
+1795~Winter2013 Stormwing High
+1796~Winter2013 Red Hats
+1797~Winter2013 Pink Hats
+1798~Winter2013 Orange Hats
+1799~Winter2013 Yellow Hats
+1800~Winter2013 Green Hats
+1801~Winter2013 Turquoise Hats
+1802~Winter2013 Blue Hats
+1803~Winter2013 Purple Hats
+1804~Winter2013 Black Hats
+1805~Winter2013 White Hats
+1806~Random Yule 2013 Item Shop Item T1
+1807~Random Yule 2013 Item Shop Item T2
+1808~Random Yule 2013 Item Shop Item T3
+1809~Winter2013 Frost Hands Low
+1810~Winter2013 Frost Feet Low
+1811~Winter2013 Frost Helm Low
+1812~Winter2013 Frost Hands High
+1813~Winter2013 Frost Feet High
+1814~Winter2013 Frost Helm High
+1815~Winter2013 Snowballs
+1816~Winter2013 Bear Quest Low Warrior
+1817~Winter2013 Bear Quest Low Druid
+1818~Winter2013 Bear Quest Low Ranger
+1819~Winter2013 Bear Quest Low Mage
+1820~Winter2013 Bear Quest Low Rogue
+1821~Winter2013 Bear Quest High Warrior
+1822~Winter2013 Bear Quest High Druid
+1823~Winter2013 Bear Quest High Ranger
+1824~Winter2013 Bear Quest High Mage
+1825~Winter2013 Bear Quest High Rogue
+1826~Winter2013 Fun Weapon OLD
+1827~Winter2013 Present Items Low
+1828~Winter2013 Present Items Mid
+1829~Winter2013 Present Items High
+1830~Winter2013 Dragon Charm
+1831~Winter2013 Dragon Helm
+1832~Winter2013 Fun Weapon Quest Wraith
+1833~Winter2013 Potions NO TRADE
+1834~Winter2013 Super Potions NO TRADE
+1835~Winter2013 HP-EP LOW
+1836~Winter2013 HP-EP MID
+1837~Winter2013 HP-EP HIGH
+1838~Winter2013 Cash Loot Quest1-LOW
+1839~Winter2013 Cash Loot Quest1-HIGH
+1840~Winter2013 Cash Loot Quest2-LOW
+1841~Winter2013 Cash Loot Quest2-HIGH
+1842~Winter2013 Cash Loot Quest3-LOW
+1843~Winter2013 Cash Loot Quest3-HIGH
+1844~Winter2013 Fun Weapon Quest
+1845~Greater Troll Cashloot
+1846~Greater Risen Cashloot
+1847~Ternstone 20% Drop
+1848~Harbinger 20% Drop
+1849~Legendary Lanrik Fashion Chest
+1850~Legendary Hunter Fashion Chest
+1851~Legendary Frostguard Fashion Chest
+1852~Legendary Musical Box
+1853~Legendary Relic Chest T1
+1854~Legendary Relic Chest T2
+1855~Legendary Mounts Chest
+1857~Legendary Charms Chest
+1858~Connacht Stolen Items A
+1859~Connacht Stolen Items B
+1860~Connacht Stolen Items C
+1861~Connacht Stolen Items D
+1862~Connacht Stolen Items E
+1863~Stonevale Corrupted Tusk
+1864~Stonevale Corrupted Talisman
+1865~Stonevale Corrupted Stone
+1866~Stonevale Corrupted Horn
+1867~Stonevale Corrupted Grimoire
+1868~Otherworld Treeman Items A
+1870~Otherworld Treeman Items C
+1871~Otherworld Wraith Items A
+1872~Otherworld Wraith Items B
+1873~Spirit of Nature 100 Drop
+1874~Spirit of Nature 80 Drop
+1875~Spirit of Nature 20 Drop
+1876~Summer 2014 Chest T1
+1877~Summer 2014 Chest T2
+1878~Summer 2014 Chest T3
+1879~Essence of Spring 100 Drop
+1880~Essence of Spring 80 Drop
+1881~Essence of Spring 20 Drop
+1882~Essence of Summer 100 Drop
+1883~Essence of Summer 80 Drop
+1884~Essence of Summer 20 Drop
+1885~Essence of Autumn 100 Drop
+1886~Essence of Autumn 80 Drop
+1887~Essence of Autumn 20 Drop
+1888~Nature Masks Red
+1889~Nature Masks Pink
+1890~Nature Masks Orange
+1891~Nature Masks Yellow
+1892~Nature Masks Green
+1893~Nature Masks Turquoise
+1894~Nature Masks Blue
+1895~Nature Masks Purple
+1896~Nature Masks Black
+1897~Nature Masks White
+1898~Tor Caith Faerie Harp Drop
+1899~Summer2014 Tier1 Necks
+1900~Summer2014 Tier1 Wrists
+1901~Summer2014 Tier1 Rings
+1902~Summer2014 Tier2 Necks
+1903~Summer2014 Tier2 Wrists
+1904~Summer2014 Tier2 Rings
+1905~Summer2014 Tier3 Necks
+1906~Summer2014 Tier3 Wrists
+1907~Summer2014 Tier3 Rings
+1908~Summer2014 Tier4 Necks
+1909~Summer2014 Tier4 Wrists
+1910~Summer2014 Tier4 Rings
+1911~Phoenix 2014 Chest T1
+1912~Phoenix 2014 Chest T2
+1913~Phoenix 2014 Chest T3
+1914~srf2014 Weapon Boss 1 Hammer
+1915~srf2014 Weapon Boss 1 Dagger
+1916~srf2014 Weapon Boss 1 Bow
+1917~srf2014 Weapon Boss 1 Totem
+1918~srf2014 Weapon Boss 1 Wand
+1919~srf2014 Weapon Boss 2 Hammer
+1920~srf2014 Weapon Boss 2 Dagger
+1921~srf2014 Weapon Boss 2 Bow
+1922~srf2014 Weapon Boss 2 Totem
+1923~srf2014 Weapon Boss 2 Wand
+1924~srf2014 Weapon Boss 3 Hammer
+1925~srf2014 Weapon Boss 3 Dagger
+1926~srf2014 Weapon Boss 3 Bow
+1927~srf2014 Weapon Boss 3 Totem
+1928~srf2014 Weapon Boss 3 Wand
+1929~srf2014 Weapon Boss 4 Hammer
+1930~srf2014 Weapon Boss 4 Dagger
+1931~srf2014 Weapon Boss 4 Bow
+1932~srf2014 Weapon Boss 4 Totem
+1933~srf2014 Weapon Boss 4 Wand
+1934~Shrine of Danu Offerings
+1935~Tithestone
+1936~Bracken Drop
+1937~Shimmering Chest
+1938~Heroic Defence Elixir
+1939~Heroic Attack Elixir
+1940~Heroic Armour Elixir
+1941~Shaman Burnished Drop
+1942~Shaman Cash Drop 40
+1943~Shaman Cash Drop 90
+1944~Shaman Cash Drop 140
+1945~Shaman Cash Drop 190
+1946~Giant Spider Quest Boss Carrowmore
+1947~Dig Site 1 Carrowmore
+1948~Dig Site 2 Carrowmore
+1949~Dig Site 3 Carrowmore
+1950~Dig Site 4 Carrowmore
+1951~Dig Site 5 Carrowmore
+1952~Scorpion Stinger
+1953~Spider Fang
+1954~Tablet Fragment 1
+1955~Tablet Fragment 2
+1956~Tablet Fragment 3
+1957~Tablet Fragment 4
+1958~TT Bats Screech
+1959~TT Bats Feral
+1960~TT Bats Dire
+1961~TT Bats Vampire
+1962~Fall2014 Antivenom Fire
+1963~Fall2014 Antivenom Ice
+1964~Fall2014 Antivenom Poison
+1965~Fall2014 Witch T1
+1966~Fall2014 Witch T2
+1967~Fall2014 Witch T3
+1968~Fall2014 Infection T1
+1969~Fall2014 Infection T2
+1970~Fall2014 Red Hats
+1971~Fall2014 Pink Hats
+1972~Fall2014 Orange Hats
+1973~Fall2014 Yellow Hats
+1974~Fall2014 Green Hats
+1975~Fall2014 Turquoise Hats
+1976~Fall2014 Blue Hats
+1977~Fall2014 Purple Hats
+1978~Fall2014 Black Hats
+1979~Fall2014 White Hats
+1980~Fall2014 Spider Silk 1
+1981~Fall2014 Spider Silk 50pc
+1982~Fall2014 Spider Silk 25pc
+1984~Fall2014 Chest T1
+1985~Fall2014 Chest T2
+1986~Fall2014 Chest T3
+1987~Fall2014 Spider Silk 1_3
+1988~Fall2014 Boss Rings 1
+1989~Fall2014 Boss Rings 2
+1990~Fall2014 Boss Rings 3
+1991~Fall2014 Boss Rings 4
+1992~Fall2014 Boss Misc 1
+1993~Fall2014 Boss Misc 2
+1994~Fall2014 Boss Misc 3
+1995~Fall2014 Boss Misc 4
+1996~Fall2014 Boss Helm 1
+1997~Fall2014 Boss Helm 2
+1998~Fall2014 Boss Helm 3
+1999~Fall2014 Boss Helm 4
+2000~Fall2014 Potions and Instruments
+2003~Winter2014 Hats Red
+2004~Winter2014 Hats Pink
+2005~Winter2014 Hats Orange
+2006~Winter2014 Hats Yellow
+2007~Winter2014 Hats Green
+2008~Winter2014 Hats Turquoise
+2009~Winter2014 Hats Blue
+2010~Winter2014 Hats Purple
+2011~Winter2014 Hats Black
+2012~Winter2014 Hats White
+2013~Winter2014 Red Present
+2014~Winter2014 Cracker 50
+2015~Winter2014 Cracker 100
+2016~Winter2014 Cracker 1000
+2017~Winter2014 Cracker 2000
+2018~Winter2014 Cracker 5000
+2019~Winter2014 Cracker 10000
+2020~Winter2014 Cracker 25000
+2021~Winter2014 Cracker 50000
+2022~Winter2014 Novelty Weapon
+2023~Winter2014 Chest T1
+2024~Winter2014 Chest T2
+2025~Winter2014 Chest T3
+2026~Frostgoblin Pinsticker
+2027~Frostgoblin Slasher
+2028~Frostgoblin Stabber
+2029~Boggan Curate
+2030~Boggan Cleric
+2031~Boggan Friar
+2032~Skur Axegrinder
+2033~Skur Spearsticker
+2034~Skur Daggerblade
+2035~Winter2014 Boss Rings 1
+2036~Winter2014 Boss Rings 2
+2037~Winter2014 Boss Rings 3
+2038~Winter2014 Boss Rings 4
+2039~Winter2014 Boss Wrists 1
+2040~Winter2014 Boss Wrists 2
+2041~Winter2014 Boss Wrists 3
+2042~Winter2014 Boss Wrists 4
+2043~Winter2014 Boss Weapons 1
+2044~Winter2014 Boss Weapons 2
+2045~Winter2014 Boss Weapons 3
+2046~Winter2014 Boss Weapons 4
+2047~Winter2014 Winterheart 1
+2048~Winter2014 Winterheart 1-2
+2049~Winter2014 Winterheart 1-3
+2051~Winter2014 Mount Instrument Drop
+2052~Winter2014 Yuletide Gift
+2053~Winter2014 Yuletide Present
+2078~Tower Raid Armour Drop 1
+2079~Tower Raid Armour Drop 2
+2080~Tower Raid Armour Drop 3
+2081~Tower Raid Armour Drop 4
+2082~Tower Raid Armour Drop 5
+2083~Tower Raid Armour Drop 6
+2084~Tower Raid Armour Drop 7
+2085~Tower Raid Armour Drop 8
+2086~Tower Solo Hands Drop
+2087~Tower Solo Feet Drop
+2088~Tower Solo Helmet Drop
+2089~Tower Solo Legs Drop
+2090~Tower Solo Torso Drop
+2091~Tower Unlock 1-2 Drop
+2093~Tower Unlock 3-4 Drop
+2094~Tower Unlock 5-6 Drop
+2095~Tower Unlock 5-6 Drop Boss A
+2096~Tower Unlock 5-6 Drop Boss B
+2097~Tower Unlock 5-6 Drop Boss C
+2098~Necromancer Rings High
+2099~Necromancer Bracelets High
+2100~Necromancer Weapons High
+2101~Spring2016 Red Hats
+2102~Spring2016 Pink Hats
+2103~Spring2016 Orange Hats
+2104~Spring2016 Yellow Hats
+2105~Spring2016 Green Hats
+2106~Spring2016 Turquoise Hats
+2107~Spring2016 Blue Hats
+2108~Spring2016 Purple Hats
+2109~Spring2016 Black Hats
+2110~Spring2016 White Hats
+2111~Spring2016 Serpent 1
+2112~Spring2016 Serpent 25pc
+2113~Spring2016 Serpent 50pc
+2114~Tower Guard Cash Loot
+2115~Tower Wizard Cash Loot
+2116~Tower Hound Cash Loot
+2117~Tower Imp Cash Loot
+2118~Tower Wyvern Cash Loot
+2119~Tower Occulus Cash Loot
+2120~Tower Sentinel Cash Loot
+2121~Tower EnchArmour Cash Loot
+2122~spring2015 Gift
+2123~spring2015 Present
+2124~Spring2015 Chest T1
+2125~Spring2015 Chest T2
+2126~Spring2015 Chest T3
+2127~Tower Arrows ALL
+2128~Tower Bracelets
+2129~Tower Rings Tiers 1 to 5
+2130~Tower Potion
+2131~Tower Arrows Piercing
+2132~Tower Arrows Fire
+2133~Tower Arrows Ice
+2134~Tower Arrow Magic
+2135~Tower Quest Dog 1 Loot
+2136~Tower Quest Guard 1 Loot
+2137~Tower Quest Guard 2 Loot
+2138~Tower Quest Guard 3 Loot
+2139~Tower Quest Guard 4 Loot
+2140~Tower Quest Guard 5 Loot
+2141~Tower Quest Chest 1 Loot
+2142~Tower Quest Enchanted Armour 1 Loot
+2143~Tower Quest Enchanted Armour 2 Loot
+2144~Tower Quest Enchanted Armour 3 Loot
+2145~Tower Quest Enchanted Armour 4 Loot
+2146~Tower Quest Enchanted Armour 5 Loot
+2147~Spring2015 Hag Instrument
+2148~Venerable Golden Tusks
+2149~Venerable Golden Antlers
+2150~Venerable Golden Pelt
+2151~Hallowed Golden Tusks
+2152~Hallowed Golden Antlers
+2153~Hallowed Golden Pelt
+2154~Sacred Golden Tusks
+2155~Sacred Golden Antlers
+2156~Sacred Golden Pelt
+2157~Heroic Combination Elixir Set
+2158~Spring2015 Boss Rings 1
+2159~Spring2015 Boss Rings 2
+2160~Spring2015 Boss Rings 3
+2161~Spring2015 Boss Rings 4
+2162~Spring2015 Boss Bracelets 1
+2163~Spring2015 Boss Bracelets 2
+2164~Spring2015 Boss Bracelets 3
+2165~Spring2015 Boss Bracelets 4
+2166~Spring2015 Boss Charms 1
+2167~Spring2015 Boss Charms 2
+2168~Spring2015 Boss Charms 3
+2169~Spring2015 Boss Charms 4
+2170~Spring2015 Brown Instruments
+2171~Tower 6 Dark Heart
+2172~Tower 6 Gelebron's Parchment
+2173~Tower 6 Soul Casing
+2174~DO NOT USE
+2175~DO NOT USE
+2176~Standard Bounty Bag
+2177~DO NOT USE
+2178~DO NOT USE
+2179~Elite Bounty Bag
+2204~TEST BOUNTY BAG
+2205~Ostara Mid Bounty T1
+2206~Ostara Mid Bounty T2
+2207~Ostara Elite Bounty T1
+2208~Ostara Elite Bounty T2
+2209~Ostara Elite Bounty T3
+2210~Beltane Morcas Drops
+2212~Beltane Bounty Bag Loot
+2215~Superior Beltane Bounty Bag Loot
+2216~Samhain Low Bounty T1 DNU
+2217~Samhain Mid Bounty T1 DNU
+2218~Samhain Bounty Bag Loot
+2219~Samhain Elite Bounty T1 DNU
+2220~Samhain Elite Bounty T2 DNU
+2221~Superior Samhain Bounty Bag Loot
+2222~Yule Low Bounty T1
+2223~Yule Mid Bounty T1
+2224~Yule Mid Bounty T2
+2225~Yule Elite Bounty T1
+2226~Yule Elite Bounty T2
+2227~Standard Bounty Quest
+2228~Super Energy Potion Crate
+2229~Summer2015 Chest T1
+2230~Summer2015 Chest T2
+2231~Summer2015 Chest T3
+2236~Health Potion Crate
+2237~Standard Starter Pack T1
+2238~Standard Starter Pack T2
+2239~Standard Starter Pack T3
+2240~Standard Starter Pack T4
+2241~Large Starter Pack T1
+2242~Large Starter Pack T2
+2243~Large Starter Pack T3
+2244~Large Starter Pack T4
+2245~Large Starter Pack T5
+2246~Large Starter Pack T6
+2247~Summer2015 Red Hats
+2248~Summer2015 Pink Hats
+2249~Summer2015 Orange Hats
+2250~Summer2015 Yellow Hats
+2251~Summer2015 Green Hats
+2252~Summer2015 Turquoise Hats
+2253~Summer2015 Blue Hats
+2254~Summer2015 Purple Hats
+2255~Summer2015 Black Hats
+2256~Summer2015 White Hats
+2257~Sage's Shillelagh
+2259~Coloured Shillelaghs of Brath
+2260~Ancient Tome of Wisdom
+2261~Ancient Tome of Insight
+2262~Ancient Tome of Mystery
+2263~Relic Chest T1
+2264~Relic Chest T2
+2265~Beltane2015 Gift
+2266~Beltane2015 Present
+2267~Summer2015 Tier1 Neck
+2268~Summer2015 Tier1 Charm
+2269~Summer2015 Tier1 Ring
+2270~Summer2015 Tier2 Neck
+2271~Summer2015 Tier2 Charm
+2272~Summer2015 Tier2 Ring
+2273~Summer2015 Tier3 Neck
+2274~Summer2015 Tier3 Charm
+2275~Summer2015 Tier3 Ring
+2276~Summer2015 Tier4 Neck
+2277~Summer2015 Tier4 Charm
+2278~Summer2015 Tier4 Ring
+2279~Elite Bounty Quest
+2280~Beltane Bounty Bag Quest Reward
+2281~Bounty Token Bag
+2282~Despair Scroll
+2283~Infernal Scroll
+2284~Alchemical Scroll
+2285~Summoning Scroll
+2286~Forbidden Scroll
+2287~Tears of Dread
+2288~Scheming Lenses
+2289~Corrupted Eyeballs
+2290~Nexus Tears
+2291~Nexus Lenses
+2292~Nexus Eyeballs
+2293~Superior Beltane Bounty Bag Quest Reward
+2294~Tower Bracelets Floors 1 to 2
+2295~Tower Bracelets Floors 3 to 5
+2296~Tower Bracelets Floor 6
+2297~Tower Raid Boss Bracelets z18 Summoning
+2298~Tower Raid Boss Bracelets z19 Forbidden
+2302~Relic Chest T3
+2303~Relic Chest T4
+2304~Relic Chest T5
+2305~Tower Rings Tiers 1 to 4
+2306~Tower Rings Tiers 1 to 3
+2307~Tower Rings Tiers 1 to 2
+2308~Tower Rings Tier 1
+2309~Mordris High Weapon
+2310~Mordris High Bracelet
+2311~Mordris High Rings
+2312~Mordris High Helms
+2313~Samhain2015 Bone 1
+2314~Samhain2015 Bone 2
+2315~Samhain2015 Bone 3
+2316~Samhain2015 Bone 4
+2317~Samhain2015 Bone 5
+2318~Samhain2015 Bone 6
+2319~Samhain2015 Bone 7
+2320~Samhain2015 Bone 8
+2321~Samhain2015 Bone 9
+2322~Samhain2015 Bone 10
+2323~Samhain2015 Bone 11
+2324~Samhain2015 Bone 12
+2325~Samhain2015 Bone 13
+2326~Samhain2015 Bone 14
+2327~Samhain2015 Bone 15
+2328~Samhain2015 Bone 16
+2329~Samhain2015 Bone 17
+2330~Samhain2015 Bone 18
+2331~Samhain2015 Bone 19
+2332~Samhain2015 Bone 20
+2333~Samhain2015 Bone 21
+2334~Samhain2015 Bone 22
+2335~Samhain2015 Bone 23
+2336~Samhain2015 Bone 24
+2343~Banebrand Sentinel Ring Token Tier 1
+2345~Fall2015 Red Hats
+2346~Fall2015 Pink Hats
+2347~Fall2015 Orange Hats
+2348~Fall2015 Yellow Hats
+2349~Fall2015 Green Hats
+2350~Fall2015 Turquoise Hats
+2351~Fall2015 Blue Hats
+2352~Fall2015 Purple Hats
+2353~Fall2015 Black Hats
+2354~Fall2015 White Hats
+2355~Halloween2015 Offhand 1
+2356~Halloween2015 Offhand 2
+2357~Halloween2015 Offhand 3
+2358~Halloween2015 Offhand 4
+2359~Halloween2015 Offhand 5
+2360~Halloween2015 Offhand 6
+2361~Halloween2015 Offhand 7
+2362~Gelebron Ring
+2363~Gelebron Bracelet
+2364~Gelebron Weapon
+2365~Gelebron Minor Conflux
+2366~NOT USED
+2367~Banebrand Paradigm Ring Token Tier 2-3
+2368~Halloween2015 Tier 1 and 2 Rings
+2369~Halloween2015 Tier 1 and 2 Bracelets
+2370~Halloween2015 Tier 1 and 2 Necklaces
+2371~Halloween2015 Tier 3 and 4 Rings
+2372~Halloween2015 Tier 3 and 4 Bracelets
+2373~Halloween2015 Tier 3 and 4 Necklaces
+2374~Halloween2015 Tier 5,6,7 Rings
+2375~Halloween2015 Tier 5,6,7 Bracelets
+2376~Halloween2015 Tier 5,6,7 Necklaces
+2377~Halloween2015 Tier 8,9,10 Rings
+2378~Halloween2015 Tier 8,9,10 Bracelets
+2379~Halloween2015 Tier 8,9,10 Necklaces
+2380~Halloween2015 Yellow Powder
+2381~Halloween2015 Green Powder
+2382~Halloween2015 Blue Powder
+2383~Halloween2015 Purple Powder
+2384~Halloween2015 Black Powder
+2385~Halloween2015 Powder Burns Loot 1
+2386~Halloween2015 Powder Burns Loot 2
+2387~Halloween2015 Powder Burns Loot 3
+2388~Halloween2015 Powder Burns Loot 4
+2389~Halloween2015 Powder Burns Loot 5
+2390~Basic Stonevale Bear Loot
+2391~Good Stonevale Bear Loot
+2392~Fall2015 Mystery Chest T1
+2393~Fall2015 Mystery Chest T2
+2394~Fall2015 Mystery Chest T3
+2395~Samhain Bounty Bag Quest Reward
+2396~Superior Samhain Bounty Bag Quest Reward
+2397~Gelebron encounter consumables
+2398~Tower Bracelets Floor 6 5stars
+2399~Gelebron Major Conflux
+2400~Inferno Scavenger
+2401~Sleatskean level 55 Jewellery
+2402~Sleatskean level 56 Jewellery
+2403~Sleatskean level 57 Jewellery
+2404~Pyre Omen
+2405~Ice Omen
+2406~Honey Barrel
+2407~Sleatskean 1 Star Verse 1-3
+2408~Sleatskean 2 Star Verse 1-3
+2409~Sleatskean 3 Star Verse 1-3
+2410~Sleatskean 4 Star Verse 1-3
+2411~Inferno 1 Star Verse 4-6
+2412~Inferno 2 Star Verse 4-6
+2413~Inferno 3 Star Verse 4-6
+2414~Inferno 4 Star Verse 4-6
+2415~Sleatskean Bloodgrove drops
+2419~Glimmerwing Quill Drops
+2420~Yule2015 Mystery Chest T1
+2421~Yule2015 Mystery Chest T2
+2422~Yule2015 Mystery Chest T3
+2423~Glimmerwing Scent Bottles
+2424~Lady Korrigon Scent Bottle
+2425~Shimmerwing Ring Casket
+2426~Offal Barrel Flask
+2427~Hoarder Papers
+2428~Princess Morag Codex
+2429~Inferno 1 Star Fire Items
+2430~Inferno 2 Star Fire Items
+2431~Inferno 3 Star Fire Items
+2432~Inferno 4 Star Fire Items
+2433~Wine Barrel
+2434~Yule Bounty Bag Quest Reward
+2435~Superior Yule Bounty Bag Quest Reward
+2436~Yule Bounty Bag Loot
+2437~Superior Yule Bounty Bag Loot
+2438~Winter2015 Hats Red
+2439~Winter2015 Hats Pink
+2440~Winter2015 Hats Orange
+2441~Winter2015 Hats Yellow
+2442~Winter2015 Hats Green
+2443~Winter2015 Hats Turquoise
+2444~Winter2015 Hats Blue
+2445~Winter2015 Hats Purple
+2446~Winter2015 Hats Black
+2447~Winter2015 Hats White
+2448~Winter2015 Green Present 1
+2449~Winter2015 Green Present 1-2
+2450~Shadowy Man Drop
+2451~Eidolon Drop
+2452~Winter2015 Yuletide Gift
+2453~Winter2015 Yuletide Present
+2454~Flight of Guarding
+2455~Proteus Rings
+2456~Proteus Bracelets
+2457~Proteus Class Conflux
+2458~Proteus Pure Conflux
+2459~Bloodgrove Ritual
+2460~Yule2015 Tier 1,2 Rings
+2461~Yule2015 Tier 3,4 Rings
+2462~Yule2015 Tier 5,6,7 Rings
+2463~Yule2015 Tier 8,9,10 Rings
+2464~Yule2015 Tier 1,2 Bracelets
+2465~Yule2015 Tier 3,4 Bracelets
+2466~Yule2015 Tier 5,6,7 Bracelets
+2467~Yule2015 Tier 8,9,10 Bracelets
+2468~Yule2015 Tier 1,2 Weapons
+2469~Yule2015 Tier 3,4 Weapons
+2470~Yule2015 Tier 5,6,7 Weapons
+2471~Yule2015 Tier 8,9,10 Weapons
+2472~Scales of Duthar the Nimble
+2473~Scales of Sil the Nimble
+2474~Scales of Torm the Nimble
+2475~Scales of Kablain the Nimble
+2476~Scales of Purgain the Nimble
+2477~Scales of Duthar the Swift
+2478~Scales of Sil the Swift
+2479~Scales of Torm the Swift
+2480~Scales of Kablain the Swift
+2481~Scales of Purgain the Swift
+2482~Scales of Duthar the Agile
+2483~Scales of Sil the Agile
+2484~Scales of Torm the Agile
+2485~Scales of Kablain the Agile
+2486~Scales of Purgain the Agile
+2487~Scales of Duthar the Fleet
+2488~Scales of Sil the Fleet
+2489~Scales of Torm the Fleet
+2490~Scales of Kablain the Fleet
+2491~Scales of Purgain the Fleet
+2492~Scales of Umas the Flying Destroyer
+2493~Scales of Gris the Swooping Killer
+2494~Scales of Dokkar the Winged Death
+2495~Scales of Krangar the Ravager of Souls
+2496~Ostara2016 T1 + T2 Rings
+2497~Ostara2016 T3 + T4 Rings
+2498~Ostara2016 T5 + T6 + T7 Rings
+2499~Ostara2016 T8 + T9 + T10 Rings
+2500~Ostara2016 T1 + T2 Necklaces
+2501~Ostara2016 T3 + T4 Necklaces
+2502~Ostara2016 T5 +T6 + T7 Necklaces
+2503~Ostara2016 T8 + T9 + T10 Necklaces
+2504~Ostara2016 T1 + T2 Charms
+2505~Ostara2016 T3 + T4 Charms
+2506~Ostara2016 T5 + T6 + T7 Charms
+2507~Ostara2016 T8 + T9 + T10 Charms
+2508~Testy Fish 1
+2509~Super Shiney Chest - Chests
+2510~Super Shiney Chest - Hats
+2511~Strek Bribe
+2512~Nort Bribe
+2513~Krik Bribe
+2514~Bandit Archer Magic Tome
+2515~Bandit Cutthroat Stolen Relics
+2516~Standard Bounty Tokens
+2517~Elite Bounty Tokens
+2518~Royal Stag
+2519~Hunter Quest Hats and Mounts
+2520~Hunter Quest Potions T1
+2521~Hunter Quest Potions T2
+2522~Hunter Quest Potions T3
+2523~Bag of Pet Tokens
+2566~Ostara2016 Mystery Chest T1
+2567~Ostara2016 Mystery Chest T2
+2568~Ostara2016 Mystery Chest T3
+2569~Beltane2016 MC T1
+2570~Beltane2016 MC T2
+2571~Beltane2016 MC T3
+2572~Pet Box
+2573~Seasonal Bounty Tokens
+2574~Warrior Level 120 Quest Reward
+2575~Rogue Level 120 Quest Reward
+2576~Ranger Level 120 Quest Reward
+2577~Mage Level 120 Quest Reward
+2578~Druid Level 120 Quest Reward
+2579~Demented Curator Scrolls
+2580~Barrel of Grog
+2581~Dorcha Beast Loot
+2582~Connacht Seekers Loot
+2583~Connacht Shard Stalker Loot
+2584~Connacht Main Camp Loot
+2585~Cursed Coin of Dunskeig
+2586~Gorn Toad Toxin
+2587~Tensile Silk
+2588~Soul of the Wandering Soldier
+2589~Emblem of Fingal
+2590~Emblem of Dian Cecht
+2591~Emblem of Myrrdin
+2592~Emblem of Myrine
+2593~Emblem of Cuhcullain
+2594~Omphalic Stone
+2595~Gilded Surround
+2596~Chain of Instruction
+2597~Bag of Hunters Favours
+2598~Serpents Blood
+2599~Bosun Coldheart Loot
+2600~Blackstone Herb Pouch
+2604~Boggan Toxtooth Toxic Fang
+2605~Common Fish - Lir's Pier 1
+2606~Common Fish - Lir's Pier 2
+2607~Common Fish - N Peninsula Beach
+2608~Common Fish - Highshore Village
+2609~Common Fish - MacCroin Camp River
+2610~Common Fish - Shalemont Lake
+2611~Common Fish - Greygorge River
+2612~Common Fish - Stonevale Lake
+2613~Common Fish - Stonevale Farm
+2614~Common Fish - Southern Dales
+2615~Common Fish - Cave River 1
+2616~Common Fish - Cave River 2
+2617~Common Fish - Loch Dorcha 1
+2618~Common Fish - Loch Dorcha 2
+2619~Common Fish - Fortress Outskirts
+2620~Common Fish - Central Viaduct
+2621~Common Fish - Lower Cistern
+2622~Common Fish - Pool of Bolg
+2623~Elite Fish - Endgame Rod Quest
+2624~Rare Fish - Lir's Pier 1
+2625~Rare Fish - Lir's Pier 2
+2626~Rare Fish - N Peninsula Beach
+2627~Rare Fish - Highshore Village
+2628~Rare Fish - MacCroin Camp River
+2629~Rare Fish - Shalemont Lake
+2630~Rare Fish - Greygorge River
+2631~Rare Fish - Stonevale Lake
+2632~Rare Fish - Stonevale Farm
+2633~Rare Fish - Southern Dales
+2634~Rare Fish - Cave River 1
+2635~Rare Fish - Cave River 2
+2636~Rare Fish - Loch Dorcha 1
+2637~Rare Fish - Loch Dorcha 2
+2638~Rare Fish - Fortress Outskirts
+2639~Rare Fish - Central Viaduct
+2640~Rare Fish - Lower Cistern
+2641~Rare Fish - Pool of Bolg
+2642~Carrow Spider Web
+2643~Casket of Whispers
+2644~Four Elements
+2645~Warrant of Stature
+2646~Warrant of Bloodoath
+2647~Warrant of Deceit
+2648~Corrupted Oak Apples
+2649~Sunken Chest Items 1 OLD
+2650~Sunken Chest Items 2 OLD
+2651~Sunken Chest Items 3 OLD
+2652~Sunken Chest Items 4 OLD
+2653~Sunken Chest Items 5 OLD
+2654~Kelpie Horn
+2655~Minor Elite Fishing Spot
+2656~Major Elite Fishing Spot
+2657~Dark Hunter
+2658~Oakheart Truewood
+2659~Wraith Summoners
+2660~Ironrock 1 Star
+2661~Ironrock 2 Star
+2662~Ironrock 3 Star
+2663~Ironrock 4 Star
+2664~Obsidian Rock 1 Star
+2665~Obsidian Rock 2 Star
+2666~Obsidian Rock 3 Star
+2667~Obsidian Rock 4 Star
+2668~Haunted Terror
+2669~Haunted Horror
+2670~Haunted Dread
+2671~Library Books
+2672~Clam Tier 1
+2673~Clam Tier 2
+2674~Clam Tier 3
+2675~Clam Tier 4
+2676~Clam Tier 5
+2677~Clam Drop
+2678~Special Fish
+2679~1-3 Fishing Draught Tier 1
+2680~1-3 Fishing Draught Tier 2
+2681~1-3 Fishing Draught Tier 3
+2682~1-3 Fishing Draught Tier 4
+2683~1-3 Fishing Draught Tier 5
+2684~1-3 Fishing Draught Tier 6
+2685~1-3 Fishing Draught Tier 7
+2686~1-3 Fishing Draught Tier 8
+2687~1-3 Fishing Draught Tier 9
+2688~1-3 Fishing Draught Tier 10
+2689~Fishing Cache Bonus Items Tier 1
+2690~Fishing Cache Bonus Items Tier 2
+2691~Fishing Cache Bonus Items Tier 3
+2692~Fishing Cache Bonus Items Tier 4
+2693~Fishing Cache Bonus Items Tier 5
+2694~Fishing Cache Bonus Items Tier 6
+2695~Fishing Cache Bonus Items Tier 7
+2696~Fishing Cache Bonus Items Tier 8
+2697~Fishing Cache Bonus Items Tier 9
+2698~Fishing Cache Bonus Items Tier 10
+2699~Fishing Rings Tier 1
+2700~Fishing Rings Tier 2
+2701~Fishing Rings Tier 3
+2702~Fishing Rings Tier 4
+2703~Fishing Rings Tier 5
+2704~Fishing Rings Tier 6
+2705~Sunken Chest Items 1
+2706~Sunken Chest Items 2
+2707~Sunken Chest Items 3
+2708~Bear Quest Items Tier 1
+2709~Bear Quest Items Tier 2
+2710~Bear Quest Items Tier 3
+2711~Bear Quest Items Tier 4
+2712~Bear Quest Items Tier 5
+2713~Bear Quest Items Tier 6
+2714~Mark of Nodens Tier 1
+2715~Mark of Nodens Tier 2
+2716~Mark of Nodens Tier 3
+2717~Mark of Nodens Tier 4
+2720~Waterlogged Boot
+2721~Legacy Luxury Items
+2722~Legacy Lux Quest Shop
+2723~Legacy Lux Rings
+2724~Legacy Lux Braclets and Msic
+2725~Legacy Lux Necks
+2726~Patch Test
+2727~Offal Barrel
+2728~Invasive Morthar
+2730~Standard Starter Pack T5
+2731~Standard Starter Pack T6
+2732~Fishing Lockbox Tier 1
+2733~Fishing Lockbox Tier 2
+2734~Fishing Lockbox Tier 3
+2735~Yule2016 Mystery Chest 1
+2736~Yule2016 Mystery Chest 2
+2737~Yule2016 Mystery Chest 3
+2738~Bag of Mount Tokens
+2739~Control Crystals
+2740~Ironghast Essence
+2741~Casting Runes
+2742~Farseeing Lens
+2743~Gem of Focus
+2744~Forbidden Directives
+2745~Cursed Terrorblades
+2746~Shadow Claws
+2747~Random Mount Barding
+2748~Hawkhurst Poison
+2749~Blackstone Cache
+2750~Cadaverous Bloom
+2751~Profane Bloom
+2752~Crawler Mucus
+2753~Manual of Many Toxins
+2754~Crystal Laced Vial Apprentice
+2755~Crystal Laced Vial Alchemist
+2756~Winter Chest 10 Bundle Chests
+2757~Winter Chest 10 Bundle Hats
+2758~Winter Chest 100 Bundle Chests
+2759~Winter Chest 100 Bundle Hats
+2760~Winter2016 Yuletide Gift
+2761~Winter2016 Yuletide Present
+2762~Draken Bone Axe
+2763~Dark Wolf Razor Claw
+2764~Stolen Gem
+2765~Crookback Club
+2766~Skullcrusher Supply Chest
+2767~Skullcrusher Sword Shard
+2768~Cursed Crystal
+2769~Cursed Bone
+2770~Connacht Reports
+2771~Connacht Razor Spear
+2772~Connacht Ice Gem
+2773~Flawless Rat Pelt
+2774~Flawless Bat Pelt
+2775~Pointed Vermin Fang
+2776~Charged Gem
+2777~Sleatskean Ice Crystal
+2778~Fire Effigy Torch
+2779~Bear Claw
+2780~Bear Pelt
+2781~Darksea Eye Patch
+2782~Darksea Cutlass
+2783~Darksea Treasure
+2784~Precious Shell
+2785~Corrupted Lens
+2786~Mystical Crystal
+2787~Mushroom Spore
+2788~Enchanted Bone
+2789~Rotting Spear
+2790~Crab Spider Fang
+2791~Ghostly Shroud
+2792~Mystic Summoning Orb
+2793~Shadow Shard
+2794~Ironrock Core
+2795~Golem Fire Crystal
+2796~Ember Gem
+2797~Boggan Bone Club
+2798~Boggan Cloth Scraps
+2799~Boggan Treasure Trove
+2800~Spell Fragments
+2801~Boggan Claw
+2802~Firbolg Armour Scraps
+2803~Fianna Supplies
+2804~Fianna Remains
+2805~Enforcer Armour Fragment
+2806~Hexhound Fang
+2807~Detention Gem
+2808~Blightbeast Fragment
+2809~Forbidden Magic
+2810~Ascension Power Matrix
+2811~Imp Armour Fragment
+2812~Tower Power Crystal
+2813~Alchemical Powervial
+2814~Special Recipe Fish - Lirs
+2815~Special Recipe Fish - Fingals
+2817~Special Recipe Fish - Carrowmore
+2818~Corrupted Barb
+2819~Culinarian Cooking Loot
+2820~Rabbit Meat
+2821~Raw Beef
+2822~Raw Venison
+2823~Raw Pork
+2824~Boar Meat
+2825~Raw Mutton
+2826~Raspberry
+2827~Blueberry
+2828~Warbeast Egg
+2829~Wyvern Egg
+2830~Random Item Shop Item T1 NO TRADE
+2831~Random Item Shop Item T2 NO TRADE
+2832~Random Item Shop Item T3 NO TRADE
+2833~Restoration Potion Set NO TRADE
+2834~Resurrection Idol Set NEW NO TRADE
+2836~Summer2017 Mystery Chest T1
+2837~Summer2017 Mystery Chest T2
+2838~Summer2017 Mystery Chest T3
+2839~Dragon Hatchling Egg
+2840~Mindtrap Shard
+2841~Darkmind Core
+2842~Darkrune Chunk
+2843~Maligath's Manuscript
+2844~Runebound Heartstone
+2845~Dragoncult Tome
+2846~Deathshard Crystal
+2847~TEST SHARK
+2848~TEST RAY
+2849~TEST EEL
+2850~Cooking Cache Tier 1
+2851~Cooking Cache Tier 2
+2852~Cooking Cache Tier 3
+2853~Cooking Cache Tier 4
+2854~Cooking Cache Tier 5
+2855~Cooking Cache Tier 6
+2856~Revival Mystery Chest T1
+2857~Revival Mystery Chest T2
+2858~Revival Mystery Chest T3
+2865~Tower Cooking Recipes
+2866~Culinarian Cooking Loot Bonus
+2868~Reborn Mystery Chest T1
+2869~Reborn Mystery Chest T2
+2870~Reborn Mystery Chest T3
+2871~Aeon Random Invader Charm
+2872~Aeon Random Sunlit Fashion
+2873~Aeon Random Summer Sparkling Wig
+2874~Plant Boss Rings
+2875~Plant Boss Charms
+2876~Plant Boss Necklaces
+2877~Plant Boss Helmets
+2879~Test Loot Table Num Check
+2880~Warden Placeholder Discs
+2881~Winter2017 Mystery Chest T1
+2882~Winter2017 Mystery Chest T2
+2883~Winter2017 Mystery Chest T3
+2884~Fishing Competition 2017 Ling Fish
+2885~Winter2017 Red Hats
+2886~Winter2017 Pink Hats
+2887~Winter2017 Orange Hats
+2888~Winter2017 Yellow Hats
+2889~Winter2017 Green Hats
+2890~Winter2017 Turquoise Hats
+2891~Winter2017 Blue Hats
+2892~Winter2017 Purple Hats
+2893~Winter2017 Black Hats
+2894~Winter2017 White Hats
+2895~Winter2017 Yuletide Gift T1
+2896~Winter2017 Yuletide Gift T2
+2897~Winter2017 Yuletide Present
+2899~CG All Arrows
+2900~CG Rings T1-T5
+2903~CG Reaver Cash Drops
+2904~CG Lich Cash Drops
+2905~CG Plant Cash Drops
+2906~CG Critical Mastery Rings
+2907~CG Arrows 50 Bundles
+2908~CG Reaver Fashion Charms
+2909~CG Lich Fashion Charms
+2910~CG Poisoned Thorn
+2911~CG Phylactery Shard
+2912~CG Blackstone Missive
+2913~CG Vex Poison
+2914~CG Phylactery Crystal
+2915~CG Ossified Shard
+2916~CG Ossified Chunk
+2917~Royal Corrupted Broadhead of Agony
+2918~Imperial Corrupted Broadhead of Agony
+2919~Godly Corrupted Broadhead of Agony
+2920~Royal Corrupted Broadhead of Conflagration
+2921~Imperial Corrupted Broadhead of Conflagration
+2922~Godly Corrupted Broadhead of Conflagration
+2923~Royal Corrupted Broadhead of Frostbite
+2924~Imperial Corrupted Broadhead of Frostbite
+2925~Godly Corrupted Broadhead of Frostbite
+2926~Royal Corrupted Broadhead of Sorcery
+2927~Imperial Corrupted Broadhead of Sorcery
+2928~Godly Corrupted Broadhead of Sorcery
+2929~Royal Corrupted Broadhead of Necrosis
+2930~Imperial Corrupted Broadhead of Necrosis
+2931~Godly Corrupted Broadhead of Necrosis
+2932~Crates of Corrupted Broadheads
+2933~Stolen Disc Fragments
+2934~Spring2018 Mystery Chest T1
+2935~Spring2018 Mystery Chest T2
+2936~Spring2018 Mystery Chest T3
+2937~Faction Treasure Trove Gold Drops
+2938~CG Main Hand Weapons
+2939~Vestige of the Lost Bastion
+2940~Vestige of Fury
+2941~Vestige of Frenzy
+2942~Vestige of Diligence
+2943~Vestige of the Featherdraw
+2944~Vestige of the Crossfire
+2945~Vestige of the Dark Flame
+2946~Vestige of Glacial Embrace
+2947~Vestige of Adaptation
+2948~Vestige of Grace
+2949~Vestige of the Lost Boon
+2950~Vestige of Stormrage
+2951~Echo of the First Wardens
+2952~Spring2018 Red Hats
+2953~Spring2018 Pink Hats
+2954~Spring2018 Orange Hats
+2955~Spring2018 Yellow Hats
+2956~Spring2018 Green Hats
+2957~Spring2018 Turquoise Hats
+2958~Spring2018 Blue Hats
+2959~Spring2018 Purple Hats
+2960~Spring2018 Black Hats
+2961~Spring2018 White Hats
+2962~Spring2018 Corrupted Drake Claw 1
+2963~Spring2018 Corrupted Drake Claw25pc
+2964~Spring2018 Corrupted Drake Claw 50pc
+2965~Seed of Corruption
+2966~7thAnniversary Candle x1
+2967~7thAnniversary Gcandle Lv10
+2968~7thAnniversary Candle x2
+2969~7thAnniversary Gcandle Lv15
+2970~7thAnniversary Candle x4
+2971~7thAnniversary Gcandle Lv20
+2972~7thAnniversary Candle x5
+2973~7thAnniversary Gcandle Lv30
+2974~Plant Boss Rings no Royal
+2975~Plant Boss Charms no Royal
+2976~Plant Boss Necklaces no Royal
+2977~Fall2018 Mystery Chest T1
+2978~Fall2018 Mystery Chest T2
+2979~Fall2018 Mystery Chest T3
+2980~Hellforged Braclet Set Table
+2981~Ainfean Deathless Set Table
+2982~Emrys Deathless Set Table
+2983~Overlord Imbued Set Table
+2984~Grandmystic Imbued Set Table
+2985~Cormac Apostate Set Table
+2986~Ferghus Banished Set Table
+2987~Krish Weapon Set Table
+2988~Tainted Bear Set Table
+2989~Tainted Rat Set Table
+2990~Tainted Bat Set Table
+2991~Manifest Nightmare Table
+2992~Novamane Table
+2993~Drowner of the Dark Moor Table
+2994~Wyrmheart Ironghast Table
+2995~Wyrmsong Summoner Table
+2996~Dancing Corpse Table
+2997~Singing Bones Table
+2998~Blademaster Donal Table
+2999~Blade of Duhblainn Table
+3000~Maneaster Bear Table
+3001~Ancestral Bear Table
+3002~Bronn the Mad Boar Table
+3003~Tranquilsoul Table
+3004~PermCamo10 Charm Table
+3005~PermCamo20 Charm Table
+3006~PermMoveSPD10 Table
+3007~PermMoveSPD20 Table
+3008~PermMoveSPD30 Table
+3009~PermMoveSPD40 Table
+3010~PermMoveSPD50 Table
+3011~HealProcWeapons Table
+3012~Plantboss Adds Raredrop
+3013~Gelebron Adds Raredrop
+3014~Gargant Drop Table
+3015~Yule2018 Mystery Chest T1
+3016~Yule2018 Mystery Chest T2
+3017~Yule2018 Mystery Chest T3
+3018~MidwinterHat nonParticle
+3019~MidwinterHat Particle
+3020~Eggs of Ostara 1
+3021~Eggs of Ostara 2
+3022~Eggs of Ostara 3
+3023~(NOT USED)Eggs of Ostara 5
+3024~Bejeweled Eggs of Ostara 10
+3025~Bejeweled Eggs of Ostara 20
+3026~(NOT USED)Bejeweled Eggs of Ostara 25
+3027~Bejeweled Eggs of Ostara 30
+3028~Ostara2019 Mystery Chest T1
+3029~Ostara2019 Mystery Chest T2
+3030~Ostara2019 Mystery Chest T3
+3031~Magic Dragon Bracelet
+3032~Magic Dragon Necklace
+3033~Magic Dragon Weapon
+3039~Samhain2019 Mystery Chest T1
+3040~Samhain2019 Mystery Chest T2
+3041~Samhain2019 Mystery Chest T3
+3042~Samhain2019 Skeleton Drop
+3043~Samhain2019 Witch Gelebron Ring
+3044~Samhain2019 Witch Gelebron Bracelet
+3045~Samhain2019 Witch Gelebron Weapon
+3046~Samhain2019 Witch Plant Boss Rings
+3047~Samhain2019 Witch Plant Boss Charms
+3048~Samhain2019 Witch Plant Boss Necklaces
+3049~Samhain2019 Witch Plant Boss Helmets
+3050~Samhain2019 Witch Magic Dragon Bracelet
+3051~Samhain2019 Witch Magic Dragon Necklace
+3052~Samhain2019 Witch Magic Dragon Weapon
+3053~Samhain2019 Witch Fashion
+3054~Samhain2019 Witch Class Conflux
+3055~Samhain2019 Witch Pure Conflux
+3056~Stolen Gifts 1
+3057~Stolen Gifts 2
+3058~Stolen Gifts 3
+3059~Festive Stolen Gifts 10
+3060~Festive Stolen Gifts 20
+3061~Festive Stolen Gifts 30
+3062~Yule2019 Mystery Chest T1
+3063~Yule2019 Mystery Chest T2
+3064~Yule2019 Mystery Chest T3
+3065~Crushed Candy Cane 1
+3066~Crushed Candy Cane 2
+3067~Crushed Candy Cane 3
+3068~Bag of Dragon Hatchling Eggs
+3069~Bag of Phoenix Eggs
+3070~Bag of Corrupted Seeds
+3071~Bag of Magical Bells
+3072~Bag of Dark Essences
+3073~Samhain2020 Mystery Chest T1
+3074~Samhain2020 Mystery Chest T2
+3075~Samhain2020 Mystery Chest T3
+3076~Bag of Cursed Coins
+3077~Anniversary2021 Mystery Chest T1
+3078~Anniversary2021 Mystery Chest T2
+3079~Anniversary2021 Mystery Chest T3
+3080~Anniversary2021 Quest Item 1
+3081~Anniversary2021 Quest Item 2
+3082~Anniversary2021 Quest Item 3
+3083~Anniversary2021 Rare Quest Item 10
+3084~Anniversary2021 Rare Quest Item 20
+3085~Anniversary2021 Rare Quest Item 30
+3086~Anniversary Elixir Set
+3087~Anniversary Fireworks
+786~Unknown Loot Table #786
+1237~Unknown Loot Table #1237
+1715~Unknown Loot Table #1715
+1720~Unknown Loot Table #1720
+1721~Unknown Loot Table #1721
+1722~Unknown Loot Table #1722
+1723~Unknown Loot Table #1723
+1724~Unknown Loot Table #1724
+1725~Unknown Loot Table #1725
+1732~Unknown Loot Table #1732
+1869~Unknown Loot Table #1869
+2211~Unknown Loot Table #2211
+2213~Unknown Loot Table #2213
+2214~Unknown Loot Table #2214
+2337~Unknown Loot Table #2337
+2338~Unknown Loot Table #2338
+2339~Unknown Loot Table #2339
+2340~Unknown Loot Table #2340
+2341~Unknown Loot Table #2341
+2342~Unknown Loot Table #2342
+2344~Unknown Loot Table #2344
+2524~Unknown Loot Table #2524
+2525~Unknown Loot Table #2525
+2545~Unknown Loot Table #2545
+2546~Unknown Loot Table #2546
+2547~Unknown Loot Table #2547
+2548~Unknown Loot Table #2548
+2549~Unknown Loot Table #2549
+2550~Unknown Loot Table #2550
+2551~Unknown Loot Table #2551
+2552~Unknown Loot Table #2552
+2553~Unknown Loot Table #2553
+2554~Unknown Loot Table #2554
+2555~Unknown Loot Table #2555
+2556~Unknown Loot Table #2556
+2557~Unknown Loot Table #2557
+2558~Unknown Loot Table #2558
+2559~Unknown Loot Table #2559
+2560~Unknown Loot Table #2560
+2561~Unknown Loot Table #2561
+2562~Unknown Loot Table #2562
+2859~Unknown Loot Table #2859
+2860~Unknown Loot Table #2860
+2861~Unknown Loot Table #2861
+2862~Unknown Loot Table #2862
+2863~Unknown Loot Table #2863
+2864~Unknown Loot Table #2864

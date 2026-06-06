@@ -1,0 +1,1592 @@
+﻿1~Protective Stance~0~None~No~Yes~Melee Combat~No~No~N/A~0
+2~Recuperate~1~None~No~Yes~First Aid~No~Yes~5~0
+3~Strangling Vines~3~Magic~No~Yes~Nature Magic~No~No~5~0
+4~Howling Wind~4~None~No~Yes~Nature Magic~No~No~N/A~0
+5~Grasping Roots~5~None~No~Yes~Nature Magic~No~No~N/A~0
+6~Cloak of Fire~6~Heat~No~Yes~Fire Magic~No~No~N/A~0
+7~Steady Aim~7~Pierce~No~Yes~Ranged Combat~No~No~N/A~0
+8~Speed Down~8~None~No~Yes~Ranged Combat~No~No~N/A~0
+9~Hide~9~None~No~Yes~Cunning~Yes~No~N/A~0
+10~Rend~3~Pierce~No~Yes~Cunning~No~No~2~0
+11~Temp Health Regen Boost~1~None~No~No~None~No~No~5~0
+12~Temp Energy Regen Boost~2~None~No~No~None~No~No~5~0
+13~Abundance~10~None~No~Yes~Nature Magic~No~No~N/A~0
+14~Shield of Bark~0~None~No~Yes~Nature Magic~No~No~N/A~0
+15~Natures Embrace~1~None~No~Yes~Nature Magic~No~No~5~0
+16~Lure of Fire~12~Heat~No~Yes~Fire Magic~No~No~N/A~0
+17~Lure of Ice~12~Cold~No~Yes~Ice Magic~No~No~N/A~0
+18~Cosmic Shield~13~None~No~Yes~Ice Magic~No~No~N/A~0
+19~Energy Well~11~None~No~Yes~Ice Magic~No~No~N/A~0
+20~Frenzy~14~None~No~Yes~Melee Combat~No~No~N/A~0
+21~Fast Reflexes~15~None~No~Yes~Cunning~No~No~N/A~0
+22~Poison Weapon~16~Poison~No~Yes~Cunning~No~No~N/A~0
+23~Camouflage~22~None~No~Yes~Ranged Combat~Yes~No~N/A~0
+24~Rapid Shot~17~None~No~Yes~Ranged Combat~No~No~N/A~0
+25~Barbed Shot~3~Pierce~No~Yes~Ranged Combat~No~No~5~0
+26~Reduce Attack~18~None~No~Yes~Melee Combat~No~No~N/A~0
+27~Meditation~2~None~No~Yes~First Aid~No~Yes~5~0
+28~Energy Boost~2~None~No~Yes~Ice Magic~No~No~5~0
+29~Invisibility Potion~19~None~No~Yes~None~Yes~No~N/A~0
+30~Invisibility Elixir~19~None~No~Yes~None~No~No~N/A~0
+31~Shrink Potion~20~None~No~Yes~None~No~No~N/A~0
+32~Shrink Elixir~20~None~No~No~None~No~No~N/A~0
+33~Growth Potion~20~None~No~Yes~None~No~No~N/A~0
+34~Growth Elixir~20~None~No~No~None~No~No~N/A~0
+35~Defence Boost Potion~40~None~No~Yes~None~No~No~N/A~0
+36~Defence Boost Elixir~40~None~No~No~None~No~No~N/A~0
+37~Armour Boost Potion~39~None~No~Yes~None~No~No~N/A~0
+38~Armour Boost Elixir~39~None~No~No~None~No~No~N/A~0
+39~Max Health Boost Potion~37~None~No~Yes~None~No~No~N/A~0
+40~Max Health Boost Elixir~37~None~No~No~None~No~No~N/A~0
+41~Max Energy Boost Potion~38~None~No~Yes~None~No~No~N/A~0
+42~Max Energy Boost Elixir~38~None~No~No~None~No~No~N/A~0
+43~Attack Boost Potion~41~None~No~Yes~None~No~No~N/A~0
+44~Attack Boost Elixir~41~None~No~No~None~No~No~N/A~0
+45~Attack Speed Boost Potion~17~None~No~Yes~None~No~No~N/A~0
+46~Attack Speed Boost Elixir~17~None~No~No~None~No~No~N/A~0
+47~Run Speed Boost Potion~8~None~No~Yes~None~No~No~N/A~0
+48~Run Speed Boost Elixir~8~None~No~No~None~No~No~N/A~0
+49~Experience Boost Potion~21~None~No~Yes~None~No~No~N/A~0
+50~Experience Boost Elixir~21~None~No~No~None~No~No~N/A~0
+51~Health Regen Boost Potion~42~None~No~Yes~None~No~No~5~0
+52~Health Regen Boost Elixir~42~None~No~No~None~No~No~5~0
+53~Energy Regen Boost Potion~43~None~No~Yes~None~No~No~5~0
+54~Energy Regen Boost Elixir~43~None~No~No~None~No~No~5~0
+55~Combination Potion~23~None~No~Yes~None~No~No~N/A~0
+56~Combination Elixir~23~None~No~No~None~No~No~N/A~0
+57~Root Scroll~5~None~No~Yes~None~No~No~N/A~0
+58~Poisonous Fungus~3~Poison~No~Yes~None~No~No~5~0
+59~Yellow Giant Mushroom~20~None~No~Yes~None~No~No~N/A~0
+60~Movement Speed Boost~8~None~Yes~No~None~No~No~N/A~0
+61~Attack Speed Boost~17~None~Yes~No~None~No~No~N/A~0
+62~Health Regen Boost Amulet~1~None~Yes~No~None~No~No~5~0
+63~Energy Regen Boost Amulet~2~None~Yes~No~None~No~No~5~0
+64~Ability boost Elixir~24~None~No~No~None~No~No~N/A~0
+65~Ability Boost~24~None~Yes~No~None~No~No~N/A~0
+66~XP Boost~21~None~Yes~No~None~No~No~N/A~0
+67~Fire Shield~6~None~Yes~No~None~No~No~N/A~0
+68~Movement Speed Boost~8~None~Yes~No~None~No~No~N/A~0
+69~Health Regen Boost Offhand~1~None~Yes~No~None~No~No~5~0
+70~Energy Regen Boost Offhand~2~None~Yes~No~None~No~No~5~0
+71~Growth Boost~20~None~Yes~No~None~No~No~N/A~0
+72~Shrink Boost~20~None~Yes~No~None~No~No~N/A~0
+73~Camouflage~22~None~Yes~No~None~No~No~N/A~0
+74~Sled Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+75~Camouflage~26~None~No~Yes~Ranged Combat~No~No~N/A~0
+76~Bolas~25~None~No~Yes~Ranged Combat~No~No~N/A~0
+77~Energy Shield~27~None~No~Yes~Ice Magic~No~No~N/A~0
+78~Slow Attack Speed~17~None~No~Yes~None~No~No~N/A~0
+79~Defensive Spikes~6~Pierce~No~Yes~Ranged Combat~No~No~N/A~0
+80~Healing Salve~1~None~No~Yes~Ranged Combat~No~No~5~0
+81~Entangle~30~None~No~Yes~None~No~No~N/A~0
+82~Incinerate~3~Heat~No~Yes~Fire Magic~No~No~5~0
+83~Smoke Bomb~15~None~No~Yes~Cunning~No~No~N/A~0
+84~Freeze~28~None~No~Yes~None~No~No~N/A~0
+85~Shield Bash~31~None~No~Yes~None~No~No~N/A~0
+86~Play Dead~29~None~No~Yes~None~No~No~N/A~0
+87~Lure of Magic~12~Magic~No~Yes~Ice Magic~No~No~N/A~0
+88~Lure of Soldiers~12~Slash~No~Yes~Fire Magic~No~No~N/A~0
+89~Lure of Assassins~12~Pierce~No~Yes~Fire Magic~No~No~N/A~0
+90~Lure of Giants~12~Crush~No~Yes~Ice Magic~No~No~N/A~0
+91~Abundant Aura~10~None~No~Yes~Nature Magic~No~No~N/A~0
+92~Protection of the Forest~0~None~No~Yes~Nature Magic~No~No~N/A~0
+93~Stun~18~None~No~Yes~None~No~No~N/A~0
+94~Ward of Assassins~12~Pierce~No~Yes~Nature Magic~No~No~N/A~0
+95~Ward of Giants~12~Crush~No~Yes~Nature Magic~No~No~N/A~0
+96~Ward of Fire~12~Heat~No~Yes~Nature Magic~No~No~N/A~0
+97~Ward of Ice~12~Cold~No~Yes~Nature Magic~No~No~N/A~0
+98~Ward of Magic~12~Magic~No~Yes~Nature Magic~No~No~N/A~0
+99~Conceal~26~None~No~Yes~None~No~No~N/A~0
+100~Enduring Guard~32~None~No~Yes~Melee Combat~No~No~N/A~0
+101~Ward of Soldiers~12~Slash~No~Yes~Nature Magic~No~No~N/A~0
+102~Offhand Damage Shield~6~True~Yes~No~None~No~No~N/A~0
+103~Offhand Magic Damage Shield~6~Magic~Yes~No~None~No~No~N/A~0
+104~Offhand Ice Damage Shield~6~Cold~Yes~No~None~No~No~N/A~0
+105~Fire Immunity~12~Heat~No~Yes~None~No~No~N/A~0
+106~Ice Immunity~12~Cold~No~Yes~None~No~No~N/A~0
+107~Magic Immunity~12~Magic~No~Yes~None~No~No~N/A~0
+108~Slashing Immunity~12~Slash~No~Yes~None~No~No~N/A~0
+109~Piercing Immunity~12~Pierce~No~Yes~None~No~No~N/A~0
+110~Crushing Immunity~12~Crush~No~Yes~None~No~No~N/A~0
+111~Lifeforce Potion~10~None~No~Yes~None~No~No~N/A~0
+112~Haste Scroll~17~None~No~Yes~None~No~No~N/A~0
+113~Blizzard Scroll~28~None~No~Yes~None~No~No~N/A~0
+114~Barrier Scroll~27~None~No~Yes~None~No~No~N/A~0
+115~Health Regen Boost Helm~1~None~Yes~No~None~No~No~5~0
+116~Energy Regen Boost Helm~2~None~Yes~No~None~No~No~5~0
+117~Health Regen Boost Ring~1~None~Yes~No~None~No~No~5~0
+118~Energy Regen Boost Ring~2~None~Yes~No~None~No~No~5~0
+119~Health Regen Boost Bracelet~1~None~Yes~No~None~No~No~5~0
+120~Energy Regen Boost Bracelet~2~None~Yes~No~None~No~No~5~0
+121~Carpet Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+122~Gastons Pie~10~None~No~Yes~None~No~No~N/A~0
+123~Health Regen Boost Broom~1~None~Yes~No~None~No~No~5~0
+124~Energy Regen Boost Broom~2~None~Yes~No~None~No~No~5~0
+125~Broom Camouflage~22~None~Yes~No~None~No~No~N/A~0
+126~Broom Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+127~Cloud Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+128~Offhand Damage Shield Perm~6~Heat~Yes~No~None~No~No~N/A~0
+129~Offhand Natural Healing Boost~1~None~Yes~No~None~No~Yes~5~0
+130~Offhand Natural Recharge Boost~2~None~Yes~No~None~No~Yes~5~0
+131~Rescue~1~None~No~Yes~None~No~No~5~0
+132~Skewer~5~None~No~Yes~None~No~No~N/A~0
+133~Rupture~3~None~No~Yes~Melee Combat~No~No~5~0
+134~Shatter~0~None~No~Yes~Melee Combat~No~No~N/A~0
+135~Shield Wall~27~None~No~Yes~Melee Combat~No~No~N/A~0
+136~Sharpen Weapons~16~Pierce~No~Yes~Ranged Combat~No~No~N/A~0
+137~Riposte~6~Pierce~No~Yes~Cunning~No~No~N/A~0
+138~Expose Weakness~44~None~No~Yes~Cunning~No~No~N/A~0
+139~Frostbite~3~Cold~No~Yes~Ice Magic~No~No~5~0
+140~Bless~44~None~No~Yes~Nature Magic~No~No~N/A~0
+141~Stinging Swarm~3~None~No~Yes~Nature Magic~No~No~5~0
+142~Ice Attunement~45~None~No~Yes~Ice Magic~No~No~N/A~0
+143~Fire Attunement~46~None~No~Yes~Fire Magic~No~No~N/A~0
+144~Trip~29~None~No~Yes~None~No~No~N/A~0
+145~Defensive Formation~15~None~No~Yes~Melee Combat~No~No~N/A~0
+146~Sanctuary~27~None~No~Yes~Nature Magic~No~No~N/A~0
+147~Longshot~5~None~No~Yes~Ranged Combat~No~No~N/A~0
+148~Dragonstaff Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+149~Dragonstaff Health Regen~1~None~Yes~No~None~No~No~5~0
+150~Dragonstaff Energy Regen~2~None~Yes~No~None~No~No~5~0
+151~Flame Bolt~3~Heat~No~Yes~None~No~No~5~0
+152~Dragon Breath~3~Heat~No~Yes~None~No~No~5~0
+153~Dragonstaff Camouflage~22~None~Yes~No~None~No~No~N/A~0
+154~Serpentstaff Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+155~Serpentstaff Camouflage~22~None~Yes~No~None~No~No~N/A~0
+156~Fellspine Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+157~Fellspine Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+158~Health Regen Boost Mount~1~None~Yes~No~None~No~No~5~0
+159~Energy Regen Boost Mount~2~None~Yes~No~None~No~No~5~0
+160~Energy Regen Demonstaff~2~None~Yes~No~None~No~No~5~0
+161~Spectral Attack Boost~41~None~Yes~No~None~No~No~N/A~0
+162~Spectral Defence Boost~40~None~Yes~No~None~No~No~N/A~0
+163~Ability boost Potion~24~None~No~Yes~None~No~No~N/A~0
+164~Fishing Exp Boost Elixir~49~None~No~No~None~No~No~N/A~0
+165~Fishing Exp Boost Potion~49~None~No~Yes~None~No~No~N/A~0
+600~Jubilation Elixir~55~None~No~No~None~No~No~N/A~0
+601~Gold Elixir~56~None~No~No~None~No~No~N/A~0
+2001~Dark Abundance~10~None~No~Yes~Nature Magic~No~No~N/A~0
+2002~Serrated Arrow~3~Pierce~No~Yes~Ranged Combat~No~No~5~0
+2003~Flame Cloak~6~Heat~No~Yes~Fire Magic~No~No~N/A~0
+2004~Power Boost~2~None~No~Yes~Ice Magic~No~No~5~0
+2005~Power Well~11~None~No~Yes~Ice Magic~No~No~N/A~0
+2006~Quick Reactions~15~None~No~Yes~Cunning~No~No~N/A~0
+2007~Berserker Rage~14~None~No~Yes~Melee Combat~No~No~N/A~0
+2008~Earthen Bonds~5~None~No~Yes~Nature Magic~No~No~N/A~0
+2009~Buffeting Gale~4~None~No~Yes~Nature Magic~No~No~N/A~0
+2010~Flame Hex~12~Heat~No~Yes~Fire Magic~No~No~N/A~0
+2011~Frost Hex~12~Cold~No~Yes~Ice Magic~No~No~N/A~0
+2012~Wild Embrace~1~None~No~Yes~Nature Magic~No~No~5~0
+2013~Apply Toxins~16~Poison~No~Yes~Cunning~No~No~N/A~0
+2014~Guardian Stance~0~None~No~Yes~Melee Combat~No~No~N/A~0
+2015~Swiftness~17~None~No~Yes~Ranged Combat~No~No~N/A~0
+2016~Lacerate~3~Pierce~No~Yes~Cunning~No~No~5~0
+2017~Shield of Earth~0~None~No~Yes~Nature Magic~No~No~N/A~0
+2018~Enhanced Precision~7~Pierce~No~Yes~Ranged Combat~No~No~N/A~0
+2019~Choking Vines~3~Magic~No~Yes~Nature Magic~No~No~5~0
+2020~Dragon Fire~3~Heat~No~Yes~Fire Magic~No~No~5~0
+2021~Throw Dirt~15~None~No~Yes~Cunning~No~No~N/A~0
+2022~Immolate~3~Heat~No~Yes~Fire Magic~No~No~5~0
+2023~Soldiers Hex~12~Slash~No~Yes~Fire Magic~No~No~N/A~0
+2024~Deep Wound~10~None~No~Yes~None~No~No~N/A~0
+2025~Dark Veil~15~None~No~Yes~None~No~No~N/A~0
+2026~Counter Stance~6~Pierce~No~Yes~None~No~No~N/A~0
+2027~Unnatural Life~27~None~No~Yes~None~No~No~N/A~0
+2028~Fetter~8~None~No~Yes~None~No~No~N/A~0
+2029~Icy Gaze~28~None~No~Yes~None~No~No~N/A~0
+2030~Terrifying Gaze~17~None~No~Yes~None~No~No~N/A~0
+2031~Accursed Gaze~12~Pierce~No~Yes~None~No~No~N/A~0
+2032~Bonds of Clay~8~None~No~Yes~None~No~No~N/A~0
+2033~Mist Form~32~None~No~Yes~None~No~No~N/A~0
+2034~Sickly Pallor~10~None~No~Yes~None~No~No~N/A~0
+2035~Feast of Flesh~6~None~No~Yes~None~No~No~N/A~0
+2036~Call of the Wilds~5~None~No~Yes~None~No~No~N/A~0
+2037~Untamed Growth~1~None~No~Yes~None~No~No~5~0
+2038~Soul Bleed~2~None~No~Yes~None~No~No~5~0
+2039~Deluge~3~Magic~No~Yes~None~No~No~5~0
+2040~Double Strike~3~Crush~No~Yes~None~No~No~5~0
+2041~Degenerate~3~Magic~No~Yes~None~No~No~5~0
+2042~Burning Touch~3~Heat~No~Yes~None~No~No~5~0
+2043~Magma Shield~6~Heat~No~No~None~No~No~N/A~0
+2044~Fetter~8~None~No~Yes~None~No~No~N/A~0
+2045~Shielding~0~None~No~Yes~None~No~No~N/A~0
+2046~Mesmerise~28~None~No~Yes~None~No~No~N/A~0
+2047~Oppresive Gaze~3~Crush~No~Yes~None~No~No~5~0
+2048~Natural Regeneration~1~None~No~No~None~No~No~5~0
+2049~Oakheart Regeneration~1~None~No~No~None~No~No~5~0
+2050~Hidden~9~None~No~No~None~No~No~N/A~0
+2051~Curse of Fire~12~Heat~No~Yes~None~No~No~N/A~0
+2052~Shadow Barrier~27~None~No~Yes~None~No~No~N/A~0
+2053~Dark Dust~15~None~No~Yes~Cunning~No~No~N/A~0
+2054~Cloak of Thorns~6~Pierce~No~Yes~Cunning~No~No~N/A~0
+2055~Coral Barrier~27~None~No~Yes~None~No~No~N/A~0
+2056~OVERWRITE~27~None~No~Yes~None~No~No~N/A~0
+2057~OVERWRITE~27~None~No~Yes~None~No~No~N/A~0
+2058~Binding Thistles~4~None~No~Yes~None~No~No~N/A~0
+2059~Trappers Net~17~None~No~Yes~None~No~No~N/A~0
+2060~Tangling Roses~3~Magic~No~Yes~None~No~No~5~0
+2061~Venom Blade~16~Poison~No~Yes~None~No~No~N/A~0
+2062~OVERWRITE~16~Poison~No~Yes~None~No~No~N/A~0
+2063~Aura of Terror~4~None~No~Yes~None~No~No~N/A~0
+2064~Tearing Claws~10~None~No~Yes~None~No~No~N/A~0
+2065~Firewalk~-1~None~Yes~No~None~No~No~N/A~0
+2066~Dragon Fire Immunity~-1~None~Yes~No~None~No~No~N/A~0
+2067~Scalding Heat~4~None~No~Yes~None~No~No~N/A~0
+2068~Stoneskin~0~None~No~Yes~None~No~No~N/A~0
+2069~Aura of Spite~16~Poison~No~Yes~None~No~No~N/A~0
+2070~Barbed Thorns~3~Pierce~No~Yes~None~No~No~5~0
+2071~Crippling Shards~4~None~No~Yes~None~No~No~N/A~0
+2072~Talons of Weakness~15~None~No~Yes~None~No~No~N/A~0
+2073~Skin of Giants~12~Crush~No~Yes~None~No~No~N/A~0
+2074~Curse of Flame~12~Heat~No~Yes~None~No~No~N/A~0
+2075~Sight of the Hawk~4~None~No~Yes~None~No~No~N/A~0
+2076~Boon of the Tides~16~Magic~No~Yes~None~No~No~N/A~0
+2077~Siren Song~31~None~No~Yes~None~No~No~N/A~0
+2078~Lifebloom~1~None~No~Yes~None~No~No~5~0
+2079~Poison Mist~3~Poison~No~Yes~None~No~No~5~0
+2080~Blackskull Toxin~3~Poison~No~Yes~None~No~No~5~0
+2081~Tangle Web~8~Heat~No~Yes~None~No~No~N/A~0
+2082~Ancestral Might~16~Poison~No~Yes~None~No~No~N/A~0
+2083~Body Slam~31~None~No~Yes~None~No~No~N/A~0
+2084~Smash~31~None~No~Yes~None~No~No~N/A~0
+2085~Plague Breath~3~Poison~No~Yes~None~No~No~5~0
+2086~Ancestral Aura~6~Heat~No~Yes~None~No~No~N/A~0
+2087~Shroud of Spirits~6~Cold~No~Yes~None~No~No~N/A~0
+2088~Wave of Corruption~3~Poison~No~Yes~None~No~No~5~0
+2089~Aura of Corruption~-1~None~No~Yes~None~No~No~N/A~0
+2090~Paralysis~31~None~No~Yes~None~No~No~N/A~0
+2091~Immobile~5~None~No~Yes~None~No~No~N/A~0
+2092~Stunned~31~None~No~Yes~None~No~No~N/A~0
+2093~Light Poison~3~Poison~No~Yes~None~No~No~5~0
+2100~Dragonlord Aura~-1~None~Yes~No~None~No~No~N/A~0
+2101~Dragonlord Aura~-1~None~Yes~No~None~No~No~N/A~0
+2102~Dragonlord Aura~-1~None~Yes~No~None~No~No~N/A~0
+2103~Dragonlord Aura~-1~None~Yes~No~None~No~No~N/A~0
+2104~Dragonlord Aura~-1~None~Yes~No~None~No~No~N/A~0
+2105~Winter Touch~31~None~No~Yes~None~No~No~N/A~0
+2106~Arctic Winds~3~Cold~No~Yes~None~No~No~5~0
+2107~Plague Bite~3~Poison~No~Yes~None~No~No~5~0
+2108~Mist Cloud~4~None~No~Yes~None~No~No~N/A~0
+2109~Spider Web~5~None~No~Yes~None~No~No~N/A~0
+2110~Constrict~17~None~No~Yes~None~No~No~N/A~0
+2111~Inanimate~31~None~No~Yes~None~No~No~N/A~0
+2112~Spring of Life~1~None~No~Yes~None~No~No~5~0
+2113~Frostbreath~28~None~No~Yes~None~No~No~N/A~0
+2114~Poisonclaw~3~Poison~No~Yes~None~No~No~5~0
+2115~Blessing of Diancecht~35~None~No~Yes~None~No~No~5~0
+2116~Chaos Bolt~34~None~No~Yes~None~No~No~N/A~0
+2117~Frozen Aura~-1~None~Yes~No~None~No~No~N/A~0
+2118~Frozen Aura~-1~None~Yes~No~None~No~No~N/A~0
+2119~Frozen Aura~-1~None~Yes~No~None~No~No~N/A~0
+2120~Frozen Aura~-1~None~Yes~No~None~No~No~N/A~0
+2121~Frozen Aura~-1~None~Yes~No~None~No~No~N/A~0
+2122~Astral Aura~-1~None~Yes~No~None~No~No~N/A~0
+2123~Zodiac Aura~-1~None~Yes~No~None~No~No~N/A~0
+2124~Lunar Aura~-1~None~Yes~No~None~No~No~N/A~0
+2125~Celestial Aura~-1~None~Yes~No~None~No~No~N/A~0
+2126~Cosmic Aura~-1~None~Yes~No~None~No~No~N/A~0
+2127~Bloodstrike Aura~-1~None~Yes~No~None~No~No~N/A~0
+2128~Moonshadow Aura~-1~None~Yes~No~None~No~No~N/A~0
+2129~Greythorn Aura~-1~None~Yes~No~None~No~No~N/A~0
+2130~Loremantle Aura~-1~None~Yes~No~None~No~No~N/A~0
+2131~Goldsong Aura~-1~None~Yes~No~None~No~No~N/A~0
+2132~Invocation of Rending~4~None~No~Yes~None~No~No~N/A~0
+2133~Item Defence Boost~15~None~No~Yes~None~No~No~N/A~0
+2134~Invocation of Thorns~16~Pierce~No~Yes~None~No~No~N/A~0
+2135~Snakebite~3~Poison~No~Yes~None~No~No~5~0
+2136~Chaos Aura~-1~None~No~Yes~None~No~No~N/A~0
+2137~Withering Pox OLD~37~None~No~Yes~None~No~No~N/A~0
+2138~Withering Pox~3~Poison~No~Yes~None~No~No~5~0
+2139~Smugglers Tonic~-1~None~No~Yes~None~No~No~N/A~0
+2140~Corrupting Touch~4~None~No~Yes~None~No~No~N/A~0
+2141~Dark Fury~16~Crush~No~Yes~None~No~No~N/A~0
+2142~Dragonlord Vengeance~6~Divine~No~Yes~None~No~No~N/A~0
+2143~Dragonlord Boon~12~Chaos~No~Yes~None~No~No~N/A~0
+2144~Dragonlord Wrath~16~Divine~No~Yes~None~No~No~N/A~0
+2145~Dragonlord Fury~6~Divine~No~Yes~None~No~No~N/A~0
+2146~Dragonlord Spite~3~Divine~No~Yes~None~No~No~5~0
+2147~Fingals Bane~3~Chaos~No~Yes~None~No~No~5~0
+2148~Fingals Shield~-1~None~Yes~No~None~No~No~N/A~0
+2149~Just Resting~29~None~No~Yes~None~No~No~N/A~0
+2150~Tongue Flick~5~None~No~Yes~None~No~No~N/A~0
+2151~Low Blow~31~None~No~Yes~None~No~No~N/A~0
+2152~Throw Dirt~4~None~No~Yes~None~No~No~N/A~0
+2153~Undertow~3~Poison~No~Yes~None~No~No~5~0
+2154~Shearing Claw~0~Poison~No~Yes~None~No~No~N/A~0
+2155~Foul Breath~6~Poison~No~Yes~None~No~No~N/A~0
+2156~Invocation of Sorcery~1~None~No~No~None~No~Yes~5~0
+2157~Invocation of Life~2~None~No~No~None~No~Yes~5~0
+2158~Beast Bite~3~Poison~No~Yes~None~No~No~5~0
+2159~Toad Bile~3~Poison~No~Yes~None~No~No~5~0
+2160~Stoneshield~27~None~No~Yes~Ice Magic~No~No~N/A~0
+2161~Mining Draught~8~None~No~Yes~None~No~No~N/A~0
+2162~Prospecting Draught~17~None~No~Yes~None~No~No~N/A~0
+2163~Fireblood~6~Heat~No~Yes~None~No~No~N/A~0
+2164~Rockhide~27~None~No~Yes~None~No~No~N/A~0
+2165~Stout Heart~1~None~No~No~None~No~No~5~0
+2166~Spined Claw~3~Pierce~No~Yes~None~No~No~5~0
+2167~Heavy Barge~31~Crush~No~Yes~None~No~No~N/A~0
+2168~Bloodrage~8~None~No~Yes~None~No~No~N/A~0
+2169~Bear Hug~31~None~No~Yes~None~No~No~N/A~0
+2170~Thundercry~8~None~No~Yes~None~No~No~N/A~0
+2171~Dark Fire~3~Heat~No~Yes~None~No~No~5~0
+2172~Ignite~3~None~No~Yes~None~No~No~5~0
+2173~Do Not Use~1~None~No~Yes~First Aid~No~Yes~5~0
+2174~Song of Energy~2~None~Yes~No~None~No~Yes~5~0
+2175~Rousing Melody~2~None~No~Yes~None~No~Yes~5~0
+2176~Berserk~8~None~No~Yes~None~No~No~N/A~0
+2177~Cloak of Chaos~6~Chaos~No~Yes~None~No~No~N/A~0
+2178~Summoned~5~None~No~Yes~None~No~No~N/A~0
+2179~Jaunty Melody~1~None~No~Yes~None~No~Yes~5~0
+2180~Song of Health~1~None~Yes~No~None~No~Yes~5~0
+2181~Bolas Immunity~-1~None~No~No~None~No~No~N/A~0
+2182~Root Immunity~-1~None~No~No~None~No~No~N/A~0
+2183~Stun Immunity~-1~None~No~No~None~No~No~N/A~0
+2184~Curse of Chains~17~None~No~Yes~None~No~No~N/A~0
+2185~Armour of Bark~0~None~No~Yes~None~No~No~N/A~0
+2186~Curse of Roots~5~None~No~Yes~None~No~No~N/A~0
+2187~Curse of Insects~3~Magic~No~Yes~None~No~No~5~0
+2188~Short Invis~9~None~No~Yes~None~No~No~N/A~0
+2189~Gastons Stew~11~None~No~Yes~None~No~No~N/A~0
+5000~Ethereal Being~8~None~No~Yes~None~No~No~N/A~0
+5001~Energy Burn~2~None~No~Yes~None~No~No~5~0
+5002~Dark Atrophy~17~None~No~No~None~No~No~N/A~0
+5003~Necrotic Shield~27~None~No~Yes~None~No~No~N/A~0
+5004~Freezing Ray~28~None~No~Yes~None~No~No~N/A~0
+5005~Deaths Embrace~1~None~No~Yes~None~No~No~5~0
+5006~Shield of Spite~6~Cold~No~Yes~None~No~No~N/A~0
+5007~Word of Command~8~None~No~Yes~None~No~No~N/A~0
+5008~Blood Rage~16~Heat~No~Yes~None~No~No~N/A~0
+5009~DO NOT USE~6~Cold~No~Yes~None~No~No~N/A~0
+5010~DO NOT USE~15~None~No~Yes~None~No~No~N/A~0
+5011~Spectral Mist~15~None~No~Yes~None~No~No~N/A~0
+5012~Surgical Precision~4~None~No~Yes~None~No~No~N/A~0
+5013~Spectral Armour~0~None~No~Yes~None~No~No~N/A~0
+5014~DO NOT USE~3~Cold~No~Yes~None~No~No~5~0
+5015~DO NOT USE~16~Cold~No~Yes~None~No~No~N/A~0
+5016~Grasp of Terror~5~None~No~Yes~None~No~No~N/A~0
+5017~Terrify~31~None~No~Yes~None~No~No~N/A~0
+5018~Cleaning Flames~3~Heat~No~Yes~None~No~No~5~0
+5019~Shackles~8~Heat~No~Yes~None~No~No~N/A~0
+5020~Sonic Shriek~4~Heat~No~Yes~None~No~No~N/A~0
+5021~Bat Swarm~3~Magic~No~Yes~None~No~No~5~0
+5022~DO NOT USE~4~None~No~Yes~None~No~No~N/A~0
+5023~Necral Decay~0~None~No~Yes~None~No~No~N/A~0
+5024~Song of Energisation~2~None~Yes~No~None~No~Yes~5~0
+5025~Song of Regeneration~1~None~Yes~No~None~No~Yes~5~0
+5026~Eerie Melody~2~None~No~Yes~None~No~Yes~5~0
+5027~Spooky Melody~1~None~No~Yes~None~No~Yes~5~0
+5028~Ghost Form~19~None~No~Yes~None~No~No~N/A~0
+5029~Hunters Stride~8~None~No~Yes~None~No~No~N/A~0
+5030~Reapers Touch~16~Poison~No~Yes~None~No~No~N/A~0
+5031~Cloak of Midnight~6~Magic~No~Yes~None~No~No~N/A~0
+5032~Haunting Melody~38~None~No~Yes~None~No~No~N/A~0
+5033~Dusklight Dirge~38~None~Yes~No~None~No~No~N/A~0
+5034~Spectral Flame~46~Heat~No~Yes~None~No~No~N/A~0
+5035~Necral Chill~45~Cold~No~Yes~None~No~No~N/A~0
+5036~Spectral Curse~3~Magic~No~Yes~None~No~No~5~0
+5037~DO NOT USE~4~None~No~Yes~None~No~No~N/A~0
+5038~Spirit Scourge~3~Poison~No~Yes~None~No~No~5~0
+5039~Eldritch Blood~-1~None~No~No~None~No~No~N/A~0
+5040~Dragon Frost~17~None~No~Yes~None~No~No~N/A~0
+5041~Ferocious Roar~47~None~No~Yes~None~No~No~N/A~0
+5042~Frostform~6~Cold~No~Yes~None~No~No~N/A~0
+5043~Wolf Howl~4~None~No~Yes~None~No~No~N/A~0
+5044~Harden Scales~0~None~No~Yes~None~No~No~N/A~0
+5045~Ice Barrier~27~None~No~Yes~None~No~No~N/A~0
+5046~Frosthearth Regeneration~1~None~No~Yes~None~Yes~No~5~0
+5047~Frostspark Energisation~2~None~No~Yes~None~Yes~No~5~0
+5048~Stormskimmer Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+5049~Stormskimmer Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5050~Stormskimmer Health Regen~1~None~Yes~No~None~No~No~5~0
+5051~Stormskimmer Energy Regen~2~None~Yes~No~None~No~No~5~0
+5052~Ice Prison~28~None~No~Yes~None~No~No~N/A~0
+5053~Cheerful Melody~2~None~No~Yes~None~No~Yes~5~0
+5054~Jolly Melody~1~None~No~Yes~None~No~Yes~5~0
+5055~Jubilant Melody~38~None~No~Yes~None~No~No~N/A~0
+5056~Festive Melody~37~None~No~Yes~None~No~No~N/A~0
+5057~Song of Spirit~38~None~Yes~Yes~None~No~No~N/A~0
+5058~Song of Life~37~None~Yes~Yes~None~No~No~N/A~0
+5059~Song of Cheer~2~None~Yes~No~None~No~Yes~5~0
+5060~Song of Joy~1~None~Yes~No~None~No~Yes~5~0
+5061~Icebound Regeneration~1~None~No~Yes~None~No~No~5~0
+5063~Flash Freeze~28~None~No~Yes~None~No~No~N/A~0
+5064~Necral Shield~27~None~No~Yes~None~No~No~N/A~0
+5065~Necral Binding~5~None~No~Yes~None~No~No~N/A~0
+5066~Fireworks~31~None~No~Yes~None~No~No~N/A~0
+5067~Blight Arrow~3~Poison~No~Yes~None~No~No~5~0
+5068~Energy Famine~2~None~No~Yes~None~No~No~5~0
+5069~Lure of Death~12~Slash~No~No~None~No~No~N/A~0
+5070~Summer2014 Health Regen Ring~1~None~Yes~No~None~No~No~5~0
+5071~Summer2014 Energy Regen Ring~2~None~Yes~No~None~No~No~5~0
+5072~Summer2014 Health Regen Bracelet~1~None~Yes~No~None~No~No~5~0
+5073~Summer2014 Energy Regen Bracelet~2~None~Yes~No~None~No~No~5~0
+5074~Sunshard Supremacy~4~None~No~Yes~None~No~No~N/A~0
+5075~Sunshard Defiance~15~None~No~Yes~None~No~No~N/A~0
+5076~Litany of Doom~16~Slash~No~No~None~No~No~N/A~0
+5077~Litany of Doom Windup~4~None~No~Yes~None~No~No~N/A~0
+5078~Lesser Bloodthorn Aura~-1~None~Yes~No~None~No~No~N/A~0
+5079~Lesser Ironroot Aura~-1~None~Yes~No~None~No~No~N/A~0
+5080~Lesser Shrivewood Aura~-1~None~Yes~No~None~No~No~N/A~0
+5081~Lesser Bladeleaf Aura~-1~None~Yes~No~None~No~No~N/A~0
+5082~Lesser Spiritseed Aura~-1~None~Yes~No~None~No~No~N/A~0
+5083~Bloodthorn Aura~-1~None~Yes~No~None~No~No~N/A~0
+5084~Ironroot Aura~-1~None~Yes~No~None~No~No~N/A~0
+5085~Shrivewood Aura~-1~None~Yes~No~None~No~No~N/A~0
+5086~Bladeleaf Aura~-1~None~Yes~No~None~No~No~N/A~0
+5087~Spiritseed Aura~-1~None~Yes~No~None~No~No~N/A~0
+5088~Greater Bloodthorn Aura~-1~None~Yes~No~None~No~No~N/A~0
+5089~Greater Ironroot Aura~-1~None~Yes~No~None~No~No~N/A~0
+5090~Greater Shrivewood Aura~-1~None~Yes~No~None~No~No~N/A~0
+5091~Greater Bladeleaf Aura~-1~None~Yes~No~None~No~No~N/A~0
+5092~Greater Spiritseed Aura~-1~None~Yes~No~None~No~No~N/A~0
+5093~Grand Bloodthorn Aura~-1~None~Yes~No~None~No~No~N/A~0
+5094~Grand Ironroot Aura~-1~None~Yes~No~None~No~No~N/A~0
+5095~Grand Shrivewood Aura~-1~None~Yes~No~None~No~No~N/A~0
+5096~Grand Bladeleaf Aura~-1~None~Yes~No~None~No~No~N/A~0
+5097~Grand Spiritseed Aura~-1~None~Yes~No~None~No~No~N/A~0
+5098~Lesser Stormleaf Aura~-1~None~Yes~No~None~No~No~N/A~0
+5099~Lesser Frostroot Aura~-1~None~Yes~No~None~No~No~N/A~0
+5100~Lesser Stonebark Aura~-1~None~Yes~No~None~No~No~N/A~0
+5101~Stormleaf Aura~-1~None~Yes~No~None~No~No~N/A~0
+5102~Frostroot Aura~-1~None~Yes~No~None~No~No~N/A~0
+5103~Stonebark Aura~-1~None~Yes~No~None~No~No~N/A~0
+5104~Greater Stormleaf Aura~-1~None~Yes~No~None~No~No~N/A~0
+5105~Greater Frostroot Aura~-1~None~Yes~No~None~No~No~N/A~0
+5106~Greater Stonebark Aura~-1~None~Yes~No~None~No~No~N/A~0
+5107~Grand Stormleaf Aura~-1~None~Yes~No~None~No~No~N/A~0
+5108~Grand Frostroot Aura~-1~None~Yes~No~None~No~No~N/A~0
+5109~Grand Stonebark Aura~-1~None~Yes~No~None~No~No~N/A~0
+5110~Sunshard Fury~16~Heat~No~Yes~None~No~No~N/A~0
+5111~Sunshard Endurance~0~None~No~Yes~None~No~No~N/A~0
+5112~Lively Melody~38~None~No~Yes~None~No~No~N/A~0
+5113~Song of Heart~38~None~Yes~Yes~None~No~No~N/A~0
+5114~Weapon Boss Root~5~None~No~Yes~None~No~No~N/A~0
+5115~Phoenix Staff Health Regen~1~None~Yes~No~None~No~No~5~0
+5116~Phoenix Staff Energy Regen~2~None~Yes~No~None~No~No~5~0
+5117~Phoenix Staff Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+5118~Energy Regen Firestorm Rod~2~None~Yes~No~None~No~No~5~0
+5119~Phoenix Glider Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5120~FireStorm Rod Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5121~Fire Totem~6~Heat~No~Yes~None~No~No~N/A~0
+5122~Ice Totem~6~Cold~No~Yes~None~No~No~N/A~0
+5123~Agile Stance~-1~None~No~Yes~None~No~No~N/A~0
+5124~Power Stance~16~None~No~Yes~None~No~No~N/A~0
+5125~Clear Agile Stance~-1~None~No~Yes~None~No~No~N/A~0
+5126~Clear Power Stance~16~None~No~Yes~None~No~No~N/A~0
+5200~Pyre Bite~3~Heat~No~Yes~None~No~No~5~0
+5201~Rime Bite~3~Cold~No~Yes~None~No~No~5~0
+5202~Acid Bite~3~Poison~No~Yes~None~No~No~5~0
+5203~Pyre Balm~3~Heat~No~Yes~None~No~No~5~0
+5204~Rime Balm~3~Cold~No~Yes~None~No~No~5~0
+5205~Acid Balm~3~Poison~No~Yes~None~No~No~5~0
+5206~Nightflyer Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+5207~Draining Bite~3~Magic~No~Yes~None~No~No~5~0
+5208~Sonic Screech~28~None~No~Yes~None~No~No~N/A~0
+5209~Nightflyer Camouflage~22~None~Yes~No~None~No~No~N/A~0
+5210~Nightflyer Energy Regen~2~None~Yes~No~None~No~No~5~0
+5211~Swarm Cloak~6~Magic~No~Yes~None~No~No~N/A~0
+5212~Warriors Blessing Level 1~16~Magic~No~Yes~None~No~No~N/A~0
+5213~Warriors Blessing 2 Level 1~0~None~No~Yes~None~No~No~N/A~0
+5214~Warriors Blessing 3 Level 1~1~None~No~Yes~None~No~No~5~0
+5215~Rogue Blessing Level 1~16~Magic~No~Yes~None~No~No~N/A~0
+5216~Rogue Blessing 2 Level 1~4~None~No~Yes~None~No~No~N/A~0
+5217~Rogue Blessing 3 Level 1~1~None~No~Yes~None~No~No~5~0
+5218~Ranger Blessing Level 1~16~Magic~No~Yes~None~No~No~N/A~0
+5219~Ranger Blessing 2 Level 1~4~None~No~Yes~None~No~No~N/A~0
+5220~Ranger Blessing 3 Level 1~2~None~No~Yes~None~No~No~5~0
+5221~Druid Blessing Level 1~0~None~No~Yes~None~No~No~N/A~0
+5222~Druid Blessing 2 Level 1~1~None~No~Yes~None~No~No~5~0
+5223~Druid Blessing 3 Level 1~2~None~No~Yes~None~No~No~5~0
+5224~Mage Blessing Level 1~46~None~No~Yes~None~No~No~N/A~0
+5225~Mage Blessing 2 Level 1~45~None~No~Yes~None~No~No~N/A~0
+5226~Mage Blessing 3 Level 1~2~None~No~Yes~None~No~No~5~0
+5227~Magic Shell~27~None~No~Yes~None~No~No~N/A~0
+5228~Eerie Melody~2~None~No~Yes~None~No~Yes~5~0
+5229~Spooky Melody~1~None~No~Yes~None~No~Yes~5~0
+5230~Haunting Melody~38~None~No~Yes~None~No~No~N/A~0
+5231~Creepy Melody~37~None~No~Yes~None~No~No~N/A~0
+5232~Warriors Blessing Level 2~16~Magic~No~Yes~None~No~No~N/A~0
+5233~Warriors Blessing 2 Level 2~0~None~No~Yes~None~No~No~N/A~0
+5234~Warriors Blessing 3 Level 2~1~None~No~Yes~None~No~No~5~0
+5235~Rogue Blessing Level 2~16~Magic~No~Yes~None~No~No~N/A~0
+5236~Rogue Blessing 2 Level 2~4~None~No~Yes~None~No~No~N/A~0
+5237~Rogue Blessing 3 Level 2~1~None~No~Yes~None~No~No~5~0
+5238~Ranger Blessing Level 2~16~Magic~No~Yes~None~No~No~N/A~0
+5239~Ranger Blessing 2 Level 2~4~None~No~Yes~None~No~No~N/A~0
+5240~Ranger Blessing 3 Level 2~2~None~No~Yes~None~No~No~5~0
+5241~Druid Blessing Level 2~0~None~No~Yes~None~No~No~N/A~0
+5242~Druid Blessing 2 Level 2~1~None~No~Yes~None~No~No~5~0
+5243~Druid Blessing 3 Level 2~2~None~No~Yes~None~No~No~5~0
+5244~Mage Blessing Level 2~46~None~No~Yes~None~No~No~N/A~0
+5245~Mage Blessing 2 Level 2~45~None~No~Yes~None~No~No~N/A~0
+5246~Mage Blessing 3 Level 2~2~None~No~Yes~None~No~No~5~0
+5247~Warriors Blessing Level 3~16~Magic~No~Yes~None~No~No~N/A~0
+5248~Warriors Blessing 2 Level 3~0~None~No~Yes~None~No~No~N/A~0
+5249~Warriors Blessing 3 Level 3~1~None~No~Yes~None~No~No~5~0
+5250~Rogue Blessing Level 3~16~Magic~No~Yes~None~No~No~N/A~0
+5251~Rogue Blessing 2 Level 3~4~None~No~Yes~None~No~No~N/A~0
+5252~Rogue Blessing 3 Level 3~1~None~No~Yes~None~No~No~5~0
+5253~Ranger Blessing Level 3~16~Magic~No~Yes~None~No~No~N/A~0
+5254~Ranger Blessing 2 Level 3~4~None~No~Yes~None~No~No~N/A~0
+5255~Ranger Blessing 3 Level 3~2~None~No~Yes~None~No~No~5~0
+5256~Druid Blessing Level 3~0~None~No~Yes~None~No~No~N/A~0
+5257~Druid Blessing 2 Level 3~1~None~No~Yes~None~No~No~5~0
+5258~Druid Blessing 3 Level 3~2~None~No~Yes~None~No~No~5~0
+5259~Mage Blessing Level 3~46~None~No~Yes~None~No~No~N/A~0
+5260~Mage Blessing 2 Level 3~45~None~No~Yes~None~No~No~N/A~0
+5261~Mage Blessing 3 Level 3~2~None~No~Yes~None~No~No~5~0
+5262~Behemoth Might~16~Crush~No~Yes~None~No~No~N/A~0
+5263~Siofras brew of Invisibility~19~None~No~Yes~None~Yes~No~N/A~0
+5264~Siofras brew of Defence~40~None~No~Yes~None~No~No~N/A~0
+5265~Siofras brew of Armour~39~None~No~Yes~None~No~No~N/A~0
+5266~Siofras brew of Attack~41~None~No~Yes~None~No~No~N/A~0
+5267~Siofras brew of Haste~17~None~No~Yes~None~No~No~N/A~0
+5268~Siofras brew of Travelling~8~None~No~Yes~None~No~No~N/A~0
+5269~Siofras brew of Knowledge~21~None~No~Yes~None~No~No~N/A~0
+5270~Siofras brew of Regeneration~42~None~No~Yes~None~No~No~5~0
+5271~Siofras brew of Energisation~43~None~No~Yes~None~No~No~5~0
+5272~Samhain Eerie Melody~2~None~No~Yes~None~No~Yes~5~0
+5273~Samhain Spooky Melody~1~None~No~Yes~None~No~Yes~5~0
+5274~Samhain Haunting Melody~38~None~No~Yes~None~No~No~N/A~0
+5275~Samhain Creepy Melody~37~None~No~Yes~None~No~No~N/A~0
+5276~Song of Energy~2~None~Yes~No~None~No~Yes~5~0
+5277~Song of Health~1~None~Yes~No~None~No~Yes~5~0
+5278~Song of Spirit~38~None~Yes~Yes~None~No~No~N/A~0
+5279~Song of Life~37~None~Yes~Yes~None~No~No~N/A~0
+5280~Power of Taranis~16~Cold~No~Yes~None~No~No~N/A~0
+5281~Arctic Wings Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+5282~Arctic Wings Camouflage~22~None~Yes~No~None~No~No~N/A~0
+5283~Arctic Wings Energy Regen~2~None~Yes~No~None~No~No~5~0
+5284~Winterwing Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+5285~Winterwing Camouflage~22~None~Yes~No~None~No~No~N/A~0
+5286~Winterwing Energy Regen~2~None~Yes~No~None~No~No~5~0
+5287~Winter2014 Cheerful Melody~2~None~No~Yes~None~No~Yes~5~0
+5288~Winter2014 Jolly Melody~1~None~No~Yes~None~No~Yes~5~0
+5289~Winter2014 Jubilant Melody~38~None~No~Yes~None~No~No~N/A~0
+5290~Winter2014 Festive Melody~37~None~No~Yes~None~No~No~N/A~0
+5291~Song of Spirit~38~None~Yes~Yes~None~No~No~N/A~0
+5292~Song of Life~37~None~Yes~Yes~None~No~No~N/A~0
+5293~Song of Cheer~2~None~Yes~No~None~No~Yes~5~0
+5294~Song of Joy~1~None~Yes~No~None~No~Yes~5~0
+5295~Patch Test Skill~0~None~No~Yes~None~No~No~N/A~0
+5296~Starstone Precision~4~Cold~No~Yes~None~No~No~N/A~0
+5297~Starstone Armour~0~None~No~Yes~None~No~No~N/A~0
+5298~Starstone Cloak~6~Cold~No~Yes~None~No~No~N/A~0
+5299~Starstone Shield~27~None~No~Yes~None~No~No~N/A~0
+5300~Arctic Gale~-1~Cold~No~Yes~None~No~No~N/A~0
+5301~Air Shield~27~Cold~No~Yes~None~No~No~N/A~0
+5302~Arctic Wings Health Regen~1~None~Yes~No~None~No~No~5~0
+5303~Cloudburst Energy Regen~2~None~Yes~No~None~No~No~5~0
+5304~Cloudburst Camouflage~22~None~Yes~No~None~No~No~N/A~0
+5305~Starstone Aura~1~None~Yes~No~None~No~No~5~0
+5306~Stargem Precision~4~Cold~No~Yes~None~No~No~N/A~0
+5307~Stargem Armour~0~None~No~Yes~None~No~No~N/A~0
+5308~Stargem Cloak~6~Cold~No~Yes~None~No~No~N/A~0
+5309~Stargem Shield~27~None~No~Yes~None~No~No~N/A~0
+5310~Stargem Aura~1~None~Yes~No~None~No~No~5~0
+5311~Starstone Aura II~2~None~Yes~No~None~No~No~5~0
+5312~Stargem Aura II~2~None~Yes~No~None~No~No~5~0
+5314~Blood Howl~16~Magic~No~Yes~None~No~No~N/A~0
+5315~Battle Cry~17~None~No~Yes~None~No~No~N/A~0
+5316~Aqua Fortis~16~Poison~No~Yes~None~No~No~N/A~0
+5317~Eldritch Fire~3~Heat~No~Yes~None~No~No~5~0
+5318~Stygian Frost~31~None~No~Yes~None~No~No~N/A~0
+5319~Eldritch Vengeance~6~Divine~No~Yes~None~No~No~N/A~0
+5320~Eldritch Boon~12~Chaos~No~Yes~None~No~No~N/A~0
+5321~Eldritch Wrath~16~Divine~No~Yes~None~No~No~N/A~0
+5322~Eldritch Fury~6~Divine~No~Yes~None~No~No~N/A~0
+5323~Eldritch Spite~3~Divine~No~Yes~None~No~No~5~0
+5324~Ballad of Ardor~2~None~Yes~No~None~No~Yes~5~0
+5325~Ballad of Vigor~1~None~Yes~No~None~No~Yes~5~0
+5326~Ballad of Morale~38~None~Yes~No~None~No~Yes~N/A~0
+5327~Ballad of Essence~37~None~Yes~No~None~No~Yes~N/A~0
+5328~Ballad of Wonder~44~None~Yes~No~None~No~No~N/A~0
+5329~Ballad of Delight~0~None~Yes~No~None~No~No~N/A~0
+5330~Fire Crystal~6~Heat~No~Yes~None~No~No~N/A~0
+5331~Ice Crystal~6~Cold~No~Yes~None~No~No~N/A~0
+5332~Poison Crystal~6~Poison~No~Yes~None~No~No~N/A~0
+5333~Entropic Annihilation~3~Poison~No~Yes~None~No~No~5~0
+5334~Alchemic Barrier~27~None~No~Yes~None~No~No~N/A~0
+5335~Gelebron Special Immunity~-1~None~No~Yes~None~No~No~N/A~0
+5336~Gelebron Special Immunity Player~-1~None~No~Yes~None~No~No~N/A~0
+5337~Razorclaw~3~Slash~No~Yes~None~No~No~5~0
+5338~Stalwart Block~27~None~No~Yes~None~No~No~N/A~0
+5339~Hobble~25~None~No~Yes~Ranged Combat~No~No~N/A~0
+5340~Puncture~12~Pierce~No~Yes~Ranged Combat~No~No~N/A~0
+5341~Arcane Conflagration~3~Heat~No~Yes~None~No~No~5~0
+5342~Arcane Cloak~6~Magic~No~Yes~None~No~No~N/A~0
+5343~Cloak of Anguish~6~Heat~No~Yes~None~No~No~N/A~0
+5344~Eldritch Shielding~-1~None~No~Yes~None~No~No~N/A~0
+5345~Eldritch Unbinding~-1~None~No~Yes~None~No~No~N/A~0
+5346~Eldritch Fortification~-1~None~No~Yes~None~No~No~N/A~0
+5347~Gelebron Area Effect Remover~-1~None~No~Yes~None~No~No~N/A~0
+5348~Exalted Aura~-1~None~Yes~No~None~No~No~N/A~0
+5349~Branwens Blessing~-1~None~Yes~No~None~No~No~N/A~0
+5350~Croms Malice~31~None~Yes~No~None~No~No~N/A~0
+5351~Withering Flames~4~None~No~Yes~None~No~No~N/A~0
+5352~Wyldgrove Strike~15~None~No~Yes~None~No~No~N/A~0
+5353~Wyldgrove Guard~15~None~No~No~None~No~No~N/A~0
+5354~Wyldgrove Agility~44~None~No~No~None~No~No~N/A~0
+5355~Wyldgrove Spite~3~Magic~No~No~None~No~No~5~0
+5356~Wyldshrine Strike~15~None~No~No~None~No~No~N/A~0
+5357~Wyldshrine Guard~15~None~No~No~None~No~No~N/A~0
+5358~Wyldshrine Agility~44~None~No~No~None~No~No~N/A~0
+5359~Wyldshrine Spite~3~Magic~No~No~None~No~No~5~0
+5360~Pleasant Aria~2~None~No~Yes~None~No~Yes~5~0
+5361~Floral Aria~1~None~No~Yes~None~No~Yes~5~0
+5362~Warming Aria~38~None~No~Yes~None~No~Yes~N/A~0
+5363~Blooming Aria~37~None~No~Yes~None~No~Yes~N/A~0
+5364~Inspiring Aria~44~None~No~Yes~None~No~No~N/A~0
+5365~Bright Aria~0~None~No~Yes~None~No~No~N/A~0
+5366~Eagle Mount Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+5367~Eagle Mount Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5368~Eagle Glider Energy Regen~2~None~Yes~No~None~No~No~5~0
+5369~Eagle Glider Health Regen~1~None~Yes~No~None~No~No~5~0
+5370~Cloak of the Hunter~6~Magic~No~Yes~None~No~No~N/A~0
+5371~Gorgon Eye~28~None~No~Yes~None~No~No~N/A~0
+5372~Abyssal Gaze~2~None~No~Yes~None~No~No~5~0
+5373~GameEffect Test 1~-1~Magic~No~No~Dagger~No~No~N/A~0
+5374~GameEffect Test 2~-1~None~No~No~None~No~No~N/A~0
+5375~GameEffect Test 3-1~-1~None~No~No~Dagger~No~No~N/A~0
+5376~GameEffect Test 3-2~-1~None~No~No~Dagger~No~No~N/A~0
+5377~TEST Particle Consumable~-1~None~No~No~None~No~No~N/A~0
+5378~Fire Sap~12~None~No~Yes~None~No~No~N/A~0
+5379~Frost Sap~12~None~No~Yes~None~No~No~N/A~0
+5380~Ether Sap~12~None~No~Yes~None~No~No~N/A~0
+5381~Poison State~12~None~No~Yes~None~No~No~N/A~0
+5382~Splinter~12~None~No~No~None~No~No~N/A~0
+5383~Shining Ballad~2~None~No~Yes~None~No~Yes~5~0
+5384~Cheerful Ballad~1~None~No~Yes~None~No~Yes~5~0
+5385~Flourishing Ballad~44~None~No~Yes~None~No~No~N/A~0
+5386~Uplifting Ballad~0~None~No~Yes~None~No~No~N/A~0
+5387~Skyglass Sunlight~-1~None~No~No~None~No~No~N/A~0
+5388~Skyglass Moonlight~-1~None~No~No~None~No~No~N/A~0
+5389~Skyglass Starlight~-1~None~No~No~None~No~No~N/A~0
+5390~Skyglass Twilight~-1~None~No~No~None~No~No~N/A~0
+5391~Skyprism Sunlight~-1~None~No~No~None~No~No~N/A~0
+5392~Skyprism Moonlight~-1~None~No~No~None~No~No~N/A~0
+5393~Skyprism Starlight~-1~None~No~No~None~No~No~N/A~0
+5394~Skyprism Twilight~-1~None~No~No~None~No~No~N/A~0
+5395~Skyglass Radiance~-1~None~No~No~None~No~No~N/A~0
+5396~Skyglass Splendor~-1~None~No~No~None~No~No~N/A~0
+5397~Skyglass Glory~-1~None~No~No~None~No~No~N/A~0
+5398~Skyglass Ascension~-1~None~No~No~None~No~No~N/A~0
+5399~Skyprism Radiance~-1~None~No~No~None~No~No~N/A~0
+5400~Skyprism Splendor~-1~None~No~No~None~No~No~N/A~0
+5401~Skyprism Glory~-1~None~No~No~None~No~No~N/A~0
+5402~Skyprism Ascension~-1~None~No~No~None~No~No~N/A~0
+5403~Skyglass Zenith~-1~None~No~No~None~No~No~N/A~0
+5404~Skyglass Meridian~-1~None~No~No~None~No~No~N/A~0
+5405~Skyprism Zenith~-1~None~No~No~None~No~No~N/A~0
+5406~Skyprism Meridian~-1~None~No~No~None~No~No~N/A~0
+5407~Summer2015 Neck Extra 1~12~Cold~No~No~None~No~No~N/A~0
+5408~Summer2015 Neck Extra 2~12~Magic~No~No~None~No~No~N/A~0
+5409~Summer2015 Ring Extra 1~12~Cold~No~No~None~No~No~N/A~0
+5410~Summer2015 Ring Extra 2~12~Magic~No~No~None~No~No~N/A~0
+5411~Summer2015 Ring OLD~-1~None~No~No~None~No~No~N/A~0
+5412~Summer2015 Ring OLD~-1~None~No~No~None~No~No~N/A~0
+5413~Spirit Mount Health Regen~1~None~Yes~No~None~No~No~5~0
+5414~Spirit Mount Energy Regen~2~None~Yes~No~None~No~No~5~0
+5415~Aeons Wrath~16~Heat~No~No~None~No~No~N/A~0
+5416~Ethereal Mist~19~None~No~No~None~Yes~No~N/A~0
+5417~Spirit Glider Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+5418~Spirit Glider Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5419~Spirit Cape Movement Boost~8~None~Yes~No~None~No~Yes~N/A~0
+5420~Spirit Cape Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5421~Mounted~8~None~Yes~No~None~No~No~N/A~0
+5422~Mounted Health Boost~37~None~Yes~No~None~No~No~N/A~0
+5423~DO NOT USE~39~None~Yes~No~None~No~No~N/A~0
+5424~Gallop~8~None~No~Yes~None~No~No~N/A~0
+5425~Growth Potion Block~-1~None~Yes~No~None~No~No~N/A~0
+5426~Growth Elixir Block~-1~None~Yes~No~None~No~No~N/A~0
+5427~Growth Perm Block~-1~None~Yes~No~None~No~No~N/A~0
+5428~Shrink Potion Block~-1~None~Yes~No~None~No~No~N/A~0
+5429~Shrink Elixir Block~-1~None~Yes~No~None~No~No~N/A~0
+5430~Shrink Perm Block~-1~None~Yes~No~None~No~No~N/A~0
+5431~Ballad of Foresight~2~None~Yes~No~None~No~Yes~5~0
+5432~Ballad of Insight~1~None~Yes~No~None~No~Yes~5~0
+5433~Ballad of Prowess~44~None~Yes~No~None~No~No~N/A~0
+5434~Ballad of Vision~0~None~Yes~No~None~No~No~N/A~0
+5435~Morcas Regrowth~1~None~No~Yes~None~No~No~5~0
+5436~Thorn Snare~31~None~No~Yes~None~No~No~N/A~0
+5437~Mounted~8~None~Yes~No~None~No~No~N/A~0
+5438~Nimble Wing~15~None~No~Yes~Novelty~No~No~N/A~0
+5439~Swooping Claw~44~None~No~Yes~Novelty~No~No~N/A~0
+5440~Rending Talon~0~None~No~Yes~Novelty~No~No~N/A~0
+5441~Companion Camouflage~22~None~Yes~No~None~No~No~N/A~0
+5442~Companion Health Regen~1~None~Yes~No~None~No~No~5~0
+5443~Companion Energy Regen~2~None~Yes~No~None~No~No~5~0
+5444~Sparrow Companion~-1~None~Yes~No~None~No~No~N/A~0
+5445~Crow Companion~-1~None~Yes~No~None~No~No~N/A~0
+5446~Sparrowhawk Companion~-1~None~Yes~No~None~No~No~N/A~0
+5447~Stomp~17~Crush~No~Yes~None~No~No~N/A~0
+5448~Soul Grasp~2~Crush~No~Yes~None~No~No~5~0
+5449~Rend of Death~3~Slash~No~Yes~None~No~No~5~0
+5450~Trampled~31~None~No~Yes~None~No~No~N/A~0
+5451~Rune of Destruction~12~Chaos~No~No~None~No~No~N/A~0
+5452~Temp Immobile~5~None~No~Yes~None~No~No~N/A~0
+5453~Doch Gul Warrior Aura~-1~None~Yes~No~None~No~No~N/A~0
+5454~Doch Gul Druid Aura~-1~None~Yes~No~None~No~No~N/A~0
+5455~Doch Gul Ranger Aura~-1~None~Yes~No~None~No~No~N/A~0
+5456~Doch Gul Mage Aura~-1~None~Yes~No~None~No~No~N/A~0
+5457~Doch Gul Rogue Aura~-1~None~Yes~No~None~No~No~N/A~0
+5458~Steed of Oblivion Health Regen~1~None~Yes~No~None~No~No~5~0
+5459~Steed of Oblivion Energy Regen~2~None~Yes~No~None~No~No~5~0
+5460~Shield of Vigilance~27~None~No~Yes~None~No~No~N/A~0
+5461~Crowspine Skirr Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5462~Archfiend Wings Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5463~Shield of Perception~27~None~No~Yes~None~No~No~N/A~0
+5464~Shield of Gaze~27~None~No~Yes~None~No~No~N/A~0
+5465~Crowspine Skirr Health Regen~1~None~Yes~No~None~No~No~5~0
+5466~Crowspine Skirr Energy Regen~2~None~Yes~No~None~No~No~5~0
+5467~Archfiend Wings Health Regen~1~None~Yes~No~None~No~No~5~0
+5468~Archfiend Wings Energy Regen~2~None~Yes~No~None~No~No~5~0
+5469~Crowspine Skirr Armour~0~None~Yes~No~None~No~No~N/A~0
+5470~Archfiend Wings Armour~0~None~Yes~No~None~No~No~N/A~0
+5471~Glider of Oblivion~27~Crush~No~Yes~None~No~No~N/A~0
+5472~Wings of Oblivion~27~Crush~No~Yes~None~No~No~N/A~0
+5473~Carrion Claw~4~None~No~Yes~Novelty~No~No~N/A~0
+5474~Crowspine Skirr Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5475~Archfiend Wings Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5476~Broodshield~15~None~No~Yes~Melee Combat~No~No~N/A~0
+5477~Dispel Alchemic Barrier~-1~None~No~Yes~None~No~No~N/A~0
+5478~Mephetic Malady~3~Poison~No~Yes~None~No~No~5~0
+5479~Frozen~3~Cold~No~Yes~None~No~No~5~0
+5480~Dark Mount~8~None~Yes~No~None~No~No~N/A~0
+5481~Aberrant Barrier~6~Magic~No~Yes~None~No~No~N/A~0
+5482~Impish Fire~3~Heat~No~Yes~None~No~No~5~0
+5483~Orphic Inertia~8~None~No~Yes~None~No~No~N/A~0
+5484~Arctic Freeze~3~Cold~No~Yes~None~No~No~5~0
+5485~Decay~3~Magic~No~Yes~None~No~No~5~0
+5486~Fortify~6~Cold~No~Yes~None~No~No~N/A~0
+5487~Replenish~1~None~No~Yes~None~No~No~5~0
+5488~Chill~12~Cold~No~Yes~None~No~No~N/A~0
+5489~Warmth~12~Heat~No~Yes~None~No~No~N/A~0
+5490~Siphon~2~Cold~No~Yes~None~No~No~5~0
+5491~Yule2015 Boss Decay Resist~-1~None~No~No~None~No~No~N/A~0
+5492~Cure-all~35~None~No~Yes~None~No~No~5~0
+5493~Keeghan Armour Boost~0~None~No~Yes~None~No~No~N/A~0
+5494~Nostrum Cure~-1~None~No~Yes~None~No~No~N/A~0
+5495~Phantom Claw~3~Slash~No~Yes~None~No~No~5~0
+5496~Minor Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5497~Lesser Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5498~Mystic Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5499~Greater Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5500~Grand Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5501~Mighty Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5502~Majestic Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5503~Royal Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5504~Imperial Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5505~Godly Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5506~Minor Energisation~-1~None~No~No~None~No~No~N/A~0
+5507~Lesser Energisation~-1~None~No~No~None~No~No~N/A~0
+5508~Mystic Energisation~-1~None~No~No~None~No~No~N/A~0
+5509~Greater Energisation~-1~None~No~No~None~No~No~N/A~0
+5510~Grand Energisation~-1~None~No~No~None~No~No~N/A~0
+5511~Mighty Energisation~-1~None~No~No~None~No~No~N/A~0
+5512~Majestic Energisation~-1~None~No~No~None~No~No~N/A~0
+5513~Royal Energisation~-1~None~No~No~None~No~No~N/A~0
+5514~Imperial Energisation~-1~None~No~No~None~No~No~N/A~0
+5515~Godly Energisation~-1~None~No~No~None~No~No~N/A~0
+5516~Power Surge~31~None~No~Yes~None~No~No~N/A~0
+5517~Rotor Blades~17~None~No~Yes~None~No~No~N/A~0
+5518~Kinetic Swing~-1~None~No~Yes~None~No~No~N/A~0
+5519~Heat Screen~6~Heat~No~Yes~None~No~No~N/A~0
+5520~Frost Screen~6~Heat~No~Yes~None~No~No~N/A~0
+5521~Shock Screen~6~Heat~No~Yes~None~No~No~N/A~0
+5522~Proteus Debuff Immunity~-1~None~No~Yes~None~No~No~N/A~0
+5523~Cranfir Steed Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5524~Mounted Health Regen~1~None~Yes~No~None~No~No~5~0
+5525~Mounted Energy Regen~2~None~Yes~No~None~No~No~5~0
+5526~Flight of Replenishment~1~None~No~Yes~None~No~Yes~5~0
+5527~Flight of Rejuvination~2~None~No~Yes~None~No~Yes~5~0
+5528~Flight of Vitality~37~None~No~Yes~None~No~No~N/A~0
+5529~Flight of Focus~38~None~No~Yes~None~No~No~N/A~0
+5530~Flight of Guarding~0~None~No~Yes~None~No~No~N/A~0
+5531~Cascade Wings Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5532~DNU~8~None~Yes~No~None~No~No~N/A~0
+5533~Grovehawk Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5534~Cascade Wings Health Regen~1~None~Yes~No~None~No~No~5~0
+5535~Cascade Wings Energy Regen~2~None~Yes~No~None~No~No~5~0
+5536~Grovehawk Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5537~Grovehawk Armour Boost~0~None~Yes~No~None~No~No~N/A~0
+5538~Cascade Wings Armour Boost~0~None~Yes~No~None~No~No~N/A~0
+5539~Cloak of the Falcon~6~Pierce~No~Yes~None~No~No~N/A~0
+5540~Cloak of the Eagle~6~Crush~No~Yes~None~No~No~N/A~0
+5541~Cloak of the Raven~6~Heat~No~Yes~None~No~No~N/A~0
+5542~Cloak of the Hawk~6~Cold~No~Yes~None~No~No~N/A~0
+5543~Wayfarer Aura~-1~None~Yes~No~None~No~No~N/A~0
+5544~Pathfinder Aura~-1~None~Yes~No~None~No~No~N/A~0
+5545~Trailblazer Aura~-1~None~Yes~No~None~No~No~N/A~0
+5546~Grovehawk Energy Regen~2~None~Yes~No~None~No~No~5~0
+5547~Grovehawk Health Regen~1~None~Yes~No~None~No~No~5~0
+5548~Cascade Wings Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5549~Soar~8~None~No~No~None~No~No~N/A~0
+5550~Steely Scales~0~None~No~No~None~No~No~N/A~0
+5551~Impenetrable~6~Magic~No~No~None~No~No~N/A~0
+5552~Searing Rend~2~Heat~No~Yes~None~No~No~5~0
+5553~Burning Ember~3~Heat~No~Yes~None~No~No~5~0
+5554~Minor Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5555~Lesser Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5556~Mystic Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5557~Greater Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5558~Grand Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5559~Mighty Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5560~Majestic Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5561~Royal Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5562~Imperial Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5563~Godly Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5564~Minor Energisation~-1~None~No~No~None~No~No~N/A~0
+5565~Lesser Energisation~-1~None~No~No~None~No~No~N/A~0
+5566~Mystic Energisation~-1~None~No~No~None~No~No~N/A~0
+5567~Greater Energisation~-1~None~No~No~None~No~No~N/A~0
+5568~Grand Energisation~-1~None~No~No~None~No~No~N/A~0
+5569~Mighty Energisation~-1~None~No~No~None~No~No~N/A~0
+5570~Majestic Energisation~-1~None~No~No~None~No~No~N/A~0
+5571~Royal Energisation~-1~None~No~No~None~No~No~N/A~0
+5572~Imperial Energisation~-1~None~No~No~None~No~No~N/A~0
+5573~Godly Energisation~-1~None~No~No~None~No~No~N/A~0
+5574~Minor Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5575~Lesser Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5576~Mystic Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5577~Greater Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5578~Grand Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5579~Mighty Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5580~Majestic Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5581~Royal Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5582~Imperial Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5583~Godly Reinforcement~-1~None~No~No~None~No~No~N/A~0
+5584~Lesser Crystal Defence~15~None~No~No~None~No~No~N/A~0
+5585~Pure Crystal Defence~15~None~No~No~None~No~No~N/A~0
+5586~Healing Balm~35~None~No~Yes~None~No~No~5~0
+5587~Overwrite Test~-1~None~No~No~None~No~No~N/A~0
+5588~Hungry (Dog)~48~None~Yes~No~None~No~No~N/A~0
+5589~Well Fed (Dog)~-1~None~No~No~None~No~No~N/A~0
+5590~Stalkers Strike~3~Pierce~No~Yes~None~No~No~5~0
+5591~Hunters Protection~6~Magic~No~Yes~None~No~No~N/A~0
+5592~Trackers Farsight~-1~None~No~No~None~No~No~N/A~0
+5593~Trackers Farsight~-1~None~No~No~None~No~No~N/A~0
+5594~Trackers Farsight~-1~None~No~No~None~No~No~N/A~0
+5595~Poachers Defence~15~None~No~No~None~No~No~N/A~0
+5596~Poachers Defence~15~None~No~No~None~No~No~N/A~0
+5597~Poachers Defence~15~None~No~No~None~No~No~N/A~0
+5598~Breath of Life~35~None~No~Yes~None~No~Yes~5~0
+5599~Well Fed~-1~None~No~No~None~No~No~N/A~0
+5600~Well Fed~-1~None~No~No~None~No~No~N/A~0
+5601~Hungry (Rabbit)~48~None~Yes~No~None~No~No~N/A~0
+5602~Well Fed (Rabbit)~-1~None~No~No~None~No~No~N/A~0
+5603~Hunters Defence~40~None~No~Yes~None~No~No~N/A~0
+5604~Hunters Armour~39~None~No~Yes~None~No~No~N/A~0
+5605~Hunters Attack~41~None~No~Yes~None~No~No~N/A~0
+5606~Hunters Haste~17~None~No~Yes~None~No~No~N/A~0
+5607~Hunters Speed~8~None~No~Yes~None~No~No~N/A~0
+5608~Hunters Experience~21~None~No~Yes~None~No~No~N/A~0
+5609~Dog Skill~6~Heat~No~Yes~Dog Taming~No~No~N/A~0
+5610~Dog Skill 2~1~Heat~No~Yes~Dog Taming~No~No~5~0
+5611~Rabbit Skill~13~Heat~No~Yes~Rabbit Taming~No~No~N/A~0
+5612~Rabbit Skill 2~2~Heat~No~Yes~Rabbit Taming~No~No~5~0
+5613~Warthog Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5614~Warthog Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5615~Warthog Energy Regen~2~None~Yes~No~None~No~No~5~0
+5616~Warthog Health Regen~1~None~Yes~No~None~No~No~5~0
+5617~Razorback Cape Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5618~Razorback Cape Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5619~Razorback Cape Energy Regen~2~None~Yes~No~None~No~No~5~0
+5620~Razorback Cape Health Regen~1~None~Yes~No~None~No~No~5~0
+5621~Boar Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5622~Boar Energy Regen~2~None~Yes~No~None~No~No~5~0
+5623~Boar Health Regen~1~None~Yes~No~None~No~No~5~0
+5624~Feral Fury~3~Pierce~No~No~None~No~No~5~0
+5625~Canine Bite~15~Heat~No~Yes~Dog Taming~No~No~N/A~0
+5626~Natural Focus~2~None~No~Yes~Rabbit Taming~No~No~5~0
+5627~Creeping Death~35~Magic~No~Yes~None~No~No~5~0
+5628~Otherworldly Protection~35~None~No~Yes~None~No~No~5~0
+5629~Astral Projection~26~None~No~No~None~No~No~N/A~0
+5630~Minor Potion of Fortitude~-1~None~No~No~None~No~No~N/A~0
+5631~Lesser Potion of Fortitude~-1~None~No~No~None~No~No~N/A~0
+5632~Greater Potion of Fortitude~-1~None~No~No~None~No~No~N/A~0
+5633~Minor Potion of Frenzy~-1~None~No~No~None~No~No~N/A~0
+5634~Lesser Potion of Frenzy~-1~None~No~No~None~No~No~N/A~0
+5635~Greater Potion of Frenzy~-1~None~No~No~None~No~No~N/A~0
+5636~Minor Potion of Fury~-1~None~No~No~None~No~No~N/A~0
+5637~Lesser Potion of Fury~-1~None~No~No~None~No~No~N/A~0
+5638~Greater Potion of Fury~-1~None~No~No~None~No~No~N/A~0
+5639~Minor Potion of Ferocity~-1~None~No~No~None~No~No~N/A~0
+5640~Lesser Potion of Ferocity~-1~None~No~No~None~No~No~N/A~0
+5641~Greater Potion of Ferocity~-1~None~No~No~None~No~No~N/A~0
+5642~Minor Potion of Focus~-1~None~No~No~None~No~No~N/A~0
+5643~Lesser Potion of Focus~-1~None~No~No~None~No~No~N/A~0
+5644~Greater Potion of Focus~-1~None~No~No~None~No~No~N/A~0
+5645~Poisoned Talons~3~Poison~No~Yes~None~No~No~5~0
+5647~New Fed Dog~-1~None~No~No~None~No~No~N/A~0
+5648~Serpent Sting~3~Poison~No~Yes~None~No~No~5~0
+5649~Antivenom~-1~None~No~Yes~None~No~No~N/A~0
+5650~Razor Arrow~3~Pierce~No~Yes~None~No~No~5~0
+5651~Charged Defence~0~None~No~Yes~None~No~No~N/A~0
+5652~Blurred Blades~17~None~No~No~None~No~No~N/A~0
+5653~Poisoned Vines~3~Poison~No~Yes~None~No~No~5~0
+5654~Elemental Defence~-1~None~No~Yes~None~No~No~N/A~0
+5655~Cloak of Protection~6~Pierce~No~Yes~None~No~No~N/A~0
+5656~Slash~3~Slash~No~Yes~Cunning~No~No~5~0
+5657~Affliction~35~Magic~No~Yes~Cunning~No~No~5~0
+5658~Encumbrance~17~None~No~No~None~No~No~N/A~0
+5659~Infused~17~None~No~No~None~No~No~N/A~0
+5660~Spiritual Fury~-1~None~No~No~None~No~No~N/A~0
+5661~Venomstrike~3~Poison~No~Yes~None~No~No~5~0
+5662~Razorclaws Downfall~3~None~No~Yes~None~No~No~5~0
+5663~Eviscerate~3~Slash~No~Yes~None~No~No~5~0
+5664~Spiritual Shield~-1~None~No~Yes~None~No~No~N/A~0
+5665~Impervious~6~Magic~No~No~None~No~No~N/A~0
+5666~Iron Defence~-1~None~No~No~None~No~No~N/A~0
+5667~Soul Drain~35~Magic~No~Yes~None~No~No~5~0
+5668~Iron Barrier~-1~None~Yes~Yes~None~No~No~N/A~0
+5669~Char~3~Heat~No~Yes~Fire Magic~No~No~5~0
+5670~Penetrating Cold~3~Cold~No~Yes~Fire Magic~No~No~5~0
+5671~Enhanced Reflexes~15~None~No~Yes~None~No~No~N/A~0
+5672~Glacial Defence Potion~12~None~No~Yes~None~No~No~N/A~0
+5673~Foxglove Balm~35~None~No~Yes~None~No~No~5~0
+5674~Herring Pie~1~None~No~Yes~None~No~Yes~5~0
+5675~Whiting Soup~2~None~No~Yes~None~No~Yes~5~0
+5676~Flounder Fillet~2~None~No~Yes~None~No~Yes~5~0
+5677~Smoked Mackerel~1~None~No~Yes~None~No~Yes~5~0
+5678~Rudd Pie~1~None~No~Yes~None~No~Yes~5~0
+5679~Barbel Soup~2~None~No~Yes~None~No~Yes~5~0
+5680~Fried Carp~2~None~No~Yes~None~No~Yes~5~0
+5681~Salted Pike~1~None~No~Yes~None~No~Yes~5~0
+5682~Bream Quiche~1~None~No~Yes~None~No~Yes~5~0
+5683~Trout Soup~2~None~No~Yes~None~No~Yes~5~0
+5684~Catfish Steak~2~None~No~Yes~None~No~Yes~5~0
+5685~Smoked Salmon~1~None~No~Yes~None~No~Yes~5~0
+5686~Cavefish Pie~1~None~No~Yes~None~No~Yes~5~0
+5687~Cullen Skink~2~None~No~Yes~None~No~Yes~5~0
+5688~Plaice Fillet~2~None~No~Yes~None~No~Yes~5~0
+5689~Smoked Eel~1~None~No~Yes~None~No~Yes~5~0
+5690~Morthar Ray Pie~1~None~No~Yes~None~No~Yes~5~0
+5691~Morthar Shark Soup~2~None~No~Yes~None~No~Yes~5~0
+5692~Sturgeon Fillet~2~None~No~Yes~None~No~Yes~5~0
+5693~Smoked Ray~1~None~No~Yes~None~No~Yes~5~0
+5694~Eel Pie~1~None~No~Yes~None~No~Yes~5~0
+5695~Dogfish Soup~2~None~No~Yes~None~No~Yes~5~0
+5696~Gulper Eel Fillet~2~None~No~Yes~None~No~Yes~5~0
+5697~Salted Angler~1~None~No~Yes~None~No~Yes~5~0
+5698~Manta Ray Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+5699~Bull Shark Soup~-1~None~No~Yes~None~No~Yes~N/A~0
+5700~Monkfish Fillet~-1~None~No~Yes~None~No~Yes~N/A~0
+5701~Jellied Eel~-1~None~No~Yes~None~No~Yes~N/A~0
+5702~Spinning Inferno~3~Heat~No~Yes~None~No~No~5~0
+5703~Fury Swipe~3~Magic~No~Yes~None~No~No~5~0
+5704~Mephetic Drain~2~None~No~Yes~None~No~No~5~0
+5705~Unicorn Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5706~Unicorn Camouflage Boost~22~None~Yes~No~None~No~No~N/A~0
+5707~Unicorn Energy Regen~2~None~Yes~No~None~No~No~5~0
+5708~Unicorn Health Regen~1~None~Yes~No~None~No~No~5~0
+5709~Feral Protection~6~Slash~No~Yes~Boar Taming~No~No~N/A~0
+5710~Pet Wisp Skill~1~None~No~Yes~Rabbit Taming~No~No~5~0
+5711~Well Fed (Bear)~-1~None~No~No~None~No~No~N/A~0
+5712~Well Fed (Spirit)~-1~None~No~No~None~No~No~N/A~0
+5713~Hungry (Bear)~48~None~Yes~No~None~No~No~N/A~0
+5714~Hungry (Spirit)~48~None~Yes~No~None~No~No~N/A~0
+5715~Rake~3~Slash~No~Yes~Wolf Taming~No~No~5~0
+5716~Hungry (Wolf)~48~None~Yes~No~None~No~No~N/A~0
+5717~Well Fed (Wolf)~-1~None~No~No~None~No~No~N/A~0
+5718~Concentration Regen~50~None~No~Yes~None~No~No~5~0
+5719~Shoreline Broth~50~None~No~Yes~None~No~No~5~0
+5720~Riverbank Broth~50~None~No~Yes~None~No~No~5~0
+5721~Lakeside Broth~50~None~No~Yes~None~No~No~5~0
+5722~Darkwater Broth~50~None~No~Yes~None~No~No~5~0
+5723~Otherworldly Broth~50~None~No~Yes~None~No~No~5~0
+5724~Deepsea Broth~50~None~No~Yes~None~No~No~5~0
+5725~Magic Barrier~13~None~No~Yes~Ice Magic~No~No~N/A~0
+5726~Troubled Water~1~None~No~Yes~None~No~No~5~0
+5727~Dive~15~None~No~Yes~None~No~No~N/A~0
+5728~Troubled Water OVERWRITE~1~None~No~Yes~None~No~No~5~0
+5729~Stillness~-1~None~No~Yes~None~No~No~N/A~0
+5730~Chum~-1~None~No~No~None~No~No~N/A~0
+5731~Hungry (Spider)~48~None~Yes~No~None~No~No~N/A~0
+5732~Well Fed (Spider)~-1~None~No~No~None~No~No~N/A~0
+5733~Hungry (Boar)~48~None~Yes~No~None~No~No~N/A~0
+5734~Well Fed (Boar)~-1~None~No~No~None~No~No~N/A~0
+5735~War Wolf Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5736~War Bear Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5737~Fishing Prowess~50~None~Yes~Yes~None~No~No~5~0
+5738~Call Mount~-1~None~No~Yes~None~No~No~N/A~0
+5739~Resilience~27~None~No~Yes~Bear Riding~No~No~N/A~0
+5760~Barding Health Boost~37~None~Yes~No~None~No~No~N/A~0
+5761~Friendly Buff 1~1~None~No~Yes~None~No~No~1~0
+5762~Enemy Debuff 2~3~Heat~No~Yes~None~No~No~1~0
+5763~Aura Self Friendly~52~None~No~Yes~None~No~No~N/A~1
+5764~Aura Self Hostile~52~None~No~Yes~None~No~No~N/A~2
+5765~Aura Target Friendly~52~None~No~Yes~None~No~No~N/A~3
+5766~Aura Target Hostile~52~None~No~Yes~None~No~No~N/A~4
+5767~Raging Currents~16~Fishing~No~Yes~None~No~No~N/A~0
+5768~Blessing of Nodens~-1~None~Yes~No~None~No~No~N/A~0
+5769~Raging Currents Call-Out~-1~None~No~Yes~None~No~No~N/A~0
+5770~Burnt Rabbit Pie~1~None~No~Yes~None~No~Yes~5~0
+5771~Burnt Roast Beef~1~None~No~Yes~None~No~Yes~5~0
+5772~Burnt Venison Stew~2~None~No~Yes~None~No~Yes~5~0
+5773~Burnt Black Pudding~1~None~No~Yes~None~No~Yes~5~0
+5774~Burnt Boar Roast~2~None~No~Yes~None~No~Yes~5~0
+5775~Burnt Rare Fruit Salad~1~None~No~Yes~None~No~Yes~5~0
+5776~Burnt Warbeast Omlette~2~None~No~Yes~None~No~Yes~5~0
+5777~Burnt Wyvern Egg Souffle~1~None~No~Yes~None~No~Yes~5~0
+5778~Burnt Lamb Casserole~2~None~No~Yes~None~No~Yes~5~0
+5779~Burnt Cheese Rarebit~1~None~No~Yes~None~No~Yes~5~0
+5780~Burnt Cream of Pea Soup~2~None~No~Yes~None~No~Yes~5~0
+5781~Burnt Cream of Carrot Soup~2~None~No~Yes~None~No~Yes~5~0
+5782~Burnt Spinach Pancake~1~None~No~Yes~None~No~Yes~5~0
+5783~Burnt Granola~1~None~No~Yes~None~No~Yes~5~0
+5784~Burnt Sweet Roll~1~None~No~Yes~None~No~Yes~5~0
+5785~Burnt Bara Brith~1~None~No~Yes~None~No~Yes~5~0
+5786~Burnt Herring Pie~1~None~No~Yes~None~No~Yes~5~0
+5787~Burnt Whiting Soup~2~None~No~Yes~None~No~Yes~5~0
+5788~Burnt Flounder Fillet~2~None~No~Yes~None~No~Yes~5~0
+5789~Burnt Smoked Mackerel~1~None~No~Yes~None~No~Yes~5~0
+5790~Burnt Rudd Pie~1~None~No~Yes~None~No~Yes~5~0
+5791~Burnt Barbel Soup~2~None~No~Yes~None~No~Yes~5~0
+5792~Burnt Fried Carp~2~None~No~Yes~None~No~Yes~5~0
+5793~Burnt Salted Pike~1~None~No~Yes~None~No~Yes~5~0
+5794~Burnt Bream Quiche~1~None~No~Yes~None~No~Yes~5~0
+5795~Burnt Trout Soup~2~None~No~Yes~None~No~Yes~5~0
+5796~Burnt Catfish Steak~2~None~No~Yes~None~No~Yes~5~0
+5797~Burnt Smoked Salmon~1~None~No~Yes~None~No~Yes~5~0
+5798~Burnt Cave Fish Pie~1~None~No~Yes~None~No~Yes~5~0
+5799~Burnt Cullen Skink~2~None~No~Yes~None~No~Yes~5~0
+5800~Burnt Plaice Fillet~2~None~No~Yes~None~No~Yes~5~0
+5801~Burnt Smoked Eel~1~None~No~Yes~None~No~Yes~5~0
+5802~Burnt Morthar Ray Pie~1~None~No~Yes~None~No~Yes~5~0
+5803~Burnt Morthar Shark Soup~2~None~No~Yes~None~No~Yes~5~0
+5804~Burnt Sturgeon Fillet~2~None~No~Yes~None~No~Yes~5~0
+5805~Burnt Smoked Ray~1~None~No~Yes~None~No~Yes~5~0
+5806~Burnt Eel Pie~1~None~No~Yes~None~No~Yes~5~0
+5807~Burnt Dogfish Soup~2~None~No~Yes~None~No~Yes~5~0
+5808~Burnt Gulper Eel Fillet~2~None~No~Yes~None~No~Yes~5~0
+5809~Burnt Salted Angler~1~None~No~Yes~None~No~Yes~5~0
+5810~Burnt Manta Ray Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+5811~Burnt Bull Shark Soup~-1~None~No~Yes~None~No~Yes~N/A~0
+5812~Burnt Monkfish Fillet~-1~None~No~Yes~None~No~Yes~N/A~0
+5813~Burnt Jellied Eel~-1~None~No~Yes~None~No~Yes~N/A~0
+5814~Burnt Truffled Quail Eggs~-1~None~No~Yes~None~No~Yes~N/A~0
+5815~Burnt Caviar~-1~None~No~Yes~None~No~Yes~N/A~0
+5816~Burnt Filet Mignon~-1~None~No~Yes~None~No~Yes~N/A~0
+5817~Burnt Goose Liver Pate~-1~None~No~Yes~None~No~Yes~N/A~0
+5818~Burnt Pavlova~-1~None~No~Yes~None~No~Yes~N/A~0
+5819~Burnt Lemon Meringue Pie~6~Pierce~No~Yes~None~No~Yes~N/A~0
+5820~Fresh Rabbit Pie~1~None~No~Yes~None~No~Yes~5~0
+5821~Fresh Roast Beef~1~None~No~Yes~None~No~Yes~5~0
+5822~Fresh Venison Stew~2~None~No~Yes~None~No~Yes~5~0
+5823~Fresh Black Pudding~1~None~No~Yes~None~No~Yes~5~0
+5824~Fresh Boar Roast~2~None~No~Yes~None~No~Yes~5~0
+5825~Fresh Rare Fruit Salad~1~None~No~Yes~None~No~Yes~5~0
+5826~Fresh Warbeast Omlette~2~None~No~Yes~None~No~Yes~5~0
+5827~Fresh Wyvern Egg Souffle~1~None~No~Yes~None~No~Yes~5~0
+5828~Fresh Lamb Casserole~2~None~No~Yes~None~No~Yes~5~0
+5829~Fresh Cheese Rarebit~1~None~No~Yes~None~No~Yes~5~0
+5830~Fresh Cream of Pea Soup~2~None~No~Yes~None~No~Yes~5~0
+5831~Fresh Cream of Carrot Soup~2~None~No~Yes~None~No~Yes~5~0
+5832~Fresh Spinach Pancake~1~None~No~Yes~None~No~Yes~5~0
+5833~Fresh Granola~1~None~No~Yes~None~No~Yes~5~0
+5834~Fresh Sweet Roll~1~None~No~Yes~None~No~Yes~5~0
+5835~Fresh Bara Brith~1~None~No~Yes~None~No~Yes~5~0
+5836~Fresh Herring Pie~1~None~No~Yes~None~No~Yes~5~0
+5837~Fresh Whiting Soup~2~None~No~Yes~None~No~Yes~5~0
+5838~Fresh Flounder Fillet~2~None~No~Yes~None~No~Yes~5~0
+5839~Fresh Smoked Mackerel~1~None~No~Yes~None~No~Yes~5~0
+5840~Fresh Rudd Pie~1~None~No~Yes~None~No~Yes~5~0
+5841~Fresh Barbel Soup~2~None~No~Yes~None~No~Yes~5~0
+5842~Fresh Fried Carp~2~None~No~Yes~None~No~Yes~5~0
+5843~Fresh Salted Pike~1~None~No~Yes~None~No~Yes~5~0
+5844~Fresh Bream Quiche~1~None~No~Yes~None~No~Yes~5~0
+5845~Fresh Trout Soup~2~None~No~Yes~None~No~Yes~5~0
+5846~Fresh Catfish Steak~2~None~No~Yes~None~No~Yes~5~0
+5847~Fresh Smoked Salmon~1~None~No~Yes~None~No~Yes~5~0
+5848~Fresh Cave Fish Pie~1~None~No~Yes~None~No~Yes~5~0
+5849~Fresh Cullen Skink~2~None~No~Yes~None~No~Yes~5~0
+5850~Fresh Plaice Fillet~2~None~No~Yes~None~No~Yes~5~0
+5851~Fresh Smoked Eel~1~None~No~Yes~None~No~Yes~5~0
+5852~Fresh Morthar Ray Pie~1~None~No~Yes~None~No~Yes~5~0
+5853~Fresh Morthar Shark Soup~2~None~No~Yes~None~No~Yes~5~0
+5854~Fresh Sturgeon Fillet~2~None~No~Yes~None~No~Yes~5~0
+5855~Fresh Smoked Ray~1~None~No~Yes~None~No~Yes~5~0
+5856~Fresh Eel Pie~1~None~No~Yes~None~No~Yes~5~0
+5857~Fresh Dogfish Soup~2~None~No~Yes~None~No~Yes~5~0
+5858~Fresh Gulper Eel Fillet~2~None~No~Yes~None~No~Yes~5~0
+5859~Fresh Salted Angler~1~None~No~Yes~None~No~Yes~5~0
+5860~Fresh Manta Ray Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+5861~Fresh Bull Shark Soup~-1~None~No~Yes~None~No~Yes~N/A~0
+5862~Fresh Monkfish Fillet~-1~None~No~Yes~None~No~Yes~N/A~0
+5863~Fresh Jellied Eel~-1~None~No~Yes~None~No~Yes~N/A~0
+5864~Fresh Truffled Quail Eggs~-1~None~No~Yes~None~No~Yes~N/A~0
+5865~Fresh Caviar~-1~None~No~Yes~None~No~Yes~N/A~0
+5866~Fresh Filet Mignon~-1~None~No~Yes~None~No~Yes~N/A~0
+5867~Fresh Goose Liver Pate~-1~None~No~Yes~None~No~Yes~N/A~0
+5868~Fresh Pavlova~-1~None~No~Yes~None~No~Yes~N/A~0
+5869~Fresh Lemon Meringue Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+5870~Exquisite Rabbit Pie~1~None~No~Yes~None~No~Yes~5~0
+5871~Exquisite Roast Beef~1~None~No~Yes~None~No~Yes~5~0
+5872~Exquisite Venison Stew~2~None~No~Yes~None~No~Yes~5~0
+5873~Exquisite Black Pudding~1~None~No~Yes~None~No~Yes~5~0
+5874~Exquisite Boar Roast~2~None~No~Yes~None~No~Yes~5~0
+5875~Exquisite Rare Fruit Salad~1~None~No~Yes~None~No~Yes~5~0
+5876~Exquisite Warbeast Omlette~2~None~No~Yes~None~No~Yes~5~0
+5877~Exquisite Wyvern Egg Souffle~1~None~No~Yes~None~No~Yes~5~0
+5878~Exquisite Lamb Casserole~2~None~No~Yes~None~No~Yes~5~0
+5879~Exquisite Cheese Rarebit~1~None~No~Yes~None~No~Yes~5~0
+5880~Exquisite Cream of Pea Soup~2~None~No~Yes~None~No~Yes~5~0
+5881~Exquisite Cream of Carrot Soup~2~None~No~Yes~None~No~Yes~5~0
+5882~Exquisite Spinach Pancake~1~None~No~Yes~None~No~Yes~5~0
+5883~Exquisite Granola~1~None~No~Yes~None~No~Yes~5~0
+5884~Exquisite Sweet Roll~1~None~No~Yes~None~No~Yes~5~0
+5885~Exquisite Bara Brith~1~None~No~Yes~None~No~Yes~5~0
+5886~Exquisite Herring Pie~1~None~No~Yes~None~No~Yes~5~0
+5887~Exquisite Whiting Soup~2~None~No~Yes~None~No~Yes~5~0
+5888~Exquisite Flounder Fillet~2~None~No~Yes~None~No~Yes~5~0
+5889~Exquisite Smoked Mackerel~1~None~No~Yes~None~No~Yes~5~0
+5890~Exquisite Rudd Pie~1~None~No~Yes~None~No~Yes~5~0
+5891~Exquisite Barbel Soup~2~None~No~Yes~None~No~Yes~5~0
+5892~Exquisite Fried Carp~2~None~No~Yes~None~No~Yes~5~0
+5893~Exquisite Salted Pike~1~None~No~Yes~None~No~Yes~5~0
+5894~Exquisite Bream Quiche~1~None~No~Yes~None~No~Yes~5~0
+5895~Exquisite Trout Soup~2~None~No~Yes~None~No~Yes~5~0
+5896~Exquisite Catfish Steak~2~None~No~Yes~None~No~Yes~5~0
+5897~Exquisite Smoked Salmon~1~None~No~Yes~None~No~Yes~5~0
+5898~Exquisite Cave Fish Pie~1~None~No~Yes~None~No~Yes~5~0
+5899~Exquisite Cullen Skink~2~None~No~Yes~None~No~Yes~5~0
+5900~Exquisite Plaice Fillet~2~None~No~Yes~None~No~Yes~5~0
+5901~Exquisite Smoked Eel~1~None~No~Yes~None~No~Yes~5~0
+5902~Exquisite Morthar Ray Pie~1~None~No~Yes~None~No~Yes~5~0
+5903~Exquisite Morthar Shark Soup~2~None~No~Yes~None~No~Yes~5~0
+5904~Exquisite Sturgeon Fillet~2~None~No~Yes~None~No~Yes~5~0
+5905~Exquisite Smoked Ray~1~None~No~Yes~None~No~Yes~5~0
+5906~Exquisite Eel Pie~1~None~No~Yes~None~No~Yes~5~0
+5907~Exquisite Dogfish Soup~2~None~No~Yes~None~No~Yes~5~0
+5908~Exquisite Gulper Eel Fillet~2~None~No~Yes~None~No~Yes~5~0
+5909~Exquisite Salted Angler~1~None~No~Yes~None~No~Yes~5~0
+5910~Exquisite Manta Ray Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+5911~Exquisite Bull Shark Soup~-1~None~No~Yes~None~No~Yes~N/A~0
+5912~Exquisite Monkfish Fillet~-1~None~No~Yes~None~No~Yes~N/A~0
+5913~Exquisite Jellied Eel~-1~None~No~Yes~None~No~Yes~N/A~0
+5914~Exquisite Truffled Quail Eggs~-1~None~No~Yes~None~No~Yes~N/A~0
+5915~Exquisite Caviar~-1~None~No~Yes~None~No~Yes~N/A~0
+5916~Exquisite Filet Mignon~-1~None~No~Yes~None~No~Yes~N/A~0
+5917~Exquisite Goose Liver Pate~-1~None~No~Yes~None~No~Yes~N/A~0
+5918~Exquisite Pavlova~-1~None~No~Yes~None~No~Yes~N/A~0
+5919~Exquisite Lemon Meringue Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+5920~Perfected Rabbit Pie~1~None~No~Yes~None~No~Yes~5~0
+5921~Perfected Roast Beef~1~None~No~Yes~None~No~Yes~5~0
+5922~Perfected Venison Stew~2~None~No~Yes~None~No~Yes~5~0
+5923~Perfected Black Pudding~1~None~No~Yes~None~No~Yes~5~0
+5924~Perfected Boar Roast~2~None~No~Yes~None~No~Yes~5~0
+5925~Perfected Rare Fruit Salad~1~None~No~Yes~None~No~Yes~5~0
+5926~Perfected Warbeast Omlette~2~None~No~Yes~None~No~Yes~5~0
+5927~Perfected Wyvern Egg Souffle~1~None~No~Yes~None~No~Yes~5~0
+5928~Perfected Lamb Casserole~2~None~No~Yes~None~No~Yes~5~0
+5929~Perfected Cheese Rarebit~1~None~No~Yes~None~No~Yes~5~0
+5930~Perfected Cream of Pea Soup~2~None~No~Yes~None~No~Yes~5~0
+5931~Perfected Cream of Carrot Soup~2~None~No~Yes~None~No~Yes~5~0
+5932~Perfected Spinach Pancake~1~None~No~Yes~None~No~Yes~5~0
+5933~Perfected Granola~1~None~No~Yes~None~No~Yes~5~0
+5934~Perfected Sweet Roll~1~None~No~Yes~None~No~Yes~5~0
+5935~Perfected Bara Brith~1~None~No~Yes~None~No~Yes~5~0
+5936~Perfected Herring Pie~1~None~No~Yes~None~No~Yes~5~0
+5937~Perfected Whiting Soup~2~None~No~Yes~None~No~Yes~5~0
+5938~Perfected Flounder Fillet~2~None~No~Yes~None~No~Yes~5~0
+5939~Perfected Smoked Mackerel~1~None~No~Yes~None~No~Yes~5~0
+5940~Perfected Rudd Pie~1~None~No~Yes~None~No~Yes~5~0
+5941~Perfected Barbel Soup~2~None~No~Yes~None~No~Yes~5~0
+5942~Perfected Fried Carp~2~None~No~Yes~None~No~Yes~5~0
+5943~Perfected Salted Pike~1~None~No~Yes~None~No~Yes~5~0
+5944~Perfected Bream Quiche~1~None~No~Yes~None~No~Yes~5~0
+5945~Perfected Trout Soup~2~None~No~Yes~None~No~Yes~5~0
+5946~Perfected Catfish Steak~2~None~No~Yes~None~No~Yes~5~0
+5947~Perfected Smoked Salmon~1~None~No~Yes~None~No~Yes~5~0
+5948~Perfected Cave Fish Pie~1~None~No~Yes~None~No~Yes~5~0
+5949~Perfected Cullen Skink~2~None~No~Yes~None~No~Yes~5~0
+5950~Perfected Plaice Fillet~2~None~No~Yes~None~No~Yes~5~0
+5951~Perfected Smoked Eel~1~None~No~Yes~None~No~Yes~5~0
+5952~Perfected Morthar Ray Pie~1~None~No~Yes~None~No~Yes~5~0
+5953~Perfected Morthar Shark Soup~2~None~No~Yes~None~No~Yes~5~0
+5954~Perfected Sturgeon Fillet~2~None~No~Yes~None~No~Yes~5~0
+5955~Perfected Smoked Ray~1~None~No~Yes~None~No~Yes~5~0
+5956~Perfected Eel Pie~1~None~No~Yes~None~No~Yes~5~0
+5957~Perfected Dogfish Soup~2~None~No~Yes~None~No~Yes~5~0
+5958~Perfected Gulper Eel Fillet~2~None~No~Yes~None~No~Yes~5~0
+5959~Perfected Salted Angler~1~None~No~Yes~None~No~Yes~5~0
+5960~Perfected Manta Ray Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+5961~Perfected Bull Shark Soup~-1~None~No~Yes~None~No~Yes~N/A~0
+5962~Perfected Monkfish Fillet~-1~None~No~Yes~None~No~Yes~N/A~0
+5963~Perfected Jellied Eel~-1~None~No~Yes~None~No~Yes~N/A~0
+5964~Perfected Truffled Quail Eggs~-1~None~No~Yes~None~No~Yes~N/A~0
+5965~Perfected Caviar~-1~None~No~Yes~None~No~Yes~N/A~0
+5966~Perfected Filet Mignon~-1~None~No~Yes~None~No~Yes~N/A~0
+5967~Perfected Goose Liver Pate~-1~None~No~Yes~None~No~Yes~N/A~0
+5968~Perfected Pavlova~-1~None~No~Yes~None~No~Yes~N/A~0
+5969~Perfected Lemon Meringue Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+5970~Fowl Fortune~1~None~No~Yes~Chicken Taming~No~No~5~0
+5971~Health Regen Boost Companion~42~None~Yes~No~None~No~No~5~0
+5972~Energy Regen Boost Companion~43~None~Yes~Yes~None~No~No~5~0
+5973~Draconic Roar~12~Heat~No~Yes~Dragon Taming~No~No~N/A~0
+5974~Hungry (Chicken)~48~None~Yes~No~None~No~No~N/A~0
+5975~Well Fed (Chicken)~-1~None~No~No~None~No~No~N/A~0
+5976~Hungry (Hatchling)~48~None~Yes~No~None~No~No~N/A~0
+5977~Well Fed (Hatchling)~-1~None~No~No~None~No~No~N/A~0
+5978~War Horse Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+5979~Cavernous Broth~50~None~No~Yes~None~No~No~5~0
+5980~Caustic Acid~3~Poison~No~Yes~None~No~No~5~0
+5981~Blistering Heat~3~Heat~No~Yes~None~No~No~5~0
+5982~Deep Freeze~3~Cold~No~Yes~None~No~No~5~0
+5983~Arcane Shards~3~Magic~No~Yes~None~No~No~5~0
+5984~Deadly Corruption~3~Poison~No~Yes~None~No~No~5~0
+5985~Potion of Purification~-1~None~No~No~None~No~No~N/A~0
+5986~Poisoned Scourge~3~Poison~No~Yes~None~No~No~5~0
+5987~Regrowth~1~None~No~Yes~None~No~No~5~0
+5988~Tainted Blast~12~Magic~No~Yes~None~No~No~N/A~0
+5989~Chaotic Barbs~3~Chaos~No~Yes~None~No~No~5~0
+5990~Corrupted Carapace~44~None~No~Yes~None~No~No~N/A~0
+5991~Lacerating Roots~17~None~No~Yes~None~No~No~N/A~0
+5992~Paralysing Roots~8~None~No~Yes~None~No~No~N/A~0
+5993~Natures Fury~3~Poison~No~Yes~None~No~No~5~0
+5994~Heat Shield~12~Heat~No~Yes~None~No~No~N/A~0
+5995~Ice Shield~12~Cold~No~Yes~None~No~No~N/A~0
+5996~Festering Wounds~3~Poison~No~Yes~None~No~No~5~0
+5997~Blood Sacrifice~3~Unknown(14)~No~Yes~None~No~No~5~0
+5998~Solar Barrier~27~None~No~Yes~None~No~No~N/A~0
+5999~Hungry (Eagle)~48~None~Yes~No~None~No~No~N/A~0
+6000~Well Fed (Eagle)~-1~None~No~No~None~No~No~N/A~0
+6001~War Elk Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+6002~Lightning Discharge~8~None~No~Yes~None~No~No~N/A~0
+6003~Crushing Talons~44~None~No~Yes~Eagle Taming~No~No~N/A~0
+6004~Fresh Mince Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+6005~Exquisite Mince Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+6006~Perfected Mince Pie~-1~None~No~Yes~None~No~Yes~N/A~0
+6007~Fresh Gingerbread Man~8~None~No~Yes~None~No~Yes~N/A~0
+6008~Exquisite Gingerbread Man~8~None~No~Yes~None~No~Yes~N/A~0
+6009~Perfected Gingerbread Man~8~None~No~Yes~None~No~Yes~N/A~0
+6010~MacLir Clan Knowledge~-1~None~No~Yes~None~No~Yes~N/A~0
+6011~Avarice of Mordris~-1~None~No~Yes~None~No~Yes~N/A~0
+6012~Culinarians Gift~-1~None~No~Yes~None~No~Yes~N/A~0
+6013~Blood Frenzy~17~None~No~Yes~None~No~No~N/A~0
+6014~Impaled~3~Magic~No~Yes~None~No~No~5~0
+6015~Aerial Stomp~3~Crush~No~Yes~None~No~No~5~0
+6016~Shroud of Decay~52~Cold~No~Yes~None~No~No~N/A~5
+6017~Shroud of Decay Infliction~3~True~No~Yes~None~No~No~1~0
+6018~Lichborne Presence Aura~52~None~No~Yes~None~No~No~N/A~8
+6019~Storm of the Tormented Soul~52~True~No~Yes~None~No~No~N/A~6
+6020~Grace of the Gods Aura~52~None~No~Yes~None~No~No~N/A~7
+6021~Enfeebling Curse Aura~52~None~No~Yes~None~No~No~N/A~8
+6022~Reavers Resilience~17~None~No~Yes~None~No~No~N/A~0
+6023~Lichborne Presence~17~None~No~Yes~None~No~No~N/A~0
+6024~Storm of the Tormented Soul~3~Magic~No~Yes~None~No~No~10~0
+6025~Grace of the Gods~-1~None~No~Yes~None~No~No~N/A~0
+6026~Enfeebling Curse~12~Crush~No~Yes~None~No~No~N/A~0
+6027~Reavers Resilience Effect~-1~None~No~Yes~None~No~No~N/A~0
+6028~Conflagration~3~Heat~No~Yes~None~No~No~5~0
+6029~Searing Corruption~6~Heat~No~Yes~None~No~No~N/A~0
+6030~Frozen Barrier~6~Cold~No~Yes~None~No~No~N/A~0
+6031~Deathly Chill~3~Cold~No~Yes~None~No~No~5~0
+6032~Putrid Corruption~3~Magic~No~Yes~None~No~No~5~0
+6033~Numbing Corruption~3~Cold~No~Yes~None~No~No~5~0
+6034~Flaming Corruption~3~Heat~No~Yes~None~No~No~5~0
+6035~Malignant Corruption~3~Poison~No~Yes~None~No~No~5~0
+6036~Reavers Oppression Aura~52~None~No~Yes~None~No~No~N/A~15
+6037~Reavers Oppression~8~None~No~Yes~None~No~No~N/A~0
+6038~Acuity of the Lich~8~None~No~Yes~None~No~No~N/A~0
+6039~Ritual of Sacrifice~27~None~No~Yes~None~No~No~N/A~0
+6040~Binding Sands Aura~52~None~No~Yes~None~No~No~N/A~9
+6041~Binding Sands~8~None~No~Yes~None~No~No~N/A~0
+6042~Sacrificial Rites~28~None~No~Yes~None~No~No~N/A~0
+6043~Tainted Strike~3~Poison~No~Yes~None~No~No~5~0
+6044~Ritual Preparation~8~Heat~No~Yes~None~No~No~N/A~0
+6045~Soul Harvest~52~None~No~Yes~None~No~No~N/A~10
+6046~Soul Harvest~3~Magic~No~Yes~None~No~No~2~0
+6047~Crushing Void Aura~52~Chaos~No~Yes~None~No~No~N/A~11
+6048~Crushing Void~3~Chaos~No~Yes~None~No~No~2~0
+6049~Chaotic Barbs Aura~52~None~No~Yes~None~No~No~N/A~12
+6050~Lacerating Roots Aura~52~None~No~Yes~None~No~No~N/A~13
+6051~Natures Fury Aura~52~None~No~Yes~None~No~No~N/A~14
+6052~Condemning Cleave~12~Slash~No~Yes~None~No~No~N/A~0
+6053~Crushing Onslaught~18~Chaos~No~Yes~None~No~No~N/A~0
+6054~Debilitating Corruption~52~None~No~Yes~None~No~No~N/A~16
+6055~Debilitation~17~None~No~Yes~None~No~No~N/A~0
+6056~Venomous Thorns~6~Poison~No~Yes~None~No~No~N/A~0
+6057~Venomous Thorns~6~Poison~No~Yes~None~No~No~N/A~0
+6058~Venomous Thorns~6~Poison~No~Yes~None~No~No~N/A~0
+6059~Venomous Thorns~6~Poison~No~Yes~None~No~No~N/A~0
+6060~Venomous Thorns~6~Poison~No~Yes~None~No~No~N/A~0
+6061~Venomous Thorns~6~Poison~No~Yes~None~No~No~N/A~0
+6062~Minor Electric Surge~52~Magic~No~Yes~None~No~No~N/A~17
+6063~Minor Electric Surge~3~Magic~No~Yes~None~No~No~2~0
+6064~Major Electric Surge~52~Magic~No~Yes~None~No~No~N/A~18
+6065~Major Electric Surge~3~Magic~No~Yes~None~No~No~2~0
+6066~Unbridled Electric Surge~52~Magic~No~Yes~None~No~No~N/A~19
+6067~Unbridled Electric Surge~3~Magic~No~Yes~None~No~No~2~0
+6068~Electrification~52~Magic~No~Yes~None~No~No~N/A~20
+6069~Electrification~33~Magic~No~Yes~None~No~No~N/A~0
+6070~Minor Glacial Surge~52~Cold~No~Yes~None~No~No~N/A~21
+6071~Minor Glacial Surge~3~Cold~No~Yes~None~No~No~2~0
+6072~Major Glacial Surge~52~Cold~No~Yes~None~No~No~N/A~22
+6073~Major Glacial Surge~3~Cold~No~Yes~None~No~No~2~0
+6074~Unbridled Glacial Surge~52~Cold~No~Yes~None~No~No~N/A~23
+6075~Unbridled Glacial Surge~3~Cold~No~Yes~None~No~No~2~0
+6076~Absolute Zero~52~Cold~No~Yes~None~No~No~N/A~24
+6077~Absolute Zero~28~Cold~No~Yes~None~No~No~N/A~0
+6078~Minor Heat Surge~52~Heat~No~Yes~None~No~No~N/A~25
+6079~Minor Heat Surge~3~Heat~No~Yes~None~No~No~2~0
+6080~Major Heat Surge~52~Heat~No~Yes~None~No~No~N/A~26
+6081~Major Heat Surge~3~Heat~No~Yes~None~No~No~2~0
+6082~Unbridled Heat Surge~52~Heat~No~Yes~None~No~No~N/A~27
+6083~Unbridled Heat Surge~3~Heat~No~Yes~None~No~No~2~0
+6084~Infernal Blaze~52~Heat~No~Yes~None~No~No~N/A~28
+6085~Infernal Blaze~17~Heat~No~Yes~None~No~No~N/A~0
+6086~Minor Toxic Surge~52~Poison~No~Yes~None~No~No~N/A~29
+6087~Minor Toxic Surge~3~Poison~No~Yes~None~No~No~2~0
+6088~Major Toxic Surge~52~Poison~No~Yes~None~No~No~N/A~30
+6089~Major Toxic Surge~3~Poison~No~Yes~None~No~No~2~0
+6090~Unbridled Toxic Surge~52~Poison~No~Yes~None~No~No~N/A~31
+6091~Unbridled Toxic Surge~3~Poison~No~Yes~None~No~No~2~0
+6092~Secreted Venom~52~Poison~No~Yes~None~No~No~N/A~32
+6093~Secreted Venom~6~Poison~No~Yes~None~No~No~N/A~0
+6094~Minor Rejuvenation~52~True~No~Yes~None~No~No~N/A~33
+6095~Minor Rejuvenation~1~True~No~Yes~None~No~No~5~0
+6096~Major Rejuvenation~52~True~No~Yes~None~No~No~N/A~34
+6097~Major Rejuvenation~1~True~No~Yes~None~No~No~5~0
+6098~Unbridled Rejuvenation~52~True~No~Yes~None~No~No~N/A~35
+6099~Unbridled Rejuvenation~1~True~No~Yes~None~No~No~5~0
+6100~Embrocation Barrier~52~True~No~Yes~None~No~No~N/A~36
+6101~Embrocation Barrier~27~True~No~Yes~None~No~No~N/A~0
+6102~Minor Chaotic Surge~52~Chaos~No~Yes~None~No~No~N/A~37
+6103~Minor Chaotic Surge~3~Chaos~No~Yes~None~No~No~2~0
+6104~Major Chaotic Surge~52~Chaos~No~Yes~None~No~No~N/A~38
+6105~Major Chaotic Surge~3~Chaos~No~Yes~None~No~No~2~0
+6106~Unbridled Chaotic Surge~52~Chaos~No~Yes~None~No~No~N/A~39
+6107~Unbridled Chaotic Surge~3~Chaos~No~Yes~None~No~No~2~0
+6108~Havoc~52~Chaos~No~Yes~None~No~No~N/A~40
+6109~Havoc~3~Chaos~No~Yes~None~No~No~2~0
+6110~Voltroots Electrical Aura~52~Magic~No~Yes~None~No~No~N/A~41
+6111~Voltroots Electrical Aura~1~Magic~No~Yes~None~No~No~2~0
+6112~Frostroots Glacial Aura~52~Magic~No~Yes~None~No~No~N/A~42
+6113~Frostroots Glacial Aura~1~Magic~No~Yes~None~No~No~2~0
+6114~Blazeroots Immolating Aura~52~Magic~No~Yes~None~No~No~N/A~43
+6115~Blazeroots Immolating Aura~1~Magic~No~Yes~None~No~No~2~0
+6116~Causticroots Venomous Aura~52~Magic~No~Yes~None~No~No~N/A~44
+6117~Causticroots Venomous Aura~1~Magic~No~Yes~None~No~No~2~0
+6118~Salveroots Shielding Aura~52~Magic~No~Yes~None~No~No~N/A~45
+6119~Salveroots Shielding Aura~1~Magic~No~Yes~None~No~No~2~0
+6120~Chaosroots Corrupted Aura~52~Magic~No~Yes~None~No~No~N/A~46
+6121~Chaosroots Corrupted Aura~1~Magic~No~Yes~None~No~No~2~0
+6122~Corrosive Pool Aura~52~Chaos~No~Yes~None~No~No~N/A~47
+6123~Corrosive Pool~3~Poison~No~Yes~None~No~No~2~0
+6124~Venomous Thorns~6~Poison~No~Yes~None~No~No~N/A~0
+6125~Cuhcullains Bastion~6~Divine~No~Yes~None~No~No~N/A~0
+6126~Fingals Edge of Prowess~3~Divine~No~Yes~None~No~No~5~0
+6127~Fingals Edge of Finesse~3~Divine~No~Yes~None~No~No~5~0
+6128~Myrines Featherdraw~16~Divine~No~Yes~None~No~No~N/A~0
+6129~Myrines Crossfire~16~Divine~No~Yes~None~No~No~N/A~0
+6130~Myrrdins Sacred Flame~3~Divine~No~Yes~None~No~No~5~0
+6131~Myrrdins Glacial Embrace~3~Divine~No~Yes~None~No~No~5~0
+6132~Myrrdins Adaptation~-1~Divine~No~Yes~None~No~No~N/A~0
+6133~Dian Cechts Grace~1~None~No~Yes~None~No~No~5~0
+6134~Dian Cechts Boon~12~Poison~No~Yes~None~No~No~N/A~0
+6135~Dian Cechts Stormrage~12~Magic~No~Yes~None~No~No~N/A~0
+6136~Hungry (Phoenix)~48~None~Yes~No~None~No~No~N/A~0
+6137~Well Fed (Phoenix)~-1~None~No~No~None~No~No~N/A~0
+6138~War Tiger Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+6139~Faint Melody~1~None~Yes~No~None~No~Yes~5~0
+6140~Debilitating Flames~12~Heat~No~Yes~Phoenix Taming~No~No~N/A~0
+6141~Debilitating Corrosion~0~Poison~No~Yes~Phoenix Taming~No~No~N/A~0
+6142~Debilitating Chill~12~Cold~No~Yes~Phoenix Taming~No~No~N/A~0
+6143~Debilitating Spell~12~Magic~No~Yes~Phoenix Taming~No~No~N/A~0
+6146~Minor Lure of Giants~12~Crush~No~Yes~Ice Magic~No~No~N/A~0
+6147~Minor Lure of Magic~12~Magic~No~Yes~Ice Magic~No~No~N/A~0
+6148~Minor Ward of Soldiers~12~Slash~No~Yes~Nature Magic~No~No~N/A~0
+6149~Minor Ward of Giants~12~Crush~No~Yes~Nature Magic~No~No~N/A~0
+6150~Minor Ward of Assassins~12~Pierce~No~Yes~Nature Magic~No~No~N/A~0
+6151~Minor Ward of Magic~12~Magic~No~Yes~Nature Magic~No~No~N/A~0
+6152~Minor Protective Stance~0~None~No~Yes~Melee Combat~No~No~N/A~0
+6153~Minor Fast Reflexes~15~None~No~Yes~Cunning~No~No~N/A~0
+6154~Minor Bolas~25~None~No~Yes~Ranged Combat~No~No~N/A~0
+6155~Minor Energy Shield~27~None~No~Yes~Ice Magic~No~No~N/A~0
+6156~Minor Grasping Roots~5~None~No~Yes~Nature Magic~No~No~N/A~0
+6157~Minor Poison Weapon~16~Poison~No~Yes~Cunning~No~No~N/A~0
+6158~Minor Lure of Soldiers~12~Slash~No~Yes~Fire Magic~No~No~N/A~0
+6159~Minor Lure of Assassins~12~Pierce~No~Yes~Fire Magic~No~No~N/A~0
+6160~Mystic Burn~12~Magic~No~Yes~None~No~No~N/A~0
+6161~Knifebane Barrier~1~None~No~Yes~None~No~No~5~0
+6162~Bladebane Barrier~1~None~No~Yes~None~No~No~5~0
+6163~Smitebane Barrier~1~None~No~Yes~None~No~No~5~0
+6164~Firebane Barrier~1~None~No~Yes~None~No~No~5~0
+6165~Frostbane Barrier~1~None~No~Yes~None~No~No~5~0
+6166~Soulbane Barrier~1~None~No~Yes~None~No~No~5~0
+6167~Acidbane Barrier~1~None~No~Yes~None~No~No~5~0
+6168~Negative Energy Aura~52~Chaos~No~Yes~None~No~No~N/A~48
+6169~Negative Energy~53~None~No~Yes~None~No~No~N/A~0
+6170~Electrocution~8~None~No~Yes~None~No~No~N/A~0
+6171~Hungry (Pig)~48~None~Yes~No~None~No~No~N/A~0
+6172~Well Fed (Pig)~-1~None~No~No~None~No~No~N/A~0
+6173~Divine Being~-1~None~No~Yes~None~No~No~N/A~0
+6174~Corruptive Aura~52~Divine~No~Yes~None~No~No~N/A~49
+6175~Corruptive Power~41~None~No~Yes~None~No~No~N/A~0
+6176~Corruptive Possession~54~Divine~No~Yes~None~No~No~N/A~0
+6177~Hungry (Seedling)~48~None~Yes~No~None~No~No~N/A~0
+6178~Well Fed (Seedling)~-1~None~No~No~None~No~No~N/A~0
+6179~Natural Rejuvenation~1~None~No~Yes~Pig Taming~No~No~5~0
+6180~Minor Immolating Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~50
+6181~Minor Immolating Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6182~Minor Glacial Aura~52~Magic~No~Yes~None~No~No~N/A~51
+6183~Minor Glacial Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6184~Minor Electrical Aura~52~Magic~No~Yes~None~No~No~N/A~52
+6185~Minor Electrical Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6186~Minor Venomous Aura~52~Magic~No~Yes~None~No~No~N/A~53
+6187~Minor Venomous Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6188~Minor Shielding Aura~52~Magic~No~Yes~None~No~No~N/A~54
+6189~Minor Shielding Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6190~Minor Corrupted Aura~52~Magic~No~Yes~None~No~No~N/A~55
+6191~Minor Corrupted Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6192~Arcane Invigoration~6~Magic~No~Yes~None~No~No~N/A~0
+6193~Arcane Infection~3~Magic~No~Yes~None~No~No~5~0
+6194~Lesser Immolating Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~56
+6195~Lesser Immolating Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6196~Lesser Glacial Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~57
+6197~Lesser Glacial Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6198~Lesser Electrical Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~58
+6199~Lesser Electrical Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6200~Lesser Venomous Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~59
+6201~Lesser Venomous Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6202~Lesser Shielding Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~60
+6203~Lesser  Shielding Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6204~Lesser Corrupted Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~61
+6205~Lesser Corrupted Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6206~Major Immolating Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~62
+6207~Major Immolating Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6208~Major Glacial Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~63
+6209~Major Glacial Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6210~Major Electrical Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~64
+6211~Major Electrical Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6212~Major Venomous Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~65
+6213~Major Venomous Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6214~Major Shielding Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~66
+6215~Major Shielding Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6216~Major Corrupted Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~67
+6217~Major Corrupted Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6218~Greater Immolating Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~68
+6219~Greater Immolating Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6220~Greater Glacial Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~69
+6221~Greater Glacial Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6222~Greater Electrical Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~70
+6223~Greater Electrical Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6224~Greater Venomous Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~71
+6225~Greater Venomous Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6226~Greater Shielding Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~72
+6227~Greater Shielding Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6228~Greater Corrupted Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~73
+6229~Greater Corrupted Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6230~Mighty Immolating Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~74
+6231~Mighty Immolating Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6232~Mighty Glacial Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~75
+6233~Mighty Glacial Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6234~Mighty Electrical Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~76
+6235~Mighty Electrical Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6236~Mighty Venomous Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~77
+6237~Mighty Venomous Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6238~Mighty Shielding Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~78
+6239~Mighty Shielding Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6240~Mighty Corrupted Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~79
+6241~Mighty Corrupted Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6242~Unbridled Immolating Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~80
+6243~Unbridled Immolating Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6244~Unbridled Glacial Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~81
+6245~Unbridled Glacial Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6246~Unbridled Electrical Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~82
+6247~Unbridled Electrical Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6248~Unbridled Venomous Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~83
+6249~Unbridled Venomous Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6250~Unbridled Shielding Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~84
+6251~Unbridled Shielding Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6252~Unbridled Corrupted Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~85
+6253~Unbridled Corrupted Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6254~Mystic Debilitation~44~None~No~Yes~None~No~No~N/A~0
+6255~Mystic Resistance~12~Magic~No~Yes~None~No~No~N/A~0
+6256~Blazing Lure~12~Heat~No~Yes~None~No~No~N/A~0
+6257~Glacial Lure~12~Cold~No~Yes~None~No~No~N/A~0
+6258~Arcane Lure~12~Magic~No~Yes~None~No~No~N/A~0
+6259~Blazing Fury~16~Heat~No~Yes~None~No~No~N/A~0
+6260~Glacial Fury~16~Cold~No~Yes~None~No~No~N/A~0
+6261~Arcane Fury~16~Magic~No~Yes~None~No~No~N/A~0
+6262~Ancient Resolve~5~None~No~No~None~No~No~N/A~0
+6263~Hellsteed Movement Boost~8~None~Yes~No~None~No~No~N/A~0
+6264~Nightmare Aura~52~Heat~No~Yes~Seedling Taming~No~No~N/A~86
+6265~Hellfire~3~Heat~No~Yes~None~No~No~5~0
+6266~Acid Burn~3~Poison~No~Yes~None~No~No~2~0
+6267~Toxic Erosion~0~None~No~Yes~None~No~No~N/A~0
+6268~Witches Boon~52~Magic~No~Yes~None~No~No~N/A~87
+6269~Witches Protection~1~Magic~No~Yes~None~No~No~1~0
+6270~Hungry (Reindeer)~48~None~Yes~No~None~No~No~N/A~0
+6271~Well Fed (Reindeer)~-1~None~No~No~None~No~No~N/A~0
+6272~Polar Shield~27~None~No~Yes~Reindeer Taming~No~No~N/A~0
+6273~Sun King Soup~1~None~No~Yes~None~No~Yes~5~0
+6274~Exquisite Sun King Soup~1~None~No~Yes~None~No~Yes~5~0
+6275~Perfected Sun King Soup~1~None~No~Yes~None~No~Yes~5~0
+6276~Yule Cookies~20~None~No~Yes~None~No~Yes~N/A~0
+6277~Exquisite Yule Cookies~20~None~No~Yes~None~No~Yes~N/A~0
+6278~Perfected Yule Cookies~20~None~No~Yes~None~No~Yes~N/A~0
+6279~Rice Pudding~-1~None~No~Yes~None~No~Yes~N/A~0
+6280~Exquisite Rice Pudding~-1~None~No~Yes~None~No~Yes~N/A~0
+6281~Perfected Rice Pudding~-1~None~No~Yes~None~No~Yes~N/A~0
+6282~Yule Cake~-1~None~No~Yes~None~No~Yes~N/A~0
+6283~Exquisite Yule Cake~-1~None~No~Yes~None~No~Yes~N/A~0
+6284~Perfected Yule Cake~-1~None~No~Yes~None~No~Yes~N/A~0
+6285~Spiced Beef~1~None~No~Yes~None~No~Yes~5~0
+6286~Exquisite Spiced Beef~1~None~No~Yes~None~No~Yes~5~0
+6287~Perfected Spiced Beef~1~None~No~Yes~None~No~Yes~5~0
+6288~Yule Roast~6~Crush~No~Yes~None~No~Yes~N/A~0
+6289~Exquisite Yule Roast~6~Crush~No~Yes~None~No~Yes~N/A~0
+6290~Perfected Yule Roast~6~Crush~No~Yes~None~No~Yes~N/A~0
+6291~Sunshine Casserole~2~None~No~Yes~None~No~Yes~5~0
+6292~Exquisite Sunshine Casserole~2~None~No~Yes~None~No~Yes~5~0
+6293~Perfected Sunshine Casserole~2~None~No~Yes~None~No~Yes~5~0
+6294~Spicy Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6295~Exquisite Spicy Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6296~Perfected Spicy Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6297~Minty Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6298~Exquisite Minty Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6299~Perfected Minty Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6300~Honey Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6301~Exquisite Honey Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6302~Perfected Honey Fruit Salad~-1~None~No~Yes~None~No~Yes~N/A~0
+6303~Hungry (Imp)~48~None~Yes~No~None~No~No~N/A~0
+6304~Well Fed (Imp)~-1~None~No~No~None~No~No~N/A~0
+6305~Soulbound Barrier~6~Magic~No~Yes~Imp Taming~No~No~N/A~0
+6306~Undead Boon~52~Magic~No~Yes~None~No~No~N/A~88
+6307~Undead Protection~1~Magic~No~Yes~None~No~No~1~0
+6308~Frostburn~3~Cold~No~Yes~None~No~No~2~0
+6309~Bone Chill~8~None~No~Yes~None~No~No~N/A~0
+6310~Boundless Immolating Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~89
+6311~Boundless Immolating Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6312~Boundless Glacial Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~90
+6313~Boundless Glacial Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6314~Boundless Electrical Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~91
+6315~Boundless Electrical Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6316~Boundless Venomous Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~92
+6317~Boundless Venomous Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6318~Boundless Shielding Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~93
+6319~Boundless Shielding Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6320~Boundless Corrupted Aura~52~Magic~No~Yes~Seedling Taming~No~No~N/A~94
+6321~Boundless Corrupted Power~-1~Magic~No~Yes~None~No~No~N/A~0
+6322~Jubilation Elixir OLD~55~None~No~No~None~No~No~N/A~0
+6323~Mythic Boon~52~Magic~No~Yes~None~No~No~N/A~95
+6324~Mythic Protection~1~Magic~No~Yes~None~No~No~1~0
+6325~Searing Heat~3~Heat~No~Yes~None~No~No~2~0
+6326~Blazing Glow~15~None~No~Yes~None~No~No~N/A~0
+10001~Relaxing Atmosphere~35~None~No~Yes~None~No~Yes~5~0
+10002~Searing Heat~3~Heat~No~Yes~None~No~No~5~0
+10003~Vile Sludge~8~None~No~Yes~None~No~No~N/A~0
+10004~Eldritch Torment~3~Magic~No~Yes~None~No~No~5~0
+10005~Eldritch Shackles~17~None~No~Yes~None~No~No~N/A~0
+10006~Eldritch Corrosion~39~None~No~Yes~None~No~No~N/A~0
+20001~Curse of the Fallen~36~None~No~No~None~No~No~N/A~0
+20002~Resurrected~36~None~No~No~None~No~No~N/A~0
+20003~Enraged~47~None~No~Yes~None~No~No~N/A~0
+20004~DEV ONLY SPEED BOOST~8~None~Yes~No~None~No~No~N/A~0
+20005~TEST Ignite Effect~5~None~No~Yes~Nature Magic~No~No~N/A~0
+20006~Death Timer~-1~None~No~No~None~No~No~N/A~0
+20007~Dismounted~51~None~No~No~None~No~Yes~N/A~0

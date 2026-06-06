@@ -1,0 +1,21 @@
+2~Lir's Reach~z2_map~-358~358~-358~358
+3~Stonevale~z3_map~-340.3~439.7~-372~408
+4~Crookback Hollow~z4_map~-73.09~192.69~-131.9~132.68
+5~Dustwither Catacombs~z5_map~-142~142~-136~148
+6~Shalemont Ravine~z6_map~-146.11~297.06~-195.15~256.23
+7~Otherworld~z7_map~-766.74~899.39~-770.16~851.3
+8~Global Arena~z8_map~-115~51~-83~83
+9~Tavern~z9_map~-59.61~74.3~-73.35~61.08
+10~Carrowmore Tunnels~z10_map~-936~761~-606~1091
+11~Fingal's Cave~z11_map~148.4~1193.6~-221.3~820.9
+12~Dunskeig Sewers~z12_map~-410.344~414.283~-133.27~677.213
+13~Murky Vaults~z13_map~-352~518~348~1216
+15~Bridge of Despair~z15_map~-282~150~-189~243
+16~Infernal Armouries~z16_map~-47~461~-253.2~254.8
+17~Alchemical Quarters~z17_map~-47~461~-253.2~254.8
+18~Summoning Chambers~z18_map~-47~461~-253.2~254.8
+19~Forbidden Halls~z19_map~-461~47~-254.8~253
+20~Arcane Sanctum~z20_map~-50~470~-260~260
+22~Heroes Landing~z22_map~-423~-97~122~448
+24~Corrupted Gardens~z24_map~-263~284~-380~167
+93~Farcrag Castle~z93_map~-155~175~-139~191
