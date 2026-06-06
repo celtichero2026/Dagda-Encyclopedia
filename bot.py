@@ -639,7 +639,7 @@ async def scriptstats(ctx):
         f"scripts: {scripts:,}"
     )
 
-@bot.command(name="script", aliases=["scripts", "ai"])
+@bot.command(name="script", aliases=["scripts", "mechanics", "ai"])
 async def script_lookup(ctx, *, name: str):
     mob_data = find_mob(name)
 
@@ -653,19 +653,21 @@ async def script_lookup(ctx, *, name: str):
             SELECT
                 s.id,
                 s.message,
+                s.raw_text,
                 ms.extra
             FROM mob_scripts ms
             JOIN scripts s
-                ON s.id = ms.script_id
+                ON s.id = CAST(ms.extra AS INTEGER)
             WHERE ms.mob_id = ?
             ORDER BY s.id
+            LIMIT 25
             """,
-            (mob_data["id"],)
+            (mob_data["id"],),
         ).fetchall()
 
     if not rows:
         await ctx.send(
-            f"No scripts found for **{mob_data['name']}** "
+            f"No readable scripts found for **{mob_data['name']}** "
             f"(ID: {mob_data['id']})."
         )
         return
@@ -673,16 +675,13 @@ async def script_lookup(ctx, *, name: str):
     lines = []
 
     for row in rows:
-        script_id = row["id"]
         message = row["message"] or "No message"
-        extra = row["extra"]
+        message = message.replace("<MN>", mob_data["name"])
 
-        entry = f"**Script {script_id}**\n{message}"
-
-        if extra:
-            entry += f"\nExtra: `{extra}`"
-
-        lines.append(entry)
+        lines.append(
+            f"• **Script `{row['id']}`**\n"
+            f"{message}"
+        )
 
     chunks = []
     current = ""
@@ -701,9 +700,9 @@ async def script_lookup(ctx, *, name: str):
         title=f"Scripts: {mob_data['name']}",
         description=(
             f"Mob ID: `{mob_data['id']}`\n"
-            f"Scripts found: **{len(rows)}**"
+            f"Readable scripts found: **{len(rows)}**"
         ),
-        color=discord.Color.purple()
+        color=discord.Color.dark_purple()
     )
 
     for i, chunk in enumerate(chunks[:5], start=1):
@@ -711,11 +710,6 @@ async def script_lookup(ctx, *, name: str):
             name=f"Script Group {i}",
             value=chunk,
             inline=False
-        )
-
-    if len(chunks) > 5:
-        embed.set_footer(
-            text=f"Showing first 5 pages of scripts."
         )
 
     await ctx.send(embed=embed)
