@@ -738,4 +738,18 @@ async def scriptcols(ctx):
         "```"
     )
 
+@bot.command()
+async def scriptsample(ctx):
+    with get_db() as conn:
+        rows = conn.execute(
+            """
+            SELECT *
+            FROM mob_scripts
+            LIMIT 10
+            """
+        ).fetchall()
+
+    msg = "\n".join(str(dict(r)) for r in rows)
+    await ctx.send(f"```{msg[:1900]}```")
+
 bot.run(TOKEN)
