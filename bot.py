@@ -92,6 +92,14 @@ def find_mob(name: str):
     search = name.lower().strip()
     search = ALIASES.get(search, search)
 
+    if search.isdigit():
+    with get_db() as conn:
+        row = conn.execute(
+            "SELECT * FROM mobs WHERE id = ? LIMIT 1",
+            (int(search),),
+        ).fetchone()
+    return row_to_mob(row) if row else None
+    
     with get_db() as conn:
         row = conn.execute(
             '''
