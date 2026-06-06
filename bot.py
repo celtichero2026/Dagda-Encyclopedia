@@ -676,4 +676,20 @@ async def script_lookup(ctx, *, name: str):
 
     await ctx.send(embed=embed)
 
+@bot.command()
+async def scriptstats(ctx):
+    with get_db() as conn:
+        mob_scripts = conn.execute(
+            "SELECT COUNT(*) FROM mob_scripts"
+        ).fetchone()[0]
+
+        scripts = conn.execute(
+            "SELECT COUNT(*) FROM scripts"
+        ).fetchone()[0]
+
+    await ctx.send(
+        f"mob_scripts: {mob_scripts:,}\n"
+        f"scripts: {scripts:,}"
+    )
+
 bot.run(TOKEN)
