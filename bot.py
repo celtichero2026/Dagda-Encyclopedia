@@ -93,11 +93,40 @@ def find_mob(name: str):
     search = ALIASES.get(search, search)
 
     if search.isdigit():
+        with get_db() as conn:
+            row = conn.execute(
+                "SELECT * FROM mobs WHERE id = ? LIMIT 1",
+                (int(search),),
+            ).fetchone()
+
+        return row_to_mob(row) if row else None
+
     with get_db() as conn:
         row = conn.execute(
-            "SELECT * FROM mobs WHERE id = ? LIMIT 1",
-            (int(search),),
+            '''
+            SELECT * FROM mobs
+            WHERE search_name = ?
+            ORDER BY COALESCE(stars, 0) DESC,
+                     COALESCE(level, 0) DESC,
+                     COALESCE(health, 0) DESC
+            LIMIT 1
+            ''',
+            (search,),
         ).fetchone()
+
+        if row is None:
+            row = conn.execute(
+                '''
+                SELECT * FROM mobs
+                WHERE search_name LIKE ?
+                ORDER BY COALESCE(stars, 0) DESC,
+                         COALESCE(level, 0) DESC,
+                         COALESCE(health, 0) DESC
+                LIMIT 1
+                ''',
+                (f'%{search}%',),
+            ).fetchone()
+
     return row_to_mob(row) if row else None
     
     with get_db() as conn:
