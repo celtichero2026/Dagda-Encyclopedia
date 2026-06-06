@@ -592,4 +592,172 @@ async def spawn_lookup(ctx, *, name: str):
 
     await ctx.send(embed=embed)
 
+BOSS_ALIASES = {
+    "smol": "smolach",
+    "bt": "bloodthorn",
+    "dhio": "dhiothu",
+    "gele": "gelebron",
+    "mord": "mordris",
+    "hrung": "hrungnir",
+    "necro": "efnisien",
+    "prot": "proteus",
+    "prime": "proteus prime",
+    "base": "proteus base",
+    "crom": "crom",
+}
+
+@bot.command(name="boss")
+async def boss_lookup(ctx, *, name: str):
+    search = BOSS_ALIASES.get(name.lower().strip(), name)
+
+    mob = find_mob(search)
+
+    if not mob:
+        await ctx.send("Boss not found.")
+        return
+
+    with get_db() as conn:
+
+        drop_count = conn.execute(
+            """
+            SELECT COUNT(DISTINCT item_id)
+            FROM mob_drops
+            WHERE mob_id = ?
+            """,
+            (mob["id"],)
+        ).fetchone()[0]
+
+        spawn = conn.execute(
+            """
+            SELECT *
+            FROM mob_spawns
+            WHERE mob_id = ?
+            LIMIT 1
+            """,
+            (mob["id"],)
+        ).fetchone()
+
+    respawn = "Unknown"
+
+    if spawn:
+        min_spawn = spawn["min_spawn_secs"]
+        max_spawn = spawn["max_spawn_secs"]
+
+        if min_spawn and max_spawn:
+            respawn = (
+                f"{fmt_seconds(min_spawn)} - {fmt_seconds(max_spawn)}"
+                if min_spawn != max_spawn
+                else fmt_seconds(min_spawn)
+            )
+
+    embed = discord.Embed(
+        title=mob["name"],
+        color=discord.Color.gold()
+    )
+
+    embed.add_field(
+        name="Boss ID",
+        value=f"`{mob['id']}`",
+        inline=True
+    )
+
+    embed.add_field(
+        name="Respawn Window",
+        value=respawn,
+        inline=True
+    )
+
+    embed.add_field(
+        name="Known Unique Drops",
+        value=f"{drop_count:,}",
+        inline=True
+    )
+
+    embed.add_field(
+        name="Stats",
+        value=(
+            f"Level: **{fmt_num(mob['level'])}**\n"
+            f"HP: **{fmt_num(mob['health'])}**\n"
+            f"Attack: **{fmt_num(mob['attack'])}**\n"
+            f"Defence: **{fmt_num(mob['defence'])}**"
+        ),
+        inline=False
+    )
+
+    embed.add_field(
+        name="Useful Commands",
+        value=(
+            f"• `!mob {name}`\n"
+            f"• `!spawn {name}`\n"
+            f"• `!drops {name}`"
+        ),
+        inline=False
+    )
+
+    await ctx.send(embed=embed)
+
+@bot.command()
+async def tables(ctx):
+    with get_db() as conn:
+        rows = conn.execute(
+            "SELECT name FROM sqlite_master WHERE type='table' ORDER BY name"
+        ).fetchall()
+
+    await ctx.send("```" + "\n".join(row["name"] for row in rows) + "```")
+
+@bot.command(name="script", aliases=["scripts", "mechanics"])
+async def script_lookup(ctx, *, name: str):
+    mob_data = find_mob(name)
+
+    if not mob_data:
+        await ctx.send("Mob not found.")
+        return
+
+    with get_db() as conn:
+        rows = conn.execute(
+            """
+            SELECT 
+                ms.script_id,
+                ms.extra,
+                ms.raw_text AS mob_script_raw,
+                s.message,
+                s.raw_text AS script_raw
+            FROM mob_scripts ms
+            LEFT JOIN scripts s ON s.id = ms.script_id
+            WHERE ms.mob_id = ?
+            ORDER BY ms.script_id
+            LIMIT 25
+            """,
+            (mob_data["id"],),
+        ).fetchall()
+
+    if not rows:
+        await ctx.send(f"No scripts found for **{mob_data['name']}**.")
+        return
+
+    lines = []
+    for row in rows:
+        message = row["message"] or "No readable message"
+        extra = row["extra"] or ""
+        lines.append(
+            f"• **Script `{row['script_id']}`**\n"
+            f"Message: {message}\n"
+            f"Extra: `{extra[:120]}`"
+        )
+
+    text = "\n\n".join(lines)
+
+    if len(text) > 3900:
+        text = text[:3900] + "\n\n*Too many scripts to display.*"
+
+    embed = discord.Embed(
+        title=f"Scripts: {mob_data['name']}",
+        description=f"Mob ID: `{mob_data['id']}`\nScript links: **{len(rows)}**",
+        color=discord.Color.dark_purple()
+    )
+
+    embed.add_field(name="Script Data", value=text, inline=False)
+
+    await ctx.send(embed=embed)
+
 bot.run(TOKEN)
