@@ -384,8 +384,8 @@ async def boss(ctx, *, query: str):
 
     await ctx.send(embed=embed)
 
-@bot.command()
-async def search(ctx, *, query: str):
+@bot.command(name="gsearch", aliases=["gfind", "lookup"])
+async def grimoire_search(ctx, *, query: str):
     search_text = query.lower().strip()
     alias_text = ALIASES.get(search_text, search_text)
 
