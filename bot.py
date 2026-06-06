@@ -56,7 +56,6 @@ def row_to_mob(row: sqlite3.Row) -> dict:
 
 
 def find_mob(name: str):
-def find_mob(name: str):
     search = name.lower().strip()
     search = ALIASES.get(search, search)
 
