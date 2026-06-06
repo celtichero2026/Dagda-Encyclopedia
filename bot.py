@@ -381,4 +381,80 @@ async def boss(ctx, *, query: str):
 
     await ctx.send(embed=embed)
 
+@bot.command()
+async def search(ctx, *, query: str):
+    search_text = query.lower().strip()
+    alias_text = ALIASES.get(search_text, search_text)
+
+    boss_matches = []
+    for key, boss in BOSSES.items():
+        names = [key, boss["name"].lower()] + boss.get("aliases", [])
+        if any(alias_text in n for n in names):
+            boss_matches.append(f"• **{boss['name']}** `{boss['id']}`")
+
+    with get_db() as conn:
+        mob_rows = conn.execute(
+            """
+            SELECT DISTINCT id, name, level, stars
+            FROM mobs
+            WHERE search_name LIKE ?
+            ORDER BY COALESCE(stars, 0) DESC, COALESCE(level, 0) DESC
+            LIMIT 10
+            """,
+            (f"%{alias_text}%",),
+        ).fetchall()
+
+        item_rows = conn.execute(
+            """
+            SELECT DISTINCT item_id, item_name
+            FROM mob_drops
+            WHERE LOWER(item_name) LIKE ?
+            ORDER BY item_name
+            LIMIT 10
+            """,
+            (f"%{search_text}%",),
+        ).fetchall()
+
+    mob_matches = [
+        f"• **{m['name']}** `{m['id']}` — Lv {fmt_num(m['level'])}, {fmt_num(m['stars'])}★"
+        for m in mob_rows
+    ]
+
+    item_matches = [
+        f"• **{i['item_name']}** `{i['item_id']}`"
+        for i in item_rows
+    ]
+
+    if not boss_matches and not mob_matches and not item_matches:
+        await ctx.send("No results found.")
+        return
+
+    embed = discord.Embed(
+        title=f"Search Results: {query}",
+        color=discord.Color.purple()
+    )
+
+    if boss_matches:
+        embed.add_field(
+            name="Bosses",
+            value="\n".join(boss_matches[:10]),
+            inline=False
+        )
+
+    if mob_matches:
+        embed.add_field(
+            name="Mobs",
+            value="\n".join(mob_matches[:10]),
+            inline=False
+        )
+
+    if item_matches:
+        embed.add_field(
+            name="Items",
+            value="\n".join(item_matches[:10]),
+            inline=False
+        )
+
+    await ctx.send(embed=embed)
+
 bot.run(TOKEN)
