@@ -697,4 +697,22 @@ async def script_lookup(ctx, *, name: str):
 
     await ctx.send(embed=embed)
 
+@bot.command()
+async def scriptcols(ctx):
+    with get_db() as conn:
+        ms_cols = conn.execute("PRAGMA table_info(mob_scripts)").fetchall()
+        s_cols = conn.execute("PRAGMA table_info(scripts)").fetchall()
+
+    mob_script_cols = "\n".join(row["name"] for row in ms_cols)
+    script_cols = "\n".join(row["name"] for row in s_cols)
+
+    await ctx.send(
+        "```"
+        "mob_scripts columns:\n"
+        f"{mob_script_cols}\n\n"
+        "scripts columns:\n"
+        f"{script_cols}"
+        "```"
+    )
+
 bot.run(TOKEN)
