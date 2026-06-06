@@ -229,4 +229,71 @@ async def drops(ctx, *, name: str):
 
     await ctx.send(embed=embed)
 
+@bot.command(name="item")
+async def item_lookup(ctx, *, query: str):
+    search = query.lower().strip()
+
+    with get_db() as conn:
+        if search.isdigit():
+            rows = conn.execute(
+                """
+                SELECT DISTINCT item_id, item_name
+                FROM mob_drops
+                WHERE item_id = ?
+                ORDER BY item_name
+                """,
+                (int(search),),
+            ).fetchall()
+        else:
+            rows = conn.execute(
+                """
+                SELECT DISTINCT item_id, item_name
+                FROM mob_drops
+                WHERE LOWER(item_name) LIKE ?
+                ORDER BY item_name
+                LIMIT 10
+                """,
+                (f"%{search}%",),
+            ).fetchall()
+
+    if not rows:
+        await ctx.send("Item not found.")
+        return
+
+    if len(rows) > 1:
+        msg = "\n".join(f"• **{r['item_name']}** `{r['item_id']}`" for r in rows)
+        await ctx.send(f"Multiple matches:\n{msg}")
+        return
+
+    item_id = rows[0]["item_id"]
+    item_name = rows[0]["item_name"]
+
+    with get_db() as conn:
+        mobs = conn.execute(
+            """
+            SELECT DISTINCT m.name, m.id
+            FROM mob_drops d
+            JOIN mobs m ON m.id = d.mob_id
+            WHERE d.item_id = ?
+            ORDER BY m.name
+            """,
+            (item_id,),
+        ).fetchall()
+
+    dropped_by = "\n".join(f"• **{m['name']}** `{m['id']}`" for m in mobs) or "No mob drops found."
+
+    embed = discord.Embed(
+        title=item_name,
+        description=f"Item ID: `{item_id}`",
+        color=discord.Color.blue()
+    )
+    embed.add_field(name="Dropped By", value=dropped_by[:1024], inline=False)
+
+    await ctx.send(embed=embed)
+
+
+@bot.command(name="who_drops", aliases=["whodrops", "source", "sources"])
+async def who_drops(ctx, *, query: str):
+    await item_lookup(ctx, query=query)
+
 bot.run(TOKEN)
