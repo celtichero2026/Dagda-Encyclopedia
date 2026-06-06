@@ -100,35 +100,7 @@ def find_mob(name: str):
             ).fetchone()
 
         return row_to_mob(row) if row else None
-
-    with get_db() as conn:
-        row = conn.execute(
-            '''
-            SELECT * FROM mobs
-            WHERE search_name = ?
-            ORDER BY COALESCE(stars, 0) DESC,
-                     COALESCE(level, 0) DESC,
-                     COALESCE(health, 0) DESC
-            LIMIT 1
-            ''',
-            (search,),
-        ).fetchone()
-
-        if row is None:
-            row = conn.execute(
-                '''
-                SELECT * FROM mobs
-                WHERE search_name LIKE ?
-                ORDER BY COALESCE(stars, 0) DESC,
-                         COALESCE(level, 0) DESC,
-                         COALESCE(health, 0) DESC
-                LIMIT 1
-                ''',
-                (f'%{search}%',),
-            ).fetchone()
-
-    return row_to_mob(row) if row else None
-    
+   
     with get_db() as conn:
         row = conn.execute(
             '''
@@ -364,62 +336,6 @@ async def item_lookup(ctx, *, query: str):
 @bot.command(name="who_drops", aliases=["whodrops", "source", "sources"])
 async def who_drops(ctx, *, query: str):
     await item_lookup(ctx, query=query)
-
-@bot.command()
-async def boss(ctx, *, query: str):
-    boss_info = find_boss(query)
-
-    if not boss_info:
-        await ctx.send("Boss not found.")
-        return
-
-    mob_data = find_mob(boss_info["name"])
-
-    with get_db() as conn:
-        drop_count = conn.execute(
-            """
-            SELECT COUNT(DISTINCT item_id)
-            FROM mob_drops
-            WHERE mob_id = ?
-            """,
-            (boss_info["id"],),
-        ).fetchone()[0]
-
-    embed = discord.Embed(
-        title=boss_info["name"],
-        color=discord.Color.dark_gold()
-    )
-
-    embed.add_field(name="Boss ID", value=f"`{boss_info['id']}`", inline=True)
-    embed.add_field(name="Respawn Window", value=boss_info["window"], inline=True)
-    embed.add_field(name="Known Unique Drops", value=f"{drop_count:,}", inline=True)
-
-    if mob_data:
-        embed.add_field(
-            name="Stats",
-            value=(
-                f"Level: **{fmt_num(mob_data.get('level'))}**\n"
-                f"HP: **{fmt_num(mob_data.get('health'))}**\n"
-                f"Attack: **{fmt_num(mob_data.get('attack'))}**\n"
-                f"Defence: **{fmt_num(mob_data.get('defence'))}**"
-            ),
-            inline=True
-        )
-
-        user_alias = query.lower().strip()
-        
-        embed.add_field(
-            name="Useful Commands",
-            value=(
-                f"• `!mob {user_alias}`\n"
-                f"• `!drops {user_alias}`\n"
-                f"• `!boss {user_alias}`\n"
-                f"• `!item <item name or id>`"
-            ),
-            inline=False
-        )
-
-    await ctx.send(embed=embed)
 
 @bot.command(name="gsearch", aliases=["gfind", "lookup"])
 async def grimoire_search(ctx, *, query: str):
