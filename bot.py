@@ -605,7 +605,8 @@ async def boss_lookup(ctx, *, name: str):
         value=(
             f"• `!mob {name}`\n"
             f"• `!spawn {name}`\n"
-            f"• `!drops {name}`"
+            f"• `!drops {name}`\n"
+            f"• `!script {name}`"
         ),
         inline=False
     )
@@ -621,60 +622,6 @@ async def tables(ctx):
 
     await ctx.send("```" + "\n".join(row["name"] for row in rows) + "```")
 
-@bot.command(name="script", aliases=["scripts", "mechanics"])
-async def script_lookup(ctx, *, name: str):
-    mob_data = find_mob(name)
-
-    if not mob_data:
-        await ctx.send("Mob not found.")
-        return
-
-    with get_db() as conn:
-        rows = conn.execute(
-            """
-            SELECT 
-                ms.script_id,
-                ms.extra,
-                ms.raw_text AS mob_script_raw,
-                s.message,
-                s.raw_text AS script_raw
-            FROM mob_scripts ms
-            LEFT JOIN scripts s ON s.id = ms.script_id
-            WHERE ms.mob_id = ?
-            ORDER BY ms.script_id
-            LIMIT 25
-            """,
-            (mob_data["id"],),
-        ).fetchall()
-
-    if not rows:
-        await ctx.send(f"No scripts found for **{mob_data['name']}**.")
-        return
-
-    lines = []
-    for row in rows:
-        message = row["message"] or "No readable message"
-        extra = row["extra"] or ""
-        lines.append(
-            f"• **Script `{row['script_id']}`**\n"
-            f"Message: {message}\n"
-            f"Extra: `{extra[:120]}`"
-        )
-
-    text = "\n\n".join(lines)
-
-    if len(text) > 3900:
-        text = text[:3900] + "\n\n*Too many scripts to display.*"
-
-    embed = discord.Embed(
-        title=f"Scripts: {mob_data['name']}",
-        description=f"Mob ID: `{mob_data['id']}`\nScript links: **{len(rows)}**",
-        color=discord.Color.dark_purple()
-    )
-
-    embed.add_field(name="Script Data", value=text, inline=False)
-
-    await ctx.send(embed=embed)
 
 @bot.command()
 async def scriptstats(ctx):
