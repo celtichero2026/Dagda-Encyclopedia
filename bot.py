@@ -497,4 +497,99 @@ async def grimoire_search(ctx, *, query: str):
 
     await ctx.send(embed=embed)
 
+
+def fmt_seconds(seconds):
+    if seconds is None:
+        return "N/A"
+
+    seconds = int(seconds)
+
+    if seconds < 60:
+        return f"{seconds}s"
+
+    minutes = seconds // 60
+    if minutes < 60:
+        return f"{minutes}m"
+
+    hours = minutes // 60
+    rem_minutes = minutes % 60
+
+    if rem_minutes:
+        return f"{hours}h {rem_minutes}m"
+    return f"{hours}h"
+
+
+@bot.command(name="spawn", aliases=["spawns"])
+async def spawn_lookup(ctx, *, name: str):
+    mob_data = find_mob(name)
+
+    if not mob_data:
+        await ctx.send("Mob not found.")
+        return
+
+    with get_db() as conn:
+        rows = conn.execute(
+            """
+            SELECT *
+            FROM mob_spawns
+            WHERE mob_id = ?
+            LIMIT 25
+            """,
+            (mob_data["id"],),
+        ).fetchall()
+
+    if not rows:
+        await ctx.send(f"No spawn records found for **{mob_data['name']}**.")
+        return
+
+    lines = []
+
+    for i, row in enumerate(rows, start=1):
+        keys = row.keys()
+
+        zone = (
+            row["zone_key"] if "zone_key" in keys else
+            row["zone_name"] if "zone_name" in keys else
+            f"Zone {row['zone_id']}" if "zone_id" in keys else
+            "Unknown Zone"
+        )
+
+        min_spawn = row["min_spawn_secs"] if "min_spawn_secs" in keys else None
+        max_spawn = row["max_spawn_secs"] if "max_spawn_secs" in keys else None
+
+        x = row["x"] if "x" in keys else None
+        y = row["y"] if "y" in keys else None
+        z = row["z"] if "z" in keys else None
+
+        timer = (
+            f"{fmt_seconds(min_spawn)} - {fmt_seconds(max_spawn)}"
+            if min_spawn != max_spawn
+            else fmt_seconds(min_spawn)
+        )
+
+        location = ""
+        if x is not None and z is not None:
+            location = f"\nCoords: `{x}, {y}, {z}`"
+
+        lines.append(
+            f"**{i}. {zone}**\n"
+            f"Respawn: `{timer}`"
+            f"{location}"
+        )
+
+    embed = discord.Embed(
+        title=f"Spawns: {mob_data['name']}",
+        description=f"Mob ID: `{mob_data['id']}`\nSpawn records: **{len(rows):,}**",
+        color=discord.Color.green()
+    )
+
+    text = "\n\n".join(lines)
+
+    if len(text) > 4000:
+        text = text[:3900] + "\n\n*Too many spawn records to display.*"
+
+    embed.add_field(name="Known Spawn Locations", value=text, inline=False)
+
+    await ctx.send(embed=embed)
+
 bot.run(TOKEN)
