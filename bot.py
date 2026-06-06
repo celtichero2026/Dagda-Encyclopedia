@@ -639,7 +639,7 @@ async def scriptstats(ctx):
         f"scripts: {scripts:,}"
     )
 
-@bot.command(name="script", aliases=["scripts", "mechanics"])
+@bot.command(name="script", aliases=["scripts", "ai"])
 async def script_lookup(ctx, *, name: str):
     mob_data = find_mob(name)
 
@@ -650,50 +650,73 @@ async def script_lookup(ctx, *, name: str):
     with get_db() as conn:
         rows = conn.execute(
             """
-            SELECT 
-                ms.script_id,
-                ms.extra,
-                ms.raw_text AS mob_script_raw,
+            SELECT
+                s.id,
                 s.message,
-                s.raw_text AS script_raw
+                ms.extra
             FROM mob_scripts ms
-            LEFT JOIN scripts s ON s.id = ms.script_id
+            JOIN scripts s
+                ON s.id = ms.script_id
             WHERE ms.mob_id = ?
-            ORDER BY ms.script_id
-            LIMIT 25
+            ORDER BY s.id
             """,
-            (mob_data["id"],),
+            (mob_data["id"],)
         ).fetchall()
 
     if not rows:
-        await ctx.send(f"No scripts found for **{mob_data['name']}**.")
+        await ctx.send(
+            f"No scripts found for **{mob_data['name']}** "
+            f"(ID: {mob_data['id']})."
+        )
         return
 
     lines = []
+
     for row in rows:
-        message = row["message"] or "No readable message"
-        extra = row["extra"] or ""
-        raw = row["script_raw"] or row["mob_script_raw"] or ""
+        script_id = row["id"]
+        message = row["message"] or "No message"
+        extra = row["extra"]
 
-        lines.append(
-            f"• **Script `{row['script_id']}`**\n"
-            f"Message: {message}\n"
-            f"Extra: `{extra[:120]}`\n"
-            f"Raw: `{raw[:180]}`"
-        )
+        entry = f"**Script {script_id}**\n{message}"
 
-    text = "\n\n".join(lines)
+        if extra:
+            entry += f"\nExtra: `{extra}`"
 
-    if len(text) > 3900:
-        text = text[:3900] + "\n\n*Too many scripts to display.*"
+        lines.append(entry)
+
+    chunks = []
+    current = ""
+
+    for line in lines:
+        if len(current) + len(line) + 2 > 1000:
+            chunks.append(current)
+            current = line
+        else:
+            current += "\n\n" + line if current else line
+
+    if current:
+        chunks.append(current)
 
     embed = discord.Embed(
         title=f"Scripts: {mob_data['name']}",
-        description=f"Mob ID: `{mob_data['id']}`\nScript links: **{len(rows)}**",
-        color=discord.Color.dark_purple()
+        description=(
+            f"Mob ID: `{mob_data['id']}`\n"
+            f"Scripts found: **{len(rows)}**"
+        ),
+        color=discord.Color.purple()
     )
 
-    embed.add_field(name="Script Data", value=text, inline=False)
+    for i, chunk in enumerate(chunks[:5], start=1):
+        embed.add_field(
+            name=f"Script Group {i}",
+            value=chunk,
+            inline=False
+        )
+
+    if len(chunks) > 5:
+        embed.set_footer(
+            text=f"Showing first 5 pages of scripts."
+        )
 
     await ctx.send(embed=embed)
 
