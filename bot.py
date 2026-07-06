@@ -532,8 +532,10 @@ async def boss_lookup(ctx, *, name: str):
         await ctx.send("Boss not found.")
         return
 
-    with get_db() as conn:
+    embed = make_mob_embed(mob)
+    embed.color = discord.Color.gold()
 
+    with get_db() as conn:
         drop_count = conn.execute(
             """
             SELECT COUNT(DISTINCT item_id)
@@ -543,69 +545,22 @@ async def boss_lookup(ctx, *, name: str):
             (mob["id"],)
         ).fetchone()[0]
 
-        spawn = conn.execute(
+        spawn_count = conn.execute(
             """
-            SELECT *
+            SELECT COUNT(*)
             FROM mob_spawns
             WHERE mob_id = ?
-            LIMIT 1
             """,
             (mob["id"],)
-        ).fetchone()
-
-    respawn = "Unknown"
-
-    if spawn:
-        min_spawn = spawn["min_spawn_secs"]
-        max_spawn = spawn["max_spawn_secs"]
-
-        if min_spawn and max_spawn:
-            respawn = (
-                f"{fmt_seconds(min_spawn)} - {fmt_seconds(max_spawn)}"
-                if min_spawn != max_spawn
-                else fmt_seconds(min_spawn)
-            )
-
-    embed = discord.Embed(
-        title=mob["name"],
-        color=discord.Color.gold()
-    )
+        ).fetchone()[0]
 
     embed.add_field(
-        name="Boss ID",
-        value=f"`{mob['id']}`",
-        inline=True
-    )
-
-    embed.add_field(
-        name="Respawn Window",
-        value=respawn,
-        inline=True
-    )
-
-    embed.add_field(
-        name="Known Unique Drops",
-        value=f"{drop_count:,}",
-        inline=True
-    )
-
-    embed.add_field(
-        name="Stats",
+        name="Boss Tools",
         value=(
-            f"Level: **{fmt_num(mob['level'])}**\n"
-            f"HP: **{fmt_num(mob['health'])}**\n"
-            f"Attack: **{fmt_num(mob['attack'])}**\n"
-            f"Defence: **{fmt_num(mob['defence'])}**"
-        ),
-        inline=False
-    )
-
-    embed.add_field(
-        name="Useful Commands",
-        value=(
-            f"• `!mob {name}`\n"
-            f"• `!spawn {name}`\n"
+            f"Known Unique Drops: **{drop_count:,}**\n"
+            f"Spawn Records: **{spawn_count:,}**\n\n"
             f"• `!drops {name}`\n"
+            f"• `!spawn {name}`\n"
             f"• `!script {name}`"
         ),
         inline=False
