@@ -3,8 +3,8 @@ import sqlite3
 import discord
 from discord.ext import commands
 
-TOKEN = os.getenv('DISCORD_TOKEN')
-DB_PATH = os.getenv('GRIMOIRE_DB', 'grimoire.db')
+TOKEN = os.getenv("DISCORD_TOKEN")
+DB_PATH = os.getenv("GRIMOIRE_DB", "grimoire.db")
 
 ALIASES = {
     "smol": "smolach",
@@ -21,6 +21,21 @@ ALIASES = {
     "crom": "crom",
 }
 
+BOSS_ALIASES = {
+    "smol": "smolach",
+    "bt": "bloodthorn",
+    "dhio": "dhiothu",
+    "dino": "dhiothu",
+    "gele": "gelebron",
+    "mord": "mordris",
+    "hrung": "hrungnir",
+    "necro": "efnisien",
+    "prot": "proteus",
+    "prime": "proteus prime",
+    "base": "proteus base",
+    "crom": "crom",
+}
+
 BOSSES = {
     "mordris": {"id": 73000, "name": "Mordris", "aliases": ["mord"], "window": "20h - 36h"},
     "hrungnir": {"id": 73708, "name": "Hrungnir", "aliases": ["hrung"], "window": "22h - 38h"},
@@ -32,6 +47,199 @@ BOSSES = {
     "dhiothu": {"id": 142027, "name": "Dhiothu", "aliases": ["dhio", "dino"], "window": "34h - 62h"},
     "crom": {"id": 200490, "name": "Crom's Hellborne Manikin", "aliases": ["manikin", "hellborne"], "window": "96h - 104h"},
 }
+
+RAW_DAMAGE_KEYS = {
+    0: "pierce",
+    1: "slash",
+    2: "crush",
+    3: "heat",
+    4: "cold",
+    5: "magic",
+    6: "poison",
+    7: "divine",
+    8: "chaos",
+    9: "true",
+}
+
+RAW_EVADE_KEYS = {
+    0: "physical",
+    1: "spell",
+    2: "move",
+    3: "wound",
+    4: "weak",
+    5: "mental",
+}
+
+if not TOKEN:
+    raise ValueError("Missing DISCORD_TOKEN environment variable")
+
+intents = discord.Intents.default()
+intents.message_content = True
+bot = commands.Bot(command_prefix="!", intents=intents)
+
+
+def get_db():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+
+def fmt_num(value):
+    if value is None:
+        return "N/A"
+    if isinstance(value, float) and value.is_integer():
+        value = int(value)
+    if isinstance(value, (int, float)):
+        return f"{value:,}"
+    return str(value)
+
+
+def fmt_resist(value):
+    if value == -1:
+        return "Immune"
+    return fmt_num(value)
+
+
+def raw_to_int(value):
+    if value is None:
+        return None
+
+    value = str(value).strip()
+
+    if value == "":
+        return None
+
+    if value.lower() in {"immune", "inf", "infinite"}:
+        return -1
+
+    try:
+        return int(value)
+    except ValueError:
+        try:
+            return int(float(value))
+        except ValueError:
+            return None
+
+
+def raw_to_float(value):
+    if value is None:
+        return None
+
+    value = str(value).strip()
+
+    if value == "":
+        return None
+
+    try:
+        return float(value)
+    except ValueError:
+        return None
+
+
+def parse_raw_stat_pairs(raw: str) -> dict:
+    """
+    Parses raw Grimoire stat fields like:
+    0,6000;1,6000;8,Immune
+    0^6000;1^6000
+    0|6000;1|6000
+    """
+    out = {}
+
+    if not raw:
+        return out
+
+    for piece in str(raw).split(";"):
+        piece = piece.strip()
+
+        if not piece:
+            continue
+
+        separator = None
+
+        if "," in piece:
+            separator = ","
+        elif "^" in piece:
+            separator = "^"
+        elif "|" in piece:
+            separator = "|"
+
+        if not separator:
+            continue
+
+        key_raw, value_raw = piece.split(separator, 1)
+
+        key = raw_to_int(key_raw)
+        value = raw_to_int(value_raw)
+
+        if key is not None:
+            out[key] = value
+
+    return out
+
+
+def apply_raw_stat_overrides(mob: dict) -> dict:
+    """
+    Repairs stats using the original moblist raw_text stored in the DB.
+
+    Known moblist positions:
+      13 = damage pairs
+      14 = resist pairs
+      15 = stars
+      16 = attack range
+      17 = missile speed
+      19 = XP
+      20 = evade pairs
+      21 = fishing damage
+    """
+    raw = mob.get("raw_text")
+
+    if not raw:
+        return mob
+
+    parts = str(raw).split("~")
+
+    def part(index):
+        return parts[index] if index < len(parts) else None
+
+    damage = parse_raw_stat_pairs(part(13))
+    resist = parse_raw_stat_pairs(part(14))
+    evades = parse_raw_stat_pairs(part(20))
+
+    for idx, key in RAW_DAMAGE_KEYS.items():
+        if idx in damage:
+            mob[f"damage_{key}"] = damage[idx]
+
+    for idx, key in RAW_DAMAGE_KEYS.items():
+        if idx in resist:
+            mob[f"resist_{key}"] = resist[idx]
+
+    for idx, key in RAW_EVADE_KEYS.items():
+        if idx in evades:
+            mob[f"{key}_evade"] = evades[idx]
+
+    # Repair other frequently mis-mapped boss fields.
+    stars = raw_to_int(part(15))
+    attack_range = raw_to_float(part(16))
+    missile_speed = raw_to_float(part(17))
+    xp = raw_to_int(part(19))
+    fishing_damage = raw_to_int(part(21))
+
+    if stars is not None:
+        mob["stars"] = stars
+    if attack_range is not None:
+        mob["attack_range"] = attack_range
+    if missile_speed is not None:
+        mob["missile_speed"] = missile_speed
+    if xp is not None:
+        mob["xp"] = xp
+    if fishing_damage is not None:
+        mob["fishing_damage"] = fishing_damage
+
+    return mob
+
+
+def row_to_mob(row: sqlite3.Row) -> dict:
+    return apply_raw_stat_overrides(dict(row))
 
 
 def find_boss(query: str):
@@ -54,39 +262,6 @@ def find_boss(query: str):
 
     return None
 
-if not TOKEN:
-    raise ValueError('Missing DISCORD_TOKEN environment variable')
-
-intents = discord.Intents.default()
-intents.message_content = True
-bot = commands.Bot(command_prefix='!', intents=intents)
-
-
-def get_db():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    return conn
-
-
-def fmt_num(value):
-    if value is None:
-        return 'N/A'
-    if isinstance(value, float) and value.is_integer():
-        value = int(value)
-    if isinstance(value, (int, float)):
-        return f'{value:,}'
-    return str(value)
-
-
-def fmt_resist(value):
-    if value == -1:
-        return 'Immune'
-    return fmt_num(value)
-
-
-def row_to_mob(row: sqlite3.Row) -> dict:
-    return dict(row)
-
 
 def find_mob(name: str):
     search = name.lower().strip()
@@ -100,27 +275,31 @@ def find_mob(name: str):
             ).fetchone()
 
         return row_to_mob(row) if row else None
-   
+
     with get_db() as conn:
         row = conn.execute(
-            '''
+            """
             SELECT * FROM mobs
             WHERE search_name = ?
-            ORDER BY COALESCE(stars, 0) DESC, COALESCE(level, 0) DESC, COALESCE(health, 0) DESC
+            ORDER BY COALESCE(level, 0) DESC,
+                     COALESCE(stars, 0) DESC,
+                     COALESCE(health, 0) DESC
             LIMIT 1
-            ''',
+            """,
             (search,),
         ).fetchone()
 
         if row is None:
             row = conn.execute(
-                '''
+                """
                 SELECT * FROM mobs
                 WHERE search_name LIKE ?
-                ORDER BY COALESCE(stars, 0) DESC, COALESCE(level, 0) DESC, COALESCE(health, 0) DESC
+                ORDER BY COALESCE(level, 0) DESC,
+                         COALESCE(stars, 0) DESC,
+                         COALESCE(health, 0) DESC
                 LIMIT 1
-                ''',
-                (f'%{search}%',),
+                """,
+                (f"%{search}%",),
             ).fetchone()
 
     return row_to_mob(row) if row else None
@@ -177,26 +356,64 @@ def make_mob_embed(mob: dict) -> discord.Embed:
         f"🧠 **Mental:** {fmt_num(mob.get('mental_evade'))}"
     )
 
-    embed.add_field(name='General Stats', value=general_stats, inline=True)
-    embed.add_field(name='\u200b', value=general_stats_2, inline=True)
-    embed.add_field(name='\u200b', value=general_stats_3, inline=True)
-    embed.add_field(name='\u200b', value=combat_stats, inline=True)
-    embed.add_field(name='\u200b', value=misc_stats, inline=True)
-    embed.add_field(name='Damage / Resist', value=damage_resist, inline=True)
-    embed.add_field(name='Evasions', value=evasions, inline=False)
+    embed.add_field(name="General Stats", value=general_stats, inline=True)
+    embed.add_field(name="\u200b", value=general_stats_2, inline=True)
+    embed.add_field(name="\u200b", value=general_stats_3, inline=True)
+    embed.add_field(name="\u200b", value=combat_stats, inline=True)
+    embed.add_field(name="\u200b", value=misc_stats, inline=True)
+    embed.add_field(name="Damage / Resist", value=damage_resist, inline=True)
+    embed.add_field(name="Evasions", value=evasions, inline=False)
     return embed
+
+
+def fmt_seconds(seconds):
+    if seconds is None:
+        return "N/A"
+
+    seconds = int(seconds)
+
+    if seconds < 60:
+        return f"{seconds}s"
+
+    minutes = seconds // 60
+    if minutes < 60:
+        return f"{minutes}m"
+
+    hours = minutes // 60
+    rem_minutes = minutes % 60
+
+    if rem_minutes:
+        return f"{hours}h {rem_minutes}m"
+    return f"{hours}h"
+
+
+def chunk_lines(lines, max_len=1000):
+    chunks = []
+    current = ""
+
+    for line in lines:
+        if len(current) + len(line) + 2 > max_len:
+            chunks.append(current)
+            current = line
+        else:
+            current += "\n\n" + line if current else line
+
+    if current:
+        chunks.append(current)
+
+    return chunks
 
 
 @bot.event
 async def on_ready():
-    print(f'Logged in as {bot.user}')
+    print(f"Logged in as {bot.user}")
 
 
 @bot.command()
 async def mob(ctx, *, name: str):
     mob_data = find_mob(name)
     if not mob_data:
-        await ctx.send('Mob not found.')
+        await ctx.send("Mob not found.")
         return
 
     await ctx.send(embed=make_mob_embed(mob_data))
@@ -205,10 +422,17 @@ async def mob(ctx, *, name: str):
 @bot.command()
 async def dbstats(ctx):
     with get_db() as conn:
-        mobs = conn.execute('SELECT COUNT(*) FROM mobs').fetchone()[0]
-        spawns = conn.execute('SELECT COUNT(*) FROM mob_spawns').fetchone()[0]
-        drops = conn.execute('SELECT COUNT(*) FROM mob_drops').fetchone()[0]
-    await ctx.send(f'📚 Grimoire DB: **{mobs:,} mobs**, **{spawns:,} spawns**, **{drops:,} drop rows**')
+        mobs = conn.execute("SELECT COUNT(*) FROM mobs").fetchone()[0]
+        spawns = conn.execute("SELECT COUNT(*) FROM mob_spawns").fetchone()[0]
+        drops = conn.execute("SELECT COUNT(*) FROM mob_drops").fetchone()[0]
+        items = conn.execute("SELECT COUNT(*) FROM items").fetchone()[0] if conn.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='items'").fetchone() else 0
+        scripts = conn.execute("SELECT COUNT(*) FROM scripts").fetchone()[0] if conn.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='scripts'").fetchone() else 0
+
+    await ctx.send(
+        f"📚 Grimoire DB: **{mobs:,} mobs**, **{items:,} items**, "
+        f"**{spawns:,} spawns**, **{drops:,} drop rows**, **{scripts:,} scripts**"
+    )
+
 
 @bot.command()
 async def drops(ctx, *, name: str):
@@ -233,42 +457,30 @@ async def drops(ctx, *, name: str):
         await ctx.send(f"No drops found for **{mob_data['name']}**.")
         return
 
-    # Remove duplicate drops
     seen = set()
-    drops = []
+    drops_list = []
     for row in rows:
         key = (row["item_name"], row["item_id"])
         if key not in seen:
             seen.add(key)
-            drops.append(f"• **{row['item_name']}** `{row['item_id']}`")
+            drops_list.append(f"• **{row['item_name']}** `{row['item_id']}`")
 
-    # Discord embed fields max around 1024 chars, so chunk it
-    chunks = []
-    current = ""
-
-    for drop in drops:
-        if len(current) + len(drop) + 1 > 1000:
-            chunks.append(current)
-            current = drop
-        else:
-            current += "\n" + drop if current else drop
-
-    if current:
-        chunks.append(current)
+    chunks = chunk_lines(drops_list, max_len=1000)
 
     embed = discord.Embed(
         title=f"Drops: {mob_data['name']}",
-        description=f"Mob ID: `{mob_data['id']}`\nUnique drops: **{len(drops):,}**",
-        color=discord.Color.gold()
+        description=f"Mob ID: `{mob_data['id']}`\nUnique drops: **{len(drops_list):,}**",
+        color=discord.Color.gold(),
     )
 
     for i, chunk in enumerate(chunks[:5], start=1):
         embed.add_field(name=f"Drop List {i}", value=chunk, inline=False)
 
     if len(chunks) > 5:
-        embed.set_footer(text=f"Showing first 5 pages. {len(drops):,} total unique drops.")
+        embed.set_footer(text=f"Showing first 5 pages. {len(drops_list):,} total unique drops.")
 
     await ctx.send(embed=embed)
+
 
 @bot.command(name="item")
 async def item_lookup(ctx, *, query: str):
@@ -326,9 +538,55 @@ async def item_lookup(ctx, *, query: str):
     embed = discord.Embed(
         title=item_name,
         description=f"Item ID: `{item_id}`",
-        color=discord.Color.blue()
+        color=discord.Color.blue(),
     )
     embed.add_field(name="Dropped By", value=dropped_by[:1024], inline=False)
+
+    await ctx.send(embed=embed)
+
+
+@bot.command(name="itemdetail", aliases=["idetail", "detail"])
+async def item_detail(ctx, *, query: str):
+    search = query.lower().strip()
+
+    with get_db() as conn:
+        if search.isdigit():
+            row = conn.execute(
+                "SELECT * FROM items WHERE id = ? LIMIT 1",
+                (int(search),),
+            ).fetchone()
+        else:
+            row = conn.execute(
+                """
+                SELECT * FROM items
+                WHERE LOWER(name) LIKE ?
+                ORDER BY name
+                LIMIT 1
+                """,
+                (f"%{search}%",),
+            ).fetchone()
+
+    if not row:
+        await ctx.send("Item details not found.")
+        return
+
+    item = dict(row)
+    item_id = item.get("id")
+    name = item.get("name") or "Unknown Item"
+    description = item.get("description")
+    raw_text = item.get("raw_text")
+
+    embed = discord.Embed(
+        title=name,
+        description=f"Item ID: `{item_id}`",
+        color=discord.Color.blue(),
+    )
+
+    if description:
+        embed.add_field(name="Description", value=str(description)[:1024], inline=False)
+
+    if raw_text:
+        embed.add_field(name="Raw Data", value=f"```{str(raw_text)[:950]}```", inline=False)
 
     await ctx.send(embed=embed)
 
@@ -336,6 +594,7 @@ async def item_lookup(ctx, *, query: str):
 @bot.command(name="who_drops", aliases=["whodrops", "source", "sources"])
 async def who_drops(ctx, *, query: str):
     await item_lookup(ctx, query=query)
+
 
 @bot.command(name="gsearch", aliases=["gfind", "lookup"])
 async def grimoire_search(ctx, *, query: str):
@@ -354,7 +613,7 @@ async def grimoire_search(ctx, *, query: str):
             SELECT DISTINCT id, name, level, stars
             FROM mobs
             WHERE search_name LIKE ?
-            ORDER BY COALESCE(stars, 0) DESC, COALESCE(level, 0) DESC
+            ORDER BY COALESCE(level, 0) DESC, COALESCE(stars, 0) DESC
             LIMIT 10
             """,
             (f"%{alias_text}%",),
@@ -387,52 +646,17 @@ async def grimoire_search(ctx, *, query: str):
 
     embed = discord.Embed(
         title=f"Search Results: {query}",
-        color=discord.Color.purple()
+        color=discord.Color.purple(),
     )
 
     if boss_matches:
-        embed.add_field(
-            name="Bosses",
-            value="\n".join(boss_matches[:10]),
-            inline=False
-        )
-
+        embed.add_field(name="Bosses", value="\n".join(boss_matches[:10]), inline=False)
     if mob_matches:
-        embed.add_field(
-            name="Mobs",
-            value="\n".join(mob_matches[:10]),
-            inline=False
-        )
-
+        embed.add_field(name="Mobs", value="\n".join(mob_matches[:10]), inline=False)
     if item_matches:
-        embed.add_field(
-            name="Items",
-            value="\n".join(item_matches[:10]),
-            inline=False
-        )
+        embed.add_field(name="Items", value="\n".join(item_matches[:10]), inline=False)
 
     await ctx.send(embed=embed)
-
-
-def fmt_seconds(seconds):
-    if seconds is None:
-        return "N/A"
-
-    seconds = int(seconds)
-
-    if seconds < 60:
-        return f"{seconds}s"
-
-    minutes = seconds // 60
-    if minutes < 60:
-        return f"{minutes}m"
-
-    hours = minutes // 60
-    rem_minutes = minutes % 60
-
-    if rem_minutes:
-        return f"{hours}h {rem_minutes}m"
-    return f"{hours}h"
 
 
 @bot.command(name="spawn", aliases=["spawns"])
@@ -496,7 +720,7 @@ async def spawn_lookup(ctx, *, name: str):
     embed = discord.Embed(
         title=f"Spawns: {mob_data['name']}",
         description=f"Mob ID: `{mob_data['id']}`\nSpawn records: **{len(rows):,}**",
-        color=discord.Color.green()
+        color=discord.Color.green(),
     )
 
     text = "\n\n".join(lines)
@@ -505,22 +729,8 @@ async def spawn_lookup(ctx, *, name: str):
         text = text[:3900] + "\n\n*Too many spawn records to display.*"
 
     embed.add_field(name="Known Spawn Locations", value=text, inline=False)
-
     await ctx.send(embed=embed)
 
-BOSS_ALIASES = {
-    "smol": "smolach",
-    "bt": "bloodthorn",
-    "dhio": "dhiothu",
-    "gele": "gelebron",
-    "mord": "mordris",
-    "hrung": "hrungnir",
-    "necro": "efnisien",
-    "prot": "proteus",
-    "prime": "proteus prime",
-    "base": "proteus base",
-    "crom": "crom",
-}
 
 @bot.command(name="boss")
 async def boss_lookup(ctx, *, name: str):
@@ -542,7 +752,7 @@ async def boss_lookup(ctx, *, name: str):
             FROM mob_drops
             WHERE mob_id = ?
             """,
-            (mob["id"],)
+            (mob["id"],),
         ).fetchone()[0]
 
         spawn_count = conn.execute(
@@ -551,7 +761,7 @@ async def boss_lookup(ctx, *, name: str):
             FROM mob_spawns
             WHERE mob_id = ?
             """,
-            (mob["id"],)
+            (mob["id"],),
         ).fetchone()[0]
 
     embed.add_field(
@@ -563,10 +773,11 @@ async def boss_lookup(ctx, *, name: str):
             f"• `!spawn {name}`\n"
             f"• `!script {name}`"
         ),
-        inline=False
+        inline=False,
     )
 
     await ctx.send(embed=embed)
+
 
 @bot.command()
 async def tables(ctx):
@@ -579,20 +790,50 @@ async def tables(ctx):
 
 
 @bot.command()
-async def scriptstats(ctx):
+async def scriptcols(ctx):
     with get_db() as conn:
-        mob_scripts = conn.execute(
-            "SELECT COUNT(*) FROM mob_scripts"
-        ).fetchone()[0]
+        ms_cols = conn.execute("PRAGMA table_info(mob_scripts)").fetchall()
+        s_cols = conn.execute("PRAGMA table_info(scripts)").fetchall()
 
-        scripts = conn.execute(
-            "SELECT COUNT(*) FROM scripts"
-        ).fetchone()[0]
+    mob_script_cols = "\n".join(row["name"] for row in ms_cols)
+    script_cols = "\n".join(row["name"] for row in s_cols)
 
     await ctx.send(
-        f"mob_scripts: {mob_scripts:,}\n"
-        f"scripts: {scripts:,}"
+        "```"
+        "mob_scripts columns:\n"
+        f"{mob_script_cols}\n\n"
+        "scripts columns:\n"
+        f"{script_cols}"
+        "```"
     )
+
+
+@bot.command()
+async def scriptstats(ctx):
+    with get_db() as conn:
+        mob_scripts = conn.execute("SELECT COUNT(*) FROM mob_scripts").fetchone()[0]
+        scripts = conn.execute("SELECT COUNT(*) FROM scripts").fetchone()[0]
+
+    await ctx.send(f"mob_scripts: {mob_scripts:,}\nscripts: {scripts:,}")
+
+
+@bot.command()
+async def scriptsample(ctx):
+    with get_db() as conn:
+        rows = conn.execute("SELECT * FROM mob_scripts LIMIT 10").fetchall()
+
+    msg = "\n".join(str(dict(r)) for r in rows)
+    await ctx.send(f"```{msg[:1900]}```")
+
+
+@bot.command()
+async def scriptsample2(ctx):
+    with get_db() as conn:
+        rows = conn.execute("SELECT * FROM scripts LIMIT 20").fetchall()
+
+    msg = "\n".join(str(dict(r)) for r in rows)
+    await ctx.send(f"```{msg[:1900]}```")
+
 
 @bot.command(name="script", aliases=["scripts", "mechanics", "ai"])
 async def script_lookup(ctx, *, name: str):
@@ -628,77 +869,38 @@ async def script_lookup(ctx, *, name: str):
         return
 
     lines = []
+    seen = set()
 
     for row in rows:
+        script_id = row["id"]
         message = row["message"] or "No message"
-        message = message.replace("<MN>", mob_data["name"])
+        message = str(message).replace("<MN>", mob_data["name"])
 
-        lines.append(
-            f"• **Script `{row['id']}`**\n"
-            f"{message}"
-        )
+        key = (script_id, message)
+        if key in seen:
+            continue
+        seen.add(key)
 
-    chunks = []
-    current = ""
+        lines.append(f"• **Script `{script_id}`**\n{message}")
 
-    for line in lines:
-        if len(current) + len(line) + 2 > 1000:
-            chunks.append(current)
-            current = line
-        else:
-            current += "\n\n" + line if current else line
-
-    if current:
-        chunks.append(current)
+    chunks = chunk_lines(lines, max_len=1000)
 
     embed = discord.Embed(
         title=f"Scripts: {mob_data['name']}",
         description=(
             f"Mob ID: `{mob_data['id']}`\n"
-            f"Readable scripts found: **{len(rows)}**"
+            f"Readable scripts found: **{len(lines)}**"
         ),
-        color=discord.Color.dark_purple()
+        color=discord.Color.dark_purple(),
     )
 
     for i, chunk in enumerate(chunks[:5], start=1):
-        embed.add_field(
-            name=f"Script Group {i}",
-            value=chunk,
-            inline=False
-        )
+        embed.add_field(name=f"Script Group {i}", value=chunk, inline=False)
+
+    if len(chunks) > 5:
+        embed.set_footer(text="Showing first 5 pages of scripts.")
 
     await ctx.send(embed=embed)
 
-@bot.command()
-async def scriptcols(ctx):
-    with get_db() as conn:
-        ms_cols = conn.execute("PRAGMA table_info(mob_scripts)").fetchall()
-        s_cols = conn.execute("PRAGMA table_info(scripts)").fetchall()
-
-    mob_script_cols = "\n".join(row["name"] for row in ms_cols)
-    script_cols = "\n".join(row["name"] for row in s_cols)
-
-    await ctx.send(
-        "```"
-        "mob_scripts columns:\n"
-        f"{mob_script_cols}\n\n"
-        "scripts columns:\n"
-        f"{script_cols}"
-        "```"
-    )
-
-@bot.command()
-async def scriptsample(ctx):
-    with get_db() as conn:
-        rows = conn.execute(
-            """
-            SELECT *
-            FROM mob_scripts
-            LIMIT 10
-            """
-        ).fetchall()
-
-    msg = "\n".join(str(dict(r)) for r in rows)
-    await ctx.send(f"```{msg[:1900]}```")
 
 bot.run(TOKEN)
