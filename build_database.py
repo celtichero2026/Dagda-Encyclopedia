@@ -76,12 +76,16 @@ def read_lines(path: Path):
     if not path.exists():
         print(f"Skipping missing file: {path}")
         return []
-    return [line.rstrip("\n\r") for line in path.read_text(encoding="utf-8", errors="replace").splitlines() if line.strip()]
+    return [
+        line.rstrip("\n\r")
+        for line in path.read_text(encoding="utf-8", errors="replace").splitlines()
+        if line.strip()
+    ]
 
 
 def parse_key_values(raw: str) -> dict[int, Optional[int]]:
     """
-    Parses packed stat lists like:
+    Parses Celtic Heroes packed stat lists like:
       1,5000;3,2000
       1|5000;3|2000
       1^5000;3^2000
@@ -129,7 +133,10 @@ def parse_time_to_seconds(raw: str) -> Optional[int]:
     total = 0
     found = False
 
-    for num, unit in re.findall(r"(\d+(?:\.\d+)?)\s*(sec|secs|second|seconds|min|mins|minute|minutes|h|hr|hrs|hour|hours)", raw):
+    for num, unit in re.findall(
+        r"(\d+(?:\.\d+)?)\s*(sec|secs|second|seconds|min|mins|minute|minutes|h|hr|hrs|hour|hours)",
+        raw,
+    ):
         found = True
         n = float(num)
         if unit.startswith("sec"):
@@ -310,9 +317,12 @@ def insert_mob_from_parts(conn: sqlite3.Connection, parts: list[str], raw: str) 
 
     name = clean_name(parts[1]) or f"Mob {mob_id}"
     gold_min, gold_max = parse_gold_range(parts[7] if len(parts) > 7 else "")
+
+    # Correct moblist.txt field mapping:
+    # 13 = damage list, 14 = resist list, 20 = evade list
     damage = parse_key_values(parts[13] if len(parts) > 13 else "")
-    resist = parse_key_values(parts[15] if len(parts) > 15 else "")
-    evades = parse_key_values(parts[21] if len(parts) > 21 else "")
+    resist = parse_key_values(parts[14] if len(parts) > 14 else "")
+    evades = parse_key_values(parts[20] if len(parts) > 20 else "")
 
     def dmg(key: str):
         idx = next((i for i, k in DAMAGE_KEYS.items() if k == key), None)
@@ -356,11 +366,11 @@ def insert_mob_from_parts(conn: sqlite3.Connection, parts: list[str], raw: str) 
             to_int(parts[10]),
             to_int(parts[11]),
             to_float(parts[12]),
-            to_int(parts[16]),
-            to_float(parts[17]),
-            to_float(parts[18]),
-            to_int(parts[20]),
-            to_int(parts[14]),
+            to_int(parts[15]),       # stars
+            to_float(parts[16]),     # attack_range
+            to_float(parts[17]),     # missile_speed
+            to_int(parts[19]),       # xp
+            to_int(parts[21]),       # fishing_damage
             dmg("pierce"), dmg("slash"), dmg("crush"), dmg("heat"), dmg("cold"),
             dmg("magic"), dmg("poison"), dmg("divine"), dmg("chaos"), dmg("true"),
             res("pierce"), res("slash"), res("crush"), res("heat"), res("cold"),
