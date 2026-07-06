@@ -81,26 +81,34 @@ def read_lines(path: Path):
 
 def parse_key_values(raw: str) -> dict[int, Optional[int]]:
     """
-    Parses Celtic Heroes style packed stat lists like:
+    Parses packed stat lists like:
       1,5000;3,2000
-      0,4500;1,4500;7,Immune
+      1|5000;3|2000
+      1^5000;3^2000
     """
     out: dict[int, Optional[int]] = {}
+
     if not raw:
         return out
+
     for piece in raw.split(";"):
         piece = piece.strip()
         if not piece:
             continue
+
         if "," in piece:
             k, v = piece.split(",", 1)
         elif "|" in piece:
             k, v = piece.split("|", 1)
+        elif "^" in piece:
+            k, v = piece.split("^", 1)
         else:
             continue
+
         key = to_int(k)
         if key is not None:
             out[key] = to_int(v)
+
     return out
 
 
